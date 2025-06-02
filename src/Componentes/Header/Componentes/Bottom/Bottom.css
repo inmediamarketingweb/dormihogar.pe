@@ -1,45 +1,174 @@
 .header-bottom-container{
     width: 100%;
-    display: flex;
-    background: var(--color-2);
-    height: 40px;
+    height: 50px;
+    background: #5E5E5E;
     padding: 0 20px;
 }
 
 .header-bottom{
-    margin: 0 auto;
+    margin: auto;
     width: 100%;
+    height: 100%;
     max-width: var(--content-mx-width);
+}
+
+.menu-container{
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
-.header-bottom > p:hover a{
-    text-decoration: underline;
+.menu{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10px; */
 }
 
-.header-bottom > ul li a h2{
+.menu::after{
+    content: 'dormihogar.pe';
+    margin: 0 auto;
+    margin-top: auto;
+    padding: 20px 0;
+    color: var(--text);
+    display: none;
+}
+
+.menu-li{
+    width: auto;
+    height: 100%;
+    /* display: flex; */
+    transition: var(--t-200ms-linear);
+}
+
+.menu-li-div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 0 10px; */
+    /* gap: 6px; */
+}
+
+.menu-li-div:hover,
+.menu-li-div.active{
+    background: rgba(255 255 255 / 0.25);
+}
+
+.menu-link{
+    width: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+    gap: 10px;
+}
+
+.menu-link h2,
+.menu-li-div span{
     color: var(--white);
-    font-size: 14px;
 }
 
-.header-bottom > ul li a:hover h2{
-    text-decoration: underline;
+.menu-li-div span{
+    font-size: 18px;
+    display: none;
 }
 
-@media screen and (max-width: 600px){
-    .header-bottom-container{
-        height: 50px;
-    }
-    .header-bottom > p{
-        text-align: center;
-    }
-    .header-bottom > p a{
-        font-size: 14px;
-    }
+.submenu-container{
+    position: fixed;
+    left: 0;
+    top: 160px;
+    width: 100%;
+    display: flex;
+    background: var(--header);
+    transition: var(--t-200ms-linear);
+    padding: 20px;
 
-    .header-bottom > ul{
-        display: none;
-    }
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.menu-li.active .submenu-container,
+.menu-li:hover .submenu-container{
+    opacity: 1;
+    pointer-events: unset;
+    user-select: unset;
+
+    box-shadow: 0 3px 5px rgba(0 0 0 / 0.15);
+}
+
+.submenu{
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+}
+
+.submenu-target{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.submenu-target-1{
+    max-width: 420px !important;
+}
+
+.submenu-target-2,
+.submenu-target-3{
+    width: 200px;
+}
+
+.submenu-target-title{
+    color: var(--black);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.submenu-target > ul{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.submenu-target > ul li{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 5px;
+}
+
+.submenu-target > ul li::before{
+    content: '';
+    display: flex;
+    width: 4px;
+    height: 8px;
+    aspect-ratio: 1/1;
+    clip-path: polygon(0 0, 0% 100%, 100% 50%);
+    background: var(--color-1);
+}
+
+.submenu-target > ul li a h4{
+    color: var(--text);
+    transition: var(--t-200ms-linear);
+}
+
+.submenu-target > ul li a:hover h4{
+    color: var(--color-1);
+}
+
+.submenu-target:nth-last-child(1){
+    width: auto;
+    max-width: none !important;
+}
+
+.submenu-target:nth-last-child(1) > img{
+    margin: auto;
+    aspect-ratio: 1/1;
 }

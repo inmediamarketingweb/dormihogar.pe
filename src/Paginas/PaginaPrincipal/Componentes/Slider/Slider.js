@@ -60,8 +60,6 @@ function Slider() {
                     <span className="material-icons">chevron_right</span>
                 </button>
             </div>
-
-            <img width={isSmallScreen ? 425 : 1200} height={isSmallScreen ? 20 : 56} src="https://kamas.pe/assets/imagenes/paginas/pagina-principal/slider/banner-2.jpg" alt="Kamas | Fabricantes de colchones, camas y dormitorios." />
         </div>
     );
 }

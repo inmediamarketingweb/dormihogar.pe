@@ -1,142 +1,28 @@
-import { useState, useEffect } from 'react';
-import { v4 as uuidv4 } from "uuid";
-
 import SearchBar from '../SearchBar/SearchBar';
 
 import './Center.css';
 
 function Center(){
-    const [categories, setCategories] = useState(null);
-    const [error, setError] = useState(null);
-    const [activeCategory, setActiveCategory] = useState(null);
-    const [isMenuOpen, setIsMenuOpen] = useState(false);
-
-    useEffect(() => {
-        const fetchCategories = async () => {
-            try{
-                const response = await fetch('/assets/json/categorias/categorias.json');
-                if (!response.ok) {
-                    throw new Error('Failed to fetch categories');
-                }
-                const data = await response.json();
-                setCategories(data);
-            } catch (err) {
-                setError(err.message);
-                console.error('Error fetching categories:', err);
-            }
-        };
-
-        fetchCategories();
-    }, []);
-
-    if(error){
-        return <div className="error-message">Error al cargar el menú: {error}</div>;
-    }
-
-    if(!categories){
-        return <div className="loading">Loading menu...</div>;
-    }
-
-    const handleCategoryClick = (categoryId) => {
-        setActiveCategory(prev => prev === categoryId ? null : categoryId);
-    };
-
-    const handleMenuClick = () => {
-        setIsMenuOpen(prev => !prev);
-    };
-
     return(
         <div className='header-center-container d-flex w-100'>
             <section className='header-center'>
                 <div className='d-flex-center-left gap-20'>
-                    <a href='/' title='Kamas | Fabricantes de camas' className='header-logo'>
-                        <img src="/assets/imagenes/dormihogar/logo-principal.jpg" width={100} height={42} alt="Kamas"/>
+                    <a href='/' title='Dormihogar | Fabricantes de camas' className='header-logo'>
+                        <img src="/assets/imagenes/SEO/logo-principal.jpg" width={120} height={50} alt="Dormihogar"/>
                     </a>
 
-                    <button type='button' className={`menu-button ${isMenuOpen ? 'active' : ''}`} onClick={handleMenuClick}>
+                    <button type='button' className='menu-button'>
                         <p>Menu</p>
                         <div>
                             <span className="material-icons">menu</span>
                             <span className="material-icons">close</span>
                         </div>
                     </button>
-
-                    <nav className={`menu-container ${isMenuOpen ? 'active' : ''}`}>
-                        <ul className='menu'>
-                            {categories.categorias.map((categoria) => (
-                                <li key={uuidv4()} className={`menu-li ${activeCategory === categoria.id ? 'active' : ''}`} onClick={() => categoria.subCategorias && handleCategoryClick(categoria.id)}>
-                                    <div className='menu-li-div'>
-                                        <a href={categoria.ruta} title={categoria.categoria} className='menu-link'>
-                                            {categoria.icono === "sell" ? (
-                                                <span className="material-icons">{categoria.icono}</span>
-                                            ) : (
-                                                <img src={categoria.icono} alt={categoria.iconoAlt}/>
-                                            )}
-                                            <h2>{categoria.categoria}</h2>
-                                        </a>
-
-                                        {categoria.subCategorias && (
-                                            <button type='button' className='menu-link-button'>
-                                                <span className="material-icons">keyboard_arrow_down</span>
-                                            </button>
-                                        )}
-                                    </div>
-
-                                    {categoria.subCategorias && (
-                                        <div className={`submenu-container ${activeCategory === categoria.id ? 'active' : ''}`}>
-                                            <nav className='submenu'>
-                                                {categoria.menuMensaje && (
-                                                    <div className='submenu-target submenu-target-1'>
-                                                        <h3 className='submenu-target-title'>{categoria.categoria}</h3>
-                                                        <p className='text'>{categoria.menuMensaje[0]?.text}</p>
-                                                    </div>
-                                                )}
-
-                                                {categoria.subCategorias && (
-                                                    <div className='submenu-target submenu-target-2'>
-                                                        <h3 className='submenu-target-title'>{categoria.subCategoriasTitulo?.[0]?.text || 'Subcategorías'}:</h3>
-                                                        <ul>
-                                                            {categoria.subCategorias.map((sub) => (
-                                                                <li key={uuidv4()}>
-                                                                    <a href={sub.ruta} title={sub.subcategoria}>
-                                                                        <h4>{sub.subcategoria}</h4>
-                                                                    </a>
-                                                                </li>
-                                                            ))}
-                                                        </ul>
-                                                    </div>
-                                                )}
-
-                                                {categoria.medidas && (
-                                                    <div className='submenu-target submenu-target-3'>
-                                                        <h3 className='submenu-target-title'>Medidas:</h3>
-                                                        <ul>
-                                                            {categoria.medidas.map((medida) => (
-                                                                <li key={uuidv4()}>
-                                                                    <a href={medida.ruta} title={medida.medida}>
-                                                                        <h4>{medida.medida}</h4>
-                                                                    </a>
-                                                                </li>
-                                                            ))}
-                                                        </ul>
-                                                    </div>
-                                                )}
-
-                                                {categoria.menuImg && (
-                                                    <div className='submenu-target submenu-target-4'>
-                                                        <img width={280} height={280} loading='lazy' src={categoria.menuImg[0]?.imgSrc} alt={categoria.menuImg[0]?.imgAlt || categoria.categoria}/>
-                                                    </div>
-                                                )}
-                                            </nav>
-                                        </div>
-                                    )}
-                                </li>
-                            ))}
-                        </ul>
-                    </nav>
                 </div>
 
                 <SearchBar/>
+
+                <div>Dormihogar</div>
             </section>
         </div>
     )

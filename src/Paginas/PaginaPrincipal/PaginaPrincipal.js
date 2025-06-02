@@ -19,18 +19,18 @@ function PaginaPrincipal(){
     return(
         <>
             <Helmet>
-                <title>Kamas | Fabricantes de colchones, camas y dormitorios.</title>
+                <title>Dormihogar</title>
                 <meta name="description" content="Fabricantes de colchones, camas, box tarimas y juegos de dormitorios con más de 15 años en el mercado peruano ofreciendo calidad y confort para tu descanso." />
 
-                <meta property="og:title" content="Kamas | Fabricantes de colchones, camas y dormitorios."/>
+                <meta property="og:title" content="Dormihogar"/>
                 <meta property="og:description" content="Meta descripción"/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content="https://www.kamas.pe/"/>
+                <meta property="og:url" content="https://www.dormihogar.pe/"/>
                 <meta property="og:image" content="/assets/imagenes/paginas/pagina-principal/homepage-video.jpg"/>
-                <meta property="og:site_name" content="Kamas"/>
+                <meta property="og:site_name" content="Dormihogar"/>
 
-                <link rel="preload" as="image" href="https://kamas.pe/assets/imagenes/paginas/pagina-principal/slider/slider-1.webp" />
-                <link rel="preload" as="image" href="https://kamas.pe/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-1.webp" />
+                <link rel="preload" as="image" href="/assets/imagenes/paginas/pagina-principal/slider/slider-1.webp" />
+                <link rel="preload" as="image" href="/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-1.webp" />
             </Helmet>
 
             <Header/>

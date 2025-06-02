@@ -1,5 +1,5 @@
 .header-top-container{
-    background: var(--black);
+    background: #222222;
     width: 100%;
     height: 40px;
     padding: 0 20px;
@@ -15,7 +15,7 @@
 .header-top-left li > p,
 .header-top-left > li > a h2,
 .header-top-left > li > ul li a h2{
-    color: #999;
+    color: var(--white);
     font-size: 14px;
 }
 
@@ -28,9 +28,8 @@
 
 .header-top-left > li a img{
     height: 17px;
+    filter: brightness(1000%);
 }
-
-/**/
 
 .location p{
     color: var(--white);
@@ -54,8 +53,6 @@
     height: 100%;
     background: var(--white);
 }
-
-/**/
 
 @media screen and (max-width: 600px){
     .header-top > ul{

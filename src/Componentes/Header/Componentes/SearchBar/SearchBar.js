@@ -100,7 +100,7 @@ function SearchBar() {
         <>
             <div className={`search-bar-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>
                 <div className='search-bar'>
-                    <input type='text' placeholder='Buscar en kamas.pe' value={searchTerm} onChange={handleSearchChange} onKeyDown={handleKeyDown} />
+                    <input type='text' placeholder='Buscar en dormihogar.pe' value={searchTerm} onChange={handleSearchChange} onKeyDown={handleKeyDown} />
                     <span className='material-icons'>search</span>
                 </div>
 

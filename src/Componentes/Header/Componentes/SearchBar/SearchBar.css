@@ -1,10 +1,9 @@
 .search-bar-container{
-    margin-left: auto;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: right;
-    max-width: 320px;
+    max-width: 360px;
     position: relative;
 }
 
@@ -14,7 +13,7 @@
     display: grid;
     grid-template-columns: 1fr auto;
     border: 1px solid var(--text);
-    border-radius: 4px;
+    border-radius: 25px;
     overflow: hidden;
 }
 
@@ -112,7 +111,7 @@
     top: 110px;
     width: 100%;
     height: calc(100vh - 110px);
-    background: rgba(0 0 0 / 0.25);
+    background: rgba(0 0 0 / 0.5);
     backdrop-filter: blur(2px);
     z-index: -1;
 

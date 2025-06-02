@@ -16,15 +16,9 @@ function Top(){
 
                         <ul className='d-flex-center-left gap-5'>
                             <li>
-                                <a href='tel: +51943469911' title="Llamar" className='d-flex-center-center gap-5'>
+                                <a href='tel: +51933197648' title="Llamar" className='d-flex-center-center gap-5'>
                                     <img src="/assets/imagenes/iconos/telefono-gris.svg" alt="Teléfono | Dormihogar" />
-                                    <h2>943469911</h2>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='tel: +51917013610' title="" className='d-flex-center-center gap-5'>
-                                    <img src="/assets/imagenes/iconos/telefono-gris.svg" alt="Teléfono | Dormihogar" />
-                                    <h2>917013610</h2>
+                                    <h2>933197648</h2>
                                 </a>
                             </li>
                         </ul>
@@ -34,13 +28,7 @@ function Top(){
                     </li>
                     <li>
                         <a href='https://wa.link/abc0r5' target='_blank' rel="noopener noreferrer" title="WhatsApp | Dormihogar" className='d-flex-center-center gap-5'>
-                            <img src="https://Dormihogar.pe/assets/imagenes/iconos/whatsapp-gris.svg" alt="WhatsApp | Dormihogar" />
-                            <h2>WhatsApp</h2>
-                        </a>
-                    </li>
-                    <li>
-                        <a href='https://wa.link/abc0r5' target='_blank' rel="noopener noreferrer" title="WhatsApp | Dormihogar" className='d-flex-center-center gap-5'>
-                            <img src="https://Dormihogar.pe/assets/imagenes/iconos/whatsapp-gris.svg" alt="WhatsApp | Dormihogar" />
+                            <img src="/assets/imagenes/iconos/whatsapp-gris.svg" alt="WhatsApp | Dormihogar" />
                             <h2>WhatsApp</h2>
                         </a>
                     </li>

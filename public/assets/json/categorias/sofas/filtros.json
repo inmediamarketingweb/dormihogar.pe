@@ -1,0 +1,55 @@
+[
+    {
+        "titulo": "Modelos",
+        "nombre": "modelo",
+        "lista":[
+            {
+                "nombre": "Juegos de sala"
+            },
+            {
+                "nombre": "Seccionales"
+            },
+            {
+                "nombre": "Sófas camas"
+            },
+            {
+                "nombre": "Reclinables"
+            },
+            {
+                "nombre": "Sofás y sillones"
+            },
+            {
+                "nombre": "Mecedoras"
+            },
+            {
+                "nombre": "Butacas"
+            }
+        ]
+    },
+    {
+        "titulo": "Tamaño",
+        "nombre": "tamaño",
+        "lista":[
+            {
+                "id": 1,
+                "nombre": "1 plaza"
+            },
+            {
+                "id": 2,
+                "nombre": "1 plaza y media"
+            },
+            {
+                "id": 3,
+                "nombre": "2 plazas"
+            },
+            {
+                "id": 4,
+                "nombre": "Queen"
+            },
+            {
+                "id": 5,
+                "nombre": "King"
+            }
+        ]
+    }
+]

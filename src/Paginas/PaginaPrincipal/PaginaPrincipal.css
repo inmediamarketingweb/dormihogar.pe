@@ -1,0 +1,16 @@
+.solo-por-horas div{
+    padding: 20px 0;
+    background: #212121;
+    border-radius: 16px;
+}
+
+@media screen and (max-width: 600px){
+    .homepage-categories{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+    .homepage-categories li a div{
+        padding: 10px;
+    }
+}

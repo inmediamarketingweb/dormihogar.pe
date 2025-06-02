@@ -1,0 +1,53 @@
+.form-complaints-book-content{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.form-complaints-book-container fieldset{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+    border: 0;
+    outline: 0;
+}
+
+.form-complaints-book-content fieldset input{
+    width: 100%;
+    height: 56px;
+    padding: 0 10px;
+    outline: 0;
+    border: 1px solid var(--gray);
+    border-radius: 4px;
+}
+
+.form-complaints-book-content fieldset select{
+    width: 100%;
+    height: 56px;
+    outline: 0;
+    border: 1px solid var(--gray);
+    border-radius: 4px;
+}
+
+.form-complaints-book-container fieldset textarea{
+    width: 100%;
+    height: 120px;
+    padding: 20px;
+    outline: 0;
+    border: 1px solid var(--gray);
+    border-radius: 4px;
+}
+
+/**/
+
+@media screen and (max-width: 600px){
+    .form-complaints-book-content{
+        grid-template-columns: 1fr;
+    }
+
+    .form-complaints-book-container fieldset textarea{
+        height: 160px;
+    }
+}

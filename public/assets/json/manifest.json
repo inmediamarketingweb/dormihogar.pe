@@ -1,0 +1,46 @@
+{
+    "files": [
+        "/assets/json/categorias/colchones/sub-categorias/adel.json",
+        "/assets/json/categorias/colchones/sub-categorias/der-prinz.json",
+        "/assets/json/categorias/colchones/sub-categorias/konig.json",
+        "/assets/json/categorias/colchones/sub-categorias/norole.json",
+        "/assets/json/categorias/colchones/sub-categorias/ramat.json",
+        "/assets/json/categorias/colchones/sub-categorias/rucay.json",
+        "/assets/json/categorias/colchones/sub-categorias/safynnte.json",
+        "/assets/json/categorias/colchones/sub-categorias/sarki.json",
+        "/assets/json/categorias/colchones/sub-categorias/nesie.json",
+        "/assets/json/categorias/colchones/sub-categorias/thaleo-pocket.json",
+        "/assets/json/categorias/colchones/sub-categorias/thameo-pocket.json",
+        "/assets/json/categorias/colchones/sub-categorias/yurmale.json",
+
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/clasicas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/americanas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/americanas-con-cajones.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/europeas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/europeas-con-cajones.json",
+
+        "/assets/json/categorias/dormitorios/sub-categorias/clasicos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/americanos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/europeos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/europeos-con-cajones.json",
+
+        "/assets/json/categorias/cabeceras/sub-categorias/aereas.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/aereas-con-patas.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/pedestales.json",
+
+        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios.json",
+        "/assets/json/categorias/camas-funcionales/sub-categorias/divanes.json",
+
+        "/assets/json/categorias/sofas/sub-categorias/juegos-de-sala.json",
+        "/assets/json/categorias/sofas/sub-categorias/reclinables.json",
+        "/assets/json/categorias/sofas/sub-categorias/sofas-camas.json",
+        "/assets/json/categorias/sofas/sub-categorias/mecedoras.json",
+        "/assets/json/categorias/sofas/sub-categorias/butacas.json",
+
+        "/assets/json/categorias/complementos/sub-categorias/veladores.json",
+        "/assets/json/categorias/complementos/sub-categorias/bases.json",
+        "/assets/json/categorias/complementos/sub-categorias/puffs.json",
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro.json"
+    ]
+}

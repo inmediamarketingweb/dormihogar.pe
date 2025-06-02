@@ -1,0 +1,37 @@
+.solo-por-horas-main{
+    margin-top: 170px;
+}
+
+.solo-por-horas-main .sale-time{
+    margin: auto;
+    width: auto;
+    padding: 10px 10px 24px 10px;
+    background: #222222;
+    border-radius: 8px;
+    z-index: 99;
+}
+
+.solo-por-horas-page-products{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
+.solo-por-horas-page-products li{
+    width: 100%;
+    display: flex;
+}
+
+.solo-por-horas-page-products li .product-card{
+    width: 100% !important;
+    max-width: none !important;
+}
+
+@media screen and (max-width: 600px){
+    .solo-por-horas-main{
+        margin-top: 230px;
+    }
+    .solo-por-horas-page-products{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

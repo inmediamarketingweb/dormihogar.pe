@@ -3,10 +3,11 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "norole",
             "ruta": "/productos/colchones/kamas/norole/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
             "precioRegular": 1349,
             "precioNormal": 1199,
             "precioVenta": 699,
@@ -20,6 +21,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopédico",
@@ -43,6 +45,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopédico",
@@ -65,10 +68,11 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "norole",
             "ruta": "/productos/colchones/kamas/norole/2-plazas/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
             "precioRegular": 1469,
             "precioNormal": 1299,
             "precioVenta": 849,
@@ -82,6 +86,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopédico",
@@ -105,6 +110,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopédico",
@@ -127,10 +133,11 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "norole",
             "ruta": "/productos/colchones/kamas/norole/queen/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
             "precioRegular": 1879,
             "precioNormal": 1699,
             "precioVenta": 1149,
@@ -144,6 +151,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",
@@ -167,6 +175,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",
@@ -193,10 +202,11 @@
         {
             "id": 4,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "norole",
             "ruta": "/productos/colchones/kamas/norole/king/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE KING",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
             "precioRegular": 2399,
             "precioNormal": 1999,
             "precioVenta": 1399,
@@ -210,6 +220,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopédico",
@@ -233,6 +244,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Norole",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",

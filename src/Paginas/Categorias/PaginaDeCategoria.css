@@ -173,6 +173,7 @@
     color: var(--color-1);
     font-size: 12px;
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 .product-card-prices{

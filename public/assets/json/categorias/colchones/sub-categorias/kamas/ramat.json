@@ -3,10 +3,11 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "ramat",
             "ruta": "/productos/colchones/kamas/ramat/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
             "precioRegular": 999,
             "precioNormal": 849,
             "precioVenta": 549,
@@ -20,6 +21,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Súper ortopédico",
@@ -43,6 +45,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Súper ortopédico",
@@ -66,10 +69,11 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "ramat",
             "ruta": "/productos/colchones/kamas/ramat/2-plazas/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
             "precioRegular": 1249,
             "precioNormal": 999,
             "precioVenta": 649,
@@ -83,6 +87,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Súper ortopédico",
@@ -106,6 +111,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Súper ortopédico",
@@ -129,10 +135,11 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "ramat",
             "ruta": "/productos/colchones/kamas/ramat/queen/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
             "precioRegular": 1569,
             "precioNormal": 1499,
             "precioVenta": 999,
@@ -146,6 +153,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Súper ortopédico",
@@ -169,6 +177,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Súper ortopédico",
@@ -195,11 +204,12 @@
         },
         {
             "id": 4,
+            "marca": "kamas",
             "categoria": "colchones",
             "subcategoria": "ramat",
             "ruta": "/productos/colchones/kamas/ramat/king/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT KING",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
             "precioRegular": 1860,
             "precioNormal": 1599,
             "precioVenta": 1199,
@@ -213,6 +223,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "King",
                     "línea-de-colchón": "Súper ortopédico",
@@ -236,6 +247,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Ramat",
                     "tamaño": "King",
                     "línea-de-colchón": "Súper ortopédico",

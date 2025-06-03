@@ -37,7 +37,7 @@
 
 @font-face{
     font-family: 'DM Sans';
-    src: url('../public/assets/fonts/DM_Sans/DMSans.ttf') format('truetype');
+    src: url('https://dormihogar.vercel.app/assets/fonts/DM_Sans/DMSans.ttf') format('truetype');
     font-display: swap;
 }
 

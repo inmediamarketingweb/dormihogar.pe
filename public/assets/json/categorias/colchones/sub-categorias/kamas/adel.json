@@ -4,9 +4,9 @@
             "id": 1,
             "categoria": "colchones",
             "subcategoria": "adel",
-            "ruta": "/productos/colchones/adel/1-plaza-y-media/",
+            "ruta": "/productos/colchones/kamas/adel/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/adel/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/adel/1-plaza-y-media/",
             "precioRegular": 425,
             "precioNormal": 379,
             "precioVenta": 249,
@@ -20,6 +20,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "modelo-de-colchón": "Adel",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Semi ortopédico",
@@ -29,13 +30,13 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/adel/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/adel/2-plazas/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo-de-colchón": "Adel",
+                    "marca": "Kamas",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Semi ortopédico",
                     "nivel-de-confort": "Confortable",
@@ -57,9 +58,9 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "adel",
-            "ruta": "/productos/colchones/adel/2-plazas/",
+            "ruta": "/productos/colchones/kamas/adel/2-plazas/",
             "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/adel/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/adel/2-plazas/",
             "precioRegular": 425,
             "precioNormal": 379,
             "precioVenta": 249,
@@ -73,6 +74,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "modelo-de-colchón": "Adel",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Semi ortopédico",
@@ -82,12 +84,13 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/adel/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/adel/1-plaza-y-media/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "modelo-de-colchón": "Adel",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Semi ortopédico",

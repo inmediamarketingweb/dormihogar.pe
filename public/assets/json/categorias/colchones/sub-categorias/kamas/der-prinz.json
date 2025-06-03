@@ -5,9 +5,9 @@
             "categoria": "colchones",
             "subcategoria": "der prinz",
             "modelo": "der pinz",
-            "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/",
+            "ruta": "/productos/colchones/kamas/der-prinz/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/der-prinz/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/1-plaza-y-media/",
             "precioRegular": 720,
             "precioNormal": 599,
             "precioVenta": 399,
@@ -29,15 +29,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/der-prinz/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/der-prinz/queen/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/der-prinz/king/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -67,9 +67,9 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "der prinz",
-            "ruta": "/productos/colchones/der-prinz/2-plazas/",
+            "ruta": "/productos/colchones/kamas/der-prinz/2-plazas/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/der-prinz/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/2-plazas/",
             "precioRegular": 920,
             "precioNormal": 799,
             "precioVenta": 499,
@@ -92,15 +92,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/der-prinz/queen/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/der-prinz/king/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -129,9 +129,9 @@
             "id": 3,
             "categoria": "colchones",
             "subcategoria": "der prinz",
-            "ruta": "/productos/colchones/der-prinz/queen/",
+            "ruta": "/productos/colchones/kamas/der-prinz/queen/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/der-prinz/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/queen/",
             "precioRegular": 1569,
             "precioNormal": 1149,
             "precioVenta": 799,
@@ -154,15 +154,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/der-prinz/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/der-prinz/king/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",
@@ -195,9 +195,9 @@
             "id": 4,
             "categoria": "colchones",
             "subcategoria": "der prinz",
-            "ruta": "/productos/colchones/der-prinz/king/",
+            "ruta": "/productos/colchones/kamas/der-prinz/king/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ KING",
-            "fotos": "/assets/imagenes/productos/colchones/der-prinz/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/king/",
             "precioRegular": 1650,
             "precioNormal": 1399,
             "precioVenta": 999,
@@ -220,15 +220,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/der-prinz/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/der-prinz/queen/"
+                    "ruta": "/productos/colchones/kamas/der-prinz/queen/"
                 }
             ],
             "tipo-de-envio": "Gratis",

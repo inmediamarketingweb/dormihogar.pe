@@ -4,9 +4,9 @@
             "id": 1,
             "categoria": "colchones",
             "subcategoria": "nesie",
-            "ruta": "/productos/colchones/nesie/1-plaza-y-media/",
+            "ruta": "/productos/colchones/kamas/nesie/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/nesie/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/nesie/1-plaza-y-media/",
             "precioRegular": 999,
             "precioNormal": 849,
             "precioVenta": 499,
@@ -29,15 +29,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/nesie/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/nesie/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/nesie/queen/"
+                    "ruta": "/productos/colchones/kamas/nesie/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/nesie/king/"
+                    "ruta": "/productos/colchones/kamas/nesie/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -66,9 +66,9 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "nesie",
-            "ruta": "/productos/colchones/nesie/2-plazas/",
+            "ruta": "/productos/colchones/kamas/nesie/2-plazas/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/nesie/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/nesie/2-plazas/",
             "precioRegular": 999,
             "precioNormal": 769,
             "precioVenta": 599,
@@ -91,15 +91,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/nesie/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/nesie/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/nesie/queen/"
+                    "ruta": "/productos/colchones/kamas/nesie/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/nesie/king/"
+                    "ruta": "/productos/colchones/kamas/nesie/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -128,9 +128,9 @@
             "id": 3,
             "categoria": "colchones",
             "subcategoria": "nesie",
-            "ruta": "/productos/colchones/nesie/queen/",
+            "ruta": "/productos/colchones/kamas/nesie/queen/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/nesie/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/nesie/queen/",
             "precioRegular": 1599,
             "precioNormal": 1209,
             "precioVenta": 949,
@@ -153,15 +153,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/nesie/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/nesie/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/nesie/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/nesie/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/nesie/king/"
+                    "ruta": "/productos/colchones/kamas/nesie/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -193,9 +193,9 @@
             "id": 4,
             "categoria": "colchones",
             "subcategoria": "nesie",
-            "ruta": "/productos/colchones/nesie/king/",
+            "ruta": "/productos/colchones/kamas/nesie/king/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE KING",
-            "fotos": "/assets/imagenes/productos/colchones/nesie/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/nesie/king/",
             "precioRegular": 999,
             "precioNormal": 1469,
             "precioVenta": 1149,
@@ -218,15 +218,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/nesie/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/nesie/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/nesie/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/nesie/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/nesie/queen/"
+                    "ruta": "/productos/colchones/kamas/nesie/queen/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",

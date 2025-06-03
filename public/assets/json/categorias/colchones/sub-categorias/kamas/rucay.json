@@ -4,9 +4,9 @@
             "id": 1,
             "categoria": "colchones",
             "subcategoria": "rucay",
-            "ruta": "/productos/colchones/rucay/1-plaza-y-media/",
+            "ruta": "/productos/colchones/kamas/rucay/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/rucay/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/1-plaza-y-media/",
             "precioRegular": 500,
             "precioNormal": 449,
             "precioVenta": 289,
@@ -31,17 +31,17 @@
                 {
                     "id": 1,
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/rucay/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/rucay/2-plazas/"
                 },
                 {
                     "id": 2,
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/rucay/queen/"
+                    "ruta": "/productos/colchones/kamas/rucay/queen/"
                 },
                 {
                     "id": 3,
                     "nombre": "King",
-                    "ruta": "/productos/colchones/rucay/king/"
+                    "ruta": "/productos/colchones/kamas/rucay/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -70,9 +70,9 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "rucay",
-            "ruta": "/productos/colchones/rucay/2-plazas/",
+            "ruta": "/productos/colchones/kamas/rucay/2-plazas/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/rucay/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/2-plazas/",
             "precioRegular": 579,
             "precioNormal": 499,
             "precioVenta": 349,
@@ -97,17 +97,17 @@
                 {
                     "id": 1,
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/rucay/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/rucay/1-plaza-y-media/"
                 },
                 {
                     "id": 2,
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/rucay/queen/"
+                    "ruta": "/productos/colchones/kamas/rucay/queen/"
                 },
                 {
                     "id": 3,
                     "nombre": "King",
-                    "ruta": "/productos/colchones/rucay/king/"
+                    "ruta": "/productos/colchones/kamas/rucay/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -136,9 +136,9 @@
             "id": 3,
             "categoria": "colchones",
             "subcategoria": "rucay",
-            "ruta": "/productos/colchones/rucay/queen/",
+            "ruta": "/productos/colchones/kamas/rucay/queen/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/rucay/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/queen/",
             "precioRegular": 747,
             "precioNormal": 679,
             "precioVenta": 549,
@@ -162,17 +162,17 @@
                 {
                     "id": 1,
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/rucay/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/rucay/1-plaza-y-media/"
                 },
                 {
                     "id": 2,
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/rucay/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/rucay/2-plazas/"
                 },
                 {
                     "id": 3,
                     "nombre": "King",
-                    "ruta": "/productos/colchones/rucay/king/"
+                    "ruta": "/productos/colchones/kamas/rucay/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",
@@ -203,9 +203,9 @@
             "id": 4,
             "categoria": "colchones",
             "subcategoria": "rucay",
-            "ruta": "/productos/colchones/rucay/king/",
+            "ruta": "/productos/colchones/kamas/rucay/king/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY KING",
-            "fotos": "/assets/imagenes/productos/colchones/rucay/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/king/",
             "precioRegular": 945,
             "precioNormal": 899,
             "precioVenta": 699,
@@ -230,17 +230,17 @@
                 {
                     "id": 1,
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/rucay/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/rucay/1-plaza-y-media/"
                 },
                 {
                     "id": 2,
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/rucay/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/rucay/2-plazas/"
                 },
                 {
                     "id": 3,
                     "nombre": "King",
-                    "ruta": "/productos/colchones/rucay/king/"
+                    "ruta": "/productos/colchones/kamas/rucay/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",

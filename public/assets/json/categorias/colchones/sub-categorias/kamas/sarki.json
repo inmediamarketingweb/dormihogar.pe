@@ -4,9 +4,9 @@
             "id": 1,
             "categoria": "colchones",
             "subcategoria": "sarki",
-            "ruta": "/productos/colchones/sarki/1-plaza-y-media/",
+            "ruta": "/productos/colchones/kamas/sarki/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/sarki/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/1-plaza-y-media/",
             "precioRegular": 575,
             "precioNormal": 499,
             "precioVenta": 319,
@@ -27,15 +27,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/sarki/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/sarki/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/sarki/queen/"
+                    "ruta": "/productos/colchones/kamas/sarki/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/sarki/king/"
+                    "ruta": "/productos/colchones/kamas/sarki/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -64,9 +64,9 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "sarki",
-            "ruta": "/productos/colchones/sarki/2-plazas/",
+            "ruta": "/productos/colchones/kamas/sarki/2-plazas/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/sarki/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/2-plazas/",
             "precioRegular": 629,
             "precioNormal": 599,
             "precioVenta": 399,
@@ -87,15 +87,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/sarki/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/sarki/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/sarki/queen/"
+                    "ruta": "/productos/colchones/kamas/sarki/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/sarki/king/"
+                    "ruta": "/productos/colchones/kamas/sarki/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -124,9 +124,9 @@
             "id": 3,
             "categoria": "colchones",
             "subcategoria": "sarki",
-            "ruta": "/productos/colchones/sarki/queen/",
+            "ruta": "/productos/colchones/kamas/sarki/queen/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/sarki/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/queen/",
             "precioRegular": 969,
             "precioNormal": 899,
             "precioVenta": 599,
@@ -147,15 +147,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/sarki/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/sarki/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/sarki/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/sarki/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/sarki/king/"
+                    "ruta": "/productos/colchones/kamas/sarki/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",
@@ -187,9 +187,9 @@
             "id": 4,
             "categoria": "colchones",
             "subcategoria": "sarki",
-            "ruta": "/productos/colchones/sarki/king/",
+            "ruta": "/productos/colchones/kamas/sarki/king/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI KING",
-            "fotos": "/assets/imagenes/productos/colchones/sarki/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/king/",
             "precioRegular": 1329,
             "precioNormal": 1099,
             "precioVenta": 799,
@@ -210,15 +210,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/sarki/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/sarki/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/sarki/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/sarki/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/sarki/queen/"
+                    "ruta": "/productos/colchones/kamas/sarki/queen/"
                 }
             ],
             "tipo-de-envio": "Gratis",

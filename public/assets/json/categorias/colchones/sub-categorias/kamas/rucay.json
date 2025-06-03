@@ -3,10 +3,11 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/kamas/rucay/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/",
             "precioRegular": 500,
             "precioNormal": 449,
             "precioVenta": 289,
@@ -16,11 +17,12 @@
                 {
                     "id": 1,
                     "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.png"
+                    "foto": "/assets/imagenes/productos/almohada.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Anátomico",
@@ -47,6 +49,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Anátomico",
@@ -69,10 +72,11 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/kamas/rucay/2-plazas/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/",
             "precioRegular": 579,
             "precioNormal": 499,
             "precioVenta": 349,
@@ -81,11 +85,12 @@
             "regalos":[
                 {
                     "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.png"
+                    "foto": "/assets/imagenes/productos/almohada.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Anátomicos",
@@ -113,6 +118,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Anátomicos",
@@ -135,10 +141,11 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/kamas/rucay/queen/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/",
             "precioRegular": 747,
             "precioNormal": 679,
             "precioVenta": 549,
@@ -147,11 +154,12 @@
             "regalos":[
                 {
                     "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.png"
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Anátomico",
@@ -178,6 +186,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Anátomico",
@@ -202,10 +211,11 @@
         {
             "id": 4,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/kamas/rucay/king/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY KING",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/",
             "precioRegular": 945,
             "precioNormal": 899,
             "precioVenta": 699,
@@ -215,11 +225,12 @@
                 {
                     "id": 1,
                     "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.png"
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "King",
                     "línea-de-colchón": "Anátomico",
@@ -246,6 +257,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "King",
                     "línea-de-colchón": "Anátomico",

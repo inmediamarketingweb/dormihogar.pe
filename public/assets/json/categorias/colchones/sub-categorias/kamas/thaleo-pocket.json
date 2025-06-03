@@ -3,10 +3,11 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thaleo pocket",
             "ruta": "/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS THALEO POCKET 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/",
             "precioRegular": 1349,
             "precioNormal": 1019,
             "precioVenta": 799,
@@ -20,6 +21,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopedico",
@@ -43,6 +45,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopedico",
@@ -68,10 +71,11 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thaleo pocket",
             "ruta": "/productos/colchones/kamas/thaleo-pocket/2-plazas/",
             "nombre": "COLCHÓN KAMAS THALEO POCKET 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/",
             "precioRegular": 1369,
             "precioNormal": 1149,
             "precioVenta": 899,
@@ -85,6 +89,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopedico",
@@ -108,6 +113,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopedico",
@@ -133,10 +139,11 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thaleo pocket",
             "ruta": "/productos/colchones/kamas/thaleo-pocket/queen/",
             "nombre": "COLCHÓN KAMAS THALEO POCKET QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/",
             "precioRegular": 1899,
             "precioNormal": 1599,
             "precioVenta": 1249,
@@ -150,6 +157,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopedico",
@@ -173,6 +181,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopedico",
@@ -198,10 +207,11 @@
         {
             "id": 4,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thaleo pocket",
             "ruta": "/productos/colchones/kamas/thaleo-pocket/king/",
             "nombre": "COLCHÓN KAMAS THALEO POCKET KING",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/",
             "precioRegular": 1899,
             "precioNormal": 1599,
             "precioVenta": 1499,
@@ -215,6 +225,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopedico",
@@ -238,6 +249,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopedico",

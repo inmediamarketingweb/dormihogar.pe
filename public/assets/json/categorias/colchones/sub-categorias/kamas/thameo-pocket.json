@@ -3,10 +3,11 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thameo pocket",
             "ruta": "/productos/colchones/kamas/thameo-pocket/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS THAMEO POCKET 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/",
             "precioRegular": 899,
             "precioNormal": 579,
             "precioVenta": 449,
@@ -20,6 +21,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Super ortopedico",
@@ -43,6 +45,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Super ortopedico",
@@ -67,10 +70,11 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thameo pocket",
             "ruta": "/productos/colchones/kamas/thameo-pocket/2-plazas/",
             "nombre": "COLCHÓN KAMAS THAMEO POCKET 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/",
             "precioRegular": 1009,
             "precioNormal": 699,
             "precioVenta": 549,
@@ -84,6 +88,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Super ortopedico",
@@ -107,6 +112,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Super ortopedico",
@@ -131,10 +137,11 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thameo pocket",
             "ruta": "/productos/colchones/kamas/thameo-pocket/queen/",
             "nombre": "COLCHÓN KAMAS THAMEO POCKET QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/",
             "precioRegular": 1479,
             "precioNormal": 1159,
             "precioVenta": 899,
@@ -148,6 +155,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Super ortopedico",
@@ -171,6 +179,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Super ortopedico",
@@ -195,10 +204,11 @@
         {
             "id": 4,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "thameo pocket",
             "ruta": "/productos/colchones/kamas/thameo-pocket/king/",
             "nombre": "COLCHÓN KAMAS THAMEO POCKET QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/",
             "precioRegular": 179,
             "precioNormal": 1409,
             "precioVenta": 1099,
@@ -212,6 +222,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "King",
                     "línea-de-colchón": "Super ortopedico",
@@ -235,6 +246,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Thameo pocket",
                     "tamaño": "King",
                     "línea-de-colchón": "Super ortopedico",

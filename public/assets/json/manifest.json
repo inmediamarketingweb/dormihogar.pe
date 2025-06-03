@@ -35,6 +35,8 @@
         "/assets/json/categorias/complementos/sub-categorias/kamas/veladores.json",
         "/assets/json/categorias/complementos/sub-categorias/kamas/bases.json",
         "/assets/json/categorias/complementos/sub-categorias/kamas/puffs.json",
-        "/assets/json/categorias/complementos/sub-categorias/kamas/cama-perro.json"
+        "/assets/json/categorias/complementos/sub-categorias/kamas/cama-perro.json",
+
+        "/assets/json/categorias/colchones/sub-categorias/paraiso/royal-abrazzo.json"
     ]
 }

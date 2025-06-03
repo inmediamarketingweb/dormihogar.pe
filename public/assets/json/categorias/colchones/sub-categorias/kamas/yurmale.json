@@ -3,10 +3,11 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "yurmale",
             "ruta": "/productos/colchones/kamas/yurmale/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS YURMALE 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/",
             "precioRegular": 1599,
             "precioNormal": 1279,
             "precioVenta": 999,
@@ -20,6 +21,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopedico",
@@ -43,6 +45,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopedico",
@@ -68,10 +71,11 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "yurmale",
             "ruta": "/productos/colchones/kamas/yurmale/2-plazas/",
             "nombre": "COLCHÓN KAMAS YURMALE 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/",
             "precioRegular": 1599,
             "precioNormal": 1409,
             "precioVenta": 1099,
@@ -85,6 +89,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopedico",
@@ -108,6 +113,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopedico",
@@ -133,10 +139,11 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "yurmale",
             "ruta": "/productos/colchones/kamas/yurmale/queen/",
             "nombre": "COLCHÓN KAMAS YURMALE QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/",
             "precioRegular": 3199,
             "precioNormal": 2249,
             "precioVenta": 1749,
@@ -150,6 +157,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopedico",
@@ -173,6 +181,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopedico",
@@ -198,10 +207,11 @@
         {
             "id": 4,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "yurmale",
             "ruta": "/productos/colchones/kamas/yurmale/king/",
             "nombre": "COLCHÓN KAMAS YURMALE KING",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/",
             "precioRegular": 3599,
             "precioNormal": 2579,
             "precioVenta": 1999,
@@ -215,6 +225,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopedico",
@@ -238,6 +249,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Yurmale",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopedico",

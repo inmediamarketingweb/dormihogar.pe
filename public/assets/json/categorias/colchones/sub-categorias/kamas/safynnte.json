@@ -3,10 +3,11 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "safynnte",
             "ruta": "/productos/colchones/kamas/safynnte/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
             "precioRegular": 699,
             "precioNormal": 549,
             "precioVenta": 369,
@@ -14,10 +15,11 @@
             "sku": "K1156IN10",
             "regalos":{
                 "texto": "1 almohada",
-                "foto": "/assets/imagenes/productos/almohada.png"
+                "foto": "/assets/imagenes/productos/almohada.webp"
             },
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "1 plaza y media",
                     "linea-de-colchón": "Intermedio",
@@ -41,6 +43,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "1 plaza y media",
                     "linea-de-colchón": "Intermedio",
@@ -63,10 +66,11 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "safynnte",
             "ruta": "/productos/colchones/kamas/safynnte/2-plazas/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
             "precioRegular": 775,
             "precioNormal": 699,
             "precioVenta": 449,
@@ -74,10 +78,11 @@
             "sku": "K126IN10",
             "regalos":{
                 "texto": "1 almohada",
-                "foto": "/assets/imagenes/productos/almohada.png"
+                "foto": "/assets/imagenes/productos/almohada.webp"
             },
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "2-plazas",
                     "linea-de-colchón": "Intermedio",
@@ -101,6 +106,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "2 plazas",
                     "linea-de-colchón": "Intermedio",
@@ -123,10 +129,11 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "safynnte",
             "ruta": "/productos/colchones/kamas/safynnte/queen/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
             "precioRegular": 1290,
             "precioNormal": 999,
             "precioVenta": 699,
@@ -134,10 +141,11 @@
             "sku": "K136IN10",
             "regalos":{
                 "texto": "2 almohadas",
-                "foto": "/assets/imagenes/productos/almohadas.png"
+                "foto": "/assets/imagenes/productos/almohadas.webp"
             },
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "Queen",
                     "linea-de-colchón": "Intermedio",
@@ -161,6 +169,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "Queen",
                     "linea-de-colchón": "Intermedio",
@@ -187,10 +196,11 @@
         {
             "id": 4,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "safynnte",
             "ruta": "/productos/colchones/kamas/safynnte/king/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE KING",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
             "precioRegular": 1449,
             "precioNormal": 1199,
             "precioVenta": 899,
@@ -198,10 +208,11 @@
             "sku": "K146IN10",
             "regalos":{
                 "texto": "2 almohadas",
-                "foto": "/assets/imagenes/productos/almohadas.png"
+                "foto": "/assets/imagenes/productos/almohadas.webp"
             },
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "King",
                     "linea-de-colchón": "Intermedio",
@@ -225,6 +236,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "King",
                     "linea-de-colchón": "Intermedio",

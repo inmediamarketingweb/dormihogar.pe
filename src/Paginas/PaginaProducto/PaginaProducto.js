@@ -254,118 +254,118 @@ function PaginaProducto(){
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 
-        <Header/>
+            <Header/>
 
-        <main>
-            <div className='block-container product-page-block-container'>
-                <section className='block-content product-page-block-content'>
-                    <Jerarquia producto={producto} />
+            <main>
+                <div className='block-container product-page-block-container'>
+                    <section className='block-content product-page-block-content'>
+                        <Jerarquia producto={producto} />
 
-                    <div className='product-page-container'>
-                        <div className='product-page-target product-page-target-1'>
-                            <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} />
+                        <div className='product-page-container'>
+                            <div className='product-page-target product-page-target-1'>
+                                <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} />
+                            </div>
+
+                            <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
+                                <div className='product-page-top-info'>
+                                    <p className='product-page-category'>{producto.categoria}</p>
+                                    <h1 className='product-page-name'>{producto.nombre}</h1>
+                                    <Sku producto={producto} />
+                                </div>
+
+                                <div className='d-grid-2-1fr gap-20'>
+                                    <div className='d-flex-column gap-20'>
+                                        <div className='page-product-prices'>
+                                            <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
+                                            <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
+                                        </div>
+
+                                        <Regalos producto={producto} />
+
+                                        <div className='d-flex gap-20'>
+                                            <Resumen producto={producto} />
+                                            <Medidas producto={producto} />
+                                        </div>
+
+                                        <div className='d-flex-column'>
+                                            <div className='d-flex-start gap-5'>
+                                                <span className='color-red'>*</span>
+                                                <p className='text font-14'>Realizamos envios inmediatos a provincia</p>
+                                            </div>
+                                            <div className='d-flex-start gap-5'>
+                                                <span className='color-red'>*</span>
+                                                <p className='text font-14'>Entregas el mismo día para Lima y Callao</p>
+                                            </div>
+                                        </div>
+
+                                        <Beneficios/>
+                                    </div>
+
+                                    <div className='d-flex-column gap-20'>
+                                    <Envios producto={producto} onConfirm={(data) => {
+                                    setShippingInfo(data); setShippingOptions(data.shippingOptions);
+
+                                    if (data.shippingOptions.length === 1) {setSelectedShipping({
+                                    tipo: data.shippingOptions[0].tipo,
+                                    precio: data.shippingOptions[0].precio
+                                    });
+                                    }
+                                    }}/>
+
+                                    <TiposDeEnvio shippingOptions={shippingOptions} provincia={shippingInfo?.locationData?.provincia || ''} distrito={shippingInfo?.locationData?.distrito || ''} hasAgency={shippingInfo?.hasAgency} selectedTipo={selectedShipping.tipo} onSelect={(tipo, precio) => setSelectedShipping({ tipo, precio })} />
+
+                                    <div className='product-page-user-name-container d-flex-column gap-5'>
+                                    <p className='text'><b className='color-red'>*</b> Nombres</p>
+                                    <input type='text' placeholder='Nombres' className='product-page-user-name' value={userName}onChange={(e) => {setUserName(e.target.value);localStorage.setItem('nombre', e.target.value);}} />
+                                    </div>
+
+                                    <div className='d-flex-column gap-5'>
+                                    <p className='title text'>Detalles:</p>
+
+                                    {!selectedColor ? (
+                                    <p className='d-flex gap-5'><b className='color-red'>*</b>Sin variación de color</p>
+                                    ) : (
+                                    <div className='d-flex gap-5'>
+                                    <p className='bold color-black d-flex gap-5'><b className='color-red'>*</b>Color seleccionado:</p>
+                                    <span>{selectedColor.color}</span>
+                                    <img src={selectedColor.img} alt={selectedColor.color} />
+                                    </div>
+                                    )}
+                                    </div>
+
+                                    <div className='d-flex-center-center gap-10'>
+                                    <div className='d-flex-column gap-10'>
+                                    <div className='quantity'>
+                                    <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
+                                    <span className="material-icons">remove</span>
+                                    </button>
+                                    <div className="quantity-input">{quantity}</div>
+                                    <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
+                                    <span className="material-icons">add</span>
+                                    </button>
+                                    </div>
+                                    </div>
+
+                                    <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick}/>
+                                    </div>
+
+                                    <div className='whatsapp-message d-flex d-flex-column gap-5'>
+                                    <span className="material-icons">info</span>
+                                    <p>La información solicitada se utilizará para agilizar el proceso de compra.</p>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
 
-                        <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
-                            <div className='product-page-top-info'>
-                                <p className='product-page-category'>{producto.categoria}</p>
-                                <h1 className='product-page-name'>{producto.nombre}</h1>
-                                <Sku producto={producto} />
-                            </div>
+                        <Descripcion producto={producto}/>
+                    </section>
+                </div>
 
-                            <div className='d-grid-2-1fr gap-20'>
-                            <div className='d-flex-column gap-20'>
-                            <div className='page-product-prices'>
-                            <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
-                            <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
-                            </div>
+                <MasProductos categoriaActual={producto.categoria}/>
+            </main>
 
-                            <Regalos producto={producto} />
-
-                            <div className='d-flex gap-10'>
-                            <Resumen producto={producto} />
-                            <Medidas producto={producto} />
-                            </div>
-
-                            <div className='d-flex-column'>
-                            <div className='d-flex-start gap-5'>
-                            <span className='color-red'>*</span>
-                            <p className='text font-14'>Realizamos envios inmediatos a provincia</p>
-                            </div>
-                            <div className='d-flex-start gap-5'>
-                            <span className='color-red'>*</span>
-                            <p className='text font-14'>Entregas el mismo día para Lima y Callao</p>
-                            </div>
-                            </div>
-
-                            <Beneficios/>
-                            </div>
-
-                            <div className='d-flex-column gap-20'>
-                            <Envios producto={producto} onConfirm={(data) => {
-                            setShippingInfo(data); setShippingOptions(data.shippingOptions);
-
-                            if (data.shippingOptions.length === 1) {setSelectedShipping({
-                            tipo: data.shippingOptions[0].tipo,
-                            precio: data.shippingOptions[0].precio
-                            });
-                            }
-                            }}/>
-
-                            <TiposDeEnvio shippingOptions={shippingOptions} provincia={shippingInfo?.locationData?.provincia || ''} distrito={shippingInfo?.locationData?.distrito || ''} hasAgency={shippingInfo?.hasAgency} selectedTipo={selectedShipping.tipo} onSelect={(tipo, precio) => setSelectedShipping({ tipo, precio })} />
-
-                            <div className='product-page-user-name-container d-flex-column gap-5'>
-                            <p className='text'><b className='color-red'>*</b> Nombres</p>
-                            <input type='text' placeholder='Nombres' className='product-page-user-name' value={userName}onChange={(e) => {setUserName(e.target.value);localStorage.setItem('nombre', e.target.value);}} />
-                            </div>
-
-                            <div className='d-flex-column gap-5'>
-                            <p className='title text'>Detalles:</p>
-
-                            {!selectedColor ? (
-                            <p className='d-flex gap-5'><b className='color-red'>*</b>Sin variación de color</p>
-                            ) : (
-                            <div className='d-flex gap-5'>
-                            <p className='bold color-black d-flex gap-5'><b className='color-red'>*</b>Color seleccionado:</p>
-                            <span>{selectedColor.color}</span>
-                            <img src={selectedColor.img} alt={selectedColor.color} />
-                            </div>
-                            )}
-                            </div>
-
-                            <div className='d-flex-center-center gap-10'>
-                            <div className='d-flex-column gap-10'>
-                            <div className='quantity'>
-                            <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
-                            <span className="material-icons">remove</span>
-                            </button>
-                            <div className="quantity-input">{quantity}</div>
-                            <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
-                            <span className="material-icons">add</span>
-                            </button>
-                            </div>
-                            </div>
-
-                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick}/>
-                            </div>
-
-                            <div className='whatsapp-message d-flex d-flex-column gap-5'>
-                            <span className="material-icons">info</span>
-                            <p>La información solicitada se utilizará para agilizar el proceso de compra.</p>
-                            </div>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <Descripcion producto={producto}/>
-                </section>
-            </div>
-
-            <MasProductos categoriaActual={producto.categoria}/>
-        </main>
-
-        <Footer/>
+            <Footer/>
         </>
     );
 }

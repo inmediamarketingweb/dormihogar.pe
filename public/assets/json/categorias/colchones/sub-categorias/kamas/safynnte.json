@@ -4,9 +4,9 @@
             "id": 1,
             "categoria": "colchones",
             "subcategoria": "safynnte",
-            "ruta": "/productos/colchones/safynnte/1-plaza-y-media/",
+            "ruta": "/productos/colchones/kamas/safynnte/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/safynnte/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/1-plaza-y-media/",
             "precioRegular": 699,
             "precioNormal": 549,
             "precioVenta": 369,
@@ -27,15 +27,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/safynnte/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/safynnte/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/safynnte/queen/"
+                    "ruta": "/productos/colchones/kamas/safynnte/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/safynnte/King/"
+                    "ruta": "/productos/colchones/kamas/safynnte/King/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -64,9 +64,9 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "safynnte",
-            "ruta": "/productos/colchones/safynnte/2-plazas/",
+            "ruta": "/productos/colchones/kamas/safynnte/2-plazas/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/safynnte/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/2-plazas/",
             "precioRegular": 775,
             "precioNormal": 699,
             "precioVenta": 449,
@@ -87,15 +87,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/safynnte/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/safynnte/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/safynnte/queen/"
+                    "ruta": "/productos/colchones/kamas/safynnte/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/safynnte/King/"
+                    "ruta": "/productos/colchones/kamas/safynnte/King/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -124,9 +124,9 @@
             "id": 3,
             "categoria": "colchones",
             "subcategoria": "safynnte",
-            "ruta": "/productos/colchones/safynnte/queen/",
+            "ruta": "/productos/colchones/kamas/safynnte/queen/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/safynnte/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/queen/",
             "precioRegular": 1290,
             "precioNormal": 999,
             "precioVenta": 699,
@@ -147,15 +147,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/safynnte/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/safynnte/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/safynnte/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/safynnte/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/safynnte/king/"
+                    "ruta": "/productos/colchones/kamas/safynnte/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",
@@ -188,9 +188,9 @@
             "id": 4,
             "categoria": "colchones",
             "subcategoria": "safynnte",
-            "ruta": "/productos/colchones/safynnte/king/",
+            "ruta": "/productos/colchones/kamas/safynnte/king/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE KING",
-            "fotos": "/assets/imagenes/productos/colchones/safynnte/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/king/",
             "precioRegular": 1449,
             "precioNormal": 1199,
             "precioVenta": 899,
@@ -211,15 +211,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/safynnte/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/safynnte/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/safynnte/queen/"
+                    "ruta": "/productos/colchones/kamas/safynnte/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/safynnte/king/"
+                    "ruta": "/productos/colchones/kamas/safynnte/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",

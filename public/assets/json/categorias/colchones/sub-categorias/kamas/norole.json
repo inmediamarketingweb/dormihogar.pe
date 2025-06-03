@@ -3,24 +3,24 @@
         {
             "id": 1,
             "categoria": "colchones",
-            "subcategoria": "konig",
-            "ruta": "/productos/colchones/konig/1-plaza-y-media/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/konig/1-plaza-y-media/",
-            "precioRegular": 1649,
-            "precioNormal": 1399,
-            "precioVenta": 899,
+            "subcategoria": "norole",
+            "ruta": "/productos/colchones/kamas/norole/1-plaza-y-media/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/1-plaza-y-media/",
+            "precioRegular": 1349,
+            "precioNormal": 1199,
+            "precioVenta": 699,
             "stock": 99,
-            "sku": "K11511MFN10",
-            "incluye":[
+            "sku": "K1159MFN10",
+            "regalos":[
                 {
                     "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
+                    "foto": "/assets/imagenes/productos/almohada.png"
                 }
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Konig",
+                    "modelo-de-colchón": "Norole",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme"
@@ -29,21 +29,21 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/konig/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/norole/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/konig/queen/"
+                    "ruta": "/productos/colchones/kamas/norole/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/konig/king/"
+                    "ruta": "/productos/colchones/kamas/norole/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo-de-colchón": "Konig",
+                    "modelo-de-colchón": "Norole",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme",
@@ -54,35 +54,35 @@
                 {
                     "resortes": "12 filas",
                     "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "25kg/m3",
+                    "densidad-de-la-espuma": "23kg/m3",
                     "tipo-de-uso": "Ambos lados",
                     "marco": "Refuerzo de marco sellado",
-                    "soporte-de-peso": "100kg. por persona",
-                    "garantía": "10 años"
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "7 años"
                 }
             ]
         },
         {
             "id": 2,
             "categoria": "colchones",
-            "subcategoria": "konig",
-            "ruta": "/productos/colchones/konig/2-plazas/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/konig/2-plazas/",
-            "precioRegular": 1790,
-            "precioNormal": 1599,
-            "precioVenta": 999,
+            "subcategoria": "norole",
+            "ruta": "/productos/colchones/kamas/norole/2-plazas/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/2-plazas/",
+            "precioRegular": 1469,
+            "precioNormal": 1299,
+            "precioVenta": 849,
             "stock": 99,
-            "sku": "K1211MFN10",
-            "incluye":[
+            "sku": "K129MFN10",
+            "regalos":[
                 {
                     "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
+                    "foto": "/assets/imagenes/productos/almohada.png"
                 }
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Konig",
+                    "modelo-de-colchón": "Norole",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme"
@@ -91,22 +91,21 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/konig/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/norole/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/konig/queen/"
+                    "ruta": "/productos/colchones/kamas/norole/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/konig/king/"
+                    "ruta": "/productos/colchones/kamas/norole/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "sku": "K1211MFN10",
-                    "modelo-de-colchón": "Konig",
+                    "modelo-de-colchón": "Norole",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme",
@@ -117,35 +116,35 @@
                 {
                     "resortes": "16 filas",
                     "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "25kg/m3",
-                    "tipo-de-uso": "Ambos lados",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Un solo lado",
                     "marco": "Refuerzo de marco sellado",
-                    "soporte-de-peso": "100kg. por persona",
-                    "garantía": "10 años"
+                    "soporte-de-peso": "95kg. por persona",
+                    "garantía": "7 años"
                 }
             ]
         },
         {
             "id": 3,
             "categoria": "colchones",
-            "subcategoria": "konig",
-            "ruta": "/productos/colchones/konig/queen/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/konig/queen/",
-            "precioRegular": 2245,
-            "precioNormal": 2199,
-            "precioVenta": 1399,
+            "subcategoria": "norole",
+            "ruta": "/productos/colchones/kamas/norole/queen/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/queen/",
+            "precioRegular": 1879,
+            "precioNormal": 1699,
+            "precioVenta": 1149,
             "stock": 99,
-            "sku": "K1311MFN10",
-            "incluye":[
+            "sku": "K139MFN10",
+            "regalos":[
                 {
                     "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                    "foto": "/assets/imagenes/productos/2-almohadas.png"
                 }
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Konig",
+                    "modelo-de-colchón": "Norole",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme"
@@ -154,22 +153,21 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/konig/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/norole/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/konig/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/norole/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/konig/king/"
+                    "ruta": "/productos/colchones/kamas/norole/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "sku": "K137MCN10",
-                    "modelo-de-colchón": "Konig",
+                    "modelo-de-colchón": "Norole",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme",
@@ -182,37 +180,37 @@
                     "material-de-resorte": "Acero templado",
                     "tela": "Algodón tejido en punto",
                     "densidad-de-la-espuma": "23kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "incorpora": "Sistema PT",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
                     "refuerzos": "Centrales",
                     "marco": "Marco de espuma",
                     "grosor": "40cm.",
-                    "soporte-de-peso": "90kg. por persona",
-                    "garantía": "10 años"
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "7 años"
                 }
             ]
         },
         {
             "id": 4,
             "categoria": "colchones",
-            "subcategoria": "konig",
-            "ruta": "/productos/colchones/konig/king/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG KING",
-            "fotos": "/assets/imagenes/productos/colchones/konig/king/",
-            "precioRegular": 2800,
-            "precioNormal": 2499,
-            "precioVenta": 1699,
+            "subcategoria": "norole",
+            "ruta": "/productos/colchones/kamas/norole/king/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE KING",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/king/",
+            "precioRegular": 2399,
+            "precioNormal": 1999,
+            "precioVenta": 1399,
             "stock": 99,
-            "sku": "K1411MFN10",
-            "incluye":[
+            "sku": "K149MFN10",
+            "regalos":[
                 {
                     "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                    "foto": "/assets/imagenes/productos/2-almohadas.png"
                 }
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Konig",
+                    "modelo-de-colchón": "Norole",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme"
@@ -221,23 +219,22 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/konig/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/norole/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/konig/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/norole/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/konig/queen/"
+                    "ruta": "/productos/colchones/kamas/norole/queen/"
                 }
             ],
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "sku": "K1411MFN10",
-                    "modelo-de-colchón": "Konig",
-                    "tamaño": "King",
+                    "modelo-de-colchón": "Norole",
+                    "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",
                     "nivel-de-confort": "Muy firme",
                     "tipo-de-resorte": "Bonell"
@@ -248,14 +245,14 @@
                     "resortes": "20 filas",
                     "material-de-resorte": "Acero templado",
                     "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "25kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "incorpora": "Sistema PT",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
                     "refuerzos": "Centrales",
                     "marco": "Marco de espuma",
-                    "grosor": "44cm.",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "10 años"
+                    "grosor": "40cm.",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "7 años"
                 }
             ]
         }

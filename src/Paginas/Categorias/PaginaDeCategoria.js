@@ -9,8 +9,8 @@ import Footer from "../../Componentes/Footer/Footer";
 
 import "./PaginaDeCategoria.css";
 
-function PaginaDeCategoria(){
-    const { categoria, subcategoria } = useParams();
+function PaginaDeCategoria() {
+    const { categoria, subcategoria, marca } = useParams();
     const [metadatos, setMetadatos] = useState({ title: "", description: "" });
     const [productos, setProductos] = useState([]);
     const [productosFiltrados, setProductosFiltrados] = useState([]);
@@ -25,42 +25,193 @@ function PaginaDeCategoria(){
     }, []);
 
     useEffect(() => {
-        fetch(`/assets/json/categorias/${categoria}/metadatos.json`).then((response) => response.json()).then((data) => setMetadatos(data || { title: "", description: "" })).catch(() => setMetadatos({ title: "", description: "" }));
+        // Cargar metadatos de la categoría
+        fetch(`/assets/json/categorias/${categoria}/metadatos.json`)
+            .then((response) => {
+                if (!response.ok) throw new Error("Metadatos no encontrados");
+                return response.json();
+            })
+            .then((data) => setMetadatos(data || { title: "", description: "" }))
+            .catch((error) => {
+                console.error("Error cargando metadatos:", error);
+                setMetadatos({ title: "", description: "" });
+            });
 
-        if (subcategoria) {
-            const subcatNombre = subcategoria.toLowerCase().replace(/\s+/g, "-");
-            fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`)
-                .then((response) => response.json())
-                .then((data) => {
-                    setProductos(data.productos || []);
-                    setProductosFiltrados(data.productos || []);
-                })
-                .catch(() => {
-                    setProductos([]);
-                    setProductosFiltrados([]);
+        // Función mejorada para cargar productos
+        const loadProducts = async () => {
+            try {
+                let products = [];
+                const basePath = `/assets/json/categorias/${categoria}`;
+                
+                console.log("Cargando productos para:", { categoria, subcategoria, marca });
+
+                if (marca) {
+                    // Caso: /productos/colchones/kamas/adel/ (3 niveles)
+                    const marcaPath = `${basePath}/sub-categorias/${subcategoria}/${marca}.json`;
+                    console.log("Intentando cargar marca:", marcaPath);
+                    
+                    try {
+                        const response = await fetch(marcaPath);
+                        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                        
+                        const data = await response.json();
+                        if (!data.productos) throw new Error("Formato inválido: falta propiedad 'productos'");
+                        
+                        products = data.productos;
+                        console.log(`Productos cargados de ${marcaPath}:`, products.length);
+                    } catch (error) {
+                        console.error(`Error cargando ${marcaPath}:`, error);
+                        throw error;
+                    }
+                } else if (subcategoria) {
+                    // Caso: /productos/colchones/kamas/ (2 niveles)
+                    try {
+                        // Primero intentamos cargar sub-subcategorías
+                        const subSubCatPath = `${basePath}/sub-categorias/${subcategoria}/sub-categorias.json`;
+                        console.log("Buscando sub-subcategorías en:", subSubCatPath);
+                        
+                        const subSubCatResponse = await fetch(subSubCatPath);
+                        if (!subSubCatResponse.ok) {
+                            console.log("No se encontró sub-subcategorías, cargando subcategoría directamente");
+                            throw new Error("No hay sub-subcategorías");
+                        }
+                        
+                        const subSubCatData = await subSubCatResponse.json();
+                        if (!subSubCatData.subcategorias) {
+                            throw new Error("Formato inválido: falta propiedad 'subcategorias'");
+                        }
+
+                        // Cargar productos de todas las marcas
+                        console.log(`Cargando ${subSubCatData.subcategorias.length} marcas...`);
+                        const productPromises = subSubCatData.subcategorias.map(async marcaItem => {
+                            const marcaFileName = marcaItem.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                            const marcaPath = `${basePath}/sub-categorias/${subcategoria}/${marcaFileName}.json`;
+                            
+                            try {
+                                const response = await fetch(marcaPath);
+                                if (!response.ok) {
+                                    console.warn(`No se pudo cargar ${marcaPath}`);
+                                    return [];
+                                }
+                                const data = await response.json();
+                                return data.productos || [];
+                            } catch (e) {
+                                console.warn(`Error cargando ${marcaPath}:`, e);
+                                return [];
+                            }
+                        });
+
+                        const productsArrays = await Promise.all(productPromises);
+                        products = productsArrays.flat();
+                        console.log(`Total productos cargados de marcas: ${products.length}`);
+                    } catch (e) {
+                        console.warn("Cargando subcategoría directamente:", e.message);
+                        const subCatPath = `${basePath}/sub-categorias/${subcategoria}.json`;
+                        console.log("Intentando cargar:", subCatPath);
+                        
+                        try {
+                            const response = await fetch(subCatPath);
+                            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                            
+                            const data = await response.json();
+                            products = data.productos || [];
+                            console.log(`Productos cargados de subcategoría: ${products.length}`);
+                        } catch (error) {
+                            console.error(`Error cargando ${subCatPath}:`, error);
+                            throw error;
+                        }
+                    }
+                } else {
+                    // Caso: /productos/colchones/ (1 nivel)
+                    const subCatPath = `${basePath}/sub-categorias/sub-categorias.json`;
+                    console.log("Cargando todas las subcategorías desde:", subCatPath);
+                    
+                    try {
+                        const subCatResponse = await fetch(subCatPath);
+                        if (!subCatResponse.ok) throw new Error(`HTTP error! status: ${subCatResponse.status}`);
+                        
+                        const subCatData = await subCatResponse.json();
+                        if (!subCatData.subcategorias) {
+                            throw new Error("Formato inválido: falta propiedad 'subcategorias'");
+                        }
+
+                        console.log(`Procesando ${subCatData.subcategorias.length} subcategorías...`);
+                        const allProductPromises = subCatData.subcategorias.map(async (subcat) => {
+                            const subcatFileName = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                            
+                            try {
+                                // Verificar si tiene sub-subcategorías
+                                const subSubCatPath = `${basePath}/sub-categorias/${subcatFileName}/sub-categorias.json`;
+                                const subSubCatResponse = await fetch(subSubCatPath);
+                                
+                                if (subSubCatResponse.ok) {
+                                    const subSubCatData = await subSubCatResponse.json();
+                                    if (subSubCatData?.subcategorias?.length > 0) {
+                                        console.log(`Cargando ${subSubCatData.subcategorias.length} marcas para ${subcatFileName}`);
+                                        const marcaPromises = subSubCatData.subcategorias.map(async marcaItem => {
+                                            const marcaFileName = marcaItem.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                                            const marcaPath = `${basePath}/sub-categorias/${subcatFileName}/${marcaFileName}.json`;
+                                            
+                                            try {
+                                                const response = await fetch(marcaPath);
+                                                if (!response.ok) return [];
+                                                const data = await response.json();
+                                                return data.productos || [];
+                                            } catch (e) {
+                                                console.warn(`Error cargando ${marcaPath}:`, e);
+                                                return [];
+                                            }
+                                        });
+
+                                        const marcaProducts = await Promise.all(marcaPromises);
+                                        return marcaProducts.flat();
+                                    }
+                                }
+                            } catch (e) {
+                                console.warn(`No hay sub-subcategorías para ${subcatFileName}:`, e.message);
+                            }
+                            
+                            // Cargar subcategoría directamente
+                            const subCatPath = `${basePath}/sub-categorias/${subcatFileName}.json`;
+                            try {
+                                const response = await fetch(subCatPath);
+                                if (!response.ok) return [];
+                                const data = await response.json();
+                                return data.productos || [];
+                            } catch (e) {
+                                console.warn(`Error cargando ${subCatPath}:`, e);
+                                return [];
+                            }
+                        });
+
+                        const allProductsArrays = await Promise.all(allProductPromises);
+                        products = allProductsArrays.flat();
+                        console.log(`Total productos cargados: ${products.length}`);
+                    } catch (error) {
+                        console.error(`Error cargando ${subCatPath}:`, error);
+                        throw error;
+                    }
+                }
+
+                setProductos(products);
+                setProductosFiltrados(products);
+            } catch (error) {
+                console.error("Error crítico al cargar productos:", {
+                    error: error.message,
+                    ruta: window.location.pathname,
+                    params: { categoria, subcategoria, marca }
                 });
-        } else {
-            fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`).then((response) => response.json()).then(async (data) => {
-                if (!Array.isArray(data.subcategorias)) return;
+                setProductos([]);
+                setProductosFiltrados([]);
+            }
+        };
 
-                const promesas = data.subcategorias.map((subcat) => {
-                    const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                    return fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`)
-                        .then((response) => response.json())
-                        .then((data) => data.productos || [])
-                        .catch(() => []);
-                });
+        loadProducts();
+    }, [categoria, subcategoria, marca]);
 
-                const productosPorSubcategoria = await Promise.all(promesas);
-                const todosLosProductos = productosPorSubcategoria.flat();
-
-                setProductos(todosLosProductos);
-                setProductosFiltrados(todosLosProductos);
-            }).catch(() => setProductos([]));
-        }
-    }, [categoria, subcategoria]);
-
-    useEffect(() => { setCurrentPage(1) }, [productosFiltrados]);
+    useEffect(() => { 
+        setCurrentPage(1); 
+    }, [productosFiltrados]);
 
     const totalItems = productosFiltrados.length;
     const totalPages = Math.ceil(totalItems / itemsPerPage);
@@ -70,7 +221,9 @@ function PaginaDeCategoria(){
         if (totalPages <= 5) {
             for (let i = 1; i <= totalPages; i++) visiblePages.push(i);
         } else {
-            if (currentPage <= 3) { visiblePages.push(1, 2, 3, 4, '...', totalPages) } else if (currentPage >= totalPages - 2) {
+            if (currentPage <= 3) { 
+                visiblePages.push(1, 2, 3, 4, '...', totalPages); 
+            } else if (currentPage >= totalPages - 2) {
                 visiblePages.push(1, '...', totalPages - 3, totalPages - 2, totalPages - 1, totalPages);
             } else {
                 visiblePages.push(1, '...', currentPage - 1, currentPage, currentPage + 1, '...', totalPages);
@@ -157,7 +310,7 @@ function PaginaDeCategoria(){
                                                         : producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado"
                                                         : "";
 
-                                                    const isFavorite = favorites.some( (fav) => fav.ruta === producto.ruta );
+                                                    const isFavorite = favorites.some((fav) => fav.ruta === producto.ruta);
 
                                                     return (
                                                         <li key={producto.sku}>
@@ -168,10 +321,20 @@ function PaginaDeCategoria(){
                                                                     )}
 
                                                                     <a href={producto.ruta}>
-                                                                        <LazyImage width={isSmallScreen ? 140 : 200} height={isSmallScreen ? 140 : 200} src={`${producto.fotos}1.jpg`} alt={producto.nombre}/>
+                                                                        <LazyImage 
+                                                                            width={isSmallScreen ? 140 : 200} 
+                                                                            height={isSmallScreen ? 140 : 200} 
+                                                                            src={`${producto.fotos}1`} 
+                                                                            alt={producto.nombre}
+                                                                        />
                                                                     </a>
 
-                                                                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos" >
+                                                                    <button 
+                                                                        type="button" 
+                                                                        className={`product-card-favorite ${isFavorite ? "active" : ""}`} 
+                                                                        onClick={() => toggleFavorite(producto)} 
+                                                                        title="Agregar a favoritos"
+                                                                    >
                                                                         <span className="material-icons">favorite</span>
                                                                     </button>
                                                                 </div>
@@ -229,21 +392,36 @@ function PaginaDeCategoria(){
                                         </ul>
 
                                         <div className="pagination-controls">
-                                            <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1} >
-                                                <span class="material-icons">chevron_left</span>
+                                            <button 
+                                                className="pagination-arrow" 
+                                                onClick={handlePreviousPage} 
+                                                disabled={currentPage === 1}
+                                            >
+                                                <span className="material-icons">chevron_left</span>
                                             </button>
 
                                             <div className="d-flex-center-center gap-10">
-                                                {getVisiblePages().map((page, index) => typeof page === 'number' ? (
-                                                        <button key={index} className={`pagination-page ${ currentPage === page ? 'active' : '' }`} onClick={() => handlePageChange(page)}>{page}</button>
+                                                {getVisiblePages().map((page, index) => 
+                                                    typeof page === 'number' ? (
+                                                        <button 
+                                                            key={index} 
+                                                            className={`pagination-page ${currentPage === page ? 'active' : ''}`} 
+                                                            onClick={() => handlePageChange(page)}
+                                                        >
+                                                            {page}
+                                                        </button>
                                                     ) : (
                                                         <span key={index} className="pagination-ellipsis">...</span>
                                                     )
                                                 )}
                                             </div>
 
-                                            <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages} >
-                                                <span class="material-icons">chevron_right</span>
+                                            <button 
+                                                className="pagination-arrow" 
+                                                onClick={handleNextPage} 
+                                                disabled={currentPage === totalPages}
+                                            >
+                                                <span className="material-icons">chevron_right</span>
                                             </button>
                                         </div>
                                     </>

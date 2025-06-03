@@ -4,9 +4,9 @@
             "id": 1,
             "categoria": "colchones",
             "subcategoria": "ramat",
-            "ruta": "/productos/colchones/ramat/1-plaza-y-media/",
+            "ruta": "/productos/colchones/kamas/ramat/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/ramat/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/1-plaza-y-media/",
             "precioRegular": 999,
             "precioNormal": 849,
             "precioVenta": 549,
@@ -29,15 +29,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/ramat/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/ramat/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/ramat/queen/"
+                    "ruta": "/productos/colchones/kamas/ramat/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/ramat/king/"
+                    "ruta": "/productos/colchones/kamas/ramat/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -67,9 +67,9 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "ramat",
-            "ruta": "/productos/colchones/ramat/2-plazas/",
+            "ruta": "/productos/colchones/kamas/ramat/2-plazas/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/ramat/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/2-plazas/",
             "precioRegular": 1249,
             "precioNormal": 999,
             "precioVenta": 649,
@@ -92,15 +92,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/ramat/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/ramat/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/ramat/queen/"
+                    "ruta": "/productos/colchones/kamas/ramat/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/ramat/king/"
+                    "ruta": "/productos/colchones/kamas/ramat/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -130,9 +130,9 @@
             "id": 3,
             "categoria": "colchones",
             "subcategoria": "ramat",
-            "ruta": "/productos/colchones/ramat/queen/",
+            "ruta": "/productos/colchones/kamas/ramat/queen/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/ramat/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/queen/",
             "precioRegular": 1569,
             "precioNormal": 1499,
             "precioVenta": 999,
@@ -155,15 +155,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/ramat/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/ramat/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/ramat/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/ramat/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/ramat/king/"
+                    "ruta": "/productos/colchones/kamas/ramat/king/"
                 }
             ],
             "tipo-de-envio": "Gratis",
@@ -197,9 +197,9 @@
             "id": 4,
             "categoria": "colchones",
             "subcategoria": "ramat",
-            "ruta": "/productos/colchones/ramat/king/",
+            "ruta": "/productos/colchones/kamas/ramat/king/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT KING",
-            "fotos": "/assets/imagenes/productos/colchones/ramat/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/king/",
             "precioRegular": 1860,
             "precioNormal": 1599,
             "precioVenta": 1199,
@@ -222,15 +222,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/ramat/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/ramat/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/ramat/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/ramat/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/ramat/queen/"
+                    "ruta": "/productos/colchones/kamas/ramat/queen/"
                 }
             ],
             "tipo-de-envio": "Gratis",

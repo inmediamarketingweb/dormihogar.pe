@@ -141,17 +141,17 @@ function PaginaProducto(){
         "@type": "Product",
         "name": producto.nombre,
         "image": [
-            `https://kamas.pe${producto.fotos}1.jpg`
+            `https://dormihogar.pe${producto.fotos}1.jpg`
         ],
         "description": producto["resumen-del-producto"].map(d => Object.values(d)[0]).join(' – '),
         "sku": producto.sku,
         "brand": {
             "@type": "Brand",
-            "name": "Kamas"
+            "name": "Dormihogar"
         },
         "offers": {
             "@type": "Offer",
-            "url": `https://kamas.pe${producto.ruta}`,
+            "url": `https://dormihogar.pe${producto.ruta}`,
             "priceCurrency": "PEN",
             "price": producto.precioVenta,
             "priceValidUntil": "2025-12-31",
@@ -160,21 +160,20 @@ function PaginaProducto(){
         }
     };
 
-
     return(
         <>
             <Helmet>
                 <title>{producto.nombre}</title>
                 <meta name="description" content={producto.nombre}/>
 
-                <link rel="preload" as="image" href={`https://kamas.pe${producto.fotos}1.jpg`} />
+                <link rel="preload" as="image" href={`https://dormihogar.pe${producto.fotos}1.jpg`} />
 
-                <meta property="og:image" content={`https://kamas.pe${producto.fotos}1.jpg`}/>
+                <meta property="og:image" content={`https://dormihogar.pe${producto.fotos}1.jpg`}/>
                 <meta property="og:title" content={producto.nombre}/>
                 <meta property="og:site_name" content={producto.nombre}/>
                 <meta property="og:description" content={producto.nombre}/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content={`https://kamas.pe${producto.ruta}`}/>
+                <meta property="og:url" content={`https://dormihogar.pe${producto.ruta}`}/>
 
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>

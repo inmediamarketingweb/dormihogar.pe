@@ -3,15 +3,15 @@
         {
             "id": 1,
             "categoria": "colchones",
-            "subcategoria": "yurmale",
-            "ruta": "/productos/colchones/yurmale/1-plaza-y-media/",
-            "nombre": "COLCHÓN KAMAS YURMALE 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/yurmale/1-plaza-y-media/",
-            "precioRegular": 1599,
-            "precioNormal": 1279,
-            "precioVenta": 999,
+            "subcategoria": "thaleo pocket",
+            "ruta": "/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/",
+            "nombre": "COLCHÓN KAMAS THALEO POCKET 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/",
+            "precioRegular": 1349,
+            "precioNormal": 1019,
+            "precioVenta": 799,
             "stock": 99,
-            "sku": "K11512N10",
+            "sku": "K11510N10",
             "regalos":[
                 {
                     "texto": "1 almohada",
@@ -20,7 +20,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme"
@@ -29,21 +29,21 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/yurmale/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/yurmale/queen/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/queen/"
                 },
                 {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/yurmale/king/"
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme",
@@ -52,31 +52,31 @@
             ],
             "descripcion":[
                 {
-                    "resortes": "364 resortes pocket",
+                    "resortes": "364 resorte pocket",
                     "tela": "Tela algodón tejido en punto",
                     "sistema": "One size",
-                    "refuerzos": "Centrales",
-                    "densidad-de-la-espuma": "25kg/m3",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
                     "marco": "De espuma",
-                    "grosor": "44cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "12 años"
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
                 }
             ]
         },
         {
             "id": 2,
             "categoria": "colchones",
-            "subcategoria": "yurmale",
-            "ruta": "/productos/colchones/yurmale/2-plazas/",
-            "nombre": "COLCHÓN KAMAS YURMALE 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/yurmale/2-plazas/",
-            "precioRegular": 1599,
-            "precioNormal": 1409,
-            "precioVenta": 1099,
+            "subcategoria": "thaleo pocket",
+            "ruta": "/productos/colchones/kamas/thaleo-pocket/2-plazas/",
+            "nombre": "COLCHÓN KAMAS THALEO POCKET 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/2-plazas/",
+            "precioRegular": 1369,
+            "precioNormal": 1149,
+            "precioVenta": 899,
             "stock": 99,
-            "sku": "K1212N10",
+            "sku": "K1210N10",
             "regalos":[
                 {
                     "texto": "1 almohada",
@@ -85,7 +85,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme"
@@ -94,21 +94,21 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/yurmale/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/yurmale/queen/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/queen/"
                 },
                 {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/yurmale/king/"
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme",
@@ -120,28 +120,28 @@
                     "resortes": "494 resortes pocket",
                     "tela": "Tela algodón tejido en punto",
                     "sistema": "One size",
-                    "refuerzos": "Centrales",
-                    "densidad-de-la-espuma": "25kg/m3",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
                     "marco": "De espuma",
-                    "grosor": "44cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "12 años"
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
                 }
             ]
         },
         {
             "id": 3,
             "categoria": "colchones",
-            "subcategoria": "yurmale",
-            "ruta": "/productos/colchones/yurmale/queen/",
-            "nombre": "COLCHÓN KAMAS YURMALE QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/yurmale/queen/",
-            "precioRegular": 3199,
-            "precioNormal": 2249,
-            "precioVenta": 1749,
+            "subcategoria": "thaleo pocket",
+            "ruta": "/productos/colchones/kamas/thaleo-pocket/queen/",
+            "nombre": "COLCHÓN KAMAS THALEO POCKET QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/queen/",
+            "precioRegular": 1899,
+            "precioNormal": 1599,
+            "precioVenta": 1249,
             "stock": 99,
-            "sku": "K1312N10",
+            "sku": "K1310N10",
             "regalos":[
                 {
                     "texto": "2 almohadas",
@@ -150,7 +150,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme"
@@ -159,21 +159,21 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/yurmale/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/yurmale/2-plazas/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/2-plazas/"
                 },
                 {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/yurmale/king/"
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme",
@@ -185,28 +185,28 @@
                     "resortes": "600 resortes pocket",
                     "tela": "Tela algodón tejido en punto",
                     "sistema": "One size",
-                    "refuerzos": "Centrales",
-                    "densidad-de-la-espuma": "25kg/m3",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
                     "marco": "De espuma",
-                    "grosor": "44cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "12 años"
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
                 }
             ]
         },
         {
             "id": 4,
             "categoria": "colchones",
-            "subcategoria": "yurmale",
-            "ruta": "/productos/colchones/yurmale/king/",
-            "nombre": "COLCHÓN KAMAS YURMALE KING",
-            "fotos": "/assets/imagenes/productos/colchones/yurmale/king/",
-            "precioRegular": 3599,
-            "precioNormal": 2579,
-            "precioVenta": 1999,
+            "subcategoria": "thaleo pocket",
+            "ruta": "/productos/colchones/kamas/thaleo-pocket/king/",
+            "nombre": "COLCHÓN KAMAS THALEO POCKET KING",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/king/",
+            "precioRegular": 1899,
+            "precioNormal": 1599,
+            "precioVenta": 1499,
             "stock": 99,
-            "sku": "K1412N10",
+            "sku": "K1410N10",
             "regalos":[
                 {
                     "texto": "2 almohadas",
@@ -215,7 +215,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme"
@@ -224,21 +224,21 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/yurmale/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/"
                 },
                 {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/yurmale/2-plazas/"
+                    "nombre": "2-plazas",
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/yurmale/queen/"
+                    "ruta": "/productos/colchones/kamas/thaleo-pocket/queen/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo-de-colchón": "Yurmale",
+                    "modelo-de-colchón": "Thaleo pocket",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopedico",
                     "nivel-de-confort": "Muy firme",
@@ -250,14 +250,13 @@
                     "resortes": "810 resortes pocket",
                     "tela": "Tela algodón tejido en punto",
                     "sistema": "One size",
-                    "incorpora": "Sitema PT",
-                    "refuerzos": "Centrales",
-                    "densidad-de-la-espuma": "25kg/m3",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
                     "marco": "De espuma",
-                    "grosor": "44cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "12 años"
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
                 }
             ]
         }

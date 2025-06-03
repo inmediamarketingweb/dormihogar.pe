@@ -13,7 +13,7 @@ function Medidas({producto}){
         <div className="d-flex-column gap-10">
             <h2 className="title text">En otras medidas:</h2>
 
-            <ul className="product-page-sizes d-flex-wrap gap-5">
+            <ul className="product-page-sizes d-flex-column gap-5">
                 {medidas.map(item => (
                     <li key={uuidv4()}>
                         <a href={item.ruta} title={item.ruta}>

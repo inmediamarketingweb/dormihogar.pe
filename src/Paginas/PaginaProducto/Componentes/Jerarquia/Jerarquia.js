@@ -1,7 +1,7 @@
 import './Jerarquia.css';
 
 function Jerarquia({ producto }){
-    const breadcrumbKeys = ['categoria', 'subcategoria', 'linea', 'tamaño', 'modelo'];
+    const breadcrumbKeys = ['categoria', 'marca', 'subcategoria', 'linea', 'tamaño', 'modelo'];
     const crumbs = [];
     let cumulativePath = '';
 

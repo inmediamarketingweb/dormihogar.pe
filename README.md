@@ -1,14 +1,14 @@
-# Kamas
+# Dormihogar
 
-[![Version](https://img.shields.io/npm/v/kamas)](https://www.npmjs.com/package/kamas)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/inmediamarketingweb/kamas/deploy.yml?branch=main)](https://github.com/inmediamarketingweb/kamas/actions)  
-[![License](https://img.shields.io/github/license/inmediamarketingweb/kamas)](LICENSE)
+[![Version](https://img.shields.io/npm/v/dormihogar)](https://www.npmjs.com/package/dormihogar)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/inmediamarketingweb/dormihogar/deploy.yml?branch=main)](https://github.com/inmediamarketingweb/dormihogar/actions)  
+[![License](https://img.shields.io/github/license/inmediamarketingweb/dormihogar)](LICENSE)
 
 ## Descripción
 
-- Sitio web oficial de la empresa fabricante de muebles "Kamas" que les permite a los usuarios navegar y ver los diferentes productos de la empresa.
+- Sitio web oficial de la empresa fabricante de muebles "dormihogar" que les permite a los usuarios navegar y ver los diferentes productos de la empresa.
 - Este proyecto sigue en etapa de desarrollo por lo que puede presentar algunas incogruencias en su funcionalidad, diseño o productos.
-- Visita el sitio web oficial: [kamas.pe](https://kamas.pe)
+- Visita el sitio web oficial: [dormihogar.pe](https://dormihogar.pe)
 
 ## Características
 
@@ -22,7 +22,7 @@
 
 1. Clona el repositorio  
    ```bash
-   git clone https://github.com/inmediamarketingweb/kamas.git
+   git clone https://github.com/inmediamarketingweb/dormihogar.git
 
 2. Instalar dependencias
    ```bash
@@ -34,7 +34,7 @@
 
 ## Arquitectura
 
-kamas/
+dormihogar/
 ├── public/                   # Assets estáticos
 ├── src/
 │   ├── Componentes/          # Componentes React reutilizables

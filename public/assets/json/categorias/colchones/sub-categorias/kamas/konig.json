@@ -3,15 +3,16 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/kamas/konig/1-plaza-y-media/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/1-plaza-y-media/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
             "precioRegular": 1649,
             "precioNormal": 1399,
             "precioVenta": 899,
             "stock": 99,
-            "sku": "K11511MFN10",
+            "sku": "D1115K11N10",
             "incluye":[
                 {
                     "texto": "1 almohada",
@@ -20,6 +21,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopédico",
@@ -43,6 +45,7 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "1 plaza y media",
                     "línea-de-colchón": "Extra ortopédico",
@@ -65,15 +68,16 @@
         {
             "id": 2,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/kamas/konig/2-plazas/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/2-plazas/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
             "precioRegular": 1790,
             "precioNormal": 1599,
             "precioVenta": 999,
             "stock": 99,
-            "sku": "K1211MFN10",
+            "sku": "D112K11N10",
             "incluye":[
                 {
                     "texto": "1 almohada",
@@ -82,6 +86,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopédico",
@@ -105,7 +110,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "sku": "K1211MFN10",
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "2 plazas",
                     "línea-de-colchón": "Extra ortopédico",
@@ -128,15 +133,16 @@
         {
             "id": 3,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/kamas/konig/queen/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/queen/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
             "precioRegular": 2245,
             "precioNormal": 2199,
             "precioVenta": 1399,
             "stock": 99,
-            "sku": "K1311MFN10",
+            "sku": "D113K11N10",
             "incluye":[
                 {
                     "texto": "2 almohadas",
@@ -145,6 +151,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",
@@ -168,7 +175,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "sku": "K137MCN10",
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "Queen",
                     "línea-de-colchón": "Extra ortopédico",
@@ -195,15 +202,16 @@
         {
             "id": 4,
             "categoria": "colchones",
+            "marca": "kamas",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/kamas/konig/king/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG KING",
-            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/king/",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
             "precioRegular": 2800,
             "precioNormal": 2499,
             "precioVenta": 1699,
             "stock": 99,
-            "sku": "K1411MFN10",
+            "sku": "D114K11N10",
             "incluye":[
                 {
                     "texto": "2 almohadas",
@@ -212,6 +220,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopédico",
@@ -235,7 +244,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "sku": "K1411MFN10",
+                    "marca": "kamas",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "King",
                     "línea-de-colchón": "Extra ortopédico",

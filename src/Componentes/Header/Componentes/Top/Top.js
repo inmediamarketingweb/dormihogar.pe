@@ -27,7 +27,7 @@ function Top(){
                         <p>|</p>
                     </li>
                     <li>
-                        <a href='https://wa.link/abc0r5' target='_blank' rel="noopener noreferrer" title="WhatsApp | Dormihogar" className='d-flex-center-center gap-5'>
+                        <a href='https://wa.link/ipjh0l' target='_blank' rel="noopener noreferrer" title="WhatsApp | Dormihogar" className='d-flex-center-center gap-5'>
                             <img src="/assets/imagenes/iconos/whatsapp-gris.svg" alt="WhatsApp | Dormihogar" />
                             <h2>WhatsApp</h2>
                         </a>

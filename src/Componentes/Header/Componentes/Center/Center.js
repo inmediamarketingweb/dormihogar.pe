@@ -22,7 +22,15 @@ function Center(){
 
                 <SearchBar/>
 
-                <div>Dormihogar</div>
+
+                <a href='tel: +51933197648' className='header-center-call-button' title='Llamar a Dormihogar'>
+                    <span className="material-icons">phone_in_talk</span>
+
+                    <div className='d-flex-column'>
+                        <p>933197648</p>
+                        <span>¡ Compra ya !</span>
+                    </div>
+                </a>
             </section>
         </div>
     )

@@ -68,8 +68,7 @@ function App(){
                     <Route path="/productos/" element={<Productos/>} />
                     <Route path="/productos/:categoria/" element={<PaginaDeCategoria/>} />
                     <Route path="/productos/:categoria/:subcategoria/" element={<PaginaDeCategoria/>} />
-
-                    <Route path="/productos/:categoria/:subcategoria/:linea/" element={<PaginaDeCategoria/>} />
+                    <Route path="/productos/:categoria/:subcategoria/:marca/" element={<PaginaDeCategoria/>} />
 
                     <Route path="/productos/*" element={<PaginaProducto/>} />
 

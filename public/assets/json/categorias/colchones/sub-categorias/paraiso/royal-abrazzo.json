@@ -3,19 +3,20 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "marca": "paraiso",
             "subcategoria": "royal abrazzo",
             "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/",
             "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/king/",
-            "precioRegular": 425,
-            "precioNormal": 379,
-            "precioVenta": 249,
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
+            "precioRegular": 2750,
+            "precioNormal": 2220,
+            "precioVenta": 999,
             "stock": 99,
             "sku": "leosoplapuco",
             "regalos":[
                 {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 }
             ],
             "resumen-del-producto":[

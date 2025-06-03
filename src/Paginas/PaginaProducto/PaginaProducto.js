@@ -32,90 +32,166 @@ function PaginaProducto(){
     const [imagenes, setImagenes] = useState([]);
     const [selectedColor, setSelectedColor] = useState(null);
     const [quantity, setQuantity] = useState(1);
+    const [loading, setLoading] = useState(true);
 
     const [userName, setUserName] = useState(
         typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : ''
     );
 
     useEffect(() => {
-        const fetchProducto = async () => {
-            try{
-                const categorias = ["colchones", "camas-box-tarimas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];
-                let productoEncontrado = null;
+    const fetchProducto = async () => {
+    try {
+    const categorias = ["colchones", "camas-box-tarimas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];
+    let productoEncontrado = null;
 
-                for (const categoria of categorias){
-                    const subcategorias = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`)
-                        .then(response => response.json())
-                        .catch(() => ({ subcategorias: [] }));
+    for (const categoria of categorias) {
+    const subcategorias = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`)
+    .then(response => response.json())
+    .catch(() => ({ subcategorias: [] }));
 
-                    for (const subcat of subcategorias.subcategorias || []){
-                        const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                        const jsonPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
+    for (const subcat of subcategorias.subcategorias || []) {
+    const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
+    const jsonPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
 
-                        const data = await fetch(jsonPath).then(response => response.json()).catch(() => null);
+    // Buscar en subcategorías directas
+    const data = await fetch(jsonPath).then(response => response.json()).catch(() => null);
 
-                        if (data && data.productos){
-                            const prod = data.productos.find(p => p.ruta === location.pathname);
-                            if (prod) {
-                                productoEncontrado = prod;
-                                break;
-                            }
-                        }
-                    }
+    if (data && data.productos) {
+    const prod = data.productos.find(p => p.ruta === location.pathname);
+    if (prod) {
+    productoEncontrado = prod;
+    break;
+    }
+    }
 
-                    if (productoEncontrado) break;
-                }
+    // Si no se encontró, buscar en marcas dentro de esta subcategoría
+    if (!productoEncontrado) {
+    const subSubCatPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`;
+    const subSubCatResponse = await fetch(subSubCatPath).catch(() => null);
 
-                if (productoEncontrado) {
-                    setProducto(productoEncontrado);
-                    cargarImagenes(productoEncontrado.fotos);
-                } else {
-                    setError(true);
-                }
-            } catch (error) {
-                console.error("Error al buscar el producto:", error);
-                setError(true);
-            }
-        };
+    if (subSubCatResponse && subSubCatResponse.ok) {
+    const subSubCatData = await subSubCatResponse.json();
 
-        const cargarImagenes = (carpetaFotos) => {
-            const imgs = [];
-            for (let i = 1; i <= 10; i++){
-                const path = `${carpetaFotos}${i}.jpg`;
-                const img = new Image();
-                img.src = path;
-                img.onload = () => {
-                    imgs.push(path);
-                    setImagenes([...imgs]);
-                };
-            }
-        };
+    for (const marca of subSubCatData.subcategorias || []) {
+    const marcaNombre = marca.subcategoria.toLowerCase().replace(/\s+/g, "-");
+    const marcaPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${marcaNombre}.json`;
 
-        fetchProducto();
+    const marcaData = await fetch(marcaPath).then(response => response.json()).catch(() => null);
+
+    if (marcaData && marcaData.productos) {
+    const prod = marcaData.productos.find(p => p.ruta === location.pathname);
+    if (prod) {
+    productoEncontrado = prod;
+    break;
+    }
+    }
+    }
+    }
+    }
+
+    if (productoEncontrado) break;
+    }
+
+    if (productoEncontrado) break;
+    }
+
+    if (productoEncontrado) {
+    setProducto(productoEncontrado);
+    cargarImagenes(productoEncontrado.fotos);
+    } else {
+    setError(true);
+    }
+    } catch (error) {
+    console.error("Error al buscar el producto:", error);
+    setError(true);
+    } finally {
+    setLoading(false);
+    }
+    };
+
+    const cargarImagenes = (carpetaFotos) => {
+    const imagenesCargadas = {};
+    const formatos = ['jpg', 'webp', 'png']; // Orden de prioridad
+
+    const cargarImagen = (index) => {
+    let formatoIndex = 0;
+
+    const intentarCargar = () => {
+    if (formatoIndex >= formatos.length) return; // No hay más formatos
+
+    const formato = formatos[formatoIndex];
+    const path = `${carpetaFotos}${index}.${formato}`;
+    const img = new Image();
+
+    img.onload = () => {
+    imagenesCargadas[index] = path;
+    actualizarEstadoImagenes();
+    };
+
+    img.onerror = () => {
+    formatoIndex++; // Intenta con el siguiente formato
+    intentarCargar();
+    };
+
+    img.src = path;
+    };
+
+    intentarCargar();
+    };
+
+    const actualizarEstadoImagenes = () => {
+    const imagenesArray = [];
+    for (let i = 1; i <= 5; i++) {
+    if (imagenesCargadas[i]) {
+    imagenesArray.push(imagenesCargadas[i]);
+    }
+    }
+    setImagenes(imagenesArray);
+    };
+
+    for (let i = 1; i <= 10; i++) {
+    cargarImagen(i);
+    }
+    };
+
+    setLoading(true);
+    setError(false);
+    fetchProducto();
 
     }, [location.pathname]);
 
     useEffect(() => {
         if (producto){
-            document.title = producto.nombre;
+        document.title = producto.nombre;
         }
     }, [producto]);
 
     useEffect(() => {
         const handleStorageChange = () => {
-            setUserName(localStorage.getItem('nombre') || '');
-        };
+        setUserName(localStorage.getItem('nombre') || '');
+    };
 
-        window.addEventListener('storage', handleStorageChange);
-        return () => window.removeEventListener('storage', handleStorageChange);
+    window.addEventListener('storage', handleStorageChange);
+    return () => window.removeEventListener('storage', handleStorageChange);
     }, []);
 
-    if (error){
-        return <p>Producto no encontrado o no se pudo cargar la información.</p>;
+    if (error) {
+        return(
+            <div className="error-container">
+                <h2>Producto no encontrado</h2>
+                <p>Lo sentimos, no pudimos cargar la información del producto.</p>
+                <a href="/productos/">Ver todos los productos</a>
+            </div>
+        );
     }
 
-    if (!producto){
-        return <p>Cargando información del producto...</p>;
+    if (loading || !producto) {
+        return (
+            <div className="loading-container">
+                <div className="loading-spinner"></div>
+                <p>Cargando información del producto...</p>
+            </div>
+        );
     }
 
     const handleContinuarClick = (e) => {
@@ -178,118 +254,118 @@ function PaginaProducto(){
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 
-            <Header/>
+        <Header/>
 
-            <main>
-                <div className='block-container product-page-block-container'>
-                    <section className='block-content product-page-block-content'>
-                        <Jerarquia producto={producto} />
+        <main>
+            <div className='block-container product-page-block-container'>
+                <section className='block-content product-page-block-content'>
+                    <Jerarquia producto={producto} />
 
-                        <div className='product-page-container'>
-                            <div className='product-page-target product-page-target-1'>
-                                <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} />
-                            </div>
-
-                            <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
-                                <div className='product-page-top-info'>
-                                    <p className='product-page-category'>{producto.categoria}</p>
-                                    <h1 className='product-page-name'>{producto.nombre}</h1>
-                                    <Sku producto={producto} />
-                                </div>
-
-                                <div className='d-grid-2-1fr gap-20'>
-                                    <div className='d-flex-column gap-20'>
-                                        <div className='page-product-prices'>
-                                            <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
-                                            <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
-                                        </div>
-
-                                        <Regalos producto={producto} />
-
-                                        <div className='d-flex gap-20'>
-                                            <Resumen producto={producto} />
-                                            <Medidas producto={producto} />
-                                        </div>
-
-                                        <div className='d-flex-column'>
-                                            <div className='d-flex-start gap-5'>
-                                                <span className='color-red'>*</span>
-                                                <p className='text font-14'>Realizamos envios inmediatos a provincia</p>
-                                            </div>
-                                            <div className='d-flex-start gap-5'>
-                                                <span className='color-red'>*</span>
-                                                <p className='text font-14'>Entregas el mismo día para Lima y Callao</p>
-                                            </div>
-                                        </div>
-
-                                        <Beneficios/>
-                                    </div>
-
-                                    <div className='d-flex-column gap-20'>
-                                        <Envios producto={producto} onConfirm={(data) => {
-                                            setShippingInfo(data); setShippingOptions(data.shippingOptions);
-
-                                            if (data.shippingOptions.length === 1) {setSelectedShipping({
-                                                    tipo: data.shippingOptions[0].tipo,
-                                                    precio: data.shippingOptions[0].precio
-                                                });
-                                            }
-                                        }}/>
-
-                                        <TiposDeEnvio shippingOptions={shippingOptions} provincia={shippingInfo?.locationData?.provincia || ''} distrito={shippingInfo?.locationData?.distrito || ''} hasAgency={shippingInfo?.hasAgency} selectedTipo={selectedShipping.tipo} onSelect={(tipo, precio) => setSelectedShipping({ tipo, precio })} />
-
-                                        <div className='product-page-user-name-container d-flex-column gap-5'>
-                                            <p className='text'><b className='color-red'>*</b> Nombres</p>
-                                            <input type='text' placeholder='Nombres' className='product-page-user-name' value={userName}onChange={(e) => {setUserName(e.target.value);localStorage.setItem('nombre', e.target.value);}} />
-                                        </div>
-
-                                        <div className='d-flex-column gap-5'>
-                                            <p className='title text'>Detalles:</p>
-
-                                            {!selectedColor ? (
-                                                <p className='d-flex gap-5'><b className='color-red'>*</b>Sin variación de color</p>
-                                            ) : (
-                                                <div className='d-flex gap-5'>
-                                                    <p className='bold color-black d-flex gap-5'><b className='color-red'>*</b>Color seleccionado:</p>
-                                                    <span>{selectedColor.color}</span>
-                                                    <img src={selectedColor.img} alt={selectedColor.color} />
-                                                </div>
-                                            )}
-                                        </div>
-
-                                        <div className='d-flex-center-center gap-10'>
-                                            <div className='d-flex-column gap-10'>
-                                                <div className='quantity'>
-                                                    <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
-                                                        <span className="material-icons">remove</span>
-                                                    </button>
-                                                    <div className="quantity-input">{quantity}</div>
-                                                    <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
-                                                        <span className="material-icons">add</span>
-                                                    </button>
-                                                </div>
-                                            </div>
-
-                                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick}/>
-                                        </div>
-
-                                        <div className='whatsapp-message d-flex d-flex-column gap-5'>
-                                            <span className="material-icons">info</span>
-                                            <p>La información solicitada se utilizará para agilizar el proceso de compra.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    <div className='product-page-container'>
+                        <div className='product-page-target product-page-target-1'>
+                            <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} />
                         </div>
 
-                        <Descripcion producto={producto}/>
-                    </section>
-                </div>
+                        <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
+                            <div className='product-page-top-info'>
+                                <p className='product-page-category'>{producto.categoria}</p>
+                                <h1 className='product-page-name'>{producto.nombre}</h1>
+                                <Sku producto={producto} />
+                            </div>
 
-                <MasProductos categoriaActual={producto.categoria}/>
-            </main>
+                            <div className='d-grid-2-1fr gap-20'>
+                            <div className='d-flex-column gap-20'>
+                            <div className='page-product-prices'>
+                            <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
+                            <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
+                            </div>
 
-            <Footer/>
+                            <Regalos producto={producto} />
+
+                            <div className='d-flex gap-10'>
+                            <Resumen producto={producto} />
+                            <Medidas producto={producto} />
+                            </div>
+
+                            <div className='d-flex-column'>
+                            <div className='d-flex-start gap-5'>
+                            <span className='color-red'>*</span>
+                            <p className='text font-14'>Realizamos envios inmediatos a provincia</p>
+                            </div>
+                            <div className='d-flex-start gap-5'>
+                            <span className='color-red'>*</span>
+                            <p className='text font-14'>Entregas el mismo día para Lima y Callao</p>
+                            </div>
+                            </div>
+
+                            <Beneficios/>
+                            </div>
+
+                            <div className='d-flex-column gap-20'>
+                            <Envios producto={producto} onConfirm={(data) => {
+                            setShippingInfo(data); setShippingOptions(data.shippingOptions);
+
+                            if (data.shippingOptions.length === 1) {setSelectedShipping({
+                            tipo: data.shippingOptions[0].tipo,
+                            precio: data.shippingOptions[0].precio
+                            });
+                            }
+                            }}/>
+
+                            <TiposDeEnvio shippingOptions={shippingOptions} provincia={shippingInfo?.locationData?.provincia || ''} distrito={shippingInfo?.locationData?.distrito || ''} hasAgency={shippingInfo?.hasAgency} selectedTipo={selectedShipping.tipo} onSelect={(tipo, precio) => setSelectedShipping({ tipo, precio })} />
+
+                            <div className='product-page-user-name-container d-flex-column gap-5'>
+                            <p className='text'><b className='color-red'>*</b> Nombres</p>
+                            <input type='text' placeholder='Nombres' className='product-page-user-name' value={userName}onChange={(e) => {setUserName(e.target.value);localStorage.setItem('nombre', e.target.value);}} />
+                            </div>
+
+                            <div className='d-flex-column gap-5'>
+                            <p className='title text'>Detalles:</p>
+
+                            {!selectedColor ? (
+                            <p className='d-flex gap-5'><b className='color-red'>*</b>Sin variación de color</p>
+                            ) : (
+                            <div className='d-flex gap-5'>
+                            <p className='bold color-black d-flex gap-5'><b className='color-red'>*</b>Color seleccionado:</p>
+                            <span>{selectedColor.color}</span>
+                            <img src={selectedColor.img} alt={selectedColor.color} />
+                            </div>
+                            )}
+                            </div>
+
+                            <div className='d-flex-center-center gap-10'>
+                            <div className='d-flex-column gap-10'>
+                            <div className='quantity'>
+                            <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
+                            <span className="material-icons">remove</span>
+                            </button>
+                            <div className="quantity-input">{quantity}</div>
+                            <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
+                            <span className="material-icons">add</span>
+                            </button>
+                            </div>
+                            </div>
+
+                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick}/>
+                            </div>
+
+                            <div className='whatsapp-message d-flex d-flex-column gap-5'>
+                            <span className="material-icons">info</span>
+                            <p>La información solicitada se utilizará para agilizar el proceso de compra.</p>
+                            </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <Descripcion producto={producto}/>
+                </section>
+            </div>
+
+            <MasProductos categoriaActual={producto.categoria}/>
+        </main>
+
+        <Footer/>
         </>
     );
 }

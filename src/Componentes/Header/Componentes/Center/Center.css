@@ -26,6 +26,46 @@
 
 /**/
 
+.header-center-call-button{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 5px;
+}
+
+.header-center-call-button > span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-1);
+    color: var(--white);
+    width: 48px;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+}
+
+.header-center-call-button > div{
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 10px;
+    background: rgba(235 235 235 / 0.9);
+    border-radius: 4px;
+}
+
+.header-center-call-button > div p{
+    font-size: 14px;
+}
+
+.header-center-call-button > div span{
+    font-size: 13px;
+}
+
+.header-center-call-button > div p,
+.header-center-call-button > div span{
+    color: #000000;
+}
+
+/**/
+
 .menu-button{
     display: none;
 }

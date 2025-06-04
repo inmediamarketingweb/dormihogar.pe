@@ -21,7 +21,7 @@ function SobreNosotros(){
         <div className='block-container block-container-homepage-about-us'>
             <section className='block-content'>
                 <div className='block-title-container'>
-                    <h2 className='block-title'>Kamas fabricantes de dormitorios</h2>
+                    <h2 className='block-title'>Dormihogar</h2>
                 </div>
 
                 <div className='d-grid-2-1fr gap-10'>
@@ -31,8 +31,8 @@ function SobreNosotros(){
 
                     <div className='d-flex-column gap-20'>
                         <div className='d-flex-column gap-5'>
-                            <p className='title'>Somos Kamas</p>
-                            <p className='title'>¡ Diseñamos tus sueños !</p>
+                            {/* <p className='title'>Somos Kamas</p> */}
+                            <p className='title'>¡ Cuidamos tus sueños !</p>
                             <p className='text'>En KAMAS llevamos más de 15 años en el mercado peruano fabricando e innovando productos de descanso de primera calidad. Creamos experiencias que inician desde el primer contacto y culminan con la satisfacción de recibir tu dormitorio completo, personalizado y en tiempo récord.</p>
                             <p className='text'>Somos fabricantes peruanos con pasión por el detalle, el diseño, la rapidez y la calidad. Siempre a la vanguardia, nos caracterizamos por ser pioneros en la creación de nuevos modelos que marcan tendencia.</p>
                             <p className='text'>Contamos con más de 380 modelos, más de 48 colores disponibles, y una capacidad de respuesta que nos distingue en el mercado: fabricamos y entregamos en menos de 24 horas en Lima y Callao.</p>

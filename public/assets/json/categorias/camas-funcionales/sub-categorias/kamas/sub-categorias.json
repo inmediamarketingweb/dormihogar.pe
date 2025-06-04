@@ -1,0 +1,16 @@
+{
+    "subcategorias":[
+        {
+            "id": 1,
+            "subcategoria": "Box espacios",
+            "metaTitulo": "Box espacios - Kamas | Dormihogar",
+            "ruta": "/productos/camas-funcionales/kamas/box-espacios/"
+        },
+        {
+            "id": 2,
+            "subcategoria": "Divanes",
+            "metaTitulo": "Divanes - Kamas | Dormihogar",
+            "ruta": "/productos/camas-funcionales/kamas/divanes/"
+        }
+    ]
+}

@@ -2,39 +2,21 @@
     "subcategorias":[
         {
             "id": 1,
-            "subcategoria": "Clasicos",
-            "metaTitulo": "Dormitorios - Clásicos | Kamas",
-            "ruta": "/productos/dormitorios/clasicos/"
+            "subcategoria": "Kamas",
+            "metaTitulo": "Dormitorios - Kamas | Dormihogar",
+            "ruta": "/productos/dormitorios/kamas/"
         },
         {
             "id": 2,
-            "subcategoria": "Clasicos con cajones",
-            "metaTitulo": "Dormitorios - Clásicos con cajones | Kamas",
-            "ruta": "/productos/dormitorios/clasicos-con-cajones/"
+            "subcategoria": "Paraiso",
+            "metaTitulo": "Dormitorios - Paraiso | Dormihogar",
+            "ruta": "/productos/dormitorios/paraiso/"
         },
         {
             "id": 3,
-            "subcategoria": "Americanos",
-            "metaTitulo": "Dormitorios - Americanos | Kamas",
-            "ruta": "/productos/dormitorios/americanos/"
-        },
-        {
-            "id": 4,
-            "subcategoria": "Americanos con cajones",
-            "metaTitulo": "Dormitorios - Americanos con cajones | Kamas",
-            "ruta": "/productos/dormitorios/americanos/"
-        },
-        {
-            "id": 5,
-            "subcategoria": "Europeos",
-            "metaTitulo": "Dormitorios - Europeos | Kamas",
-            "ruta": "/productos/dormitorios/europeos/"
-        },
-        {
-            "id": 6,
-            "subcategoria": "Europeos con cajones",
-            "metaTitulo": "Dormitorios - Europeos con cajones | Kamas",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/"
+            "subcategoria": "El Cisne",
+            "metaTitulo": "Dormitorios - El Cisne | Dormihogar",
+            "ruta": "/productos/dormitorios/el-cisne/"
         }
     ]
 }

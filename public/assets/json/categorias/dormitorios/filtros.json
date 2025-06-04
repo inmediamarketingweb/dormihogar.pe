@@ -1,5 +1,21 @@
 [
     {
+        "id": 0,
+        "titulo": "Marca",
+        "nombre": "marca",
+        "lista":[
+            {
+                "nombre": "Kamas"
+            },
+            {
+                "nombre": "Paraiso"
+            },
+            {
+                "nombre": "El cisne"
+            }
+        ]
+    },
+    {
         "id": 1,
         "titulo": "Línea",
         "nombre": "línea",

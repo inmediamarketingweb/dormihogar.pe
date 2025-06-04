@@ -8,7 +8,7 @@ function Center(){
             <section className='header-center'>
                 <div className='d-flex-center-left gap-20'>
                     <a href='/' title='Dormihogar | Fabricantes de camas' className='header-logo'>
-                        <img src="/assets/imagenes/SEO/logo-principal.jpg" width={120} height={50} alt="Dormihogar"/>
+                        <img src="/assets/imagenes/SEO/logo-principal.jpg" width={125} height={50} alt="Dormihogar"/>
                     </a>
 
                     <button type='button' className='menu-button'>

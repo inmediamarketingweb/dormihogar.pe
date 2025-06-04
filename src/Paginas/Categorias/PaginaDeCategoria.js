@@ -10,7 +10,8 @@ import Footer from "../../Componentes/Footer/Footer";
 import "./PaginaDeCategoria.css";
 
 function PaginaDeCategoria() {
-    const { categoria, subcategoria, marca } = useParams();
+    const params = useParams();
+    const { categoria, subcategoria, marca } = params;
     const [metadatos, setMetadatos] = useState({ title: "", description: "" });
     const [productos, setProductos] = useState([]);
     const [productosFiltrados, setProductosFiltrados] = useState([]);

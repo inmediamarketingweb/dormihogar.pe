@@ -329,4 +329,16 @@
     .menu::after{
         display: block;
     }
+
+    /**/
+
+    .header-center-call-button{
+        display: none;
+    }
+
+    /**/
+
+    .header-bottom-container{
+        display: none
+    }
 }

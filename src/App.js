@@ -66,10 +66,13 @@ function App(){
                     <Route path="/" element={<PaginaPrincipal/>} />
 
                     <Route path="/productos/" element={<Productos/>} />
+                    
+                    {/* Rutas específicas de categorías (deben ir ANTES de la ruta genérica) */}
                     <Route path="/productos/:categoria/" element={<PaginaDeCategoria/>} />
                     <Route path="/productos/:categoria/:subcategoria/" element={<PaginaDeCategoria/>} />
                     <Route path="/productos/:categoria/:subcategoria/:marca/" element={<PaginaDeCategoria/>} />
-
+                    
+                    {/* Ruta genérica para productos individuales (DEBE IR DESPUÉS de las rutas de categoría) */}
                     <Route path="/productos/*" element={<PaginaProducto/>} />
 
                     <Route path="/ofertas/" element={<Ofertas/>} />

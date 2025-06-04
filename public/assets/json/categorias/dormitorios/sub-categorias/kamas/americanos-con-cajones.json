@@ -4,6 +4,7 @@
             "id": 1,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "1 plaza y media",
             "modelo": "adel",
             "ruta": "/ofertas/solo-por-horas/dormitorios/americanos-con-cajones/1-plaza-y-media/adel/1/",
@@ -25,6 +26,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "1 plaza y media",
                     "modelo-colchón": "Adel",
@@ -33,6 +35,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "1 plaza y media",
                     "cajones": "Si",
@@ -93,6 +96,7 @@
             "id": 2,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "1 plaza y media",
             "modelo": "adel",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/1-plaza-y-media/adel/2/",
@@ -113,6 +117,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "1 plaza y media",
                     "modelo-colchón": "Adel",
@@ -121,6 +126,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "1 plaza y media",
                     "cajones": "Si",
@@ -181,6 +187,7 @@
             "id": 3,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "1 plaza y media",
             "modelo": "adel",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/1-plaza-y-media/adel/3/",
@@ -201,6 +208,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "1 plaza y media",
                     "modelo-colchón": "Adel",
@@ -209,6 +217,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "1 plaza y media",
                     "cajones": "Si",
@@ -269,6 +278,7 @@
             "id": 4,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/sarki/1/",
@@ -289,6 +299,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -298,6 +309,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -362,6 +374,7 @@
             "id": 5,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/sarki/2/",
@@ -382,6 +395,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -391,6 +405,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -453,6 +468,7 @@
             "id": 6,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/der-prinz/1/",
@@ -477,6 +493,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Der prinz",
@@ -486,6 +503,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -551,6 +569,7 @@
             "id": 7,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/der-prinz/2/",
@@ -575,6 +594,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Der prinz",
@@ -584,6 +604,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -649,6 +670,7 @@
             "id": 8,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/der-prinz/3/",
@@ -673,6 +695,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Der prinz",
@@ -682,6 +705,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -747,6 +771,7 @@
             "id": 9,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/der-prinz/4/",
@@ -771,6 +796,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Der prinz",
@@ -780,6 +806,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -845,6 +872,7 @@
             "id": 10,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/der-prinz/5/",
@@ -869,6 +897,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Der prinz",
@@ -878,6 +907,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -943,6 +973,7 @@
             "id": 11,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/der-prinz/6/",
@@ -967,6 +998,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Der prinz",
@@ -976,6 +1008,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -1041,6 +1074,7 @@
             "id": 12,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/der-prinz/7/",
@@ -1065,6 +1099,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Der prinz",
@@ -1074,6 +1109,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -1139,6 +1175,7 @@
             "id": 13,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/1/",
@@ -1159,6 +1196,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
@@ -1168,6 +1206,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -1234,6 +1273,7 @@
             "id": 14,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/2/",
@@ -1254,6 +1294,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
@@ -1263,6 +1304,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -1329,6 +1371,7 @@
             "id": 15,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/3/",
@@ -1349,6 +1392,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
@@ -1358,6 +1402,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -1424,6 +1469,7 @@
             "id": 16,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/4/",
@@ -1444,6 +1490,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
@@ -1453,6 +1500,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -1519,6 +1567,7 @@
             "id": 17,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "king",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/5/",
@@ -1539,6 +1588,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
@@ -1548,6 +1598,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -1614,6 +1665,7 @@
             "id": 18,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/1/",
@@ -1634,6 +1686,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -1643,6 +1696,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -1705,6 +1759,7 @@
             "id": 19,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/2/",
@@ -1725,6 +1780,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -1734,6 +1790,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -1796,6 +1853,7 @@
             "id": 20,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/3/",
@@ -1816,6 +1874,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -1825,6 +1884,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -1887,6 +1947,7 @@
             "id": 21,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/4/",
@@ -1907,6 +1968,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -1916,6 +1978,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -1978,6 +2041,7 @@
             "id": 22,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/5/",
@@ -1998,6 +2062,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2007,6 +2072,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2069,6 +2135,7 @@
             "id": 23,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/6/",
@@ -2089,6 +2156,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2098,6 +2166,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2160,6 +2229,7 @@
             "id": 24,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/7/",
@@ -2180,6 +2250,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2189,6 +2260,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2251,6 +2323,7 @@
             "id": 25,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/8/",
@@ -2271,6 +2344,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2280,6 +2354,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2342,6 +2417,7 @@
             "id": 26,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/9/",
@@ -2362,6 +2438,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2371,6 +2448,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2433,6 +2511,7 @@
             "id": 27 ,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/10/",
@@ -2453,6 +2532,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2462,6 +2542,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2524,6 +2605,7 @@
             "id": 28,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/11/",
@@ -2544,6 +2626,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2553,6 +2636,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2615,6 +2699,7 @@
             "id": 29,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/12/",
@@ -2635,6 +2720,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2644,6 +2730,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2705,6 +2792,7 @@
             "id": 30,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/13/",
@@ -2725,6 +2813,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2734,6 +2823,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2796,6 +2886,7 @@
             "id": 31,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/14/",
@@ -2816,6 +2907,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2825,6 +2917,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2887,6 +2980,7 @@
             "id": 32,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/15/",
@@ -2907,6 +3001,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -2916,6 +3011,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -2977,6 +3073,7 @@
             "id": 33,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/16/",
@@ -2997,6 +3094,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3006,6 +3104,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3068,6 +3167,7 @@
             "id": 34,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/17/",
@@ -3088,6 +3188,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3097,6 +3198,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3159,6 +3261,7 @@
             "id": 35,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/18/",
@@ -3179,6 +3282,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3188,6 +3292,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3250,6 +3355,7 @@
             "id": 36,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/19/",
@@ -3270,6 +3376,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3279,6 +3386,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3341,6 +3449,7 @@
             "id": 37,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/20/",
@@ -3361,6 +3470,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3370,6 +3480,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3432,6 +3543,7 @@
             "id": 38,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/21/",
@@ -3452,6 +3564,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3461,6 +3574,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3523,6 +3637,7 @@
             "id": 39,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/22/",
@@ -3543,6 +3658,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3552,6 +3668,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3614,6 +3731,7 @@
             "id": 40,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/23/",
@@ -3634,6 +3752,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3643,6 +3762,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3705,6 +3825,7 @@
             "id": 41,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/24/",
@@ -3725,6 +3846,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3734,6 +3856,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3796,6 +3919,7 @@
             "id": 42,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/25/",
@@ -3816,6 +3940,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3825,6 +3950,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3887,6 +4013,7 @@
             "id": 43,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/26/",
@@ -3907,6 +4034,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -3916,6 +4044,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -3978,6 +4107,7 @@
             "id": 44,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/27/",
@@ -3998,6 +4128,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -4007,6 +4138,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4069,6 +4201,7 @@
             "id": 45,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/28/",
@@ -4089,6 +4222,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -4098,6 +4232,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4160,6 +4295,7 @@
             "id": 46,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/29/",
@@ -4180,6 +4316,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -4189,6 +4326,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4251,6 +4389,7 @@
             "id": 47,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/30/",
@@ -4271,6 +4410,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -4280,6 +4420,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4342,6 +4483,7 @@
             "id": 48,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/31/",
@@ -4362,6 +4504,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -4371,6 +4514,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4433,6 +4577,7 @@
             "id": 49,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/32/",
@@ -4453,6 +4598,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -4462,6 +4608,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4524,6 +4671,7 @@
             "id": 50,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/ramat/33/",
@@ -4544,6 +4692,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -4553,6 +4702,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4615,6 +4765,7 @@
             "id": 51,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/safynnte/1/",
@@ -4635,6 +4786,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "safynnte",
@@ -4644,6 +4796,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4705,6 +4858,7 @@
             "id": 52,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/safynnte/2/",
@@ -4725,6 +4879,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "safynnte",
@@ -4734,6 +4889,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4795,6 +4951,7 @@
             "id": 53,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/safynnte/3/",
@@ -4815,6 +4972,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "safynnte",
@@ -4824,6 +4982,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4885,6 +5044,7 @@
             "id": 54,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/safynnte/4/",
@@ -4905,6 +5065,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "safynnte",
@@ -4914,6 +5075,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -4975,6 +5137,7 @@
             "id": 55,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/safynnte/5/",
@@ -4995,6 +5158,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "safynnte",
@@ -5004,6 +5168,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5065,6 +5230,7 @@
             "id": 56,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/1/",
@@ -5085,6 +5251,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5094,6 +5261,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5155,6 +5323,7 @@
             "id": 57,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/2/",
@@ -5175,6 +5344,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5184,6 +5354,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5245,6 +5416,7 @@
             "id": 58,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/3/",
@@ -5265,6 +5437,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5274,6 +5447,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5335,6 +5509,7 @@
             "id": 59,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/4/",
@@ -5355,6 +5530,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5364,6 +5540,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5425,6 +5602,7 @@
             "id": 60,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/5/",
@@ -5445,6 +5623,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5454,6 +5633,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5515,6 +5695,7 @@
             "id": 61,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/6/",
@@ -5535,6 +5716,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5544,6 +5726,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5605,6 +5788,7 @@
             "id": 62,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/7/",
@@ -5625,6 +5809,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5634,6 +5819,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5695,6 +5881,7 @@
             "id": 63,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/8/",
@@ -5715,6 +5902,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5724,6 +5912,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5785,6 +5974,7 @@
             "id": 64,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/9/",
@@ -5805,6 +5995,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5814,6 +6005,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5875,6 +6067,7 @@
             "id": 65,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/10/",
@@ -5895,6 +6088,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5904,6 +6098,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -5965,6 +6160,7 @@
             "id": 66,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/11/",
@@ -5985,6 +6181,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -5994,6 +6191,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6055,6 +6253,7 @@
             "id": 67,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/12/",
@@ -6075,6 +6274,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6084,6 +6284,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6145,6 +6346,7 @@
             "id": 68,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/13/",
@@ -6165,6 +6367,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6174,6 +6377,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6235,6 +6439,7 @@
             "id": 69,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/14/",
@@ -6255,6 +6460,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6264,6 +6470,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6325,6 +6532,7 @@
             "id": 70,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/15/",
@@ -6345,6 +6553,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6354,6 +6563,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6415,6 +6625,7 @@
             "id": 71,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/16/",
@@ -6435,6 +6646,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6444,6 +6656,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6505,6 +6718,7 @@
             "id": 72,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/17/",
@@ -6525,6 +6739,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6534,6 +6749,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6595,6 +6811,7 @@
             "id": 73,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/18/",
@@ -6615,6 +6832,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6624,6 +6842,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6685,6 +6904,7 @@
             "id": 74,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/19/",
@@ -6705,6 +6925,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6714,6 +6935,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6775,6 +6997,7 @@
             "id": 75,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/20/",
@@ -6795,6 +7018,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6804,6 +7028,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -6865,6 +7090,7 @@
             "id": 76,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
+            "marca": "kamas",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos-con-cajones/2-plazas/sarki/21/",
@@ -6885,6 +7111,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -6894,6 +7121,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Americano",
                     "tamaño": "2 plazas",
                     "cajones": "Si",

@@ -1,0 +1,34 @@
+{
+    "subcategorias":[
+        {
+            "id": 1,
+            "subcategoria": "Clasicas",
+            "metaTitulo": "Camas box tarimas Kamas clásicas | Dormihogar",
+            "ruta": "/productos/camas-box-tarimas/kamas/clasicas/"
+        },
+        {
+            "id": 2,
+            "subcategoria": "Americanas",
+            "metaTitulo": "Camas box tarimas Kamas americanas | Dormihogar",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas/"
+        },
+        {
+            "id": 3,
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Camas box tarimas Kamas americanas con cajones | Dormihogar",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas-con-cajones/"
+        },
+        {
+            "id": 4,
+            "subcategoria": "Europeas",
+            "metaTitulo": "Camas box tarimas Kamas europeas | Dormihogar",
+            "ruta": "/productos/camas-box-tarimas/kamas/europeas/"
+        },
+        {
+            "id": 5,
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Camas box tarimas Kamas europeas con cajones | Dormihogar",
+            "ruta": "/productos/camas-box-tarimas/kamas/europeas-con-cajones/"
+        }
+    ]
+}

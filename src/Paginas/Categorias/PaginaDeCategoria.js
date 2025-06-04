@@ -37,7 +37,6 @@ function PaginaDeCategoria() {
                 setMetadatos({ title: "", description: "" });
             });
 
-        // Función mejorada para cargar productos
         const loadProducts = async () => {
             try {
                 let products = [];
@@ -46,7 +45,6 @@ function PaginaDeCategoria() {
                 console.log("Cargando productos para:", { categoria, subcategoria, marca });
 
                 if (marca) {
-                    // Caso: /productos/colchones/kamas/adel/ (3 niveles)
                     const marcaPath = `${basePath}/sub-categorias/${subcategoria}/${marca}.json`;
                     console.log("Intentando cargar marca:", marcaPath);
                     
@@ -64,9 +62,7 @@ function PaginaDeCategoria() {
                         throw error;
                     }
                 } else if (subcategoria) {
-                    // Caso: /productos/colchones/kamas/ (2 niveles)
                     try {
-                        // Primero intentamos cargar sub-subcategorías
                         const subSubCatPath = `${basePath}/sub-categorias/${subcategoria}/sub-categorias.json`;
                         console.log("Buscando sub-subcategorías en:", subSubCatPath);
                         
@@ -81,7 +77,6 @@ function PaginaDeCategoria() {
                             throw new Error("Formato inválido: falta propiedad 'subcategorias'");
                         }
 
-                        // Cargar productos de todas las marcas
                         console.log(`Cargando ${subSubCatData.subcategorias.length} marcas...`);
                         const productPromises = subSubCatData.subcategorias.map(async marcaItem => {
                             const marcaFileName = marcaItem.subcategoria.toLowerCase().replace(/\s+/g, "-");
@@ -122,7 +117,6 @@ function PaginaDeCategoria() {
                         }
                     }
                 } else {
-                    // Caso: /productos/colchones/ (1 nivel)
                     const subCatPath = `${basePath}/sub-categorias/sub-categorias.json`;
                     console.log("Cargando todas las subcategorías desde:", subCatPath);
                     
@@ -140,7 +134,6 @@ function PaginaDeCategoria() {
                             const subcatFileName = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
                             
                             try {
-                                // Verificar si tiene sub-subcategorías
                                 const subSubCatPath = `${basePath}/sub-categorias/${subcatFileName}/sub-categorias.json`;
                                 const subSubCatResponse = await fetch(subSubCatPath);
                                 
@@ -171,7 +164,6 @@ function PaginaDeCategoria() {
                                 console.warn(`No hay sub-subcategorías para ${subcatFileName}:`, e.message);
                             }
                             
-                            // Cargar subcategoría directamente
                             const subCatPath = `${basePath}/sub-categorias/${subcatFileName}.json`;
                             try {
                                 const response = await fetch(subCatPath);

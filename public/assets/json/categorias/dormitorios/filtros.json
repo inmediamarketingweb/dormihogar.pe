@@ -1,6 +1,6 @@
 [
     {
-        "id": 0,
+        "id": 1,
         "titulo": "Marca",
         "nombre": "marca",
         "lista":[
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "titulo": "Línea",
         "nombre": "línea",
         "lista":[
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "titulo": "Tamaño",
         "nombre": "tamaño",
         "lista":[
@@ -65,6 +65,7 @@
         ]
     },
     {
+        "id": 4,
         "titulo": "Cajones",
         "nombre": "cajones",
         "lista":[
@@ -77,6 +78,7 @@
         ]
     },
     {
+        "id": 5,
         "titulo": "Base encajonada",
         "nombre": "base-encajonada",
         "lista":[
@@ -89,6 +91,7 @@
         ]
     },
     {
+        "id": 6,
         "titulo": "Modelo de colchón",
         "nombre": "modelo-de-colchón",
         "lista":[
@@ -131,6 +134,7 @@
         ]
     },
     {
+        "id": 7,
         "titulo": "Tipo de cabecera",
         "nombre": "tipo-de-cabecera",
         "lista":[
@@ -146,6 +150,7 @@
         ]
     },
     {
+        "id": 8,
         "titulo": "Diseño de cabecera",
         "nombre": "diseño-de-cabecera",
         "lista":[
@@ -173,6 +178,7 @@
         ]
     },
     {
+        "id": 9,
         "titulo": "Brazos de cabecera",
         "nombre": "brazos-de-cabecera",
         "lista":[

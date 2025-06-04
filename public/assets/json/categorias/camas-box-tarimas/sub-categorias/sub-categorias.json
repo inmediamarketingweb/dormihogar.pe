@@ -2,33 +2,21 @@
     "subcategorias":[
         {
             "id": 1,
-            "subcategoria": "Clasicas",
-            "metaTitulo": "Cama box tarimas - Clásicas | Kamas",
-            "ruta": "/productos/camas-box-tarimas/clasicas/"
+            "subcategoria": "Kamas",
+            "metaTitulo": "Camas box tarimas - Kamas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/kamas/"
         },
         {
             "id": 2,
-            "subcategoria": "Americanas",
-            "metaTitulo": "Camas box tarimas - Americanas | Kamas",
-            "ruta": "/productos/camas-box-tarimas/americanas/"
+            "subcategoria": "Paraiso",
+            "metaTitulo": "Camas box tarimas - Paraiso | Kamas",
+            "ruta": "/productos/camas-box-tarimas/paraiso/"
         },
         {
             "id": 3,
-            "subcategoria": "Americanas con cajones",
-            "metaTitulo": "Camas box tarimas - Americanas con cajones | Kamas",
-            "ruta": "/productos/camas-box-tarimas/americanas-con-cajones/"
-        },
-        {
-            "id": 4,
-            "subcategoria": "Europeas",
-            "metaTitulo": "Camas box tarimas - Europeas | Kamas",
-            "ruta": "/productos/camas-box-tarimas/europeas/"
-        },
-        {
-            "id": 5,
-            "subcategoria": "Europeas con cajones",
-            "metaTitulo": "Camas box tarimas - Europeas con cajones | Kamas",
-            "ruta": "/productos/camas-box-tarimas/europeas-con-cajones/"
+            "subcategoria": "Cisne",
+            "metaTitulo": "Camas box tarimas - Cisne | Kamas",
+            "ruta": "/productos/camas-box-tarimas/cisne/"
         }
     ]
 }

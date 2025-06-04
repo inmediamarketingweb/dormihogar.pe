@@ -3,6 +3,7 @@
         {
             "id": 1,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
@@ -28,6 +29,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -37,6 +39,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -98,6 +101,7 @@
         {
             "id": 2,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
@@ -123,6 +127,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -132,6 +137,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -193,6 +199,7 @@
         {
             "id": 3,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
@@ -218,6 +225,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -227,6 +235,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -288,6 +297,7 @@
         {
             "id": 4,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
@@ -313,6 +323,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -322,6 +333,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -383,6 +395,7 @@
         {
             "id": 5,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
@@ -408,6 +421,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -417,6 +431,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -478,6 +493,7 @@
         {
             "id": 6,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
@@ -503,6 +519,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -512,6 +529,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -573,6 +591,7 @@
         {
             "id": 7,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
@@ -598,6 +617,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
@@ -607,6 +627,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -668,6 +689,7 @@
         {
             "id": 8,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "konig",
@@ -693,6 +715,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
@@ -702,6 +725,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -765,6 +789,7 @@
         {
             "id": 9,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "konig",
@@ -790,6 +815,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
@@ -799,6 +825,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -862,6 +889,7 @@
         {
             "id": 10,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "konig",
@@ -887,6 +915,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
@@ -896,6 +925,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -959,6 +989,7 @@
         {
             "id": 11,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "konig",
@@ -984,6 +1015,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
@@ -993,6 +1025,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1056,6 +1089,7 @@
         {
             "id": 12,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "konig",
@@ -1081,6 +1115,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
@@ -1090,6 +1125,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1153,6 +1189,7 @@
         {
             "id": 13,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "konig",
@@ -1178,6 +1215,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
@@ -1187,6 +1225,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1250,6 +1289,7 @@
         {
             "id": 14,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "konig",
@@ -1275,6 +1315,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
@@ -1284,6 +1325,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1347,6 +1389,7 @@
         {
             "id": 15,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -1369,6 +1412,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Adel",
@@ -1378,6 +1422,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1436,6 +1481,7 @@
         {
             "id": 16,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "ramat",
@@ -1458,6 +1504,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
@@ -1467,6 +1514,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1527,6 +1575,7 @@
         {
             "id": 17,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "safynnte",
@@ -1549,6 +1598,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Safynnte",
@@ -1558,6 +1608,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1617,6 +1668,7 @@
         {
             "id": 18,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "sarki",
@@ -1639,6 +1691,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -1648,6 +1701,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1707,6 +1761,7 @@
         {
             "id": 19,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "sarki",
@@ -1729,6 +1784,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -1738,6 +1794,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1797,6 +1854,7 @@
         {
             "id": 20,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "sarki",
@@ -1819,6 +1877,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -1828,6 +1887,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1887,6 +1947,7 @@
         {
             "id": 21,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "sarki",
@@ -1909,6 +1970,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -1918,6 +1980,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1977,6 +2040,7 @@
         {
             "id": 22,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
             "modelo": "sarki",
@@ -1999,6 +2063,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
@@ -2008,6 +2073,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "Kamas",
                     "línea": "Europeo",
                     "tamaño": "2 plazas",
                     "cajones": "No",

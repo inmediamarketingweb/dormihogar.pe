@@ -1,6 +1,12 @@
 {
     "subcategorias":[
         {
+            "id": 0,
+            "subcategoria": "clasicos",
+            "metaTitulo": "Dormitorios Kamas clásicos | Dormihogar",
+            "ruta": "/productos/colchones/kamas/clasicos/"
+        },
+        {
             "id": 1,
             "subcategoria": "americanos",
             "metaTitulo": "Dormitorios Kamas americanos | Dormihogar",

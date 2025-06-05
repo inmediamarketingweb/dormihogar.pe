@@ -2,21 +2,21 @@
     "subcategorias":[
         {
             "id": 1,
-            "subcategoria": "Aereas",
-            "metaTitulo": "Cabeceras - Aéreas | Kamas",
-            "ruta": "/productos/cabeceras/aereas/"
+            "subcategoria": "Kamas",
+            "metaTitulo": "Cabeceras - Kamas | Dormihogar",
+            "ruta": "/productos/cabeceras/kamas/"
         },
         {
             "id": 2,
-            "subcategoria": "Aereas con patas",
-            "metaTitulo": "Cabeceras - Aéreas con patas | Kamas",
-            "ruta": "/productos/cabeceras/aereas-con-patas/"
+            "subcategoria": "Paraiso",
+            "metaTitulo": "Cabeceras - Paraiso | Dormihogar",
+            "ruta": "/productos/cabeceras/paraiso/"
         },
         {
             "id": 3,
-            "subcategoria": "Pedestales",
-            "metaTitulo": "Cabeceras - Pedestales | Kamas",
-            "ruta": "/productos/cabeceras/pedestales/"
+            "subcategoria": "El Cisne",
+            "metaTitulo": "Cabeceras - El Cisne | Dormihogar",
+            "ruta": "/productos/cabeceras/el-cisne/"
         }
     ]
 }

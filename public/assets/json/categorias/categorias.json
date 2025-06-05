@@ -350,33 +350,27 @@
             ],
             "subCategoriasTitulo":[
                 {
-                    "text": "Tipo"
+                    "text": "Marcas"
                 }
             ],
             "subCategorias":[
                 {
                     "id": 1,
-                    "subcategoria": "Aereas",
-                    "metaTitulo": "Cabeceras - Aéreas | Dormihogar",
-                    "ruta": "/productos/cabeceras/aereas/"
+                    "subcategoria": "Kamas",
+                    "metaTitulo": "Cabeceras - Kamas | Dormihogar",
+                    "ruta": "/productos/cabeceras/kamas/"
                 },
                 {
                     "id": 2,
-                    "subcategoria": "Aereas con patas",
-                    "metaTitulo": "Cabeceras - Aéreas con patas | Dormihogar",
-                    "ruta": "/productos/cabeceras/aereas-con-patas/"
+                    "subcategoria": "Paraiso",
+                    "metaTitulo": "Cabeceras - Paraiso | Dormihogar",
+                    "ruta": "/productos/cabeceras/paraiso/"
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Pedestales",
-                    "metaTitulo": "Cabeceras - Pedestales | Dormihogar",
-                    "ruta": "/productos/cabeceras/pedestales/"
-                },
-                {
-                    "id": 4,
-                    "subcategoria": "Ver todos",
-                    "metaTitulo": "Cabeceras | Dormihogar",
-                    "ruta": "/productos/cabeceras/"
+                    "subcategoria": "El Cisne",
+                    "metaTitulo": "Cabeceras - El Cisne | Dormihogar",
+                    "ruta": "/productos/cabeceras/el-cisne/"
                 }
             ],
             "menuImg":[
@@ -400,7 +394,7 @@
             ],
             "subCategoriasTitulo":[
                 {
-                    "text": "Marcas"
+                    "text": "Modelos"
                 }
             ],
             "subCategorias":[

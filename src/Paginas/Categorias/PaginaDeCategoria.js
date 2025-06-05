@@ -10,7 +10,8 @@ import Footer from "../../Componentes/Footer/Footer";
 import "./PaginaDeCategoria.css";
 
 function PaginaDeCategoria() {
-    const { categoria, subcategoria, marca } = useParams();
+    const params = useParams();
+    const { categoria, subcategoria, marca } = params;
     const [metadatos, setMetadatos] = useState({ title: "", description: "" });
     const [productos, setProductos] = useState([]);
     const [productosFiltrados, setProductosFiltrados] = useState([]);
@@ -25,7 +26,6 @@ function PaginaDeCategoria() {
     }, []);
 
     useEffect(() => {
-        // Cargar metadatos de la categoría
         fetch(`/assets/json/categorias/${categoria}/metadatos.json`)
             .then((response) => {
                 if (!response.ok) throw new Error("Metadatos no encontrados");
@@ -41,12 +41,9 @@ function PaginaDeCategoria() {
             try {
                 let products = [];
                 const basePath = `/assets/json/categorias/${categoria}`;
-                
-                console.log("Cargando productos para:", { categoria, subcategoria, marca });
 
                 if (marca) {
                     const marcaPath = `${basePath}/sub-categorias/${subcategoria}/${marca}.json`;
-                    console.log("Intentando cargar marca:", marcaPath);
                     
                     try {
                         const response = await fetch(marcaPath);
@@ -56,7 +53,6 @@ function PaginaDeCategoria() {
                         if (!data.productos) throw new Error("Formato inválido: falta propiedad 'productos'");
                         
                         products = data.productos;
-                        console.log(`Productos cargados de ${marcaPath}:`, products.length);
                     } catch (error) {
                         console.error(`Error cargando ${marcaPath}:`, error);
                         throw error;
@@ -64,11 +60,9 @@ function PaginaDeCategoria() {
                 } else if (subcategoria) {
                     try {
                         const subSubCatPath = `${basePath}/sub-categorias/${subcategoria}/sub-categorias.json`;
-                        console.log("Buscando sub-subcategorías en:", subSubCatPath);
                         
                         const subSubCatResponse = await fetch(subSubCatPath);
                         if (!subSubCatResponse.ok) {
-                            console.log("No se encontró sub-subcategorías, cargando subcategoría directamente");
                             throw new Error("No hay sub-subcategorías");
                         }
                         
@@ -77,7 +71,6 @@ function PaginaDeCategoria() {
                             throw new Error("Formato inválido: falta propiedad 'subcategorias'");
                         }
 
-                        console.log(`Cargando ${subSubCatData.subcategorias.length} marcas...`);
                         const productPromises = subSubCatData.subcategorias.map(async marcaItem => {
                             const marcaFileName = marcaItem.subcategoria.toLowerCase().replace(/\s+/g, "-");
                             const marcaPath = `${basePath}/sub-categorias/${subcategoria}/${marcaFileName}.json`;
@@ -91,18 +84,14 @@ function PaginaDeCategoria() {
                                 const data = await response.json();
                                 return data.productos || [];
                             } catch (e) {
-                                console.warn(`Error cargando ${marcaPath}:`, e);
                                 return [];
                             }
                         });
 
                         const productsArrays = await Promise.all(productPromises);
                         products = productsArrays.flat();
-                        console.log(`Total productos cargados de marcas: ${products.length}`);
                     } catch (e) {
-                        console.warn("Cargando subcategoría directamente:", e.message);
                         const subCatPath = `${basePath}/sub-categorias/${subcategoria}.json`;
-                        console.log("Intentando cargar:", subCatPath);
                         
                         try {
                             const response = await fetch(subCatPath);
@@ -110,7 +99,6 @@ function PaginaDeCategoria() {
                             
                             const data = await response.json();
                             products = data.productos || [];
-                            console.log(`Productos cargados de subcategoría: ${products.length}`);
                         } catch (error) {
                             console.error(`Error cargando ${subCatPath}:`, error);
                             throw error;
@@ -118,7 +106,6 @@ function PaginaDeCategoria() {
                     }
                 } else {
                     const subCatPath = `${basePath}/sub-categorias/sub-categorias.json`;
-                    console.log("Cargando todas las subcategorías desde:", subCatPath);
                     
                     try {
                         const subCatResponse = await fetch(subCatPath);
@@ -129,7 +116,6 @@ function PaginaDeCategoria() {
                             throw new Error("Formato inválido: falta propiedad 'subcategorias'");
                         }
 
-                        console.log(`Procesando ${subCatData.subcategorias.length} subcategorías...`);
                         const allProductPromises = subCatData.subcategorias.map(async (subcat) => {
                             const subcatFileName = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
                             
@@ -207,7 +193,7 @@ function PaginaDeCategoria() {
 
     const totalItems = productosFiltrados.length;
     const totalPages = Math.ceil(totalItems / itemsPerPage);
-    
+
     const getVisiblePages = () => {
         const visiblePages = [];
         if (totalPages <= 5) {

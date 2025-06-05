@@ -415,9 +415,9 @@ useEffect(() => {
                 const path = location.pathname;
                 const pathParts = path.split('/').filter(p => p);
                 
-                // Construir posibles rutas base para búsqueda (desde 3 hasta 6 segmentos)
+                // Construir posibles rutas base para búsqueda (niveles 3 a 7)
                 const searchPaths = [];
-                for (let i = 3; i <= Math.min(6, pathParts.length); i++) {
+                for (let i = 3; i <= Math.min(7, pathParts.length); i++) {
                     searchPaths.push(`/${pathParts.slice(0, i).join('/')}/`);
                 }
 
@@ -445,68 +445,57 @@ useEffect(() => {
             }
         };
 
-        const buscarProductoEnCategorias = async (rutaBuscada) => {
+const buscarProductoEnCategorias = async (rutaBuscada) => {
             const categorias = ["colchones", "camas-box-tarimas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];
             
             for (const categoria of categorias) {
                 try {
-                    // 1. Buscar en archivos de subcategorías directas
-                    const subcategoriasRes = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`);
-                    if (!subcategoriasRes.ok) continue;
-                    
-                    const subcategoriasData = await subcategoriasRes.json();
-                    const subcategorias = subcategoriasData.subcategorias || [];
+                    // Cargar lista de subcategorías
+                    const subcategorias = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`)
+                        .then(response => response.json())
+                        .catch(() => ({ subcategorias: [] }));
 
-                    // Buscar en archivos de subcategorías
-                    for (const subcat of subcategorias) {
+                    // Buscar en subcategorías directas
+                    for (const subcat of subcategorias.subcategorias || []) {
                         const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                        const subcatPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
+                        const jsonPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
                         
-                        try {
-                            const subcatRes = await fetch(subcatPath);
-                            if (!subcatRes.ok) continue;
-                            
-                            const subcatData = await subcatRes.json();
-                            if (subcatData.productos) {
-                                const producto = subcatData.productos.find(p => p.ruta === rutaBuscada);
-                                if (producto) return producto;
-                            }
-                        } catch (e) {
-                            console.warn(`Error cargando ${subcatPath}:`, e);
+                        const data = await fetch(jsonPath)
+                            .then(response => response.json())
+                            .catch(() => null);
+
+                        if (data && data.productos) {
+                            const producto = data.productos.find(p => p.ruta === rutaBuscada);
+                            if (producto) return producto;
                         }
                     }
 
-                    // 2. Buscar en marcas dentro de subcategorías
-                    for (const subcat of subcategorias) {
+                    // Buscar en marcas dentro de subcategorías
+                    for (const subcat of subcategorias.subcategorias || []) {
                         const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
                         const subSubCatPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`;
                         
                         try {
-                            const subSubCatRes = await fetch(subSubCatPath);
-                            if (!subSubCatRes.ok) continue;
+                            const subSubCatResponse = await fetch(subSubCatPath);
+                            if (!subSubCatResponse.ok) continue;
                             
-                            const subSubCatData = await subSubCatRes.json();
-                            const marcas = subSubCatData.subcategorias || [];
+                            const subSubCatData = await subSubCatResponse.json();
                             
-                            for (const marca of marcas) {
+                            for (const marca of subSubCatData.subcategorias || []) {
                                 const marcaNombre = marca.subcategoria.toLowerCase().replace(/\s+/g, "-");
                                 const marcaPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${marcaNombre}.json`;
                                 
-                                try {
-                                    const marcaRes = await fetch(marcaPath);
-                                    if (!marcaRes.ok) continue;
-                                    
-                                    const marcaData = await marcaRes.json();
-                                    if (marcaData.productos) {
-                                        const producto = marcaData.productos.find(p => p.ruta === rutaBuscada);
-                                        if (producto) return producto;
-                                    }
-                                } catch (e) {
-                                    console.warn(`Error cargando ${marcaPath}:`, e);
+                                const marcaData = await fetch(marcaPath)
+                                    .then(response => response.json())
+                                    .catch(() => null);
+
+                                if (marcaData && marcaData.productos) {
+                                    const producto = marcaData.productos.find(p => p.ruta === rutaBuscada);
+                                    if (producto) return producto;
                                 }
                             }
                         } catch (e) {
-                            console.warn(`Error cargando ${subSubCatPath}:`, e);
+                            continue;
                         }
                     }
                 } catch (error) {
@@ -518,7 +507,46 @@ useEffect(() => {
         };
 
         const cargarImagenes = (carpetaFotos) => {
-            // ... (código existente) ...
+            const formatos = ['jpg', 'webp', 'png'];
+            const imagenesCargadas = [];
+            let cargadas = 0;
+            const maxFotos = 10;
+
+            const cargarImagen = (index) => {
+                if (index > maxFotos) return;
+
+                let formatoIndex = 0;
+
+                const intentarCargar = () => {
+                    if (formatoIndex >= formatos.length) {
+                        cargarImagen(index + 1);
+                        return;
+                    }
+
+                    const formato = formatos[formatoIndex];
+                    const path = `${carpetaFotos}${index}.${formato}`;
+                    const img = new Image();
+
+                    img.onload = () => {
+                        imagenesCargadas[index - 1] = path;
+                        cargadas++;
+                        if (cargadas >= 5) {
+                            setImagenes(imagenesCargadas.filter(img => img));
+                        }
+                    };
+
+                    img.onerror = () => {
+                        formatoIndex++;
+                        intentarCargar();
+                    };
+
+                    img.src = path;
+                };
+
+                intentarCargar();
+            };
+
+            cargarImagen(1);
         };
 
         setLoading(true);

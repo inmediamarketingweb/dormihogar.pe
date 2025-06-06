@@ -44,7 +44,6 @@ function PaginaProducto(){
                 const path = location.pathname;
                 const pathParts = path.split('/').filter(p => p);
                 
-                // Construir posibles rutas base para búsqueda (niveles 3 a 7)
                 const searchPaths = [];
                 for (let i = 3; i <= Math.min(7, pathParts.length); i++) {
                     searchPaths.push(`/${pathParts.slice(0, i).join('/')}/`);
@@ -52,7 +51,6 @@ function PaginaProducto(){
 
                 let productoEncontrado = null;
 
-                // Buscar en cada posible ruta base
                 for (const basePath of searchPaths) {
                     productoEncontrado = await buscarProductoEnCategorias(basePath);
                     if (productoEncontrado) {
@@ -80,12 +78,10 @@ function PaginaProducto(){
             
             for (const categoria of categorias) {
                 try {
-                    // Cargar lista de subcategorías
                     const subcategorias = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`)
                         .then(response => response.json())
                         .catch(() => ({ subcategorias: [] }));
 
-                    // Buscar en subcategorías directas
                     for (const subcat of subcategorias.subcategorias || []) {
                         const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
                         const jsonPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
@@ -100,7 +96,6 @@ function PaginaProducto(){
                         }
                     }
 
-                    // Buscar en marcas dentro de subcategorías
                     for (const subcat of subcategorias.subcategorias || []) {
                         const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
                         const subSubCatPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`;
@@ -141,7 +136,6 @@ function PaginaProducto(){
             const maxFotos = 10;
             const imagenesCargadas = [];
 
-            // Función para cargar una imagen y verificar si existe
             const cargarImagen = async (index, formato) => {
                 const url = `${carpetaFotos}${index}.${formato}`;
                 return new Promise((resolve) => {
@@ -152,7 +146,6 @@ function PaginaProducto(){
                 });
             };
 
-            // Crear un array de promesas para todas las imágenes
             const promesas = [];
             for (let index = 1; index <= maxFotos; index++) {
                 for (const formato of formatos) {
@@ -160,10 +153,8 @@ function PaginaProducto(){
                 }
             }
 
-            // Esperar a que todas las imágenes se verifiquen
             const resultados = await Promise.all(promesas);
 
-            // Recopilar las imágenes que cargaron correctamente
             resultados.forEach(url => {
                 if (url) {
                     imagenesCargadas.push(url);

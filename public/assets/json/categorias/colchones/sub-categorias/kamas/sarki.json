@@ -15,7 +15,7 @@
             "sku": "K1153CN10",
             "regalos":{
                 "texto": "1 almohada",
-                "foto": "/assets/imagenes/productos/almohada.png"
+                "foto": "/assets/imagenes/productos/almohada.webp"
             },
             "resumen-del-producto":[
                 {
@@ -78,7 +78,7 @@
             "sku": "K123CN10",
             "regalos":{
                 "texto": "1 almohada",
-                "foto": "/assets/imagenes/productos/almohada.png"
+                "foto": "/assets/imagenes/productos/almohada.webp"
             },
             "resumen-del-producto":[
                 {

@@ -13,7 +13,7 @@
             "precioVenta": 899,
             "stock": 99,
             "sku": "D1115K11N10",
-            "incluye":[
+            "regalos":[
                 {
                     "texto": "1 almohada",
                     "foto": "/assets/imagenes/productos/almohada.webp"
@@ -78,7 +78,7 @@
             "precioVenta": 999,
             "stock": 99,
             "sku": "D112K11N10",
-            "incluye":[
+            "regalos":[
                 {
                     "texto": "1 almohada",
                     "foto": "/assets/imagenes/productos/almohada.webp"
@@ -143,10 +143,10 @@
             "precioVenta": 1399,
             "stock": 99,
             "sku": "D113K11N10",
-            "incluye":[
+            "regalos":[
                 {
                     "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -212,10 +212,10 @@
             "precioVenta": 1699,
             "stock": 99,
             "sku": "D114K11N10",
-            "incluye":[
+            "regalos":[
                 {
                     "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 }
             ],
             "resumen-del-producto":[

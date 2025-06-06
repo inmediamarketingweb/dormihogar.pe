@@ -2,7 +2,7 @@ import SearchBar from '../SearchBar/SearchBar';
 
 import './Center.css';
 
-function Center(){
+function Center({ onMenuClick, isMenuOpen }) {
     return(
         <div className='header-center-container d-flex w-100'>
             <section className='header-center'>
@@ -11,24 +11,23 @@ function Center(){
                         <img src="/assets/imagenes/SEO/logo-principal.jpg" width={125} height={50} alt="Dormihogar"/>
                     </a>
 
-                    <button type='button' className='menu-button'>
-                        <p>Menu</p>
-                        <div>
-                            <span className="material-icons">menu</span>
-                            <span className="material-icons">close</span>
-                        </div>
+                    <button 
+                        type='button' 
+                        className={`menu-button ${isMenuOpen ? 'active' : ''}`}
+                        onClick={onMenuClick}
+                    >
+                        <span className="material-icons">menu</span>
+                        <span className="material-icons">close</span>
                     </button>
                 </div>
 
                 <SearchBar/>
 
-
-                <a href='tel: +51933197648' className='header-center-call-button' title='Llamar a Dormihogar'>
+                <a href='tel: +51933197648' className='header-center-call-button' title='Llamar ahora'>
                     <span className="material-icons">phone_in_talk</span>
 
                     <div className='d-flex-column'>
                         <p>933197648</p>
-                        <span>¡ Compra ya !</span>
                     </div>
                 </a>
             </section>

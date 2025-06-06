@@ -1,25 +1,6 @@
 [
     {
         "id": 0,
-        "titulo": "Marca",
-        "nombre": "marca",
-        "lista":[
-            {
-                "id": 1,
-                "nombre": "Kamas"
-            },
-            {
-                "id": 2,
-                "nombre": "Paraiso"
-            },
-            {
-                "id": 3,
-                "nombre": "Cisne"
-            }
-        ]
-    },
-    {
-        "id": 1,
         "titulo": "Tamaño",
         "nombre": "tamaño",
         "lista":[
@@ -42,6 +23,25 @@
             {
                 "id": 5,
                 "nombre": "King"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Marca",
+        "nombre": "marca",
+        "lista":[
+            {
+                "id": 1,
+                "nombre": "Kamas"
+            },
+            {
+                "id": 2,
+                "nombre": "Paraiso"
+            },
+            {
+                "id": 3,
+                "nombre": "Cisne"
             }
         ]
     },
@@ -81,6 +81,10 @@
         "titulo": "Nivel de confort",
         "nombre": "nivel-de-confort",
         "lista":[
+            {
+                "id": 0,
+                "nombre": "Muy suave"
+            },
             {
                 "id": 1,
                 "nombre": "Confortable"

@@ -2,9 +2,45 @@
     "subcategorias":[
         {
             "id": 1,
-            "subcategoria": "Kamas",
-            "metaTitulo": "Complementos - Kamas | Kamas",
-            "ruta": "/productos/complementos/kamas/"
+            "subcategoria": "veladores",
+            "metaTitulo": "Complementos - Veladores | Dormihogar",
+            "ruta": "/productos/complementos/veladores/"
+        },
+        {
+            "id": 2,
+            "subcategoria": "baules",
+            "metaTitulo": "Complementos - Baúles | Dormihogar",
+            "ruta": "/productos/complementos/baules/"
+        },
+        {
+            "id": 3,
+            "subcategoria": "bases",
+            "metaTitulo": "Complementos - Bases | Dormihogar",
+            "ruta": "/productos/complementos/bases/"
+        },
+        {
+            "id": 4,
+            "subcategoria": "puffs",
+            "metaTitulo": "Complementos - Puffs | Dormihogar",
+            "ruta": "/productos/complementos/puffs/"
+        },
+        {
+            "id": 5,
+            "subcategoria": "almohadas",
+            "metaTitulo": "Complementos - Almohadas | Dormihogar",
+            "ruta": "/productos/complementos/almohadas/"
+        },
+        {
+            "id": 6,
+            "subcategoria": "sabanas y cobertores",
+            "metaTitulo": "Complementos - Sábanas y cobertores | Dormihogar",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/"
+        },
+        {
+            "id": 7,
+            "subcategoria": "cama perro",
+            "metaTitulo": "Complementos - Cama perro | Dormihogar",
+            "ruta": "/productos/complementos/cama-perro/"
         }
     ]
 }

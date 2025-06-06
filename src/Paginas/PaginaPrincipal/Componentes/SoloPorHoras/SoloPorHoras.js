@@ -234,7 +234,7 @@ function SoloPorHoras() {
                                                         <span>¡ Solo quedan <b>{stock}</b> 🔥 !</span>
                                                     )}
                                                 </div>
-                                                <span className="product-card-brand">KAMAS</span>
+                                                <span className="product-card-brand">DORMIHOGAR</span>
                                                 <h4 className="product-card-name">{truncate(nombre, 50)}</h4>
                                                 <div className="product-card-prices">
                                                     <span className="product-card-regular-price">S/.{precioRegular}</span>

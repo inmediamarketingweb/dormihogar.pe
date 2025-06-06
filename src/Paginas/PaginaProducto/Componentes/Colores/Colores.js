@@ -128,7 +128,7 @@ function Colores({ onSelectColor }) {
                             </div>
 
                             {activeColorIndex !== null && (
-                                <button type="button" className="button-link button-link-2 margin-left" onClick={() => setIsColorsActive(false)} >
+                                <button type="button" className="button-link button-link-2 margin-left margin-top" onClick={() => setIsColorsActive(false)} >
                                     <span className="material-icons">check</span>
                                     <p className="button-link-text">Confirmar</p>
                                 </button>

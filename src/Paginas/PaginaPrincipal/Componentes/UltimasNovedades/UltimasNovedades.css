@@ -28,7 +28,7 @@
     max-width: none;
     display: flex !important;
     width: 280px;
-    height: 380px;
+    /* height: 310px; */
 }
 
 .product-card-target{
@@ -83,5 +83,9 @@
 @media screen and (max-width: 600px){
     .ultimas-novedades-button{
         bottom: 123px;
+    }
+
+    .ultimas-novedades-content li .product-card{
+        height: 310px;
     }
 }

@@ -1,82 +1,52 @@
 .header-bottom-container{
     width: 100%;
-    height: 50px;
-    background: #5E5E5E;
     padding: 0 20px;
+    background: #5E5E5E;
+    display: flex;
 }
 
 .header-bottom{
     margin: auto;
-    width: 100%;
-    height: 100%;
-    max-width: var(--content-mx-width);
-}
-
-.menu-container{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    /* width: 100%; */
+    /* max-width: var(--content-mx-width); */
 }
 
 .menu{
-    width: 100%;
-    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     /* gap: 10px; */
 }
 
-.menu::after{
-    content: 'dormihogar.pe';
-    margin: 0 auto;
-    margin-top: auto;
-    padding: 20px 0;
-    color: var(--text);
-    display: none;
-}
-
-.menu-li{
-    width: auto;
-    height: 100%;
-    /* display: flex; */
-    transition: var(--t-200ms-linear);
-}
-
 .menu-li-div{
-    width: 100%;
-    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    /* padding: 0 10px; */
-    /* gap: 6px; */
-}
-
-.menu-li-div:hover,
-.menu-li-div.active{
-    background: rgba(255 255 255 / 0.25);
 }
 
 .menu-link{
     width: auto;
-    height: 100%;
+    height: 50px;
+    padding: 0 20px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0 12px;
-    gap: 10px;
+    transition: var(--t-200ms-linear);
 }
 
-.menu-link h2,
-.menu-li-div span{
+.menu-link:hover{
+    background: rgba(255 255 255 / 0.25);
+}
+
+.menu-link h2{
     color: var(--white);
 }
 
-.menu-li-div span{
-    font-size: 18px;
+.menu-link:nth-last-child(1){
+    background: var(--color-1);
+}
+
+.menu-link-button{
     display: none;
 }
 
@@ -85,90 +55,184 @@
     left: 0;
     top: 160px;
     width: 100%;
-    display: flex;
+    height: auto;
+    padding: 20px;
     background: var(--header);
     transition: var(--t-200ms-linear);
-    padding: 20px;
-
+    display: flex;
+    
     opacity: 0;
     pointer-events: none;
     user-select: none;
 }
 
-.menu-li.active .submenu-container,
-.menu-li:hover .submenu-container{
+.menu-li:hover .submenu-container,
+.menu-li.active .submenu-container{
     opacity: 1;
     pointer-events: unset;
     user-select: unset;
-
-    box-shadow: 0 3px 5px rgba(0 0 0 / 0.15);
 }
 
 .submenu{
-    margin: 0 auto;
+    margin: auto;
+    width: 100%;
+    max-width: var(--content-mx-width);
+    
     display: flex;
+    align-items: flex-start;
+    justify-content: center;
     gap: 20px;
 }
 
 .submenu-target{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    min-width: 180px;
 }
 
 .submenu-target-1{
-    max-width: 420px !important;
-}
-
-.submenu-target-2,
-.submenu-target-3{
-    width: 200px;
+    width: 100%;
+    max-width: 420px;
 }
 
 .submenu-target-title{
-    color: var(--black);
-    font-size: 18px;
     font-weight: bold;
-}
-
-.submenu-target > ul{
-    display: flex;
-    flex-direction: column;
-    gap: 3px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #000000;
 }
 
 .submenu-target > ul li{
     display: flex;
-    align-items: center;
-    justify-content: left;
-    gap: 5px;
-}
-
-.submenu-target > ul li::before{
-    content: '';
-    display: flex;
-    width: 4px;
-    height: 8px;
-    aspect-ratio: 1/1;
-    clip-path: polygon(0 0, 0% 100%, 100% 50%);
-    background: var(--color-1);
 }
 
 .submenu-target > ul li a h4{
     color: var(--text);
-    transition: var(--t-200ms-linear);
 }
 
 .submenu-target > ul li a:hover h4{
     color: var(--color-1);
 }
 
-.submenu-target:nth-last-child(1){
-    width: auto;
-    max-width: none !important;
-}
+@media screen and (max-width: 600px){
+    .header-bottom-container{
+        position: fixed;
+        left: 100%;
+        top: 165px;
+        width: 100%;
+        height: calc(100vh - 165px);
+        background: var(--header);
+        transition: var(--t-200ms-linear);
+        overflow-y: auto;
+        padding: 0;
+    }
 
-.submenu-target:nth-last-child(1) > img{
-    margin: auto;
-    aspect-ratio: 1/1;
+    .header-bottom-container.active{
+        left: 0;
+    }
+
+    .header-bottom{
+        margin: unset;
+        width: 100%;
+    }
+
+    .menu-container{
+        width: 100%;
+    }
+
+    .menu{
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+
+    .menu-li{
+        width: 100%;
+    }
+
+    .menu-li.active{
+        background: rgb(255 0 0 / 0.15);
+    }
+
+    .menu-li-div{
+        padding: 0 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: relative;
+    }
+
+    .menu-link{
+        padding: 0;
+    }
+
+    .menu-link h2{
+        color: var(--text);
+    }
+
+    .menu-li.active .menu-li-div .menu-link h2{
+        color: var(--color-1);
+    }
+
+    .menu-link-button{
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        translate: 0 -50%;
+        display: flex;
+        color: var(--color-1);
+        transition: var(--t-200ms-linear);
+    }
+
+    .menu-li.active .menu-li-div .menu-link-button{
+        rotate: -180deg;
+    }
+
+    .menu-li-div:nth-last-child(1){
+        padding: 0;
+    }
+
+    .submenu-container{
+        position: unset;
+        left: unset;
+        top: unset;
+        width: 100%;
+        height: 0;
+        padding: 0 20px;
+        display: flex;
+        overflow: hidden;
+        opacity: 1;
+        pointer-events: unset;
+        user-select: unset;
+        interpolate-size: allow-keywords;
+    }
+
+    .menu-li.active .submenu-container{
+        padding: 20px;
+        height: auto;
+    }
+
+    .submenu{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .submenu-target{
+        min-width: unset;
+    }
+
+    .submenu-target-1, .submenu-target-4{
+        grid-column: 1/-1;
+    }
+
+    .submenu-target-1 .submenu-target-title{
+        display: none;
+    }
+
+    .submenu-target-4{
+        display: flex;
+    }
+
+    .submenu-target-4 img{
+        margin: auto;
+    }
 }

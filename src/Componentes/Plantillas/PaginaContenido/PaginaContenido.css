@@ -9,3 +9,8 @@
     content: '✔';
     color: var(--color-1);
 }
+
+.title{
+    display: flex;
+    color: #000000;
+}

@@ -11,30 +11,12 @@ function Footer(){
                 <div className='footer-block-container'>
                     <section className='footer-block-content'>
                         <div className='block-title-container'>
-                            <p className='block-title'>En Dormihogar diseñamos tus sueños</p>
+                            <p className='block-title'>Dormihogar</p>
                         </div>
 
                         <nav className='footer-targets'>
                             <div className='footer-target footer-target-1'>
-                                <p className='title'>Acerca de Dormihogar</p>
-                                <p className='text color-white'>Más información sobre la empresa, un breve resumen del rubro, historia o mensaje promocional y redes sociales.</p>
-                                
-                                <div className='d-flex-column gap-10'>
-                                    <p className='title color-white'>Suscribete</p>
-
-                                    <div className='form-suscribe-container'>
-                                        <form className='form-suscribe'>
-                                            <input type='mail' placeholder='Suscribete con tu correo electrónico'></input>
-                                            <button type='submit' className='button-link button-link-2'>
-                                                <p className='button-link-text'>Enviar</p>
-                                                <span className="material-icons">outgoing_mail</span>
-                                            </button>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className='footer-target footer-target-4'>
-                                <p className='title'>Nosotros</p>
+                                <p className='title'>Acerca de nosotros</p>
 
                                 <ul className='footer-list'>
                                     <li>
@@ -63,12 +45,8 @@ function Footer(){
                                         </a>
                                     </li>
                                 </ul>
-
-                                <a className='complaints-book' href='/contacto/libro-de-reclamaciones/' title="Libro de reclamaciones | Dormihogar">
-                                    <span className="material-icons">menu_book</span>
-                                    <p className='text'>Libro de reclamaciones</p>
-                                </a>
                             </div>
+
                             <div className='footer-target footer-target-2'>
                                 <p className='title'>Servicio al cliente</p>
                                 <ul className='footer-list'>
@@ -119,6 +97,7 @@ function Footer(){
                                     </li>
                                 </ul>
                             </div>
+
                             <div className='footer-target footer-target-3'>
                                 <div className='d-flex-column gap-10'>
                                     <p className='title'>Novedades</p>
@@ -147,12 +126,35 @@ function Footer(){
                                     <ul className='d-flex-center-left gap-5 social-networks'>
                                         <li>
                                             <a href='https://www.facebook.com/Dormihogar.pe' target='_blank' rel="noopener noreferrer" title='Facebook | Dormihogar'>
-                                                <img src="/assets/imagenes/iconos/facebook-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en Facebook" title="Facebook"/>
+                                                <img src="/assets/imagenes/iconos/facebook-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en Facebook"/>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='https://www.tiktok.com/@dormihogar.pe' target='_blank' rel="noopener noreferrer" title='Tik Tok | Dormihogar'>
-                                                <img src="/assets/imagenes/iconos/tiktok-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en TikTok" title="Tik Tok"/>
+                                                <img src="/assets/imagenes/iconos/tiktok-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en TikTok"/>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div className='footer-target footer-target-4'>
+                                <div className='d-flex-column gap-10'>
+                                    <p className='title'>Ubícanos</p>
+                                    <ul className='footer-list'>
+                                        <li>
+                                            <a href='/novedades/programa-de-influencers/' title='Programa de influencers | Dormihogar'>
+                                                <p>Programa influencers</p>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href='/novedades/programa-de-referencias/' title='Progama de referencias | Dormihogar'>
+                                                <p>Programa de referencias</p>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href='https://blog.Dormihogar.pe' title='Blog | Dormihogar'>
+                                                <p>Blog</p>
                                             </a>
                                         </li>
                                     </ul>

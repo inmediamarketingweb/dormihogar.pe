@@ -7,15 +7,12 @@
 
 .header-bottom{
     margin: auto;
-    /* width: 100%; */
-    /* max-width: var(--content-mx-width); */
 }
 
 .menu{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* gap: 10px; */
 }
 
 .menu-li-div{
@@ -60,7 +57,7 @@
     background: var(--header);
     transition: var(--t-200ms-linear);
     display: flex;
-    
+
     opacity: 0;
     pointer-events: none;
     user-select: none;
@@ -71,6 +68,7 @@
     opacity: 1;
     pointer-events: unset;
     user-select: unset;
+    box-shadow: 0 6px 6px rgba(0 0 0 / 0.25);
 }
 
 .submenu{
@@ -116,13 +114,21 @@
     .header-bottom-container{
         position: fixed;
         left: 100%;
-        top: 165px;
+        top: 168px;
         width: 100%;
         height: calc(100vh - 165px);
         background: var(--header);
         transition: var(--t-200ms-linear);
         overflow-y: auto;
+        display: flex;
+        flex-direction: column-reverse;
         padding: 0;
+    }
+
+    .header-bottom-container::before{
+        content: 'dormihogar.pe';
+        margin: auto auto 20px auto;
+        padding-top: 20px;
     }
 
     .header-bottom-container.active{
@@ -150,7 +156,7 @@
     }
 
     .menu-li.active{
-        background: rgb(255 0 0 / 0.15);
+        background: rgb(255 0 0 / 0.075);
     }
 
     .menu-li-div{
@@ -209,6 +215,7 @@
     .menu-li.active .submenu-container{
         padding: 20px;
         height: auto;
+        box-shadow: none;
     }
 
     .submenu{

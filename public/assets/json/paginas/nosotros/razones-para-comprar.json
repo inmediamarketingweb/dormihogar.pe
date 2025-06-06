@@ -2,7 +2,7 @@
     "metadatos":[
         {
             "metatitulo": "Razones para comprar",
-            "metadescripcion": "Metadescripcion"
+            "metadescripcion": "Razones para comprar"
         }
     ],
     "banner":[
@@ -14,26 +14,23 @@
         {
             "textos":[
                 {
-                    "texto": "En KAMAS fabricamos productos de calidad que garantizan una larga duración y nos preocupamos siempre por ofrecer excelentes acabados, asimismo tenemos todos los modelos del mercado y somos líderes en innovación ofreciendo a nuestros clientes siempre productos en tendencia a un excelente precio y con un servicio de venta practico, donde el cliente puede comprar desde la comodidad de su hogar y pagar al momento que recibe el producto."
+                    "texto": "En Dormihogar.pe contamos con una serie de beneficios que te brindarán la mejor experiencia de compra."
                 }
             ]
         },
         {
-            "titulo": "Calidad en el diseño y en el producto",
+            "titulo": "Tenemos las mejores marcas al mejor precio",
             "textos":[
                 {
-                    "texto": "Nuestra cuidadosa selección de proveedores y materia prima nos permiten ofrecer productos de excelente acabado y de duración garantizada para nuestros clientes."
-                },
-                {
-                    "texto": "En KAMAS trabajamos con madera 100% seca, asimismo con espuma Paraíso Zebra en todos nuestros productos."
+                    "texto": "Dormihogar.pe es la tienda online de productos de dormitorio más completa en el Perú. Contamos con todas las categorías en lo que refiere a dormitorios  y ofrecemos una amplia variedad de marcas, modelos y precios."
                 }
             ]
         },
         {
-            "titulo": "Nuestros envíos son realmente inmediatos",
+            "titulo": "Pago contra rembolso para todas tus compras",
             "textos":[
                 {
-                    "texto": "Nuestro sistema de entrega a domicilio es realmente flexible, tú eres quien elige el día y el rango de hora de entrega. Realizamos envíos en menos de 24 horas a nivel nacional."
+                    "texto": "En Dormihogar.pe compra con solo una llamada y paga al momento de recibir tu producto."
                 }
             ]
         },
@@ -57,7 +54,7 @@
             "titulo": "Sitio 100% seguro",
             "textos":[
                 {
-                    "texto": "kamas.pe garantiza la seguridad transaccional de sus clientes, pues utiliza el sistema SSL (Security Socket Layer) uno de los estándares de protección de datos más rigurosos del mundo."
+                    "texto": "dormihogar.pe garantiza la seguridad transaccional de sus clientes, pues utiliza el sistema SSL (Security Socket Layer) uno de los estándares de protección de datos más rigurosos del mundo."
                 }
             ]
         },

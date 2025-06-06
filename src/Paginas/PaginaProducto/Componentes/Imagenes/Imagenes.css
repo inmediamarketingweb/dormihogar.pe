@@ -123,6 +123,11 @@
     bottom: 0;
     width: 100%;
     background: var(--white);
+    overflow-x: auto;
+}
+
+.product-page-images-miniatures-container::-webkit-scrollbar{
+    display: none;
 }
 
 .product-page-images-miniatures{

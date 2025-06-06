@@ -1,8 +1,3 @@
-/* .search-products-content{
-    display: grid;
-    grid-template-columns: 280px 1fr;
-} */
-
 .filters-container{
     display: flex;
     flex-direction: column;

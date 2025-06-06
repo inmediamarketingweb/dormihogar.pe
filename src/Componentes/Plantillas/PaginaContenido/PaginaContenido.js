@@ -43,12 +43,10 @@ function PaginaContenido({ data }){
                             {contenido.length > 0 && contenido.map((item, index) => (
                                 <div key={index} className="d-flex-column gap-20">
                                     <div className="d-flex-column gap-10">
-                                        {item.title && <h2 className="title">{item.title}</h2>}
+                                        {item.titulo && <h2 className="title">{item.titulo}</h2>}
 
                                         {item.textos && item.textos.map((textoItem, idx) => (
-                                            <p key={idx} className="text">
-                                                {textoItem.texto}
-                                            </p>
+                                            <p key={idx} className="text">{textoItem.texto}</p>
                                         ))}
 
                                         {item.lista && (

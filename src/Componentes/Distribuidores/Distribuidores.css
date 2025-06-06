@@ -19,9 +19,9 @@
 }
 
 .distribuidores li a img{
-    aspect-ratio: 3/1;
+    /* aspect-ratio: 3/1; */
     /* width: 170px; */
-    height: 50px;
+    /* height: 50px; */
     object-fit: contain;
 }
 

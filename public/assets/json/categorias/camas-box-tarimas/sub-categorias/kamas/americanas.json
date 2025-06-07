@@ -3,6 +3,7 @@
         {
             "id": 1,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "1 plaza y media",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/1/",
@@ -17,6 +18,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -25,6 +27,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -68,6 +71,7 @@
         {
             "id": 2,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/2/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO - LILA",
@@ -81,6 +85,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -89,6 +94,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -132,6 +138,7 @@
         {
             "id": 3,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/3/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO - TURQUESA",
@@ -145,6 +152,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -162,6 +170,7 @@
 
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -205,6 +214,7 @@
         {
             "id": 4,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/4/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO - FUCSIA",
@@ -218,6 +228,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -226,6 +237,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -269,6 +281,7 @@
         {
             "id": 5,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/5/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO + SOFÁ BAÚL - LILA",
@@ -282,6 +295,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -299,6 +313,7 @@
 
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -356,6 +371,7 @@
         {
             "id": 6,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/6/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - NEGRO",
@@ -369,6 +385,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -377,6 +394,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -420,6 +438,7 @@
         {
             "id": 7,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/7/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - VERDE CERCETA",
@@ -433,6 +452,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -441,6 +461,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -484,6 +505,7 @@
         {
             "id": 8,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/8/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - PLOMO PLATA",
@@ -497,6 +519,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -505,6 +528,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -548,6 +572,7 @@
         {
             "id": 9,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/9/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - PLOMO RATA",
@@ -561,6 +586,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -569,6 +595,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -612,6 +639,7 @@
         {
             "id": 10,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/10/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - TURQUESA ÓPALO",
@@ -625,6 +653,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -633,6 +662,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -676,6 +706,7 @@
         {
             "id": 11,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/11/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - AZUL NOCHE",
@@ -689,6 +720,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -697,6 +729,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -740,6 +773,7 @@
         {
             "id": 12,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/12/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - VINO",
@@ -753,6 +787,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -761,6 +796,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -804,6 +840,7 @@
         {
             "id": 13,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/13/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - AZUL",
@@ -817,6 +854,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -825,6 +863,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -868,6 +907,7 @@
         {
             "id": 14,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/14/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - VERDE CERCETA",
@@ -881,6 +921,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -889,6 +930,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -932,6 +974,7 @@
         {
             "id": 15,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/15/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORAZÓN - LILA",
@@ -945,6 +988,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -953,6 +997,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -996,6 +1041,7 @@
         {
             "id": 16,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/16/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL ABANICO - FUCSIA",
@@ -1009,6 +1055,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -1017,6 +1064,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -1060,6 +1108,7 @@
         {
             "id": 17,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/17/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADA - CHOCOLATE",
@@ -1073,6 +1122,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -1081,6 +1131,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -1124,6 +1175,7 @@
         {
             "id": 18,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/1/",
@@ -1138,6 +1190,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1146,6 +1199,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1189,6 +1243,7 @@
         {
             "id": 19,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/2/",
@@ -1203,6 +1258,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1211,6 +1267,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1254,6 +1311,7 @@
         {
             "id": 20,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/3/",
@@ -1268,6 +1326,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1276,6 +1335,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1319,6 +1379,7 @@
         {
             "id": 21,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/4/",
@@ -1339,6 +1400,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1347,6 +1409,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1390,6 +1453,7 @@
         {
             "id": 22,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/5/",
@@ -1404,6 +1468,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1412,6 +1477,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1455,6 +1521,7 @@
         {
             "id": 23,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/6/",
@@ -1469,6 +1536,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1477,6 +1545,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1520,6 +1589,7 @@
         {
             "id": 24,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/7/",
@@ -1534,6 +1604,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1542,6 +1613,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1585,6 +1657,7 @@
         {
             "id": 25,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/8/",
@@ -1599,6 +1672,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1607,6 +1681,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1650,6 +1725,7 @@
         {
             "id": 26,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/9/",
@@ -1664,6 +1740,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1672,6 +1749,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1715,6 +1793,7 @@
         {
             "id": 27,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "Queen",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/queen/1/",
@@ -1729,6 +1808,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "Queen",
                     "tipo-de-cabecera": "Aérea",
@@ -1737,6 +1817,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "Queen",
                     "cajones": "No",
@@ -1779,6 +1860,7 @@
         {
             "id": 28,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "Queen",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/queen/2/",
@@ -1793,6 +1875,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "Queen",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1801,6 +1884,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "Queen",
                     "cajones": "No",
@@ -1844,6 +1928,7 @@
         {
             "id": 29,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "King",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/1/",
@@ -1858,6 +1943,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -1866,6 +1952,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1908,6 +1995,7 @@
         {
             "id": 30,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "King",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/2/",
@@ -1922,6 +2010,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -1930,6 +2019,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1972,6 +2062,7 @@
         {
             "id": 31,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "King",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/3/",
@@ -1986,6 +2077,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -1994,6 +2086,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -2036,6 +2129,7 @@
         {
             "id": 32,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "King",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/4/",
@@ -2050,6 +2144,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -2058,6 +2153,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -2100,6 +2196,7 @@
         {
             "id": 33,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "King",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/5/",
@@ -2114,6 +2211,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -2122,6 +2220,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -2164,6 +2263,7 @@
         {
             "id": 34,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "King",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/6/",
@@ -2178,6 +2278,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -2186,6 +2287,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -2228,6 +2330,7 @@
         {
             "id": 35,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "King",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/7/",
@@ -2242,6 +2345,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -2250,6 +2354,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -2292,6 +2397,7 @@
         {
             "id": 36,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/10/",
@@ -2306,6 +2412,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea",
@@ -2314,6 +2421,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2356,6 +2464,7 @@
         {
             "id": 37,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/11/",
@@ -2370,6 +2479,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea",
@@ -2378,6 +2488,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2420,6 +2531,7 @@
         {
             "id": 38,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/12/",
@@ -2434,6 +2546,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -2442,6 +2555,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2485,6 +2599,7 @@
         {
             "id": 39,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/ofertas/solo-por-horas/camas-box-tarimas/americanas/2-plazas/13/",
@@ -2500,6 +2615,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -2508,6 +2624,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2551,6 +2668,7 @@
         {
             "id": 40,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/14/",
@@ -2565,6 +2683,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -2573,6 +2692,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2616,6 +2736,7 @@
         {
             "id": 41,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/15/",
@@ -2630,6 +2751,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -2638,6 +2760,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2681,6 +2804,7 @@
         {
             "id": 42,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/16/",
@@ -2695,6 +2819,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -2703,6 +2828,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2746,6 +2872,7 @@
         {
             "id": 43,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/17/",
@@ -2760,6 +2887,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -2768,6 +2896,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2811,6 +2940,7 @@
         {
             "id": 44,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/18/",
@@ -2825,6 +2955,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -2833,6 +2964,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2876,6 +3008,7 @@
         {
             "id": 45,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/19/",
@@ -2890,6 +3023,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -2898,6 +3032,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -2941,6 +3076,7 @@
         {
             "id": 46,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/20/",
@@ -2955,6 +3091,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -2963,6 +3100,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3006,6 +3144,7 @@
         {
             "id": 47,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/21/",
@@ -3020,6 +3159,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3028,6 +3168,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3071,6 +3212,7 @@
         {
             "id": 48,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/22/",
@@ -3085,6 +3227,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3093,6 +3236,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3136,6 +3280,7 @@
         {
             "id": 49,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/23/",
@@ -3150,6 +3295,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3158,6 +3304,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3201,6 +3348,7 @@
         {
             "id": 50,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/24/",
@@ -3215,6 +3363,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3223,6 +3372,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3266,6 +3416,7 @@
         {
             "id": 51,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/25/",
@@ -3280,6 +3431,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3288,6 +3440,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3331,6 +3484,7 @@
         {
             "id": 52,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/26/",
@@ -3345,6 +3499,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3353,6 +3508,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3396,6 +3552,7 @@
         {
             "id": 53,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/27/",
@@ -3410,6 +3567,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3418,6 +3576,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3461,6 +3620,7 @@
         {
             "id": 54,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/28/",
@@ -3475,6 +3635,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3483,6 +3644,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3526,6 +3688,7 @@
         {
             "id": 55,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/29/",
@@ -3540,6 +3703,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3548,6 +3712,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3591,6 +3756,7 @@
         {
             "id": 56,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/30/",
@@ -3605,6 +3771,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3613,6 +3780,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3656,6 +3824,7 @@
         {
             "id": 57,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/31/",
@@ -3670,6 +3839,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3678,6 +3848,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3721,6 +3892,7 @@
         {
             "id": 58,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/32/",
@@ -3735,6 +3907,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3743,6 +3916,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3786,6 +3960,7 @@
         {
             "id": 59,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/33/",
@@ -3800,6 +3975,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3808,6 +3984,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3851,6 +4028,7 @@
         {
             "id": 60,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/34/",
@@ -3865,6 +4043,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3873,6 +4052,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3915,6 +4095,7 @@
         {
             "id": 61,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/35/",
@@ -3929,6 +4110,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -3937,6 +4119,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -3979,6 +4162,7 @@
         {
             "id": 62,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/36/",
@@ -3993,6 +4177,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -4001,6 +4186,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -4043,6 +4229,7 @@
         {
             "id": 63,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/37/",
@@ -4057,6 +4244,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -4065,6 +4253,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -4107,6 +4296,7 @@
         {
             "id": 64,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/38/",
@@ -4121,6 +4311,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -4129,6 +4320,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -4171,6 +4363,7 @@
         {
             "id": 65,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/39/",
@@ -4185,6 +4378,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -4193,6 +4387,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -4234,6 +4429,7 @@
         {
             "id": 66,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/8/",
@@ -4248,6 +4444,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4256,6 +4453,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4299,6 +4497,7 @@
         {
             "id": 67,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/9/",
@@ -4313,6 +4512,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4321,6 +4521,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4364,6 +4565,7 @@
         {
             "id": 68,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/10/",
@@ -4378,6 +4580,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4386,6 +4589,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4429,6 +4633,7 @@
         {
             "id": 69,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/11/",
@@ -4443,6 +4648,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4451,6 +4657,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4494,6 +4701,7 @@
         {
             "id": 70,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/12/",
@@ -4508,6 +4716,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4516,6 +4725,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4559,6 +4769,7 @@
         {
             "id": 71,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/13/",
@@ -4573,6 +4784,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4581,6 +4793,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4624,6 +4837,7 @@
         {
             "id": 72,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/14/",
@@ -4638,6 +4852,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4646,6 +4861,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4689,6 +4905,7 @@
         {
             "id": 73,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/15/",
@@ -4703,6 +4920,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4711,6 +4929,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4754,6 +4973,7 @@
         {
             "id": 74,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/16/",
@@ -4768,6 +4988,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4776,6 +4997,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4819,6 +5041,7 @@
         {
             "id": 75,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/17/",
@@ -4833,6 +5056,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4841,6 +5065,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4884,6 +5109,7 @@
         {
             "id": 76,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/18/",
@@ -4898,6 +5124,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4906,6 +5133,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -4949,6 +5177,7 @@
         {
             "id": 77,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/19/",
@@ -4963,6 +5192,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -4971,6 +5201,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5014,6 +5245,7 @@
         {
             "id": 78,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/20/",
@@ -5028,6 +5260,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5036,6 +5269,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5079,6 +5313,7 @@
         {
             "id": 79,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/21/",
@@ -5099,6 +5334,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5107,6 +5343,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5150,6 +5387,7 @@
         {
             "id": 80,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/22/",
@@ -5164,6 +5402,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5172,6 +5411,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5215,6 +5455,7 @@
         {
             "id": 81,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/23/",
@@ -5229,6 +5470,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5237,6 +5479,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5280,6 +5523,7 @@
         {
             "id": 82,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/24/",
@@ -5294,6 +5538,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5302,6 +5547,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5345,6 +5591,7 @@
         {
             "id": 83,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/25/",
@@ -5359,6 +5606,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5367,6 +5615,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5410,6 +5659,7 @@
         {
             "id": 84,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/26/",
@@ -5424,6 +5674,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5432,6 +5683,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5475,6 +5727,7 @@
         {
             "id": 85,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/27/",
@@ -5489,6 +5742,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5497,6 +5751,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5540,6 +5795,7 @@
         {
             "id": 86,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/28/",
@@ -5554,6 +5810,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5562,6 +5819,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5605,6 +5863,7 @@
         {
             "id": 87,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/29/",
@@ -5619,6 +5878,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5627,6 +5887,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5670,6 +5931,7 @@
         {
             "id": 88,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/30/",
@@ -5684,6 +5946,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5692,6 +5955,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5735,6 +5999,7 @@
         {
             "id": 89,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/31/",
@@ -5749,6 +6014,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5757,6 +6023,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5800,6 +6067,7 @@
         {
             "id": 90,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/32/",
@@ -5814,6 +6082,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5822,6 +6091,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5865,6 +6135,7 @@
         {
             "id": 91,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/33/",
@@ -5879,6 +6150,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5887,6 +6159,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5930,6 +6203,7 @@
         {
             "id": 92,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/34/",
@@ -5944,6 +6218,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -5952,6 +6227,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -5995,6 +6271,7 @@
         {
             "id": 93,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/35/",
@@ -6009,6 +6286,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6017,6 +6295,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6060,6 +6339,7 @@
         {
             "id": 94,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/36/",
@@ -6074,6 +6354,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6082,6 +6363,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6125,6 +6407,7 @@
         {
             "id": 95,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/37/",
@@ -6139,6 +6422,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6147,6 +6431,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6190,6 +6475,7 @@
         {
             "id": 96,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/38/",
@@ -6204,6 +6490,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6212,6 +6499,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6255,6 +6543,7 @@
         {
             "id": 97,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/39/",
@@ -6269,6 +6558,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6277,6 +6567,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6320,6 +6611,7 @@
         {
             "id": 98,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/40/",
@@ -6334,6 +6626,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6342,6 +6635,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6385,6 +6679,7 @@
         {
             "id": 99,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/41/",
@@ -6399,6 +6694,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6407,6 +6703,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6450,6 +6747,7 @@
         {
             "id": 100,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/42/",
@@ -6464,6 +6762,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6472,6 +6771,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6515,6 +6815,7 @@
         {
             "id": 101,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/43/",
@@ -6529,6 +6830,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6537,6 +6839,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6580,6 +6883,7 @@
         {
             "id": 102,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/44/",
@@ -6594,6 +6898,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6602,6 +6907,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6645,6 +6951,7 @@
         {
             "id": 103,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/45/",
@@ -6659,6 +6966,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6667,6 +6975,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6710,6 +7019,7 @@
         {
             "id": 104,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/47/",
@@ -6724,6 +7034,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6732,6 +7043,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6775,6 +7087,7 @@
         {
             "id": 105,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/48/",
@@ -6789,6 +7102,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6797,6 +7111,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6840,6 +7155,7 @@
         {
             "id": 106,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/49/",
@@ -6854,6 +7170,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6862,6 +7179,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6905,6 +7223,7 @@
         {
             "id": 107,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/50/",
@@ -6919,6 +7238,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6927,6 +7247,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -6970,6 +7291,7 @@
         {
             "id": 108,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/50/",
@@ -6984,6 +7306,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -6992,6 +7315,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7035,6 +7359,7 @@
         {
             "id": 109,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/51/",
@@ -7049,6 +7374,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7057,6 +7383,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7100,6 +7427,7 @@
         {
             "id": 110,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/52/",
@@ -7114,6 +7442,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7122,6 +7451,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7165,6 +7495,7 @@
         {
             "id": 111,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/53/",
@@ -7179,6 +7510,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7187,6 +7519,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7230,6 +7563,7 @@
         {
             "id": 112,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/54/",
@@ -7244,6 +7578,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7252,6 +7587,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7295,6 +7631,7 @@
         {
             "id": 114,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/55/",
@@ -7309,6 +7646,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7317,6 +7655,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7360,6 +7699,7 @@
         {
             "id": 115,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/56/",
@@ -7374,6 +7714,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7382,6 +7723,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7425,6 +7767,7 @@
         {
             "id": 116,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/57/",
@@ -7439,6 +7782,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7447,6 +7791,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7490,6 +7835,7 @@
         {
             "id": 117,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/58/",
@@ -7504,6 +7850,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7512,6 +7859,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7555,6 +7903,7 @@
         {
             "id": 118,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/59/",
@@ -7569,6 +7918,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7577,6 +7927,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7620,6 +7971,7 @@
         {
             "id": 119,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/60/",
@@ -7634,6 +7986,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7642,6 +7995,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7685,6 +8039,7 @@
         {
             "id": 120,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/61/",
@@ -7699,6 +8054,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7707,6 +8063,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7750,6 +8107,7 @@
         {
             "id": 121,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/62/",
@@ -7764,6 +8122,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7772,6 +8131,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7815,6 +8175,7 @@
         {
             "id": 122,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/63/",
@@ -7829,6 +8190,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7837,6 +8199,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7880,6 +8243,7 @@
         {
             "id": 123,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/64/",
@@ -7894,6 +8258,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7902,6 +8267,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -7945,6 +8311,7 @@
         {
             "id": 124,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/65/",
@@ -7959,6 +8326,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -7967,6 +8335,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8010,6 +8379,7 @@
         {
             "id": 125,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/66/",
@@ -8024,6 +8394,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8032,6 +8403,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8075,6 +8447,7 @@
         {
             "id": 126,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/67/",
@@ -8089,6 +8462,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8097,6 +8471,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8140,6 +8515,7 @@
         {
             "id": 127,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/68/",
@@ -8154,6 +8530,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8162,6 +8539,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8205,6 +8583,7 @@
         {
             "id": 128,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/69/",
@@ -8219,6 +8598,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8227,6 +8607,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8270,6 +8651,7 @@
         {
             "id": 129,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/70/",
@@ -8284,6 +8666,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8292,6 +8675,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8335,6 +8719,7 @@
         {
             "id": 130,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/71/",
@@ -8349,6 +8734,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8357,6 +8743,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8400,6 +8787,7 @@
         {
             "id": 131,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/72/",
@@ -8414,6 +8802,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8422,6 +8811,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8465,6 +8855,7 @@
         {
             "id": 132,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/73/",
@@ -8479,6 +8870,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8487,6 +8879,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8530,6 +8923,7 @@
         {
             "id": 133,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/74/",
@@ -8544,6 +8938,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8552,6 +8947,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8595,6 +8991,7 @@
         {
             "id": 134,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/75/",
@@ -8609,6 +9006,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8617,6 +9015,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8660,6 +9059,7 @@
         {
             "id": 135,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/76/",
@@ -8674,6 +9074,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8682,6 +9083,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8725,6 +9127,7 @@
         {
             "id": 136,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/77/",
@@ -8739,6 +9142,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8747,6 +9151,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8790,6 +9195,7 @@
         {
             "id": 137,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/78/",
@@ -8804,6 +9210,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8812,6 +9219,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8855,6 +9263,7 @@
         {
             "id": 138,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/79/",
@@ -8869,6 +9278,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8877,6 +9287,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8920,6 +9331,7 @@
         {
             "id": 139,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/80/",
@@ -8934,6 +9346,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -8942,6 +9355,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -8985,6 +9399,7 @@
         {
             "id": 140,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/81/",
@@ -8999,6 +9414,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9007,6 +9423,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9050,6 +9467,7 @@
         {
             "id": 141,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/82/",
@@ -9064,6 +9482,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9072,6 +9491,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9115,6 +9535,7 @@
         {
             "id": 142,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/83/",
@@ -9129,6 +9550,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9137,6 +9559,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9180,6 +9603,7 @@
         {
             "id": 143,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/84/",
@@ -9194,6 +9618,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9202,6 +9627,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9245,6 +9671,7 @@
         {
             "id": 144,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/85/",
@@ -9259,6 +9686,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9267,6 +9695,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9310,6 +9739,7 @@
         {
             "id": 145,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/86/",
@@ -9324,6 +9754,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9332,6 +9763,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9375,6 +9807,7 @@
         {
             "id": 146,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/87/",
@@ -9389,6 +9822,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9397,6 +9831,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9440,6 +9875,7 @@
         {
             "id": 147,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/88/",
@@ -9454,6 +9890,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9462,6 +9899,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9505,6 +9943,7 @@
         {
             "id": 148,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/89/",
@@ -9519,6 +9958,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9527,6 +9967,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9570,6 +10011,7 @@
         {
             "id": 149,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/90/",
@@ -9584,6 +10026,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9592,6 +10035,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9635,6 +10079,7 @@
         {
             "id": 150,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/91/",
@@ -9649,6 +10094,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9657,6 +10103,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9700,6 +10147,7 @@
         {
             "id": 151,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/92/",
@@ -9714,6 +10162,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9722,6 +10171,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9765,6 +10215,7 @@
         {
             "id": 152,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/93/",
@@ -9779,6 +10230,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9787,6 +10239,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9830,6 +10283,7 @@
         {
             "id": 153,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/94/",
@@ -9844,6 +10298,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9852,6 +10307,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9895,6 +10351,7 @@
         {
             "id": 154,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/95/",
@@ -9909,6 +10366,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9917,6 +10375,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -9960,6 +10419,7 @@
         {
             "id": 155,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/96/",
@@ -9974,6 +10434,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -9982,6 +10443,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10025,6 +10487,7 @@
         {
             "id": 156,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/97/",
@@ -10039,6 +10502,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10047,6 +10511,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10090,6 +10555,7 @@
         {
             "id": 157,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/98/",
@@ -10104,6 +10570,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10112,6 +10579,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10155,6 +10623,7 @@
         {
             "id": 158,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/99/",
@@ -10169,6 +10638,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10177,6 +10647,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10220,6 +10691,7 @@
         {
             "id": 159,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/100/",
@@ -10234,6 +10706,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10242,6 +10715,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10285,6 +10759,7 @@
         {
             "id": 160,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/101/",
@@ -10299,6 +10774,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10307,6 +10783,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10350,6 +10827,7 @@
         {
             "id": 161,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/102/",
@@ -10364,6 +10842,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10372,6 +10851,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10415,6 +10895,7 @@
         {
             "id": 162,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/103/",
@@ -10429,6 +10910,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10437,6 +10919,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10481,6 +10964,7 @@
         {
             "id": 164,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/105/",
@@ -10495,6 +10979,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10503,6 +10988,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10546,6 +11032,7 @@
         {
             "id": 165,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/107/",
@@ -10560,6 +11047,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10568,6 +11056,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10611,6 +11100,7 @@
         {
             "id": 166,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/108/",
@@ -10625,6 +11115,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10633,6 +11124,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10676,6 +11168,7 @@
         {
             "id": 167,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/109/",
@@ -10690,6 +11183,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10698,6 +11192,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10741,6 +11236,7 @@
         {
             "id": 168,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/110/",
@@ -10755,6 +11251,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10763,6 +11260,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10806,6 +11304,7 @@
         {
             "id": 169,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/111/",
@@ -10820,6 +11319,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10828,6 +11328,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10871,6 +11372,7 @@
         {
             "id": 170,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/112/",
@@ -10885,6 +11387,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10893,6 +11396,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -10936,6 +11440,7 @@
         {
             "id": 171,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/113/",
@@ -10950,6 +11455,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -10958,6 +11464,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11001,6 +11508,7 @@
         {
             "id": 172,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/114/",
@@ -11015,6 +11523,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -11023,6 +11532,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11066,6 +11576,7 @@
         {
             "id": 173,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/115/",
@@ -11080,6 +11591,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -11088,6 +11600,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11131,6 +11644,7 @@
         {
             "id": 174,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/116/",
@@ -11145,6 +11659,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11153,6 +11668,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11196,6 +11712,7 @@
         {
             "id": 175,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/117/",
@@ -11210,6 +11727,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11218,6 +11736,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11261,6 +11780,7 @@
         {
             "id": 176,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/118/",
@@ -11275,6 +11795,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11283,6 +11804,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11326,6 +11848,7 @@
         {
             "id": 177,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/119/",
@@ -11340,6 +11863,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11348,6 +11872,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11391,6 +11916,7 @@
         {
             "id": 178,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/120/",
@@ -11405,6 +11931,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11413,6 +11940,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11456,6 +11984,7 @@
         {
             "id": 179,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/121/",
@@ -11470,6 +11999,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11478,6 +12008,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11521,6 +12052,7 @@
         {
             "id": 180,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/122/",
@@ -11535,6 +12067,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11543,6 +12076,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11586,6 +12120,7 @@
         {
             "id": 181,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/123/",
@@ -11600,6 +12135,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11608,6 +12144,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11651,6 +12188,7 @@
         {
             "id": 182,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/124/",
@@ -11665,6 +12203,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11673,6 +12212,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11716,6 +12256,7 @@
         {
             "id": 183,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/125/",
@@ -11730,6 +12271,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11738,6 +12280,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11781,6 +12324,7 @@
         {
             "id": 184,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/126/",
@@ -11795,6 +12339,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11803,6 +12348,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11846,6 +12392,7 @@
         {
             "id": 185,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/127/",
@@ -11860,6 +12407,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11868,6 +12416,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11911,6 +12460,7 @@
         {
             "id": 186,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/128/",
@@ -11925,6 +12475,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11933,6 +12484,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -11976,6 +12528,7 @@
         {
             "id": 187,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/129/",
@@ -11990,6 +12543,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -11998,6 +12552,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12041,6 +12596,7 @@
         {
             "id": 188,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/130/",
@@ -12055,6 +12611,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12063,6 +12620,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12106,6 +12664,7 @@
         {
             "id": 189,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/131/",
@@ -12120,6 +12679,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12128,6 +12688,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12171,6 +12732,7 @@
         {
             "id": 190,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/132/",
@@ -12185,6 +12747,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12193,6 +12756,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12236,6 +12800,7 @@
         {
             "id": 191,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/133/",
@@ -12250,6 +12815,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12258,6 +12824,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12301,6 +12868,7 @@
         {
             "id": 192,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/134/",
@@ -12315,6 +12883,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12323,6 +12892,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12366,6 +12936,7 @@
         {
             "id": 193,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/135/",
@@ -12380,6 +12951,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12388,6 +12960,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12431,6 +13004,7 @@
         {
             "id": 194,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/136/",
@@ -12445,6 +13019,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12453,6 +13028,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12496,6 +13072,7 @@
         {
             "id": 195,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/137/",
@@ -12510,6 +13087,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12518,6 +13096,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12561,6 +13140,7 @@
         {
             "id": 196,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/138/",
@@ -12575,6 +13155,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12583,6 +13164,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12626,6 +13208,7 @@
         {
             "id": 197,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/139/",
@@ -12640,6 +13223,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12648,6 +13232,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12691,6 +13276,7 @@
         {
             "id": 198,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/140/",
@@ -12705,6 +13291,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12713,6 +13300,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12756,6 +13344,7 @@
         {
             "id": 199,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/141/",
@@ -12770,6 +13359,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12778,6 +13368,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12821,6 +13412,7 @@
         {
             "id": 200,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/142/",
@@ -12835,6 +13427,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12843,6 +13436,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12886,6 +13480,7 @@
         {
             "id": 201,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/143/",
@@ -12900,6 +13495,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12908,6 +13504,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -12951,6 +13548,7 @@
         {
             "id": 202,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/144/",
@@ -12965,6 +13563,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -12973,6 +13572,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -13016,6 +13616,7 @@
         {
             "id": 202,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/145/",
@@ -13030,6 +13631,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -13038,6 +13640,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -13081,6 +13684,7 @@
         {
             "id": 203,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/145/",
@@ -13109,6 +13713,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -13117,6 +13722,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -13160,6 +13766,7 @@
         {
             "id": 204,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/146/",
@@ -13188,6 +13795,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -13196,6 +13804,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -13239,6 +13848,7 @@
         {
             "id": 205,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/147/",
@@ -13253,6 +13863,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -13261,6 +13872,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -13304,6 +13916,7 @@
         {
             "id": 206,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "1 plaza y media",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/18/",
@@ -13318,6 +13931,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -13326,6 +13940,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -13369,6 +13984,7 @@
         {
             "id": 207,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "1 plaza y media",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/19/",
@@ -13383,6 +13999,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -13391,6 +14008,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -13434,6 +14052,7 @@
         {
             "id": 208,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "1 plaza y media",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/20/",
@@ -13448,6 +14067,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -13456,6 +14076,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -13499,6 +14120,7 @@
         {
             "id": 209,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "1 plaza y media",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/21/",
@@ -13513,6 +14135,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -13521,6 +14144,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -13564,6 +14188,7 @@
         {
             "id": 210,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "1 plaza y media",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/22/",
@@ -13578,6 +14203,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -13586,6 +14212,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -13629,6 +14256,7 @@
         {
             "id": 211,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/23/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO + SOFÁ BAÚL - AZUL NOCHE",
@@ -13642,6 +14270,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -13657,6 +14286,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -13714,6 +14344,7 @@
         {
             "id": 212,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/1-plaza-y-media/24/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO + SOFÁ BAÚL - ROJO",
@@ -13727,6 +14358,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -13741,6 +14373,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -13798,6 +14431,7 @@
         {
             "id": 213,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/40/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADA + BAÚL + 2 PUFF - GRIS",
@@ -13811,6 +14445,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea",
@@ -13819,6 +14454,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -13876,6 +14512,7 @@
         {
             "id": 214,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/41/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL  - CHOCOLATE",
@@ -13889,6 +14526,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -13897,6 +14535,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -13954,6 +14593,7 @@
         {
             "id": 215,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/42/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - NEGRO",
@@ -13967,6 +14607,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -13975,6 +14616,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14032,6 +14674,7 @@
         {
             "id": 216,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/43/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - AZUL NOCHE",
@@ -14045,6 +14688,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -14053,6 +14697,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14110,6 +14755,7 @@
         {
             "id": 217,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/44/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ + BAÚL + 2 PUFF - GRIS RATA",
@@ -14123,6 +14769,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -14131,6 +14778,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14188,6 +14836,7 @@
         {
             "id": 218,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/45/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ + BAÚL + 2 PUFF - NEGRO",
@@ -14201,6 +14850,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -14209,6 +14859,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14266,6 +14917,7 @@
         {
             "id": 219,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/46/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CONEJO - LILA",
@@ -14279,6 +14931,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -14296,6 +14949,7 @@
 
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14353,6 +15007,7 @@
         {
             "id": 220,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/47/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CONEJO - AZUL NOCHE",
@@ -14366,6 +15021,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -14383,6 +15039,7 @@
 
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14440,6 +15097,7 @@
         {
             "id": 221,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/48/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CONEJO - ROJO",
@@ -14453,6 +15111,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -14467,6 +15126,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14524,6 +15184,7 @@
         {
             "id": 222,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/49/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CONEJO - VERDE CERCETA",
@@ -14537,6 +15198,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -14554,6 +15216,7 @@
 
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14611,6 +15274,7 @@
         {
             "id": 223,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/50/",
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL OTRO MODELO + BAÚL - GRIS RATA",
@@ -14624,6 +15288,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -14632,6 +15297,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -14689,6 +15355,7 @@
         {
             "id": 224,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/148/",
             "nombre": "CAMA BOX TARIMA AMERICANO KING + CABECERA AÉREA CAPITONEADA + BAÚL - NEGRO",
@@ -14702,6 +15369,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -14710,6 +15378,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -14767,6 +15436,7 @@
         {
             "id": 225,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/149/",
             "nombre": "CAMA BOX TARIMA AMERICANO KING + CABECERA PEDESTAL CAPITONEADA + BAÚL - CHOCOLATE",
@@ -14780,6 +15450,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -14788,6 +15459,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -14845,6 +15517,7 @@
         {
             "id": 226,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/150/",
             "nombre": "CAMA BOX TARIMA AMERICANO KING + CABECERA PEDESTAL CAPITONEADA + BAÚL - NEGRO",
@@ -14858,6 +15531,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -14866,6 +15540,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -14923,6 +15598,7 @@
         {
             "id": 227,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/kamas/americanas/king/151/",
             "nombre": "CAMA BOX TARIMA AMERICANO KING + CABECERA PEDESTAL CAPITONEADA + BAÚL - ROJO",
@@ -14936,6 +15612,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -14944,6 +15621,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",

@@ -23,6 +23,10 @@ function Center({ onMenuClick, isMenuOpen }) {
 
                 <SearchBar/>
 
+                <a href='/mis-favoritos' title='Mis favoritos'>
+                    <p className='button-link-text'>Mis favoritos</p>
+                </a>
+
                 <a href='tel: +51933197648' className='header-center-call-button' title='Llamar ahora'>
                     <span className="material-icons">phone_in_talk</span>
 

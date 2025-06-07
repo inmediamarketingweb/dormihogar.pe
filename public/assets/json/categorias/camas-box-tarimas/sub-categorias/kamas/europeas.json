@@ -3,6 +3,7 @@
         {
             "id": 1,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "1 plaza y media",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/1-plaza-y-media/1/",
@@ -17,6 +18,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "1 plaza y media",
                     "tipo-de-cabecera": "Pedestal",
@@ -25,6 +27,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
@@ -69,6 +72,7 @@
         {
             "id": 2,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/1/",
@@ -83,6 +87,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -91,6 +96,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -134,6 +140,7 @@
         {
             "id": 3,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/2/",
@@ -148,6 +155,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea",
@@ -156,6 +164,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -199,6 +208,7 @@
         {
             "id": 4,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/3/",
@@ -213,6 +223,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -221,6 +232,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -265,6 +277,7 @@
         {
             "id": 5,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/4/",
@@ -279,6 +292,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -287,6 +301,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -331,6 +346,7 @@
         {
             "id": 6,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/5/",
@@ -345,6 +361,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -353,6 +370,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -397,6 +415,7 @@
         {
             "id": 7,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/6/",
@@ -411,6 +430,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -419,6 +439,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -463,6 +484,7 @@
         {
             "id": 8,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/7/",
@@ -477,6 +499,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -485,6 +508,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -529,6 +553,7 @@
         {
             "id": 9,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/8/",
@@ -543,6 +568,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -551,6 +577,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -595,6 +622,7 @@
         {
             "id": 10,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/9/",
@@ -609,6 +637,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -617,6 +646,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -661,6 +691,7 @@
         {
             "id": 11,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/10/",
@@ -675,6 +706,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -683,6 +715,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -727,6 +760,7 @@
         {
             "id": 12,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/11/",
@@ -741,6 +775,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -749,6 +784,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -793,72 +829,7 @@
         {
             "id": 13,
             "categoria": "camas box tarimas",
-            "subcategoria": "europeas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/12/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA PEDESTAL EMPERATRIZ",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/king/pedestales/americanas/brazos-rectos/emperatriz/2/",
-            "colores": "si",
-            "precioRegular": 1800,
-            "precioNormal": 1949,
-            "precioVenta": 1349,
-            "stock": 12,
-            "sku": "K234223N11",
-            "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 13,
-            "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/13/",
@@ -873,6 +844,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -881,6 +853,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -925,6 +898,7 @@
         {
             "id": 14,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/14/",
@@ -939,6 +913,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -947,6 +922,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -991,6 +967,7 @@
         {
             "id": 15,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/15/",
@@ -1005,6 +982,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -1013,6 +991,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1057,6 +1036,7 @@
         {
             "id": 16,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/16/",
@@ -1071,6 +1051,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -1079,6 +1060,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1123,6 +1105,7 @@
         {
             "id": 17,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas/king/17/",
@@ -1137,6 +1120,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "tipo-de-cabecera": "Pedestal",
@@ -1145,6 +1129,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -1189,6 +1174,7 @@
         {
             "id": 18,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "Queen",
             "ruta": "/ofertas/camas-box-tarimas/europeas/queen/18/",
@@ -1204,6 +1190,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "Queen",
                     "tipo-de-cabecera": "Pedestal",
@@ -1212,6 +1199,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "Queen",
                     "cajones": "No",
@@ -1256,9 +1244,10 @@
         {
             "id": 19,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/ofertas/camas-box-tarimas/europeas/2-plazas/19/",
+            "ruta": "/ofertas/camas-box-tarimas/europeas/2-plazas/1/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/pedestales/coronas/brazos-curvos/majestad/1/",
             "colores": "si",
@@ -1270,6 +1259,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -1278,6 +1268,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1322,9 +1313,10 @@
         {
             "id": 20,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/kamas/europeas/2-plazas/20/",
+            "ruta": "/productos/camas-box-tarimas/kamas/europeas/2-plazas/2/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/pedestales/coronas/brazos-rectos/corona/1/",
             "colores": "si",
@@ -1336,6 +1328,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
@@ -1344,6 +1337,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1388,9 +1382,10 @@
         {
             "id": 21,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/camas-box-tarimas/kamas/europeas/2-plazas/21/",
+            "ruta": "/productos/camas-box-tarimas/kamas/europeas/2-plazas/3/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "colores": "si",
@@ -1402,6 +1397,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1410,6 +1406,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -1454,9 +1451,10 @@
         {
             "id": 22,
             "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/camas-box-tarimas/kamas/europeas/2-plazas/22/",
+            "ruta": "/productos/camas-box-tarimas/kamas/europeas/2-plazas/4/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL + 2 PUFF - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/aereas/americanas/sin-brazos/capitoneado/1/",
             "colores": "si",
@@ -1468,6 +1466,7 @@
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea",
@@ -1476,6 +1475,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",

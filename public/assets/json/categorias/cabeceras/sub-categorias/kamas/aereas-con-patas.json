@@ -3,9 +3,10 @@
         {
             "id": 1,
             "categoria": "cabeceras",
+            "marca": "kamas",
             "subcategoria": "aereas con patas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/aereas-con-patas/2-plazas/1/",
+            "ruta": "/productos/cabeceras/kamas/aereas-con-patas/2-plazas/1/",
             "nombre": "CABECERA AÉREA 2 PLAZAS CUADROS 2 + 2 PUFF - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/aereas-con-patas/bloques/brazos-rectos/cuadros-2/1/",
             "colores": "si",
@@ -17,6 +18,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
                     "modelo-de-cabecera": "Cuadros 2"
@@ -24,6 +26,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -52,9 +55,10 @@
         {
             "id": 2,
             "categoria": "cabeceras",
+            "marca": "kamas",
             "subcategoria": "aereas con patas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/aereas-con-patas/2-plazas/2/",
+            "ruta": "/productos/cabeceras/kamas/aereas-con-patas/2-plazas/2/",
             "nombre": "CABECERA AÉREA 2 PLAZAS CUADROS 2 - NEGRO",
             "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/aereas-con-patas/bloques/brazos-rectos/cuadros-2/2/",
             "colores": "si",
@@ -66,6 +70,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",
                     "modelo-de-cabecera": "Cuadros 2"
@@ -73,6 +78,7 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Aérea con patas",

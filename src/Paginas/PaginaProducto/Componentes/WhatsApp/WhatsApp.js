@@ -6,12 +6,12 @@ function WhatsApp({producto, selectedShipping, shippingInfo, selectedColor, quan
     const getWhatsAppLink = () => {
         if (!selectedShipping.tipo) return "#";
 
-        const numeroWhatsApp = "+51917013610";
-        const userName = localStorage.getItem('nombre') || ''; // Corrected key
+        const numeroWhatsApp = "+51933197648";
+        const userName = localStorage.getItem('nombre') || '';
 
-        const mensaje = `Hola Kamas, estoy interesad@ en adquirir este/os producto/s:\n`
+        const mensaje = `Hola Dormihogar 🛌, estoy interesad@ en adquirir este/os producto/s:\n`
             + `*${producto.nombre}*\n`
-            + `https://kamas.pe${producto.ruta}\n`
+            + `https://dormihogar.pe${producto.ruta}\n`
             + `Tela: ${selectedColor ? selectedColor.tela : 'Sin variación'}\n`
             + `Color: ${selectedColor ? selectedColor.color : 'Sin variación'}\n`
             + `Precio: S/.${producto.precioVenta}\n\n`
@@ -28,12 +28,10 @@ function WhatsApp({producto, selectedShipping, shippingInfo, selectedColor, quan
         return `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensaje)}`;
     };
 
-    // Get values with correct localStorage key
     const userName = localStorage.getItem('nombre') || '';
     const district = shippingInfo?.locationData?.distrito || '';
     const headquarters = shippingInfo?.selectedAgency || shippingInfo?.selectedSede || '';
     
-    // Check both conditions
     const hasRequiredFields = Boolean(
         userName.trim() && 
         (district.trim() || headquarters.trim())
@@ -48,7 +46,7 @@ function WhatsApp({producto, selectedShipping, shippingInfo, selectedColor, quan
 
     return(
         <a href={getWhatsAppLink()} className={buttonClasses} target="_blank" rel="noopener noreferrer" onClick={handleContinuarClick}>
-            <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" alt="WhatsApp | Kamas"/>
+            <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" alt="WhatsApp | dormihogar"/>
             <p>Continuar</p>
         </a>
     )

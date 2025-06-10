@@ -97,6 +97,21 @@ function Bottom({ isMenuOpen }){
                                             </div>
                                         )}
 
+                                        {categoria.modelos && (
+                                            <div className='submenu-target submenu-target-3'>
+                                                <h3 className='submenu-target-title'>Modelos:</h3>
+                                                <ul>
+                                                    {categoria.modelos.map((modelo) => (
+                                                        <li key={uuidv4()}>
+                                                            <a href={modelo.ruta} title={modelo.modelo}>
+                                                                <h4>{modelo.modelo}</h4>
+                                                            </a>
+                                                        </li>
+                                                    ))}
+                                                </ul>
+                                            </div>
+                                        )}
+
                                         {categoria.menuImg && (
                                             <div className='submenu-target submenu-target-4'>
                                                 <img width={280} height={280} loading='lazy' src={categoria.menuImg[0]?.imgSrc} alt={categoria.menuImg[0]?.imgAlt || categoria.categoria}/>

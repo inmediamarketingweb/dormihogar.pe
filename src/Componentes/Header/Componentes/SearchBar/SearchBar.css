@@ -5,6 +5,7 @@
     justify-content: right;
     max-width: 360px;
     position: relative;
+    margin-left: auto;
 }
 
 .search-bar{

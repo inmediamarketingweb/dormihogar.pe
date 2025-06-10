@@ -97,7 +97,7 @@ function ModalDatos() {
                 <section className="modal-datos-content">
                     <div className="modal-datos">
                         <div className="d-flex-center-between gap-20">
-                            <p className="title">¡Hola 👋! Bienvenido a KAMAS</p>
+                            <p className="title">Bienvenido a Dormihogar</p>
                             <button type="button" className="modal-datos-close-top" onClick={handleCloseModal}>
                                 <span className="material-icons">close</span>
                             </button>

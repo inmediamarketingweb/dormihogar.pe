@@ -35,6 +35,12 @@
                     "subcategoria": "Cisne",
                     "metaTitulo": "Colchones - Cisne | Dormihogar",
                     "ruta": "/productos/colchones/cisne/"
+                },
+                {
+                    "id": 4,
+                    "subcategoria": "Ver todos",
+                    "metaTitulo": "Colchones | Dormihogar",
+                    "ruta": "/productos/colchones/"
                 }
             ],
             "medidas":[
@@ -111,6 +117,12 @@
                     "subcategoria": "Cisne",
                     "metaTitulo": "Camas box tarimas - Cisne | Dormihogar",
                     "ruta": "/productos/camas-box-tarimas/cisne/"
+                },
+                {
+                    "id": 4,
+                    "subcategoria": "Ver todos",
+                    "metaTitulo": "Camas box tarimas | Dormihogar",
+                    "ruta": "/productos/camas-box-tarimas/"
                 }
             ],
             "medidas":[
@@ -173,20 +185,26 @@
                 {
                     "id": 1,
                     "subcategoria": "Kamas",
-                    "metaTitulo": "Colchones - Dormitorios | Dormihogar",
+                    "metaTitulo": "Dormitorios - Kamas | Dormihogar",
                     "ruta": "/productos/dormitorios/kamas/"
                 },
                 {
                     "id": 2,
-                    "subcategoria": "Paraíso",
-                    "metaTitulo": "Colchones - Dormitorios | Dormihogar",
+                    "subcategoria": "Paraiso",
+                    "metaTitulo": "Dormitorios - Paraiso | Dormihogar",
                     "ruta": "/productos/dormitorios/paraiso/"
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Cisne",
-                    "metaTitulo": "Colchones - Dormitorios | Dormihogar",
-                    "ruta": "/productos/dormitorios/cisne/"
+                    "subcategoria": "El Cisne",
+                    "metaTitulo": "Dormitorios - El Cisne | Dormihogar",
+                    "ruta": "/productos/dormitorios/el-cisne/"
+                },
+                {
+                    "id": 4,
+                    "subcategoria": "Ver todos",
+                    "metaTitulo": "Dormitorios | Dormihogar",
+                    "ruta": "/productos/dormitorios/"
                 }
             ],
             "medidas":[
@@ -260,9 +278,15 @@
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Cisne",
-                    "metaTitulo": "Camas funcionales - Cisne | Dormihogar",
-                    "ruta": "/productos/camas-funcionales/cisne/"
+                    "subcategoria": "El Cisne",
+                    "metaTitulo": "Camas funcionales - El Cisne | Dormihogar",
+                    "ruta": "/productos/camas-funcionales/el-cisne/"
+                },
+                {
+                    "id": 4,
+                    "subcategoria": "Ver todos",
+                    "metaTitulo": "Camas funcionales | Dormihogar",
+                    "ruta": "/productos/camas-funcionales/"
                 }
             ],
             "medidas":[
@@ -316,6 +340,37 @@
                     "text": "Cabeceras acogedoras que protegen la pared y ofrecen respaldo al sentarse. Diseños americanos y europeos adaptables a diferentes estilos y tapizados."
                 }
             ],
+            "subCategoriasTitulo":[
+                {
+                    "text": "Marcas"
+                }
+            ],
+            "subCategorias":[
+                {
+                    "id": 1,
+                    "subcategoria": "Kamas",
+                    "metaTitulo": "Cabeceras - Kamas | Dormihogar",
+                    "ruta": "/productos/cabeceras/kamas/"
+                },
+                {
+                    "id": 2,
+                    "subcategoria": "Paraiso",
+                    "metaTitulo": "Cabeceras - Paraiso | Dormihogar",
+                    "ruta": "/productos/cabeceras/paraiso/"
+                },
+                {
+                    "id": 3,
+                    "subcategoria": "El Cisne",
+                    "metaTitulo": "Cabeceras - El Cisne | Dormihogar",
+                    "ruta": "/productos/cabeceras/el-cisne/"
+                },
+                {
+                    "id": 4,
+                    "subcategoria": "Ver todos",
+                    "metaTitulo": "Cabeceras | Dormihogar",
+                    "ruta": "/productos/cabeceras/"
+                }
+            ],
             "medidas":[
                 {
                     "id": 1,
@@ -348,31 +403,6 @@
                     "ruta": "/productos/cabeceras/"
                 }
             ],
-            "subCategoriasTitulo":[
-                {
-                    "text": "Marcas"
-                }
-            ],
-            "subCategorias":[
-                {
-                    "id": 1,
-                    "subcategoria": "Kamas",
-                    "metaTitulo": "Cabeceras - Kamas | Dormihogar",
-                    "ruta": "/productos/cabeceras/kamas/"
-                },
-                {
-                    "id": 2,
-                    "subcategoria": "Paraiso",
-                    "metaTitulo": "Cabeceras - Paraiso | Dormihogar",
-                    "ruta": "/productos/cabeceras/paraiso/"
-                },
-                {
-                    "id": 3,
-                    "subcategoria": "El Cisne",
-                    "metaTitulo": "Cabeceras - El Cisne | Dormihogar",
-                    "ruta": "/productos/cabeceras/el-cisne/"
-                }
-            ],
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/cabeceras/1.webp",
@@ -394,55 +424,81 @@
             ],
             "subCategoriasTitulo":[
                 {
-                    "text": "Modelos"
+                    "text": "Marcas"
                 }
             ],
             "subCategorias":[
                 {
                     "id": 1,
-                    "subcategoria": "Juegos de sala",
-                    "metaTitulo": "Sofás - Juegos de sala | Dormihogar",
-                    "ruta": "/productos/sofas/juegos-de-sala/"
+                    "subcategoria": "Kamas",
+                    "metaTitulo": "Sofás - Kamas | Dormihogar",
+                    "ruta": "/productos/sofas/kamas/"
                 },
                 {
                     "id": 2,
-                    "subcategoria": "Seccionales",
-                    "metaTitulo": "Sofás - Seccionales | Dormihogar",
-                    "ruta": "/productos/sofas/seccionales/"
+                    "subcategoria": "Paraiso",
+                    "metaTitulo": "Sofás - Paraiso | Dormihogar",
+                    "ruta": "/productos/sofas/paraiso/"
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Sofás camas",
-                    "metaTitulo": "Sofás - Sofás camas | Dormihogar",
-                    "ruta": "/productos/sofas/sofas-camas/"
+                    "subcategoria": "El Cisne",
+                    "metaTitulo": "Sofás - El Cisne | Dormihogar",
+                    "ruta": "/productos/sofas/el-cisne/"
                 },
                 {
                     "id": 4,
-                    "subcategoria": "Reclinales",
+                    "subcategoria": "Ver todos",
+                    "metaTitulo": "Sofás | Dormihogar",
+                    "ruta": "/productos/sofas/"
+                }
+            ],
+            "modelos":[
+                {
+                    "id": 1,
+                    "modelo": "Juegos de sala",
+                    "metaTitulo": "Sofás - Juegos de sala | Dormihogar",
+                    "ruta": "/productos/sofas/?modelo=juegos-de-sala"
+                },
+                {
+                    "id": 2,
+                    "modelo": "Seccionales",
+                    "metaTitulo": "Sofás - Seccionales | Dormihogar",
+                    "ruta": "/productos/sofas/?modelo=seccionales"
+                },
+                {
+                    "id": 3,
+                    "modelo": "Sofás camas",
+                    "metaTitulo": "Sofás - Sofás camas | Dormihogar",
+                    "ruta": "/productos/sofas/?modelo=sofás-camas"
+                },
+                {
+                    "id": 4,
+                    "modelo": "Reclinales",
                     "metaTitulo": "Sofás - Reclinables | Dormihogar",
-                    "ruta": "/productos/sofas/reclinables/"
+                    "ruta": "/productos/sofas/?modelo=reclinables"
                 },
                 {
                     "id": 5,
-                    "subcategoria": "Sofás y sillones",
+                    "modelo": "Sofás y sillones",
                     "metaTitulo": "Sofás - Sofás y sillones | Dormihogar",
-                    "ruta": "/productos/sofas/sofas-y-sillones/"
+                    "ruta": "/productos/sofas/?modelo=sofas-y-sillones"
                 },
                 {
                     "id": 6,
-                    "subcategoria": "Mecedoras",
+                    "modelo": "Mecedoras",
                     "metaTitulo": "Sofás - Mecedoras | Dormihogar",
-                    "ruta": "/productos/sofas/mecedoras/"
+                    "ruta": "/productos/sofas/?modelo=mecedoras"
                 },
                 {
                     "id": 7,
-                    "subcategoria": "Butacas",
+                    "modelo": "Butacas",
                     "metaTitulo": "Sofás - Butacas | Dormihogar",
-                    "ruta": "/productos/sofas/butacas/"
+                    "ruta": "/productos/sofas/?modelo=butacas"
                 },
                 {
                     "id": 8,
-                    "subcategoria": "Ver todos",
+                    "modelo": "Ver todos",
                     "metaTitulo": "Sofás | Dormihogar",
                     "ruta": "/productos/sofas/"
                 }

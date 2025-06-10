@@ -11,11 +11,7 @@ function Center({ onMenuClick, isMenuOpen }) {
                         <img src="/assets/imagenes/SEO/logo-principal.jpg" width={125} height={50} alt="Dormihogar"/>
                     </a>
 
-                    <button 
-                        type='button' 
-                        className={`menu-button ${isMenuOpen ? 'active' : ''}`}
-                        onClick={onMenuClick}
-                    >
+                    <button type='button' className={`menu-button ${isMenuOpen ? 'active' : ''}`} onClick={onMenuClick} >
                         <span className="material-icons">menu</span>
                         <span className="material-icons">close</span>
                     </button>
@@ -23,8 +19,8 @@ function Center({ onMenuClick, isMenuOpen }) {
 
                 <SearchBar/>
 
-                <a href='/mis-favoritos' title='Mis favoritos'>
-                    <p className='button-link-text'>Mis favoritos</p>
+                <a href='/mis-favoritos' title='Mis favoritos' className='margin-left favorites-button'>
+                    <span class="material-icons">favorite</span> 
                 </a>
 
                 <a href='tel: +51933197648' className='header-center-call-button' title='Llamar ahora'>

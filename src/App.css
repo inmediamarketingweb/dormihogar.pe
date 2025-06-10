@@ -430,6 +430,11 @@ button{
         cursor: none !important;
     }
 
+    main{
+        width: 100%;
+        margin-top: 168px;
+    }
+
     .block-title{
         margin-right: auto;
         text-align: left !important;

@@ -102,11 +102,25 @@
     display: flex;
 }
 
-.submenu-target > ul li a h4{
-    color: var(--text);
+.submenu-target > ul li a{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 3px;
 }
 
-.submenu-target > ul li a:hover h4{
+.submenu-target > ul li a::before{
+    content: '>';
+}
+
+.submenu-target > ul li a h4,
+.submenu-target > ul li a::before{
+    color: var(--text);
+    transition: var(--t-100ms-linear);
+}
+
+.submenu-target > ul li a:hover h4,
+.submenu-target > ul li a:hover::before{
     color: var(--color-1);
 }
 

@@ -30,7 +30,9 @@
 }
 
 .product-details ul li div strong::first-letter,
-.descripcion-list li div strong::first-letter{
+.descripcion-list li div strong::first-letter,
+.product-details ul li div p::first-letter,
+.descripcion-list li div p::first-letter{
     text-transform: uppercase;
 }
 

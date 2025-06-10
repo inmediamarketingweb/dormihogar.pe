@@ -28,7 +28,7 @@
     max-width: none;
     display: flex !important;
     width: 280px;
-    /* height: 310px; */
+    height: 390px;
 }
 
 .product-card-target{
@@ -44,15 +44,12 @@
 .product-card-target span{
     font-size: 13px;
     color: green;
-    /* font-weight: bold; */
 }
 
 .ultimas-novedades-block-content .block-title-buttons{
     margin-top: 20px;
     justify-content: right;
 }
-
-/**/
 
 .ultimas-novedades-button{
     position: absolute;
@@ -77,8 +74,6 @@
 .ultimas-novedades-button-2{
     right: 10px;
 }
-
-/**/
 
 @media screen and (max-width: 600px){
     .ultimas-novedades-button{

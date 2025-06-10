@@ -1,5 +1,20 @@
 [
     {
+        "titulo": "Marcas",
+        "nombre": "marca",
+        "lista":[
+            {
+                "nombre": "Kamas"
+            },
+            {
+                "nombre": "Paraiso"
+            },
+            {
+                "nombre": "El Cisne"
+            }
+        ]
+    },
+    {
         "titulo": "Modelos",
         "nombre": "modelo",
         "lista":[

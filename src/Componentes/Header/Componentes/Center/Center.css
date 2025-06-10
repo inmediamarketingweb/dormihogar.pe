@@ -11,6 +11,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 10px;
 }
 
 .header-logo img{
@@ -53,6 +54,22 @@
 
 .menu-button{
     display: none;
+}
+
+.favorites-button{
+    color: var(--color-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--color-1);
+    width: 46px;
+    height: 46px;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+}
+
+.favorites-button span{
+    font-size: 20px;
 }
 
 @media screen and (max-width: 600px){
@@ -111,5 +128,9 @@
 
     .menu-button.active span:nth-child(1){
         scale: 0;
+    }
+
+    .favorites-button{
+        display: none;
     }
 }

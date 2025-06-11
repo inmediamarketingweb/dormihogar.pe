@@ -4,15 +4,15 @@
             "id": 1,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2750,
-            "precioNormal": 1475,
-            "precioVenta": 999,
+            "subcategoria": "royal cloud",
+            "ruta": "/productos/colchones/paraiso/royal-cloud/1-plaza-y-media/",
+            "nombre": "COLCHÓN PARAISO ROYAL CLOUD 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-cloud/",
+            "precioRegular": 1999,
+            "precioNormal": 1708,
+            "precioVenta": 769,
             "stock": 14,
-            "sku": "D12151N10",
+            "sku": "D121522N10",
             "regalos":[
                 {
                     "texto": "1 almohada viscoelástica",
@@ -26,31 +26,30 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal cloud",
                     "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Muy suave",
-                    "tipo-de-resorte": "Pocket"
+                    "nivel-de-confort": "Muy suave"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal cloud",
                     "tamaño": "1 plaza y media",
                     "nivel-de-confort": "Muy suave",
                     "tipo-de-resorte": "Pocket"
@@ -58,10 +57,14 @@
             ],
             "descripcion":[
                 {
+                    "resortes": "Pocket slim",
                     "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
+                    "tela": "Tejido de punto higroscópica que absorbe la humedad",
+                    "top": "euro top acolchado superior",
+                    "técnología": "Memory foarm D55",
+                    "marco": "zebra 30 HD",
                     "espuma": "Viscoelástica D70",
-                    "capas": "Capas de Zebras 35 HR y 35 HD",
+                    "capas": "2 de Zebra 30 HR",
                     "garantía": "10 años"
                 }
             ]
@@ -70,19 +73,19 @@
             "id": 2,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2750,
-            "precioNormal": 1929,
-            "precioVenta": 1249,
+            "subcategoria": "royal cloud",
+            "ruta": "/productos/colchones/paraiso/royal-cloud/2-plazas/",
+            "nombre": "COLCHÓN PARAISO ROYAL CLOUD 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-cloud/",
+            "precioRegular": 2999,
+            "precioNormal": 2286,
+            "precioVenta": 1029,
             "stock": 14,
-            "sku": "D1221N10",
+            "sku": "D12222N10",
             "regalos":[
                 {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -92,31 +95,30 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Muy suave",
-                    "tipo-de-resorte": "Pocket"
+                    "modelo-de-colchón": "Royal cloud",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Muy suave"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal cloud",
                     "tamaño": "2 plazas",
                     "nivel-de-confort": "Muy suave",
                     "tipo-de-resorte": "Pocket"
@@ -124,10 +126,15 @@
             ],
             "descripcion":[
                 {
+                    "resortes": "Pocket slim",
                     "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
+                    "tela": "Tejido de punto higroscópica que absorbe la humedad",
+                    "top": "euro top acolchado superior",
+                    "técnología": "Memory foarm D55",
+                    "marco": "zebra 30 HD",
+                    "sistema": "one side",
                     "espuma": "Viscoelástica D70",
-                    "capas": "Capas de Zebras 35 HR y 35 HD",
+                    "capas": "2 de Zebra 30 HR",
                     "garantía": "10 años"
                 }
             ]
@@ -136,19 +143,19 @@
             "id": 3,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2019,
-            "precioNormal": 1789,
-            "precioVenta": 1449,
+            "subcategoria": "royal cloud",
+            "ruta": "/productos/colchones/paraiso/royal-cloud/queen/",
+            "nombre": "COLCHÓN PARAISO ROYAL CLOUD QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-cloud/",
+            "precioRegular": 3249,
+            "precioNormal": 2776,
+            "precioVenta": 1249,
             "stock": 14,
-            "sku": "D1231N10",
+            "sku": "D12322N10",
             "regalos":[
                 {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -158,30 +165,30 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "Queen",
+                    "modelo-de-colchón": "Royal cloud",
+                    "tamaño": "1 plaza y media",
                     "nivel-de-confort": "Muy suave"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal cloud",
                     "tamaño": "Queen",
                     "nivel-de-confort": "Muy suave",
                     "tipo-de-resorte": "Pocket"
@@ -189,10 +196,15 @@
             ],
             "descripcion":[
                 {
+                    "resortes": "Pocket slim",
                     "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
+                    "tela": "Tejido de punto higroscópica que absorbe la humedad",
+                    "top": "euro top acolchado superior",
+                    "técnología": "Memory foarm D55",
+                    "marco": "zebra 30 HD",
+                    "sistema": "one side",
                     "espuma": "Viscoelástica D70",
-                    "capas": "Capas de Zebras 35 HR y 35 HD",
+                    "capas": "2 de Zebra 30 HR",
                     "garantía": "10 años"
                 }
             ]
@@ -201,19 +213,19 @@
             "id": 4,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO KING",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2519,
-            "precioNormal": 2239,
-            "precioVenta": 1829,
+            "subcategoria": "royal cloud",
+            "ruta": "/productos/colchones/paraiso/royal-cloud/king/",
+            "nombre": "COLCHÓN PARAISO ROYAL CLOUD KING",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-cloud/",
+            "precioRegular": 3989,
+            "precioNormal": 3529,
+            "precioVenta": 1579,
             "stock": 14,
-            "sku": "D1241N10",
+            "sku": "D12422N10",
             "regalos":[
                 {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -223,30 +235,30 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "King",
+                    "modelo-de-colchón": "Royal cloud",
+                    "tamaño": "1 plaza y media",
                     "nivel-de-confort": "Muy suave"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/"
+                    "ruta": "/productos/colchones/paraiso/royal-cloud/queen/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal cloud",
                     "tamaño": "King",
                     "nivel-de-confort": "Muy suave",
                     "tipo-de-resorte": "Pocket"
@@ -254,15 +266,18 @@
             ],
             "descripcion":[
                 {
+                    "resortes": "Pocket slim",
                     "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
-                    "espuma": "Viscoelástica D70 que se adapta al cuerpo",
-                    "capas": "2 capas de Zebras HR y HD para un mejor soporte",
-                    "sistema": "One side",
-                    "sensacion": "Muy suave",
+                    "tela": "Tejido de punto higroscópica que absorbe la humedad",
+                    "top": "euro top acolchado superior",
+                    "técnología": "Memory foarm D55",
+                    "marco": "zebra 30 HD",
+                    "sistema": "one side",
+                    "espuma": "Viscoelástica D70",
+                    "capas": "2 de Zebra 30 HR",
                     "garantía": "10 años"
                 }
             ]
         }
     ]
-}
+} 

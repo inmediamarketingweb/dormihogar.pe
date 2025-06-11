@@ -5,6 +5,90 @@
             "subcategoria": "Royal abrazzo",
             "metaTitulo": "Colchones - Royal abrazzo | Dormihogar",
             "ruta": "/productos/colchones/paraiso/royal-abrazzo/"
+        },
+        {
+            "id": 2,
+            "subcategoria": "Royal cloud",
+            "metaTitulo": "Colchones - Royal cloud | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/royal-cloud/"
+        },
+        {
+            "id": 3,
+            "subcategoria": "Royal dynasty",
+            "metaTitulo": "Colchones - Royal dynasty | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/royal-dynasty/"
+        },
+        {
+            "id": 4,
+            "subcategoria": "Royal elizabeth",
+            "metaTitulo": "Colchones - Royal elizabeth | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/royal-elizabeth/"
+        },
+        {
+            "id": 5,
+            "subcategoria": "Royal prince",
+            "metaTitulo": "Colchones - Royal prince | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/royal-prince/"
+        },
+        {
+            "id": 6,
+            "subcategoria": "Pocket star",
+            "metaTitulo": "Colchones - Pocket star | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/pocket-star/"
+        },
+        {
+            "id": 7,
+            "subcategoria": "Pocket italiano",
+            "metaTitulo": "Colchones - Pocket italiano | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/pocket-italiano/"
+        },
+        {
+            "id": 8,
+            "subcategoria": "Super star negro",
+            "metaTitulo": "Colchones - Super star negro | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/super-star-negro/"
+        },
+        {
+            "id": 9,
+            "subcategoria": "Super star",
+            "metaTitulo": "Colchones - Super star | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/super-star/"
+        },
+        {
+            "id": 10,
+            "subcategoria": "Su majestad de lujo",
+            "metaTitulo": "Colchones - Su majestad de lujo | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/su-majestad-de-lujo/"
+        },
+        {
+            "id": 11,
+            "subcategoria": "Medallon ergosoft",
+            "metaTitulo": "Colchones - Medallon ergosoft | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/medallon-ergosoft/"
+        },
+        {
+            "id": 12,
+            "subcategoria": "Tropical ergosoft",
+            "metaTitulo": "Colchones - Tropical ergosoft | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/tropical-ergosoft/"
+        },
+        {
+            "id": 13,
+            "subcategoria": "Eden plus",
+            "metaTitulo": "Colchones - Eden plus | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/eden-plus/"
+        },
+        {
+            "id": 14,
+            "subcategoria": "Eden Cancun",
+            "metaTitulo": "Colchones - Eden Cancun | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/cancun/"
+        },
+        {
+            "id": 15,
+            "subcategoria": "Majestic",
+            "metaTitulo": "Colchones - Majestic | Dormihogar",
+            "ruta": "/productos/colchones/paraiso/majestic/"
         }
     ]
 }

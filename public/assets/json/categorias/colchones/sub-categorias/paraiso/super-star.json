@@ -1,0 +1,284 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "super star",
+            "ruta": "/productos/colchones/paraiso/super-star/1-plaza-y-media/",
+            "nombre": "COLCHÓN PARAISO SUPER STAR 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star/",
+            "precioRegular": 999,
+            "precioNormal": 634,
+            "precioVenta": 349,
+            "stock": 14,
+            "sku": "D121518N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/paraiso/super-star/2-plazas/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/paraiso/super-star/queen/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/paraiso/super-star/king/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Tejido de punto",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "8 años"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "super star",
+            "ruta": "/productos/colchones/paraiso/super-star/2-plazas/",
+            "nombre": "COLCHÓN PARAISO SUPER STAR 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star/",
+            "precioRegular": 999,
+            "precioNormal": 798,
+            "precioVenta": 439,
+            "stock": 14,
+            "sku": "D12218N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/paraiso/super-star/1-plaza-y-media/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/paraiso/super-star/queen/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/paraiso/super-star/king/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Tejido de punto",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "8 años"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "super star",
+            "ruta": "/productos/colchones/paraiso/super-star/queen/",
+            "nombre": "COLCHÓN PARAISO SUPER STAR QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star/",
+            "precioRegular": 1240,
+            "precioNormal": 943,
+            "precioVenta": 519,
+            "stock": 14,
+            "sku": "D12318N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/paraiso/super-star/1-plaza-y-media/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/paraiso/super-star/2-plazas/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/paraiso/super-star/king/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Tejido de punto",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "8 años"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "super star",
+            "ruta": "/productos/colchones/paraiso/super-star/king/",
+            "nombre": "COLCHÓN PARAISO SUPER STAR KING",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star/",
+            "precioRegular": 1999,
+            "precioNormal": 1180,
+            "precioVenta": 649,
+            "stock": 14,
+            "sku": "D12418N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "King",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/paraiso/super-star/1-plaza-y-media/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/paraiso/super-star/2-plazas/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/paraiso/super-star/queen/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star",
+                    "tamaño": "King",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Tejido de punto",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "8 años"
+                }
+            ]
+        }
+    ]
+}

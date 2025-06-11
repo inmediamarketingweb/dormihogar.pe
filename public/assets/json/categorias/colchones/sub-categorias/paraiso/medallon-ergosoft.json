@@ -1,0 +1,266 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "medallon ergosoft",
+            "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza/",
+            "nombre": "COLCHÓN PARAISO MEDALLON ERGOSOFT 1 PLAZA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon-ergosoft/",
+            "precioRegular": 999,
+            "precioNormal": 536,
+            "precioVenta": 279,
+            "stock": 14,
+            "sku": "D12110N10",
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "1 plaza",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza-y-media/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/2-plazas/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/queen/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "1 plaza",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Jacquard",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "banda": "mesh",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "7 años"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "medallon ergosoft",
+            "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza-y-media/",
+            "nombre": "COLCHÓN PARAISO MEDALLON ERGOSOFT 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon-ergosoft/",
+            "precioRegular": 999,
+            "precioNormal": 559,
+            "precioVenta": 319,
+            "stock": 14,
+            "sku": "D121510N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/2-plazas/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/queen/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Jacquard",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "banda": "mesh",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "7 años"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "medallon ergosoft",
+            "ruta": "/productos/colchones/paraiso/medallon-ergosoft/2-plazas/",
+            "nombre": "COLCHÓN PARAISO MEDALLON ERGOSOFT 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon-ergosoft/",
+            "precioRegular": 1199,
+            "precioNormal": 733,
+            "precioVenta": 389,
+            "stock": 14,
+            "sku": "D12210N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza-y-media/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/queen/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Jacquard",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "banda": "mesh",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "7 años"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "medallon ergosoft",
+            "ruta": "/productos/colchones/paraiso/medallon-ergosoft/queen/",
+            "nombre": "COLCHÓN PARAISO MEDALLON ERGOSOFT QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon-ergosoft/",
+            "precioRegular": 1499,
+            "precioNormal": 939,
+            "precioVenta": 479,
+            "stock": 14,
+            "sku": "D12310N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/1-plaza-y-media/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/paraiso/medallon-ergosoft/2-plazas/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Jacquard",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "banda": "mesh",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sitema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "7 años"
+                }
+            ]
+        }
+    ]
+}

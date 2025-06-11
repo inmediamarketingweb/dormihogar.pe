@@ -4,15 +4,15 @@
             "id": 1,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO 1 PLAZA Y MEDIA",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2750,
-            "precioNormal": 1475,
-            "precioVenta": 999,
+            "subcategoria": "royal elizabeth",
+            "ruta": "/productos/colchones/paraiso/royal-elizabeth/1-plaza-y-media/",
+            "nombre": "COLCHÓN PARAISO ROYAL ELIZABETH 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-elizabeth/",
+            "precioRegular": 1999,
+            "precioNormal": 1331,
+            "precioVenta": 599,
             "stock": 14,
-            "sku": "D12151N10",
+            "sku": "D12159N10",
             "regalos":[
                 {
                     "texto": "1 almohada viscoelástica",
@@ -26,42 +26,43 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal elizabeth",
                     "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Muy suave",
-                    "tipo-de-resorte": "Pocket"
+                    "nivel-de-confort": "Intermedio"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal elizabeth",
                     "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Muy suave",
+                    "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
                 }
             ],
             "descripcion":[
                 {
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
+                    "resortes": "Pocket",
+                    "tela": "Tejido de punto higroscópica",
+                    "sistema": "one side",
+                    "marco": "zebra 30 HD",
                     "espuma": "Viscoelástica D70",
-                    "capas": "Capas de Zebras 35 HR y 35 HD",
+                    "capas": "3 de Zebra D20",
                     "garantía": "10 años"
                 }
             ]
@@ -70,19 +71,19 @@
             "id": 2,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2750,
-            "precioNormal": 1929,
-            "precioVenta": 1249,
+            "subcategoria": "royal elizabeth",
+            "ruta": "/productos/colchones/paraiso/royal-elizabeth/2-plazas/",
+            "nombre": "COLCHÓN PARAISO ROYAL ELIZABETH 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-elizabeth/",
+            "precioRegular": 1999,
+            "precioNormal": 1776,
+            "precioVenta": 799,
             "stock": 14,
-            "sku": "D1221N10",
+            "sku": "D1229N10",
             "regalos":[
                 {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -92,42 +93,43 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal elizabeth",
                     "tamaño": "2 plazas",
-                    "nivel-de-confort": "Muy suave",
-                    "tipo-de-resorte": "Pocket"
+                    "nivel-de-confort": "Intermedio"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/1-plaza-y-media/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/queen/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal elizabeth",
                     "tamaño": "2 plazas",
-                    "nivel-de-confort": "Muy suave",
+                    "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
                 }
             ],
             "descripcion":[
                 {
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
+                    "resortes": "Pocket",
+                    "tela": "Tejido de punto higroscópica",
+                    "sistema": "one side",
+                    "marco": "zebra 30 HD",
                     "espuma": "Viscoelástica D70",
-                    "capas": "Capas de Zebras 35 HR y 35 HD",
+                    "capas": "3 de Zebra D20",
                     "garantía": "10 años"
                 }
             ]
@@ -136,19 +138,19 @@
             "id": 3,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2019,
-            "precioNormal": 1789,
-            "precioVenta": 1449,
+            "subcategoria": "royal elizabeth",
+            "ruta": "/productos/colchones/paraiso/royal-elizabeth/queen/",
+            "nombre": "COLCHÓN PARAISO ROYAL ELIZABETH QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-elizabeth/",
+            "precioRegular": 2439,
+            "precioNormal": 2108,
+            "precioVenta": 949,
             "stock": 14,
-            "sku": "D1231N10",
+            "sku": "D1239N10",
             "regalos":[
                 {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -158,41 +160,43 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal elizabeth",
                     "tamaño": "Queen",
-                    "nivel-de-confort": "Muy suave"
+                    "nivel-de-confort": "Intermedio"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/2-plazas/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal elizabeth",
                     "tamaño": "Queen",
-                    "nivel-de-confort": "Muy suave",
+                    "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
                 }
             ],
             "descripcion":[
                 {
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
+                    "resortes": "Pocket",
+                    "tela": "Tejido de punto higroscópica",
+                    "sistema": "one side",
+                    "marco": "zebra 30 HD",
                     "espuma": "Viscoelástica D70",
-                    "capas": "Capas de Zebras 35 HR y 35 HD",
+                    "capas": "3 de Zebra D20",
                     "garantía": "10 años"
                 }
             ]
@@ -201,19 +205,19 @@
             "id": 4,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
-            "ruta": "/productos/colchones/paraiso/royal-abrazzo/king/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO KING",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
-            "precioRegular": 2519,
-            "precioNormal": 2239,
-            "precioVenta": 1829,
+            "subcategoria": "royal elizabeth",
+            "ruta": "/productos/colchones/paraiso/royal-elizabeth/king/",
+            "nombre": "COLCHÓN PARAISO ROYAL ELIZABETH KING",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-elizabeth/",
+            "precioRegular": 3199,
+            "precioNormal": 2559,
+            "precioVenta": 1149,
             "stock": 14,
-            "sku": "D1241N10",
+            "sku": "D1249N10",
             "regalos":[
                 {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -223,43 +227,43 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
+                    "modelo-de-colchón": "Royal elizabeth",
                     "tamaño": "King",
-                    "nivel-de-confort": "Muy suave"
+                    "nivel-de-confort": "Intermedio"
                 }
             ],
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/1-plaza-y-media/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/2-plazas/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/2-plazas/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/paraiso/royal-abrazzo/queen/"
+                    "ruta": "/productos/colchones/paraiso/royal-elizabeth/queen/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Muy suave",
+                    "modelo-de-colchón": "Royal elizabeth",
+                        "tamaño": "king",
+                    "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
                 }
             ],
             "descripcion":[
                 {
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
-                    "espuma": "Viscoelástica D70 que se adapta al cuerpo",
-                    "capas": "2 capas de Zebras HR y HD para un mejor soporte",
-                    "sistema": "One side",
-                    "sensacion": "Muy suave",
+                    "resortes": "Pocket",
+                    "tela": "Tejido de punto higroscópica",
+                    "sistema": "one side",
+                    "marco": "zebra 30 HD",
+                    "espuma": "Viscoelástica D70",
+                    "capas": "3 de Zebra D20",
                     "garantía": "10 años"
                 }
             ]

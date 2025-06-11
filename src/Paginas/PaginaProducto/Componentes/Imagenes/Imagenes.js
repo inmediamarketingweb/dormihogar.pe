@@ -64,7 +64,7 @@ function Imagenes({ imagenes, producto, onSelectColor }){
                         {imagenes.map((src, i) => (
                             <li key={i}>
                                 <div className="zoom-wrapper" onMouseEnter={handleMouseEnter} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
-                                    <img width={isSmallScreen ? 280 : 540} height={isSmallScreen ? 280 : 540} src={src} alt={producto.nombre}/>
+                                    <img width={isSmallScreen ? 385 : 680} height={isSmallScreen ? 385 : 680} src={src} alt={producto.nombre}/>
                                     {zoomActive && i === currentIndex && (
                                         <div className="zoom-lens" style={{ backgroundImage: `url(${src})`, backgroundPosition: `${zoomPos.x}% ${zoomPos.y}%`}}/>
                                     )}
@@ -87,7 +87,7 @@ function Imagenes({ imagenes, producto, onSelectColor }){
                 <ul className="product-page-images-miniatures">
                     {imagenes.map((img, i) => (
                         <li key={i} className={i === currentIndex ? 'active' : ''} onClick={() => navigateTo(i)}>
-                            <LazyImage width={isSmallScreen ? 54 : 80} height={isSmallScreen ? 54 : 80} src={img} alt={producto.nombre}/>
+                            <LazyImage width={isSmallScreen ? 74 : 80} height={isSmallScreen ? 74 : 80} src={img} alt={producto.nombre}/>
                         </li>
                     ))}
                 </ul>

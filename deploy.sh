@@ -20,7 +20,4 @@ echo "🔒 Ajustando permisos..."
 sudo chown -R www-data:www-data /var/www/dormihogar.pe
 sudo chmod -R 777 /var/www/dormihogar.pe
 
-echo "Moviendo .htaccess a la carpeta build..."
-sudo mv /var/www/dormihogar.pe/.htaccess /var/www/dormihogar.pe/build/.htaccess
-
 echo "✅ ¡Despliegue completado!"

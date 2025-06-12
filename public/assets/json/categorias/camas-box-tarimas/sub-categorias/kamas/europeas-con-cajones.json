@@ -7,7 +7,7 @@
             "subcategoria": "europeas con cajones",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/kamas/europeas-con-cajones/king/1/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - GRIS PLATA",
+            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - HUESO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/1/",
             "colores": "si",
             "precioRegular": 2439,
@@ -15,76 +15,6 @@
             "precioVenta": 1499,
             "stock": 12,
             "sku": "K234123N10",
-            "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima con cajones",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "subcategoria": "europeas con cajones",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/kamas/europeas-con-cajones/king/2/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES LATERALES + CABECERA PEDESTAL EMPERATRIZ - GRIS",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/2/",
-            "colores": "si",
-            "precioRegular": 2439,
-            "precioNormal": 1999,
-            "precioVenta": 1499,
-            "stock": 12,
-            "sku": "K234123N11",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -715,76 +645,6 @@
             "precioVenta": 1499,
             "stock": 12,
             "sku": "K234123N20",
-            "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima con cajones",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "subcategoria": "europeas con cajones",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/kamas/europeas-con-cajones/king/12/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - HUESO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/12/",
-            "colores": "si",
-            "precioRegular": 2439,
-            "precioNormal": 1999,
-            "precioVenta": 1499,
-            "stock": 12,
-            "sku": "K234123N21",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {

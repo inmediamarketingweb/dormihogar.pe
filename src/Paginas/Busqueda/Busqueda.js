@@ -94,17 +94,11 @@ function PaginaBusqueda() {
                 const normalizedCategoria = normalizeStr(String(producto.categoria ?? ''));
                 const normalizedSubCategoria = normalizeStr(String(producto.subCategoria ?? ''));
 
-                return normalizedNombre.includes(token) || 
-                       normalizedSKU.includes(token) || 
-                       normalizedCategoria.includes(token) || 
-                       normalizedSubCategoria.includes(token);
+                return normalizedNombre.includes(token) || normalizedSKU.includes(token) || normalizedCategoria.includes(token) || normalizedSubCategoria.includes(token);
             });
 
-            const sizeMatch = selectedFilters.tamanos.length === 0 || 
-                            selectedFilters.tamanos.includes(detalles.tamaño);
-
-            const lineMatch = selectedFilters.lineas.length === 0 || 
-                            selectedFilters.lineas.includes(detalles['línea-de-colchón']);
+            const sizeMatch = selectedFilters.tamanos.length === 0 || selectedFilters.tamanos.includes(detalles.tamaño);
+            const lineMatch = selectedFilters.lineas.length === 0 || selectedFilters.lineas.includes(detalles['línea-de-colchón']);
 
             return searchMatch && sizeMatch && lineMatch;
         });
@@ -151,7 +145,7 @@ function PaginaBusqueda() {
     return(
         <>
             <Helmet>
-                <title>{query} | Kamas</title>
+                <title>{query} | Dormihogar</title>
                 <meta name='description' content="Resultados de búsqueda" />
             </Helmet>
 

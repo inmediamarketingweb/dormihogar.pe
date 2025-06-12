@@ -1,0 +1,47 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "tropical ergosoft",
+            "ruta": "/productos/colchones/paraiso/tropical-ergosoft/1-plaza-y-media/",
+            "nombre": "COLCHÓN PARAISO TROPICAL ERGOSOFT 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/tropical-ergosoft/",
+            "precioRegular": 1468,
+            "precioNormal": 955,
+            "precioVenta": 449,
+            "stock": 14,
+            "sku": "D121524N10",
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Tropical ergosoft",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Tropical ergosoft",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Tejido de punto",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "tipo-de-resorte": "Cosisoft",
+                    "marco": "zebra 25",
+                    "sistema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

@@ -77,9 +77,7 @@ function SearchBar() {
         const tokens = normalizeStr(searchTerm).split(' ').filter(Boolean);
         const fields = [ producto.nombre, producto.sku, producto.categoria, producto.subcategoria ].map(String).map(normalizeStr);
 
-        return tokens.every(token =>
-            fields.some(field => field.includes(token))
-        );
+        return tokens.every( token => fields.some(field => field.includes(token)) );
     });
 
     const handleKeyDown = (e) => {
@@ -111,7 +109,7 @@ function SearchBar() {
                                 <li key={producto.sku}>
                                     <a href={producto.ruta} title={producto.nombre}>
                                         <p className='text'>{producto.nombre}</p>
-                                        <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1.jpg`} alt={producto.nombre}/>
+                                        <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1`} alt={producto.nombre}/>
                                     </a>
                                 </li>
                             ))

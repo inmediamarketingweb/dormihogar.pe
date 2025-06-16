@@ -1,0 +1,11 @@
+.product-card-fabric{
+    position: absolute;
+    left: 0;
+    top: 29px;
+    font-size: 13px;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-weight: bold;
+    background: #efefef;
+    z-index: 1;
+}

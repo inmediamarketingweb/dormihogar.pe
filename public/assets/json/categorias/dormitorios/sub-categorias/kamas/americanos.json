@@ -936,8 +936,16 @@
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
+                },
+                {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/negro.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -3438,8 +3446,8 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/kamas/americanos/king/sarki/31/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA RECTÁNGULAR 1 - CUERO NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/rectangular-1/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA RECTÁNGULAR 2 - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/rectangular-2/1/",
             "colores": "si",
             "precioRegular": 2749,
             "precioNormal": 1999,
@@ -3451,6 +3459,10 @@
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
                 }
             ],
             "resumen-del-producto":[

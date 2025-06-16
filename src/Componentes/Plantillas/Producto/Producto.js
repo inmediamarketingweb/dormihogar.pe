@@ -58,6 +58,8 @@ export function Producto({ producto = { id: null } , truncate }){
                         <span className="product-card-discount">-{descuento}%</span>
                     )}
 
+                    {/* <span className='product-card-fabric'>Tela {producto.tela}</span> */}
+
                     <a href={producto.ruta} alt={producto.nombre}>
                         <LazyImage width={isSmallScreen ? 140 : 200} height={isSmallScreen ? 140 : 200} src={`${producto.fotos}1`} alt={producto.nombre}/>
                     </a>

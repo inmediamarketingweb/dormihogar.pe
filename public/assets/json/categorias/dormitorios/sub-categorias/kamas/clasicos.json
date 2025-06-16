@@ -3,6 +3,7 @@
         {
             "id": 1,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -92,6 +93,7 @@
         {
             "id": 2,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -181,6 +183,7 @@
         {
             "id": 3,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -270,6 +273,7 @@
         {
             "id": 4,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -359,6 +363,7 @@
         {
             "id": 5,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -448,6 +453,7 @@
         {
             "id": 6,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -537,6 +543,7 @@
         {
             "id": 7,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -626,6 +633,7 @@
         {
             "id": 8,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -715,6 +723,7 @@
         {
             "id": 9,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
@@ -804,6 +813,7 @@
         {
             "id": 10,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -894,6 +904,7 @@
         {
             "id": 11,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -984,6 +995,7 @@
         {
             "id": 12,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -1074,6 +1086,7 @@
         {
             "id": 13,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -1164,6 +1177,7 @@
         {
             "id": 14,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -1254,6 +1268,7 @@
         {
             "id": 15,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -1344,6 +1359,7 @@
         {
             "id": 16,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -1434,6 +1450,7 @@
         {
             "id": 17,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -1524,6 +1541,7 @@
         {
             "id": 18,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",
@@ -1614,6 +1632,7 @@
         {
             "id": 19,
             "categoria": "dormitorios",
+            "marca": "kamas",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "rucay",

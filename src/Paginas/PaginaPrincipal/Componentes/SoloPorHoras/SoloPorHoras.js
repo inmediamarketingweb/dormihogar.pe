@@ -214,7 +214,7 @@ function SoloPorHoras() {
                     <div className="sale-products-content">
                         <ul className="sale-products">
                             {visibleProductos.map((producto) => {
-                                const { ruta, nombre, fotos, precioRegular, precioNormal, precioVenta, stock } = producto;
+                                const { ruta, marca, nombre, fotos, precioRegular, precioNormal, precioVenta, stock } = producto;
                                 const agotado = stock <= 0;
                                 const descuento = Math.round(((precioNormal - precioVenta) * 100) / precioNormal);
                                 const cardClass = `product-card ${agotado ? 'agotado' : expired ? 'expired' : ''}`;
@@ -234,7 +234,7 @@ function SoloPorHoras() {
                                                         <span>¡ Solo quedan <b>{stock}</b> 🔥 !</span>
                                                     )}
                                                 </div>
-                                                <span className="product-card-brand">DORMIHOGAR</span>
+                                                <span className="product-card-brand">{marca}</span>
                                                 <h4 className="product-card-name">{truncate(nombre, 50)}</h4>
                                                 <div className="product-card-prices">
                                                     <span className="product-card-regular-price">S/.{precioRegular}</span>

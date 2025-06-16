@@ -3,6 +3,7 @@
         {
             "id": 1,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/1/",
@@ -70,6 +71,7 @@
         {
             "id": 2,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/2/",
@@ -137,6 +139,7 @@
         {
             "id": 3,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/3/",
@@ -204,6 +207,7 @@
         {
             "id": 4,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/4/",
@@ -271,6 +275,7 @@
         {
             "id": 5,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/5/",
@@ -338,6 +343,7 @@
         {
             "id": 6,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/6/",
@@ -405,6 +411,7 @@
         {
             "id": 7,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/7/",
@@ -472,6 +479,7 @@
         {
             "id": 8,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/8/",
@@ -539,6 +547,7 @@
         {
             "id": 9,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/9/",
@@ -606,6 +615,7 @@
         {
             "id": 10,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/10/",
@@ -673,6 +683,7 @@
         {
             "id": 11,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/11/",
@@ -740,6 +751,7 @@
         {
             "id": 12,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/12/",
@@ -807,6 +819,7 @@
         {
             "id": 13,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/13/",
@@ -874,6 +887,7 @@
         {
             "id": 14,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/14/",
@@ -941,6 +955,7 @@
         {
             "id": 15,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/15/",
@@ -1008,6 +1023,7 @@
         {
             "id": 16,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/16/",
@@ -1075,6 +1091,7 @@
         {
             "id": 17,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/17/",
@@ -1142,6 +1159,7 @@
         {
             "id": 18,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/18/",
@@ -1209,6 +1227,7 @@
         {
             "id": 19,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/19/",
@@ -1276,6 +1295,7 @@
         {
             "id": 20,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/20/",
@@ -1342,6 +1362,7 @@
         {
             "id": 21,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/21/",
@@ -1408,6 +1429,7 @@
         {
             "id": 22,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/22/",
@@ -1474,6 +1496,7 @@
         {
             "id": 23,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/23/",
@@ -1540,6 +1563,7 @@
         {
             "id": 24,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/24/",
@@ -1606,6 +1630,7 @@
         {
             "id": 25,
             "categoria": "camas funcionales",
+            "marca": "kamas",
             "subcategoria": "divanes",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/kamas/divanes/americanos/2-plazas/25/",

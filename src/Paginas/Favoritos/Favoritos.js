@@ -40,7 +40,7 @@ function Favoritos(){
                             <h2 className="block-title">Mis favoritos</h2>
                         </div>
 
-                        <div className="favorites-container">
+                        <div className="favorites-container d-flex-column gap-20">
                             {favoritos.length > 0 ? (
                                 <ul className="favorites-products">
                                     {favoritos.map((producto) => (
@@ -70,7 +70,10 @@ function Favoritos(){
                             ) : (
                                 <p>No tienes productos en favoritos.</p>
                             )}
-                            <a href="/">Volver a la tienda</a>
+                            <a href="/" className="button-link button-link-2 margin-left">
+                                <span className="material-icons">arrow_back</span>
+                                <p className="button-link-text">Volver a la página principal</p>
+                            </a>
                         </div>
                     </section>
                 </div>

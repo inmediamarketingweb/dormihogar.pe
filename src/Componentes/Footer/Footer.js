@@ -25,6 +25,11 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
+                                        <a href='/paleta-de-colores/' title='Paleta de colores | Dormihogar'>
+                                            <p>Paleta de colores</p>
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href='/nosotros/razones-para-comprar/' title='Razones para comprar | Dormihogar'>
                                             <p>Razones para comprar</p>
                                         </a>
@@ -61,37 +66,37 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/garantia-de-productos/' title=''>
+                                        <a href='/servicio-al-cliente/garantia-de-productos/' title='Garantía de producto | Dormihogar'>
                                             <p>Garantía de productos</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/recomendaciones-de-uso/' title=''>
+                                        <a href='/servicio-al-cliente/recomendaciones-de-uso/' title='Recomendaciones de uso | Dormihogar'>
                                             <p>Recomendaciones de uso</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/politica-de-cambios-y-devoluciones/' title=''>
+                                        <a href='/servicio-al-cliente/politica-de-cambios-y-devoluciones/' title='Política de cambios y devoluciones | Dormihogar'>
                                             <p>Política de cambios y devoluciones</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/privacidad-y-seguridad/' title=''>
+                                        <a href='/servicio-al-cliente/privacidad-y-seguridad/' title='Privacidad y seguridad | Dormihogar'>
                                             <p>Privacidad y seguridad</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/terminos-y-condiciones/' title=''>
+                                        <a href='/servicio-al-cliente/terminos-y-condiciones/' title='Términos y condiciones | Dormihogar'>
                                             <p>Términos y condiciones</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/horarios-de-entrega-y-envios/' title=''>
+                                        <a href='/servicio-al-cliente/horarios-de-entrega-y-envios/' title='Horarios de entrega y envíos | Dormihogar'>
                                             <p>Horarios de entrega y envíos</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/manual-de-instalacion/' title=''>
+                                        <a href='/servicio-al-cliente/manual-de-instalacion/' title='Manual de instalación | Dormihogar'>
                                             <p>Manual de instalación</p>
                                         </a>
                                     </li>
@@ -113,7 +118,7 @@ function Footer(){
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='https://blog.Dormihogar.pe' title='Blog | Dormihogar'>
+                                            <a href='https://blog.dormihogar.pe' title='Blog | Dormihogar'>
                                                 <p>Blog</p>
                                             </a>
                                         </li>
@@ -190,7 +195,7 @@ function Footer(){
                             </li>
                         </ul>
 
-                        <p className='text color-white'>&copy; Todos los derechos reservados para <a href='https://Dormihogar.pe/' title='Dormihogar | Fabricantes de colchones, camas y dormitorios' className='color-white'>Dormihogar.pe</a></p>
+                        <p className='text color-white'>&copy; Todos los derechos reservados para <a href='https://dormihogar.pe/' title='Dormihogar | Fabricantes de colchones, camas y dormitorios' className='color-white'>dormihogar.pe</a></p>
                     </section>
                 </div>
             </footer>

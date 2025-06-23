@@ -221,6 +221,8 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                             <p>Limpiar filtros</p>
                         </button>
                     </div>
+
+                    <img src="/assets/imagenes/paginas/categoria/1.jpg" alt="Dormihogar" className="page-banner-img" />
                 </div>
             </div>
         </>

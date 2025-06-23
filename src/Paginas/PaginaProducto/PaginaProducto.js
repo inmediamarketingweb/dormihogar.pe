@@ -4,6 +4,7 @@ import { useLocation } from 'react-router-dom';
 
 import Header from '../../Componentes/Header/Header';
 
+import SpinnerLoading from '../../Componentes/SpinnerLoading/SpinnerLoading';
 import Jerarquia from './Componentes/Jerarquia/Jerarquia';
 import Sku from './Componentes/Sku/Sku';
 import Imagenes from './Componentes/Imagenes/Imagenes';
@@ -250,11 +251,8 @@ function PaginaProducto(){
     }
 
     if (productoData.loading || !productoData.producto) {
-        return (
-            <div className="loading-container">
-                <div className="loading-spinner"></div>
-                <p>Cargando información del producto...</p>
-            </div>
+        return(
+            <SpinnerLoading/>
         );
     }
 

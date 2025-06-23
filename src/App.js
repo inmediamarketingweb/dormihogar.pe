@@ -18,7 +18,6 @@ import Favoritos from "./Paginas/Favoritos/Favoritos";
 import Nosotros from "./Paginas/Nosotros/Nosotros";
 
 import ProyectosYAlianzas from "./Paginas/ProyectosYAlianzas/ProyectosYAlianzas";
-
 import PropiedadIntelectual from "./Paginas/Nosotros/Paginas/PropiedadIntelectual";
 import RazonesParaComprar from "./Paginas/Nosotros/Paginas/RazonesParaComprar";
 import MediosDePago from './Paginas/ServicioAlCliente/MediosDePago';
@@ -124,7 +123,7 @@ function App(){
 
                     <Route path="*" element={<Error404/>}/>
 
-                    <Route path="/vendedores/colores/" element={<Colores/>} />
+                    <Route path="/paleta-de-colores/" element={<Colores/>} />
                 </Routes>
             </Router>
         </HelmetProvider>

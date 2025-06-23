@@ -299,20 +299,10 @@ function PaginaDeCategoria() {
                                                                     )}
 
                                                                     <a href={producto.ruta}>
-                                                                        <LazyImage 
-                                                                            width={isSmallScreen ? 140 : 200} 
-                                                                            height={isSmallScreen ? 140 : 200} 
-                                                                            src={`${producto.fotos}1`} 
-                                                                            alt={producto.nombre}
-                                                                        />
+                                                                        <LazyImage width={isSmallScreen ? 140 : 200} height={isSmallScreen ? 140 : 200} src={`${producto.fotos}1`} alt={producto.nombre}/>
                                                                     </a>
 
-                                                                    <button 
-                                                                        type="button" 
-                                                                        className={`product-card-favorite ${isFavorite ? "active" : ""}`} 
-                                                                        onClick={() => toggleFavorite(producto)} 
-                                                                        title="Agregar a favoritos"
-                                                                    >
+                                                                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)}  title="Agregar a favoritos">
                                                                         <span className="material-icons">favorite</span>
                                                                     </button>
                                                                 </div>
@@ -370,35 +360,21 @@ function PaginaDeCategoria() {
                                         </ul>
 
                                         <div className="pagination-controls">
-                                            <button 
-                                                className="pagination-arrow" 
-                                                onClick={handlePreviousPage} 
-                                                disabled={currentPage === 1}
-                                            >
+                                            <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
                                                 <span className="material-icons">chevron_left</span>
                                             </button>
 
                                             <div className="d-flex-center-center gap-10">
                                                 {getVisiblePages().map((page, index) => 
                                                     typeof page === 'number' ? (
-                                                        <button 
-                                                            key={index} 
-                                                            className={`pagination-page ${currentPage === page ? 'active' : ''}`} 
-                                                            onClick={() => handlePageChange(page)}
-                                                        >
-                                                            {page}
-                                                        </button>
+                                                        <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>{page}</button>
                                                     ) : (
                                                         <span key={index} className="pagination-ellipsis">...</span>
                                                     )
                                                 )}
                                             </div>
 
-                                            <button 
-                                                className="pagination-arrow" 
-                                                onClick={handleNextPage} 
-                                                disabled={currentPage === totalPages}
-                                            >
+                                            <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages} >
                                                 <span className="material-icons">chevron_right</span>
                                             </button>
                                         </div>

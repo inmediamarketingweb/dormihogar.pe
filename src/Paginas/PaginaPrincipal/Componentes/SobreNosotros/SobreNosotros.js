@@ -31,15 +31,15 @@ function SobreNosotros(){
 
                     <div className='d-flex-column gap-20'>
                         <div className='d-flex-column gap-5'>
-                            {/* <p className='title'>Somos Kamas</p> */}
-                            <p className='title'>¡ Cuidamos tus sueños !</p>
-                            <p className='text'>En KAMAS llevamos más de 15 años en el mercado peruano fabricando e innovando productos de descanso de primera calidad. Creamos experiencias que inician desde el primer contacto y culminan con la satisfacción de recibir tu dormitorio completo, personalizado y en tiempo récord.</p>
-                            <p className='text'>Somos fabricantes peruanos con pasión por el detalle, el diseño, la rapidez y la calidad. Siempre a la vanguardia, nos caracterizamos por ser pioneros en la creación de nuevos modelos que marcan tendencia.</p>
-                            <p className='text'>Contamos con más de 380 modelos, más de 48 colores disponibles, y una capacidad de respuesta que nos distingue en el mercado: fabricamos y entregamos en menos de 24 horas en Lima y Callao.</p>
-                            <p className='text'>Para envíos a provincias, embalamos con extremo cuidado y seguridad, asegurando que tu producto llegue impecable a cualquier parte del país.</p>
-                            <p className='text'>Hoy, miles de familias peruanas ya disfrutan de nuestros dormitorios, cabeceras, colchones y sofás. En KAMAS, personalizamos, fabricamos y entregamos rápido, sin perder lo más importante: la calidad.</p>
-                            <p className='text'>🎥 Dale play al video y conoce cómo trabajamos.</p>
-                            <p className='text'>🚚 Descubre por qué KAMAS está revolucionando la forma de dormir en el Perú.</p>
+                            <p className='title'>Somos Dormihogar</p>
+                            <p className='title'>¡ Cuidamos tu descanso desde hace 14 años !</p>
+                            <p className='text'>En Dormihogar, llevamos más de 14 años siendo parte de los hogares peruanos, ofreciendo las mejores marcas de descanso del país, como Paraíso, Cinse, Kamas, entre otras reconocidas por su calidad y confort.</p>
+                            <p className='text'>Nos apasiona brindarte no solo productos, sino también una experiencia de compra única y confiable.</p>
+                            <p className='text'>Ofrecemos una amplia variedad de colchones, camas, box tarimas, sofás, cabeceras y muebles de dormitorio, con opciones para todos los estilos y necesidades.</p>
+                            <p className='text'>Desde el primer contacto, te acompañamos con el mejor servicio de atención personalizada y asesoría experta, para que elijas lo ideal para tu hogar.</p>
+                            <p className='text'>Gracias a nuestra logística eficiente, realizamos envíos a nivel nacional, asegurando que tu producto llegue en perfectas condiciones y en el menor tiempo posible.</p>
+                            <p className='text'>Miles de familias ya confían en Dormihogar para renovar sus espacios con productos de primera calidad, respaldo garantizado y precios competitivos.</p>
+                            <p className='text'>✨ Con Dormihogar, descansar bien es fácil, rápido y seguro.</p>
                         </div>
 
                         <a href='/nosotros/' className='button-link button-link-1 margin-left'>

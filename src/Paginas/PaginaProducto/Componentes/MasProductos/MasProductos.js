@@ -1,16 +1,18 @@
 import { useState, useEffect } from 'react';
 
-import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
-
 import './MasProductos.css';
 
-export default function MasProductos({ categoriaActual }){
+import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
+import SpinnerLoading from '../../../../Componentes/SpinnerLoading/SpinnerLoading';
+
+export default function MasProductos({ categoriaActual }) {
     const [products, setProducts] = useState([]);
     const [loading, setLoading] = useState(true);
+    const [refreshTrigger, setRefreshTrigger] = useState(0);
 
     useEffect(() => {
-        async function fetchRandomProducts(){
-            try{
+        async function fetchRandomProducts() {
+            try {
                 const manifestRes = await fetch('/assets/json/manifest.json');
                 const manifest = await manifestRes.json();
                 const files = manifest.files;
@@ -49,7 +51,7 @@ export default function MasProductos({ categoriaActual }){
 
                 setProducts(selected);
             } catch (err) {
-                console.error('Error loading more products:', err);
+                console.error('Error al cargar:', err);
             } finally {
                 setLoading(false);
             }
@@ -61,33 +63,41 @@ export default function MasProductos({ categoriaActual }){
         } else {
             setLoading(false);
         }
-    }, [categoriaActual]);
+    }, [categoriaActual, refreshTrigger]);
+
+    const handleRefresh = () => {
+        setRefreshTrigger(prev => prev + 1);
+    };
 
     if (loading) {
-        return <p>Cargando más productos...</p>;
+        return <SpinnerLoading />;
     }
 
-    if (!products.length) {
-        return <p>No hay más productos en esta categoría.</p>;
-    }
+    const truncate = (str, maxLength) =>
+        str.length <= maxLength ? str : str.slice(0, maxLength) + '...';
 
-    const truncate = (str, maxLength) => str.length <= maxLength ? str : str.slice(0, maxLength) + '...';
-
-    return(
+    return (
         <div className='block-container'>
             <div className='block-content'>
                 <div className='block-title-container'>
                     <h4 className='block-title'>Más productos</h4>
                 </div>
 
-                <div className="product-page-more-products-container">
-                    <nav className="product-page-more-products-content">
-                        <ul className='d-grid-5-3-2fr gap-10'>
-                            {products.map((producto) => (
-                                <Producto key={producto.sku} producto={producto} truncate={truncate}/>
-                            ))}
-                        </ul>
-                    </nav>
+                <div className='d-flex-column gap-20'>
+                    <div className="product-page-more-products-container">
+                        <nav className="product-page-more-products-content">
+                            <ul className='d-grid-5-3-2fr gap-10'>
+                                {products.map((producto) => (
+                                    <Producto key={producto.sku} producto={producto} truncate={truncate} />
+                                ))}
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <button onClick={handleRefresh} className='button-link button-link-2 margin-left'>
+                        <p className='button-link-text'>Ver más</p>
+                        <span className="material-icons">cached</span>
+                    </button>
                 </div>
             </div>
         </div>

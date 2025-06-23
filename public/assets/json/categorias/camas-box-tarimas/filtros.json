@@ -1,44 +1,5 @@
 [
     {
-        "id": 0,
-        "titulo": "Marca",
-        "nombre": "marca",
-        "lista":[
-            {
-                "nombre": "Kamas"
-            },
-            {
-                "nombre": "Paraiso"
-            },
-            {
-                "nombre": "El Cisne"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "titulo": "Línea",
-        "nombre": "línea",
-        "lista":[
-            {
-                "nombre": "Clásica"
-            },
-            {
-                "nombre": "Americana"
-            },
-            {
-                "nombre": "Europea"
-            },
-            {
-                "nombre": "Madera natural"
-            },
-            {
-                "nombre": "Premium"
-            }
-        ]
-    },
-    {
-        "id": 2,
         "titulo": "Tamaño",
         "nombre": "tamaño",
         "lista":[
@@ -61,6 +22,42 @@
             {
                 "id": 5,
                 "nombre": "King"
+            }
+        ]
+    },
+    {
+        "titulo": "Marca",
+        "nombre": "marca",
+        "lista":[
+            {
+                "nombre": "Kamas"
+            },
+            {
+                "nombre": "Paraiso"
+            },
+            {
+                "nombre": "El Cisne"
+            }
+        ]
+    },
+    {
+        "titulo": "Línea",
+        "nombre": "línea",
+        "lista":[
+            {
+                "nombre": "Clásica"
+            },
+            {
+                "nombre": "Americana"
+            },
+            {
+                "nombre": "Europea"
+            },
+            {
+                "nombre": "Madera natural"
+            },
+            {
+                "nombre": "Premium"
             }
         ]
     },

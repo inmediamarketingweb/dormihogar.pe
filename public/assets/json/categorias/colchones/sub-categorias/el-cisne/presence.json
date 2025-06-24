@@ -1,0 +1,55 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "marca": "el cisne",
+            "subcategoria": "presence",
+            "ruta": "/productos/colchones/el-cisne/presence/2-plazas/",
+            "nombre": "COLCHÓN EL CISNE PRESENCE 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/presence/",
+            "precioRegular": 1999,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 14,
+            "sku": "D13214N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Presence",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Presence",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "255 bicónicos",
+                    "tela": "Pique",
+                    "marco": "Espuma con densidad 16kg/m3",
+                    "capas": "2 láminas de poliuretano de alta densidad y 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3",
+                    "sensación": "intermedia",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

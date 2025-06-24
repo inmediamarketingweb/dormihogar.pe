@@ -4,6 +4,7 @@ import { useLocation } from 'react-router-dom';
 
 import Header from '../../Componentes/Header/Header';
 
+import NoProducto from '../../Paginas/NoProducto/NoProducto';
 import SpinnerLoading from '../../Componentes/SpinnerLoading/SpinnerLoading';
 import Jerarquia from './Componentes/Jerarquia/Jerarquia';
 import Sku from './Componentes/Sku/Sku';
@@ -242,11 +243,7 @@ function PaginaProducto(){
 
     if (productoData.error) {
         return(
-            <div className="error-container">
-                <h2>Producto no encontrado</h2>
-                <p>Lo sentimos, no pudimos cargar la información del producto.</p>
-                <a href="/productos/">Ver todos los productos</a>
-            </div>
+            <NoProducto/>
         );
     }
 

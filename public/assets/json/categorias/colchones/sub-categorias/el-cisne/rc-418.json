@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "marca": "el cisne",
+            "subcategoria": "rc-418",
+            "ruta": "/productos/colchones/el-cisne/rc-418/2-plazas/",
+            "nombre": "COLCHÓN EL CISNE RC-418 KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/rc-418/",
+            "precioRegular": 1099,
+            "precioNormal": 699,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "D13212N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "RC-418",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "RC-418",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "418 continuos",
+                    "tela": "Pique",
+                    "tipo-de-uso": "un solo lado",
+                    "tipo-de-resorte": "Pocket",
+                    "marco": "De espuma flexible de poliuretano a 16kg/m3",
+                    "capas": "2 láminas de espuma de poliuretano de 16kg/m3",
+                    "sensación": "intermedia",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

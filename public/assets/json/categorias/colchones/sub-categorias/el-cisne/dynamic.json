@@ -5,18 +5,18 @@
             "categoria": "colchones",
             "marca": "el cisne",
             "subcategoria": "dynamic",
-            "ruta": "/productos/colchones/el-cisne/dynamic/1-plaza-y-media/",
-            "nombre": "COLCHÓN EL CISNE DYNAMIC 1 PLAZA Y MEDIA",
+            "ruta": "/productos/colchones/el-cisne/dynamic/king/",
+            "nombre": "COLCHÓN EL CISNE DYNAMIC KING",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/dynamic/",
-            "precioRegular": 1329,
-            "precioNormal": 1099,
-            "precioVenta": 699,
+            "precioRegular": 2599,
+            "precioNormal": 2389,
+            "precioVenta": 1699,
             "stock": 14,
-            "sku": "leosoplapuco",
+            "sku": "D1345N10",
             "regalos":[
                 {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
+                    "texto": "2 almohadas viscoelásticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -27,22 +27,8 @@
                 {
                     "marca": "El Cisne",
                     "modelo-de-colchón": "Dynamic",
-                    "tamaño": "1 plaza y media",
+                    "tamaño": "King",
                     "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/el-cisne/dynamic/2-plazas/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/el-cisne/dynamic/queen/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/el-cisne/dynamic/king/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -50,7 +36,7 @@
                 {
                     "marca": "El Cisne",
                     "modelo-de-colchón": "Dynamic",
-                    "tamaño": "1 plaza y media",
+                    "tamaño": "King",
                     "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
                 }

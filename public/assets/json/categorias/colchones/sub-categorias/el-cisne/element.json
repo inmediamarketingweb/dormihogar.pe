@@ -1,0 +1,60 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "marca": "el cisne",
+            "subcategoria": "element",
+            "ruta": "/productos/colchones/el-cisne/element/king/",
+            "nombre": "COLCHÓN EL CISNE ELEMENT KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/element/",
+            "precioRegular": 2599,
+            "precioNormal": 2389,
+            "precioVenta": 1699,
+            "stock": 14,
+            "sku": "D1347N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelásticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Element",
+                    "tamaño": "King",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Element",
+                    "tamaño": "King",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "780 pocket",
+                    "tela": "Pique",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "tipo-de-uso": "un solo lado",
+                    "tipo-de-resorte": "Pocket",
+                    "marco": "Espuma con densidad 20kg/m3",
+                    "capas": "Poliuretano 1 1/4' a 16kg/m3, 1 1/2' a 30kg/m3 y prensado 1 pulgada de espesor.",
+                    "alto": "31 cm.",
+                    "sensación": "intermedia",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

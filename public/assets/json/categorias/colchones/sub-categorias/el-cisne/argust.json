@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "marca": "el cisne",
+            "subcategoria": "argus",
+            "ruta": "/productos/colchones/el-cisne/argus/2-plazas/",
+            "nombre": "COLCHÓN EL CISNE ARGUS KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/argus/",
+            "precioRegular": 1099,
+            "precioNormal": 699,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "D13213N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Argus",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Argus",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "255 bicónicos",
+                    "tela": "Pique",
+                    "tipo-de-uso": "un solo lado",
+                    "tipo-de-resorte": "Pocket",
+                    "marco": "De espuma flexible de poliuretano a 16kg/m3",
+                    "capas": "2 láminas de espuma de poliuretano de 16kg/m3, 2 láminas de poliuretano de alta densidad, 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3.",
+                    "sensación": "intermedia",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

@@ -20,8 +20,8 @@
         },
         {
             "id": 4,
-            "subcategoria": "Element PT",
-            "metaTitulo": "Colchones - Element PT | Dormihogar",
+            "subcategoria": "Element",
+            "metaTitulo": "Colchones - Element | Dormihogar",
             "ruta": "/productos/colchones/el-cisne/element-pt/"
         },
         {
@@ -56,6 +56,12 @@
         },
         {
             "id": 10,
+            "subcategoria": "Presence",
+            "metaTitulo": "Colchones - Presence | Dormihogar",
+            "ruta": "/productos/colchones/el-cisne/presence/"
+        },
+        {
+            "id": 11,
             "subcategoria": "Nueva edicion",
             "metaTitulo": "Colchones - Nueva edicion | Dormihogar",
             "ruta": "/productos/colchones/el-cisne/nueva-edicion/"

@@ -1,183 +1,142 @@
 [
     {
-        "id": 0,
         "titulo": "Tamaño",
         "nombre": "tamaño",
         "lista":[
             {
-                "id": 1,
                 "nombre": "1 plaza"
             },
             {
-                "id": 2,
                 "nombre": "1 plaza y media"
             },
             {
-                "id": 3,
                 "nombre": "2 plazas"
             },
             {
-                "id": 4,
                 "nombre": "Queen"
             },
             {
-                "id": 5,
                 "nombre": "King"
             }
         ]
     },
     {
-        "id": 1,
         "titulo": "Marca",
         "nombre": "marca",
         "lista":[
             {
-                "id": 1,
                 "nombre": "Kamas"
             },
             {
-                "id": 2,
                 "nombre": "Paraiso"
             },
             {
-                "id": 3,
-                "nombre": "Cisne"
+                "nombre": "El Cisne"
             }
         ]
     },
     {
-        "id": 2,
         "titulo": "Línea de colchón",
         "nombre": "línea-de-colchón",
         "lista":[
             {
-                "id": 1,
                 "nombre": "Semi ortopédico"
             },
             {
-                "id": 2,
                 "nombre": "Anátomico"
             },
             {
-                "id": 3,
                 "nombre": "Ortopédico"
             },
             {
-                "id": 4,
                 "nombre": "Súper ortopédico"
             },
             {
-                "id": 5,
                 "nombre": "Hotelero"
             },
             {
-                "id": 6,
                 "nombre": "Extra ortopédico"
             }
         ]
     },
     {
-        "id": 3,
         "titulo": "Nivel de confort",
         "nombre": "nivel-de-confort",
         "lista":[
             {
-                "id": 0,
                 "nombre": "Muy suave"
             },
             {
-                "id": 1,
                 "nombre": "Confortable"
             },
             {
-                "id": 2,
                 "nombre": "Intermedio"
             },
             {
-                "id": 3,
                 "nombre": "Muy confortable"
             },
             {
-                "id": 4,
                 "nombre": "Firme"
             },
             {
-                "id": 5,
                 "nombre": "Muy firme"
             }
         ]
     },
     {
-        "id": 4,
-        "titulo": "Modelo de colchón",
-        "nombre": "modelo-de-colchón",
-        "lista":[
-            {
-                "id": 1,
-                "nombre": "Adel"
-            },
-            {
-                "id": 2,
-                "nombre": "Rucay"
-            },
-            {
-                "id": 3,
-                "nombre": "Sarki"
-            },
-            {
-                "id": 4,
-                "nombre": "Safynnte"
-            },
-            {
-                "id": 5,
-                "nombre": "Der Prinz"
-            },
-            {
-                "id": 6,
-                "nombre": "Thameo Pocket"
-            },
-            {
-                "id": 7,
-                "nombre": "Ramat"
-            },
-            {
-                "id": 8,
-                "nombre": "Nesie"
-            },
-            {
-                "id": 9,
-                "nombre": "Norole"
-            },
-            {
-                "id": 10,
-                "nombre": "Thaleo Pocket"
-            },
-            {
-                "id": 11,
-                "nombre": "Konig"
-            },
-            {
-                "id": 12,
-                "nombre": "Yurmale"
-            }
-        ]
-    },
-    {
-        "id": 5,
         "titulo": "Tipo de resorte",
         "nombre": "tipo-de-resorte",
         "lista":[
             {
-                "id": 1,
                 "nombre": "Bonell"
             },
             {
-                "id": 2,
                 "nombre": "Cosisoft"
             },
             {
-                "id": 3,
                 "nombre": "Pocket"
+            }
+        ]
+    },
+    {
+        "titulo": "Modelo de colchón",
+        "nombre": "modelo-de-colchón",
+        "lista":[
+            {
+                "nombre": "Adel"
+            },
+            {
+                "nombre": "Rucay"
+            },
+            {
+                "nombre": "Sarki"
+            },
+            {
+                "nombre": "Safynnte"
+            },
+            {
+                "nombre": "Der Prinz"
+            },
+            {
+                "nombre": "Thameo Pocket"
+            },
+            {
+                "nombre": "Ramat"
+            },
+            {
+                "nombre": "Nesie"
+            },
+            {
+                "nombre": "Norole"
+            },
+            {
+                "nombre": "Thaleo Pocket"
+            },
+            {
+                "nombre": "Konig"
+            },
+            {
+                "nombre": "Yurmale"
             }
         ]
     }

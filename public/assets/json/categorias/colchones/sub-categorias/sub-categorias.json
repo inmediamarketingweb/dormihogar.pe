@@ -2,20 +2,20 @@
     "subcategorias":[
         {
             "id": 1,
-            "subcategoria": "Kamas",
-            "metaTitulo": "Colchones - Kamas | Kamas",
+            "subcategoria": "Dormihogar",
+            "metaTitulo": "Colchones - Kamas | Dormihogar",
             "ruta": "/productos/colchones/kamas/"
         },
         {
             "id": 2,
             "subcategoria": "Paraiso",
-            "metaTitulo": "Colchones - Paraiso | Kamas",
+            "metaTitulo": "Colchones - Paraiso | Dormihogar",
             "ruta": "/productos/colchones/paraiso/"
         },
         {
             "id": 3,
             "subcategoria": "El Cisne",
-            "metaTitulo": "Colchones - El Cisne | Kamas",
+            "metaTitulo": "Colchones - El Cisne | Dormihogar",
             "ruta": "/productos/colchones/el-cisne/"
         }
     ]

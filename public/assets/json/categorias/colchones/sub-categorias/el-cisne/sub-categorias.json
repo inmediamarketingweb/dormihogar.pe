@@ -4,61 +4,61 @@
             "id": 1,
             "subcategoria": "RC-608",
             "metaTitulo": "Colchones - RC-608 | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/rc-608/"
+            "ruta": "/productos/colchones/el-cisne/rc-608/"
         },
         {
             "id": 2,
-            "subcategoria": "Dinamic",
-            "metaTitulo": "Colchones - Dinamic | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/dinamic/"
+            "subcategoria": "Dynamic",
+            "metaTitulo": "Colchones - Dynamic | Dormihogar",
+            "ruta": "/productos/colchones/el-cisne/dynamic/"
         },
         {
             "id": 3,
             "subcategoria": "Hypersoft",
             "metaTitulo": "Colchones - Hypersoft | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/hypersoft/"
+            "ruta": "/productos/colchones/el-cisne/hypersoft/"
         },
         {
             "id": 4,
             "subcategoria": "Element PT",
             "metaTitulo": "Colchones - Element PT | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/element-pt/"
+            "ruta": "/productos/colchones/el-cisne/element-pt/"
         },
         {
             "id": 5,
             "subcategoria": "Iconio",
             "metaTitulo": "Colchones - Iconio | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/iconio/"
+            "ruta": "/productos/colchones/el-cisne/iconio/"
         },
         {
             "id": 6,
             "subcategoria": "Pocket Plus",
             "metaTitulo": "Colchones - Pocket Plus | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/pocket-plus/"
+            "ruta": "/productos/colchones/el-cisne/pocket-plus/"
         },
         {
             "id": 7,
             "subcategoria": "Valente",
             "metaTitulo": "Colchones - Valente | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/valente/"
+            "ruta": "/productos/colchones/el-cisne/valente/"
         },
         {
             "id": 8,
             "subcategoria": "RC-418",
             "metaTitulo": "Colchones - RC-418 | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/element-pt/"
+            "ruta": "/productos/colchones/el-cisne/element-pt/"
         },
         {
             "id": 9,
             "subcategoria": "Argust",
             "metaTitulo": "Colchones - Argust | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/argust/"
+            "ruta": "/productos/colchones/el-cisne/argust/"
         },
         {
             "id": 10,
             "subcategoria": "Nueva edicion",
             "metaTitulo": "Colchones - Nueva edicion | Dormihogar",
-            "ruta": "/productos/colchones/paraiso/nueva-edicion/"
+            "ruta": "/productos/colchones/el-cisne/nueva-edicion/"
         }
     ]
 }

@@ -4,15 +4,15 @@
             "id": 1,
             "categoria": "colchones",
             "marca": "el cisne",
-            "subcategoria": "dynamic",
-            "ruta": "/productos/colchones/el-cisne/dynamic/king/",
-            "nombre": "COLCHÓN EL CISNE DYNAMIC KING",
-            "fotos": "/assets/imagenes/productos/colchones/el-cisne/dynamic/",
+            "subcategoria": "pocket plus",
+            "ruta": "/productos/colchones/el-cisne/pocket-plus/king/",
+            "nombre": "COLCHÓN EL CISNE POCKET PLUS KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/pocket-plus/",
             "precioRegular": 2599,
-            "precioNormal": 2389,
-            "precioVenta": 1699,
+            "precioNormal": 2089,
+            "precioVenta": 1399,
             "stock": 14,
-            "sku": "D1345N10",
+            "sku": "D1343N10",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelásticas",
@@ -26,7 +26,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
+                    "modelo-de-colchón": "Pocket plus",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio"
                 }
@@ -35,7 +35,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
+                    "modelo-de-colchón": "Pocket plus",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
@@ -43,14 +43,13 @@
             ],
             "descripcion":[
                 {
-                    "resortes": "780 pocket",
+                    "resortes": "396 bicónicos",
                     "tela": "Pique",
                     "tratamiento": "Antihongos, antibacterias y antiácaros",
                     "tipo-de-uso": "un solo lado",
                     "tipo-de-resorte": "Pocket",
                     "marco": "Espuma con densidad 20kg/m3",
-                    "capas": "Poliuretano 1 1/4' a 16kg/m3, 1 1/2' a 30kg/m3 y prensado 1 pulgada de espesor.",
-                    "alto": "31 cm.",
+                    "capas": "2 láminas fibra no tejida de 300gr. 2 láminas espuma de poliuretano de 1 1/2 con 18kg/m3 y 2 láminas de poliuretano de 1 1/4 con 16kg/m3",
                     "sensación": "intermedia",
                     "garantía": "4 años"
                 }

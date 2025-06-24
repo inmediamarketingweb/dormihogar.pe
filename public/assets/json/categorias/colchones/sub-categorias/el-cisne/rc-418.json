@@ -4,19 +4,19 @@
             "id": 1,
             "categoria": "colchones",
             "marca": "el cisne",
-            "subcategoria": "dynamic",
-            "ruta": "/productos/colchones/el-cisne/dynamic/king/",
-            "nombre": "COLCHÓN EL CISNE DYNAMIC KING",
-            "fotos": "/assets/imagenes/productos/colchones/el-cisne/dynamic/",
-            "precioRegular": 2599,
-            "precioNormal": 2389,
-            "precioVenta": 1699,
+            "subcategoria": "rc-418",
+            "ruta": "/productos/colchones/el-cisne/rc-418/2-plazas/",
+            "nombre": "COLCHÓN EL CISNE RC-418 KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/rc-418/",
+            "precioRegular": 1099,
+            "precioNormal": 699,
+            "precioVenta": 499,
             "stock": 14,
-            "sku": "D1345N10",
+            "sku": "D13212N10",
             "regalos":[
                 {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
                 },
                 {
                     "texto": "1 protector",
@@ -26,8 +26,8 @@
             "resumen-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
-                    "tamaño": "King",
+                    "modelo-de-colchón": "RC-418",
+                    "tamaño": "2 plazas",
                     "nivel-de-confort": "Intermedio"
                 }
             ],
@@ -35,22 +35,20 @@
             "detalles-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
-                    "tamaño": "King",
+                    "modelo-de-colchón": "RC-418",
+                    "tamaño": "2 plazas",
                     "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
                 }
             ],
             "descripcion":[
                 {
-                    "resortes": "780 pocket",
+                    "resortes": "418 continuos",
                     "tela": "Pique",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
                     "tipo-de-uso": "un solo lado",
                     "tipo-de-resorte": "Pocket",
-                    "marco": "Espuma con densidad 20kg/m3",
-                    "capas": "Poliuretano 1 1/4' a 16kg/m3, 1 1/2' a 30kg/m3 y prensado 1 pulgada de espesor.",
-                    "alto": "31 cm.",
+                    "marco": "De espuma flexible de poliuretano a 16kg/m3",
+                    "capas": "2 láminas de espuma de poliuretano de 16kg/m3",
                     "sensación": "intermedia",
                     "garantía": "4 años"
                 }

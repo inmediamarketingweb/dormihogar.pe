@@ -4,15 +4,15 @@
             "id": 1,
             "categoria": "colchones",
             "marca": "el cisne",
-            "subcategoria": "dynamic",
-            "ruta": "/productos/colchones/el-cisne/dynamic/king/",
-            "nombre": "COLCHÓN EL CISNE DYNAMIC KING",
-            "fotos": "/assets/imagenes/productos/colchones/el-cisne/dynamic/",
+            "subcategoria": "element",
+            "ruta": "/productos/colchones/el-cisne/element/king/",
+            "nombre": "COLCHÓN EL CISNE ELEMENT KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/element/",
             "precioRegular": 2599,
             "precioNormal": 2389,
             "precioVenta": 1699,
             "stock": 14,
-            "sku": "D1345N10",
+            "sku": "D1347N10",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelásticas",
@@ -26,7 +26,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
+                    "modelo-de-colchón": "Element",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio"
                 }
@@ -35,7 +35,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
+                    "modelo-de-colchón": "Element",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"

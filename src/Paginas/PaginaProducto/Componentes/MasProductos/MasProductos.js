@@ -88,7 +88,9 @@ export default function MasProductos({ categoriaActual }) {
                         <nav className="product-page-more-products-content">
                             <ul className='d-grid-5-3-2fr gap-10'>
                                 {products.map((producto) => (
-                                    <Producto key={producto.sku} producto={producto} truncate={truncate} />
+                                    <li className='d-flex-column'>
+                                        <Producto key={producto.sku} producto={producto} truncate={truncate} />
+                                    </li>
                                 ))}
                             </ul>
                         </nav>

@@ -4,15 +4,15 @@
             "id": 1,
             "categoria": "colchones",
             "marca": "el cisne",
-            "subcategoria": "dynamic",
-            "ruta": "/productos/colchones/el-cisne/dynamic/king/",
-            "nombre": "COLCHÓN EL CISNE DYNAMIC KING",
-            "fotos": "/assets/imagenes/productos/colchones/el-cisne/dynamic/",
+            "subcategoria": "iconio",
+            "ruta": "/productos/colchones/el-cisne/iconio/king/",
+            "nombre": "COLCHÓN EL CISNE ICONIO KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/iconio/",
             "precioRegular": 2599,
-            "precioNormal": 2389,
-            "precioVenta": 1699,
+            "precioNormal": 2089,
+            "precioVenta": 1399,
             "stock": 14,
-            "sku": "D1345N10",
+            "sku": "D1344N10",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelásticas",
@@ -26,7 +26,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
+                    "modelo-de-colchón": "Iconio",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio"
                 }
@@ -35,7 +35,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "El Cisne",
-                    "modelo-de-colchón": "Dynamic",
+                    "modelo-de-colchón": "Iconio",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
@@ -43,7 +43,7 @@
             ],
             "descripcion":[
                 {
-                    "resortes": "780 pocket",
+                    "resortes": "396 bicónicos",
                     "tela": "Pique",
                     "tratamiento": "Antihongos, antibacterias y antiácaros",
                     "tipo-de-uso": "un solo lado",

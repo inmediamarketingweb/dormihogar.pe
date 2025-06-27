@@ -215,7 +215,7 @@
     right: 20px;
     bottom: 100%;
     display: flex;
-    padding: 3px 8px;
+    padding: 4px 6px;
     border-radius: 3px;
 }
 
@@ -228,6 +228,7 @@
 }
 
 .product-card-tipo-de-envio.envio-gratis span{
+    font-weight: bold;
     color: green;
 }
 

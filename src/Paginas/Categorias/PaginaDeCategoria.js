@@ -338,7 +338,7 @@ function PaginaDeCategoria() {
                                                                                     <div className={`product-card-tipo-de-envio ${tipoEnvioClase}`}>
                                                                                         <span>
                                                                                             {producto["tipo-de-envio"] === "Gratis"
-                                                                                                ? "¡ Envío gratis 🚚 !"
+                                                                                                ? "Envío gratis 🚚"
                                                                                                 : producto["tipo-de-envio"] || "No especificado"}
                                                                                         </span>
                                                                                     </div>

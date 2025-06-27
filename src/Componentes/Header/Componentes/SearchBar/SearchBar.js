@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 
-import LazyImage from '../../../Plantillas/LazyImage';
-
 import './SearchBar.css';
+
+import LazyImage from '../../../Plantillas/LazyImage';
 
 function SearchBar() {
     const [productos, setProductos] = useState([]);
@@ -13,9 +13,7 @@ function SearchBar() {
         const handleResize = () => {
             setIsSmallScreen(window.innerWidth < 600);
         };
-
         window.addEventListener('resize', handleResize);
-
         return () => {
             window.removeEventListener('resize', handleResize);
         };
@@ -25,13 +23,12 @@ function SearchBar() {
         const fetchProductos = async () => {
             try{
                 const manifestResponse = await fetch('/assets/json/manifest.json');
-                if (!manifestResponse.ok) {
+                if(!manifestResponse.ok){
                     console.error(manifestResponse.status);
                     return;
                 }
                 const manifestData = await manifestResponse.json();
                 const archivos = manifestData.files || [];
-
                 const productosArrays = await Promise.all(
                     archivos.map(async (archivo) => {
                         try {
@@ -69,16 +66,37 @@ function SearchBar() {
         setSearchTerm(e.target.value);
     };
 
-    const normalizeStr = (str = '') =>
-        str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    const normalizeStr = (str = '') => str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 
-    const filteredProductos = productos.filter((producto) => {
-        if (!searchTerm) return true;
-        const tokens = normalizeStr(searchTerm).split(' ').filter(Boolean);
-        const fields = [ producto.nombre, producto.sku, producto.categoria, producto.subcategoria ].map(String).map(normalizeStr);
+    let filteredProductos = [];
 
-        return tokens.every( token => fields.some(field => field.includes(token)) );
-    });
+    if (searchTerm.trim() !== ''){
+        const normalizedSearchTerm = normalizeStr(searchTerm);
+        const searchTermWithoutSpaces = normalizedSearchTerm.replace(/\s/g, '');
+
+        const exactSkuMatch = productos.find(p => 
+            normalizeStr(p.sku).replace(/\s/g, '') === searchTermWithoutSpaces
+        );
+
+        if (exactSkuMatch) {
+            filteredProductos = [exactSkuMatch];
+        }
+        else {
+            const tokens = normalizedSearchTerm.split(' ').filter(Boolean);
+            filteredProductos = productos.filter(producto => {
+                const fields = [
+                    producto.nombre, 
+                    producto.sku, 
+                    producto.categoria, 
+                    producto.subcategoria
+                ].map(String).map(normalizeStr);
+
+                return tokens.every(token => 
+                    fields.some(field => field.includes(token))
+                );
+            });
+        }
+    }
 
     const handleKeyDown = (e) => {
         if (e.key === 'Enter') {
@@ -98,7 +116,7 @@ function SearchBar() {
         <>
             <div className={`search-bar-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>
                 <div className='search-bar'>
-                    <input type='text' placeholder='Buscar en dormihogar.pe' value={searchTerm} onChange={handleSearchChange} onKeyDown={handleKeyDown} />
+                    <input type='text' placeholder='Buscar en kamas.pe' value={searchTerm} onChange={handleSearchChange} onKeyDown={handleKeyDown} />
                     <span className='material-icons'>search</span>
                 </div>
 
@@ -109,7 +127,7 @@ function SearchBar() {
                                 <li key={producto.sku}>
                                     <a href={producto.ruta} title={producto.nombre}>
                                         <p className='text'>{producto.nombre}</p>
-                                        <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1`} alt={producto.nombre}/>
+                                        <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1.jpg`} alt={producto.nombre}/>
                                     </a>
                                 </li>
                             ))

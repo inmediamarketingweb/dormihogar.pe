@@ -165,6 +165,10 @@ button{
     font-weight: bold;
 }
 
+.first-uppercase{
+    display: inline-block;
+}
+
 .first-uppercase::first-letter{
     text-transform: uppercase;
 }

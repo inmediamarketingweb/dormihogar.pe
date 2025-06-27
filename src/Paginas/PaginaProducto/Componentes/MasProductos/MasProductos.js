@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import './MasProductos.css';
 
 import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
-import SpinnerLoading from '../../../../Componentes/SpinnerLoading/SpinnerLoading';
+// import SpinnerLoading from '../../../../Componentes/SpinnerLoading/SpinnerLoading';
 
 export default function MasProductos({ categoriaActual }) {
     const [products, setProducts] = useState([]);
@@ -70,7 +70,11 @@ export default function MasProductos({ categoriaActual }) {
     };
 
     if (loading) {
-        return <SpinnerLoading />;
+        return(
+            <div className='d-flex'>
+                <p className='text'>Cargando más productos</p>
+            </div>
+        );
     }
 
     const truncate = (str, maxLength) =>

@@ -236,7 +236,6 @@ function PaginaProducto(){
                 setUserName(storedName);
             }
         };
-
         window.addEventListener('storage', handleStorageChange);
         return () => window.removeEventListener('storage', handleStorageChange);
     }, [userName]);

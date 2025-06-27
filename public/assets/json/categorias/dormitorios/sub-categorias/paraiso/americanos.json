@@ -19,32 +19,36 @@
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
                     "línea": "Americano",
-                    "tamaño": "1 plaza y media",
-                    "modelo-colchón": "Adel",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Oso"
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
                     "línea": "Americano",
-                    "tamaño": "1 plaza y media",
+                    "tamaño": "2 plazas",
                     "cajones": "No",
-                    "base-encajonada": "Si",
-                    "modelo-de-colchón": "Adel",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Oso"
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -65,12 +69,11 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "8 filas en forma vertical",
-                            "tela": "Tricop",
-                            "densidad-de-la-espuma": "16kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "soporte-de-peso": "55kg. por persona por persona",
-                            "garantía": "1 año"
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "Espuma": "Viscoelástica D70",
+                            "capas": "Capas de Zebras 35 HR y 35 HD",
+                            "garantía":"10 años"
                         }
                     ]
                 },

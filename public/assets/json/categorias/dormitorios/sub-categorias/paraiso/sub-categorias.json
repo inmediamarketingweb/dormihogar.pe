@@ -1,0 +1,34 @@
+{
+    "subcategorias":[
+        {
+            "id": 0,
+            "subcategoria": "clasicos",
+            "metaTitulo": "Dormitorios Paraiso clásicos | Dormihogar",
+            "ruta": "/productos/dormitorios/paraiso/clasicos/"
+        },
+        {
+            "id": 1,
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios Paraiso americanos | Dormihogar",
+            "ruta": "/productos/dormitorios/paraiso/americanos/"
+        },
+        {
+            "id": 2,
+            "subcategoria": "americanos con cajones",
+            "metaTitulo": "Dormitorios Paraiso americanos con cajones | Dormihogar",
+            "ruta": "/productos/dormitorios/paraiso/americanos-con-cajones/"
+        },
+        {
+            "id": 3,
+            "subcategoria": "europeos",
+            "metaTitulo": "Dormitorios Paraiso europeos | Dormihogar",
+            "ruta": "/productos/dormitorios/paraiso/europeos/"
+        },
+        {
+            "id": 4,
+            "subcategoria": "europeos con cajones",
+            "metaTitulo": "Dormitorios Paraiso europeos con cajones | Dormihogar",
+            "ruta": "/productos/dormitorios/paraiso/europeos-con-cajones/"
+        }
+    ]
+}

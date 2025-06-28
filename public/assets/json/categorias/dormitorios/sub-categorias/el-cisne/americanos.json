@@ -1,0 +1,820 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA CAPITONEADA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324213N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/arena-claro.webp"
+                },
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/arena.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/2/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA CAPITONEADA 2 - HUESO Y PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/americanas/sin-brazos/capitoneado-2/1/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324213N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/blanco.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/3/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA CAPITONEADA 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/americanas/sin-brazos/capitoneado-2/2/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324213N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo-oscuro.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/4/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA CAPITONEADA 3 - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/americanas/sin-brazos/capitoneado-3/1/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324213N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/cenizo.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/5/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA CUADROS 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324213N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/6/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA CUADROS 2 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/americanas/sin-brazos/cuadros-2/2/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324213N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/gris.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/7/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/americanas/sin-brazos/lineal-3/1/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324213N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/negro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "RC - 608",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/rc-608/8/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN EL CISNE RC-608 + CABECERA KAMAS AEREA LINEAL 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/rc-608/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "colores": "si",
+            "precioRegular": 3099,
+            "precioNormal": 2399,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "D3324216N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "modelo-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC - 608",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "608 continuos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                            "alto": "31 cm.",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

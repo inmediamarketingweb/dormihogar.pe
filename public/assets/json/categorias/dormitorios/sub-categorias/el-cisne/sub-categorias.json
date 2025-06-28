@@ -1,0 +1,34 @@
+{
+    "subcategorias":[
+        {
+            "id": 0,
+            "subcategoria": "clasicos",
+            "metaTitulo": "Dormitorios El Cisne clásicos | Dormihogar",
+            "ruta": "/productos/dormitorios/el-cisne/clasicos/"
+        },
+        {
+            "id": 1,
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios El Cisne americanos | Dormihogar",
+            "ruta": "/productos/dormitorios/el-cisne/americanos/"
+        },
+        {
+            "id": 2,
+            "subcategoria": "americanos con cajones",
+            "metaTitulo": "Dormitorios El Cisne americanos con cajones | Dormihogar",
+            "ruta": "/productos/dormitorios/el-cisne/americanos-con-cajones/"
+        },
+        {
+            "id": 3,
+            "subcategoria": "europeos",
+            "metaTitulo": "Dormitorios El Cisne europeos | Dormihogar",
+            "ruta": "/productos/dormitorios/el-cisne/europeos/"
+        },
+        {
+            "id": 4,
+            "subcategoria": "europeos con cajones",
+            "metaTitulo": "Dormitorios El Cisne europeos con cajones | Dormihogar",
+            "ruta": "/productos/dormitorios/el-cisne/europeos-con-cajones/"
+        }
+    ]
+}

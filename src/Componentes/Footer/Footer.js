@@ -145,21 +145,19 @@ function Footer(){
 
                             <div className='footer-target footer-target-4'>
                                 <div className='d-flex-column gap-10'>
-                                    <p className='title'>Ubícanos</p>
+                                    <p className='title'>Contáctanos</p>
                                     <ul className='footer-list'>
                                         <li>
-                                            <a href='/novedades/programa-de-influencers/' title='Programa de influencers | Dormihogar'>
-                                                <p>Programa influencers</p>
+                                            <p className='text'>Carabayllo - Lima - Perú</p>
+                                        </li>
+                                        <li>
+                                            <a href='tel: +51933197648' title='Llamar ahora'>
+                                                <p>933197648</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/novedades/programa-de-referencias/' title='Progama de referencias | Dormihogar'>
-                                                <p>Programa de referencias</p>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href='https://blog.Dormihogar.pe' title='Blog | Dormihogar'>
-                                                <p>Blog</p>
+                                            <a href='mailto: informes@dormihogar.pe' title='Correo'>
+                                                <p>informes@dormihogar.pe</p>
                                             </a>
                                         </li>
                                     </ul>

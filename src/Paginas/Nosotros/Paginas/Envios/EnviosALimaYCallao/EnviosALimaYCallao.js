@@ -52,14 +52,15 @@ function EnviosALimaYCallao(){
 
                         <div className="envios-page">
                             <div className="d-flex-column gap-10">
-                                <blockquote className="tiktok-embed" cite="https://www.tiktok.com/@kamas.pe/video/7306283248932474118" data-video-id="7306283248932474118">
+                                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@dormihogar.pe/video/7323624286416047365" data-video-id="7323624286416047365">
                                     <section>
-                                        <a target="_blank" rel="noopener noreferrer" title="@kamas.pe" href="https://www.tiktok.com/@kamas.pe?refer=embed">@kamas.pe</a>
-                                        <a title="dormitorio" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/dormitorio?refer=embed">#Dormitorio</a>
-                                        <a title="kamas" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/kamas?refer=embed">#Kamas</a>
-                                        <a title="king" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/king?refer=embed">#King</a>
-                                        <a title="3plazas" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/3plazas?refer=embed">#3Plazas</a>
-                                        <a target="_blank" rel="noopener noreferrer" title="♬ sonido original - kamas" href="https://www.tiktok.com/music/sonido-original-7306283263833164549?refer=embed">♬ sonido original - kamas</a>
+                                        <a target="_blank" title="@dormihogar.pe" href="https://www.tiktok.com/@dormihogar.pe?refer=embed">@dormihogar.pe</a>
+                                        <a title="dormitorio" target="_blank" href="https://www.tiktok.com/tag/dormitorio?refer=embed">#DORMITORIO</a>
+                                        KING &#47; 3 PLAZAS <a title="paraiso" target="_blank" href="https://www.tiktok.com/tag/paraiso?refer=embed">#PARAISO</a>
+                                        <a title="kamas" target="_blank" href="https://www.tiktok.com/tag/kamas?refer=embed">#KAMAS</a>
+                                        CON COLCHON POCKET s&#47; 1699 soles
+                                        <a title="dormihogar" target="_blank" href="https://www.tiktok.com/tag/dormihogar?refer=embed">#Dormihogar</a>
+                                        <a target="_blank" title="♬ sonido original - Dormihogar" href="https://www.tiktok.com/music/sonido-original-7323624300786158342?refer=embed">♬ sonido original - Dormihogar</a>
                                     </section>
                                 </blockquote>
                             </div>

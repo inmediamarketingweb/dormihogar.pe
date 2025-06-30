@@ -25,9 +25,7 @@ function SobreNosotros(){
                 </div>
 
                 <div className='d-grid-2-1fr gap-10'>
-                    <video width="100%" height="auto" controls>
-                        <source src="/assets/videos/video-kamas-yt.mp4" type="video/mp4" />
-                    </video>
+                    <img src="/assets/imagenes/paginas/nosotros/banner-principal.jpg" className='page-banner-img' alt="Sobre nosotros | Dormihogar"/>
 
                     <div className='d-flex-column gap-20'>
                         <div className='d-flex-column gap-5'>

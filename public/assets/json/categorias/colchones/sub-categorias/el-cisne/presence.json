@@ -12,11 +12,11 @@
             "precioNormal": 1149,
             "precioVenta": 899,
             "stock": 14,
-            "sku": "D13214N10",
+            "sku": "D13214N1qq0",
             "regalos":[
                 {
                     "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 },
                 {
                     "texto": "1 protector",

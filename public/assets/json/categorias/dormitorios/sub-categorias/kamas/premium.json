@@ -15,7 +15,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N10",
+            "sku": "D3154237N10",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -25,7 +25,9 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -35,6 +37,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -104,7 +107,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N11",
+            "sku": "D3154237N11",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -116,6 +119,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -123,7 +127,9 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -193,7 +199,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N12",
+            "sku": "D3154237N12",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -205,6 +211,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -212,7 +219,9 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -282,7 +291,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N13",
+            "sku": "D3154237N13",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -294,6 +303,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -303,6 +313,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -372,7 +383,7 @@
             "precioNormal": 5199,
             "precioVenta": 4699,
             "stock": 10,
-            "sku": "H3154237N14",
+            "sku": "D3154237N14",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -384,6 +395,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -393,6 +405,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -462,7 +475,7 @@
             "precioNormal": 5199,
             "precioVenta": 4699,
             "stock": 10,
-            "sku": "H3154237N15",
+            "sku": "D3154237N15",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -474,6 +487,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -483,6 +497,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -552,7 +567,7 @@
             "precioNormal": 5199,
             "precioVenta": 4699,
             "stock": 10,
-            "sku": "H3154237N16",
+            "sku": "D3154237N16",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -564,6 +579,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -573,6 +589,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -642,7 +659,7 @@
             "precioNormal": 5499,
             "precioVenta": 4999,
             "stock": 10,
-            "sku": "H3154237N17",
+            "sku": "D3154237N17",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -654,6 +671,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -663,6 +681,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -732,7 +751,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N18",
+            "sku": "D3154237N18",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -744,6 +763,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -753,6 +773,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -822,7 +843,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N19",
+            "sku": "D3154237N19",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -834,6 +855,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -843,6 +865,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -912,7 +935,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N20",
+            "sku": "D3154237N20",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -924,6 +947,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -933,6 +957,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -1002,7 +1027,7 @@
             "precioNormal": 4999,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "H3154237N21",
+            "sku": "D3154237N21",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1014,6 +1039,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Otros modelos"
@@ -1023,6 +1049,7 @@
                 {
                     "marca": "kamas",
                     "línea": "Premium",
+                    "tamaño": "king",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -1092,7 +1119,7 @@
             "precioNormal": 4999,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N10",
+            "sku": "D3153237N10",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1102,6 +1129,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1182,7 +1210,7 @@
             "precioNormal": 4499,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N11",
+            "sku": "D3153237N11",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1192,6 +1220,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1272,7 +1301,7 @@
             "precioNormal": 4499,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N12",
+            "sku": "D3153237N12",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1282,6 +1311,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1362,7 +1392,7 @@
             "precioNormal": 4499,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N13",
+            "sku": "D3153237N13",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1372,6 +1402,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1452,7 +1483,7 @@
             "precioNormal": 5199,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "K353237N14",
+            "sku": "D3153237N14",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1462,6 +1493,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1542,7 +1574,7 @@
             "precioNormal": 5199,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "K353237N15",
+            "sku": "D3153237N15",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1552,6 +1584,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1632,7 +1665,7 @@
             "precioNormal": 5199,
             "precioVenta": 4399,
             "stock": 10,
-            "sku": "K353237N16",
+            "sku": "D3153237N16",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1642,6 +1675,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1722,7 +1756,7 @@
             "precioNormal": 4999,
             "precioVenta": 4699,
             "stock": 10,
-            "sku": "K353237N17",
+            "sku": "D3153237N17",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1732,6 +1766,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1812,7 +1847,7 @@
             "precioNormal": 4499,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N18",
+            "sku": "D3153237N18",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1822,6 +1857,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1902,7 +1938,7 @@
             "precioNormal": 4499,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N19",
+            "sku": "D3153237N19",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -1912,6 +1948,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -1992,7 +2029,7 @@
             "precioNormal": 4499,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N20",
+            "sku": "D3153237N20",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -2002,6 +2039,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",
@@ -2082,7 +2120,7 @@
             "precioNormal": 4499,
             "precioVenta": 4099,
             "stock": 10,
-            "sku": "K353237N21",
+            "sku": "D3153237N21",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -2092,6 +2130,7 @@
             ],
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Premium",
                     "tamaño": "queen",
                     "modelo-de-colchón": "Sarki",

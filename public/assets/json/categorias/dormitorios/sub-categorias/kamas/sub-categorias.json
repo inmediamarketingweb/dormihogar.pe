@@ -29,6 +29,12 @@
             "subcategoria": "europeos con cajones",
             "metaTitulo": "Dormitorios Kamas europeos con cajones | Dormihogar",
             "ruta": "/productos/dormitorios/kamas/europeos-con-cajones/"
+        },
+        {
+            "id": 5,
+            "subcategoria": "premium",
+            "metaTitulo": "Dormitorios Kamas premium | Dormihogar",
+            "ruta": "/productos/dormitorios/kamas/premium/"
         }
     ]
 }

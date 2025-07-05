@@ -293,6 +293,10 @@
         --product-card-images-height: 180px;
     }
 
+    .main-category{
+        margin-top: 228px;
+    }
+
     .category-page-container{
         display: flex;
         flex-direction: column;
@@ -300,11 +304,16 @@
     }
 
     .category-page-right-top{
-        width: 100%;
-        margin-left: auto;
+        /* width: 100%; */
+        /* margin-left: auto; */
         display: flex;
         align-items: center;
         justify-content: right;
+        position: fixed;
+        top: 188px;
+        right: 20px;
+        background: var(--white);
+        z-index: 99;
     }
 
     .category-page-products li{
@@ -332,5 +341,9 @@
     .category-page-right-top button:hover span{
         color: var(--white);
         transition: var(--t-200ms-linear);
+    }
+
+    .filters-container img{
+        display: none;
     }
 }

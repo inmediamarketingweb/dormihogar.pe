@@ -1,0 +1,184 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos con cajones",
+            "tamaño": "2 plazas",
+            "modelo": "balanzze",
+            "ruta": "/productos/dormitorios/paraiso/americanos-con-cajones/2-plazas/balanzze/1/",
+            "nombre": "DORMITORIO PARAISO 2 PLAZAS AMERICANO CON 4 CAJONES + COLCHÓN PARAISO BALANZZE + CABECERA AEREA CLASICA 2 - MARRON",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos-con-cajones/2-plazas/balanzze/aereas-con-patas/americanas/sin-brazos/clasica-2/1/",
+            "colores": "si",
+            "precioRegular": 5499,
+            "precioNormal": 6199,
+            "precioVenta": 2949,
+            "stock": 9,
+            "sku": "D31221282N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Balanzze",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Balanzze",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "De manera",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "Capas de espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos con cajones",
+            "tamaño": "2 plazas",
+            "modelo": "balanzze",
+            "ruta": "/productos/dormitorios/paraiso/americanos-con-cajones/2-plazas/balanzze/2/",
+            "nombre": "DORMITORIO PARAISO 2 PLAZAS AMERICANO CON 4 CAJONES LATERALES + COLCHÓN PARAISO BALANZZE + CABECERA AEREA CLASICA 2 - MARRON",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos-con-cajones/2-plazas/balanzze/aereas-con-patas/americanas/sin-brazos/rectangular-2/1/",
+            "colores": "si",
+            "precioRegular": 5499,
+            "precioNormal": 3749,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D31221283N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Balanzze",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Balanzze",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "De manera",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "Capas de espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

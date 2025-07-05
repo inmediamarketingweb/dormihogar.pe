@@ -66,21 +66,58 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         }
     }, [productos]);
 
+    const normalizarMarca = (marca) => {
+        return marca
+            .toLowerCase()
+            .replace(/\s+/g, '-')
+            .replace(/[^a-z0-9-]/g, '')
+            .replace(/-+/g, '-')
+            .replace(/^-|-$/g, '');
+    };
+
     const filtrarProductos = useCallback((filtrosActuales, precioMaximo, rangoSeleccionado, envioGratis) => {
         if (!productos || productos.length === 0) return;
 
         const filtrados = productos.filter((producto) => {
-            const cumpleFiltros = Object.keys(filtrosActuales).every((categoriaFiltro) =>
-                producto["detalles-del-producto"]?.some((detalle) =>
-                    filtrosActuales[categoriaFiltro].has(
-                        detalle[categoriaFiltro]?.toLowerCase().replace(/\s+/g, "-")
-                    )
-                )
-            );
+            const cumpleFiltros = Object.keys(filtrosActuales).every((categoriaFiltro) => {
+                if (categoriaFiltro === 'marca') {
+                    const marcasSeleccionadas = Array.from(filtrosActuales[categoriaFiltro]);
+                    
+                    const marcaProducto = producto.marca ? normalizarMarca(producto.marca) : '';
+                    
+                    const tieneMarcaEquivalente = marcasSeleccionadas.some((marcaSeleccionada) => {
+                        const marcaSeleccionadaNormalizada = normalizarMarca(marcaSeleccionada);
+                        
+                        if (marcaSeleccionadaNormalizada === 'paraiso' || 
+                            marcaSeleccionadaNormalizada === 'kamas-paraiso') {
+                            return marcaProducto === 'paraiso' || marcaProducto === 'kamas-paraiso';
+                        }
+
+                        if (marcaSeleccionadaNormalizada === 'el-cisne' || 
+                            marcaSeleccionadaNormalizada === 'kamas-el-cisne') {
+                            return marcaProducto === 'el-cisne' || marcaProducto === 'kamas-el-cisne';
+                        }
+                        
+                        return marcaProducto === marcaSeleccionadaNormalizada;
+                    });
+                    
+                    return tieneMarcaEquivalente;
+                } 
+                else {
+                    return producto["detalles-del-producto"]?.some((detalle) => {
+                        const valorDetalle = detalle[categoriaFiltro];
+                        if (!valorDetalle) return false;
+                        const valorNormalizado = valorDetalle.toLowerCase().replace(/\s+/g, "-");
+                        return filtrosActuales[categoriaFiltro].has(valorNormalizado);
+                    });
+                }
+            });
+
             const rango = rangosDePrecio.find((r) => r.id === rangoSeleccionado);
             const cumpleRangoPrecio = rango ? producto.precioVenta >= rango.min && producto.precioVenta <= rango.max : true;
             const cumplePrecio = producto.precioVenta >= rangoPrecios[0] && producto.precioVenta <= precioMaximo;
             const cumpleEnvioGratis = envioGratis ? producto["tipo-de-envio"]?.toLowerCase() === "gratis" : true;
+            
             return cumpleFiltros && cumpleRangoPrecio && cumplePrecio && cumpleEnvioGratis;
         });
 
@@ -96,7 +133,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                 envioGratisSeleccionado
             );
         }
-    }, [ filtrarProductos,filtrosSeleccionados, productos, valorThumb, rangoDePrecioSeleccionado, envioGratisSeleccionado ]);
+    }, [filtrarProductos, filtrosSeleccionados, productos, valorThumb, rangoDePrecioSeleccionado, envioGratisSeleccionado]);
 
     const handleFiltroChange = (categoriaFiltro, opcion) => {
         const opcionNormalizada = opcion.toLowerCase().replace(/\s+/g, "-");

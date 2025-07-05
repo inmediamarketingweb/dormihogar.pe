@@ -22,19 +22,19 @@
                     "id": 1,
                     "subcategoria": "Kamas",
                     "metaTitulo": "Colchones - Kamas | Dormihogar",
-                    "ruta": "/productos/colchones/kamas/"
+                    "ruta": "/productos/colchones/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
                     "metaTitulo": "Colchones - Paraiso | Dormihogar",
-                    "ruta": "/productos/colchones/paraiso/"
+                    "ruta": "/productos/colchones/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
                     "metaTitulo": "Colchones - El Cisne | Dormihogar",
-                    "ruta": "/productos/colchones/el-cisne/"
+                    "ruta": "/productos/colchones/?marca=el-cisne"
                 },
                 {
                     "id": 4,
@@ -104,19 +104,19 @@
                     "id": 1,
                     "subcategoria": "Kamas",
                     "metaTitulo": "Camas box tarimas - Kamas | Dormihogar",
-                    "ruta": "/productos/camas-box-tarimas/kamas/"
+                    "ruta": "/productos/camas-box-tarimas/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraíso",
                     "metaTitulo": "Camas box tarimas - Paraíso | Dormihogar",
-                    "ruta": "/productos/camas-box-tarimas/paraiso/"
+                    "ruta": "/productos/camas-box-tarimas/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "Cisne",
                     "metaTitulo": "Camas box tarimas - Cisne | Dormihogar",
-                    "ruta": "/productos/camas-box-tarimas/cisne/"
+                    "ruta": "/productos/camas-box-tarimas/?marca=el-cisne"
                 },
                 {
                     "id": 4,
@@ -186,19 +186,19 @@
                     "id": 1,
                     "subcategoria": "Kamas",
                     "metaTitulo": "Dormitorios - Kamas | Dormihogar",
-                    "ruta": "/productos/dormitorios/kamas/"
+                    "ruta": "/productos/dormitorios/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
                     "metaTitulo": "Dormitorios - Paraiso | Dormihogar",
-                    "ruta": "/productos/dormitorios/paraiso/"
+                    "ruta": "/productos/dormitorios/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
                     "metaTitulo": "Dormitorios - El Cisne | Dormihogar",
-                    "ruta": "/productos/dormitorios/el-cisne/"
+                    "ruta": "/productos/dormitorios/?marca=el-cisne"
                 },
                 {
                     "id": 4,
@@ -268,19 +268,19 @@
                     "id": 1,
                     "subcategoria": "Kamas",
                     "metaTitulo": "Camas funcionales - Kamas | Dormihogar",
-                    "ruta": "/productos/camas-funcionales/kamas/"
+                    "ruta": "/productos/camas-funcionales/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraíso",
                     "metaTitulo": "Camas funcionales - Paraíso | Dormihogar",
-                    "ruta": "/productos/camas-funcionales/paraiso/"
+                    "ruta": "/productos/camas-funcionales/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
                     "metaTitulo": "Camas funcionales - El Cisne | Dormihogar",
-                    "ruta": "/productos/camas-funcionales/el-cisne/"
+                    "ruta": "/productos/camas-funcionales/?marca=el-cisne"
                 },
                 {
                     "id": 4,
@@ -350,19 +350,19 @@
                     "id": 1,
                     "subcategoria": "Kamas",
                     "metaTitulo": "Cabeceras - Kamas | Dormihogar",
-                    "ruta": "/productos/cabeceras/kamas/"
+                    "ruta": "/productos/cabeceras/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
                     "metaTitulo": "Cabeceras - Paraiso | Dormihogar",
-                    "ruta": "/productos/cabeceras/paraiso/"
+                    "ruta": "/productos/cabeceras/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
                     "metaTitulo": "Cabeceras - El Cisne | Dormihogar",
-                    "ruta": "/productos/cabeceras/el-cisne/"
+                    "ruta": "/productos/cabeceras/?marca=el-cisne"
                 },
                 {
                     "id": 4,
@@ -432,19 +432,19 @@
                     "id": 1,
                     "subcategoria": "Kamas",
                     "metaTitulo": "Sofás - Kamas | Dormihogar",
-                    "ruta": "/productos/sofas/kamas/"
+                    "ruta": "/productos/sofas/?marca=kamas/"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
                     "metaTitulo": "Sofás - Paraiso | Dormihogar",
-                    "ruta": "/productos/sofas/paraiso/"
+                    "ruta": "/productos/sofas/?marca=paraiso/"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
                     "metaTitulo": "Sofás - El Cisne | Dormihogar",
-                    "ruta": "/productos/sofas/el-cisne/"
+                    "ruta": "/productos/sofas/?marca=el-cisne/"
                 },
                 {
                     "id": 4,
@@ -532,43 +532,43 @@
                     "id": 1,
                     "subcategoria": "Veladores",
                     "metaTitulo": "Complementos - Veladores | Dormihogar",
-                    "ruta": "/productos/complementos/veladores/"
+                    "ruta": "/productos/complementos/?sub-categoría=veladores"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Baúles",
                     "metaTitulo": "Complementos - Baúles | Dormihogar",
-                    "ruta": "/productos/complementos/baules/"
+                    "ruta": "/productos/complementos/?sub-categoría=baules"
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Bases",
-                    "metaTitulo": "Complementos - Bases | Dormihogar",
-                    "ruta": "/productos/complementos/bases/"
+                    "subcategoria": "Base sola",
+                    "metaTitulo": "Complementos - Base sola | Dormihogar",
+                    "ruta": "/productos/complementos/?sub-categoría=base-sola"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Puffs",
                     "metaTitulo": "Complementos - Puffs | Dormihogar",
-                    "ruta": "/productos/complementos/puffs/"
+                    "ruta": "/productos/complementos/?sub-categoría=puffs"
                 },
                 {
                     "id": 5,
                     "subcategoria": "Almohadas",
                     "metaTitulo": "Complementos - Almohadas | Dormihogar",
-                    "ruta": "/productos/complementos/almohadas/"
+                    "ruta": "/productos/complementos/?sub-categoría=almohadas"
                 },
                 {
                     "id": 6,
                     "subcategoria": "Sábanas y cobertores",
                     "metaTitulo": "Complementos - Sábanas y cobertores | Dormihogar",
-                    "ruta": "/productos/complementos/sabanas-y-cobertores/"
+                    "ruta": "/productos/complementos/?sub-categoría=sabanas-y-cobertores"
                 },
                 {
                     "id": 7,
                     "subcategoria": "Cama perro",
                     "metaTitulo": "Complementos - Cama perro | Dormihogar",
-                    "ruta": "/productos/complementos/cama-perro/"
+                    "ruta": "/productos/complementos/?sub-categoría=cama-perro"
                 },
                 {
                     "id": 8,

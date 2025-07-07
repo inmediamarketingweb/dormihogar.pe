@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react';
 import './MasProductos.css';
 
 import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
-// import SpinnerLoading from '../../../../Componentes/SpinnerLoading/SpinnerLoading';
 
 export default function MasProductos({ categoriaActual }) {
     const [products, setProducts] = useState([]);

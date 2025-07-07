@@ -127,7 +127,7 @@ function SearchBar() {
                                 <li key={producto.sku}>
                                     <a href={producto.ruta} title={producto.nombre}>
                                         <p className='text'>{producto.nombre}</p>
-                                        <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1.jpg`} alt={producto.nombre}/>
+                                        <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1`} alt={producto.nombre}/>
                                     </a>
                                 </li>
                             ))

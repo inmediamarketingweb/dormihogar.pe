@@ -112,7 +112,7 @@ function SearchBar() {
         }
     };
 
-    return (
+    return(
         <>
             <div className={`search-bar-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>
                 <div className='search-bar'>

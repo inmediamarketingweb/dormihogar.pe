@@ -763,7 +763,7 @@
             "precioVenta": 1249,
             "stock": 9,
             "sku": "D32222143N11",
-            "tipo-de-envio": "Envío preferente",
+            "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelascticas",
@@ -859,7 +859,7 @@
             "precioVenta": 1299,
             "stock": 9,
             "sku": "D32222145N10",
-            "tipo-de-envio": "Envío preferente",
+            "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelascticas",
@@ -955,7 +955,7 @@
             "precioVenta": 1249,
             "stock": 9,
             "sku": "D32222145N11",
-            "tipo-de-envio": "Envío preferente",
+            "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelascticas",
@@ -1051,7 +1051,7 @@
             "precioVenta": 1099,
             "stock": 9,
             "sku": "D32222143N12",
-            "tipo-de-envio": "Envío preferente",
+            "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelascticas",
@@ -1147,7 +1147,7 @@
             "precioVenta": 1479,
             "stock": 9,
             "sku": "D32222143N13",
-            "tipo-de-envio": "Envío preferente",
+            "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelascticas",
@@ -1243,7 +1243,7 @@
             "precioVenta": 2299,
             "stock": 9,
             "sku": "D3222213N13",
-            "tipo-de-envio": "Envío preferente",
+            "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas viscoelascticas",
@@ -1299,6 +1299,206 @@
                             "tela": "Tejido de punto higroscópica con diseño 3D",
                             "espuma": "Viscoelástica D70",
                             "capas": "Capas de espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "abrazzo",
+            "ruta": "/productos/dormitorios/paraiso/americanos/king/abrazzo/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ABRAZZO + CABECERA AEREA LINEAL 2 + 1 PUFF - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/king/abrazzo/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2999,
+            "stock": 9,
+            "sku": "D3224216N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "abrazzo",
+            "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO QUEEN + COLCHÓN PARAISO ABRAZZO + CABECERA AEREA LINEAL 2 + 1 PUFF - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/king/abrazzo/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3199,
+            "precioVenta": 2599,
+            "stock": 9,
+            "sku": "D3223216N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "queen",
+                    "modelo-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/king/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
                             "garantía": "10 años"
                         }
                     ]

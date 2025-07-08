@@ -21,12 +21,15 @@
             "tipo-de-envio": "Envío aplicado",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "2 plazas"
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -53,9 +56,10 @@
             "id": 2,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/complementos/bases/americanas/king/1/",
+            "ruta": "/productos/complementos/bases/kamas/americanas/king/1/",
             "nombre": "BASE SOLA AMERICANA KING - NEGRO",
             "fotos": "/assets/imagenes/productos/complementos/bases/americanas/king/1/",
             "colores": "si",
@@ -67,12 +71,15 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King"
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -99,9 +106,10 @@
             "id": 3,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/complementos/bases/americanas/king/2/",
+            "ruta": "/productos/complementos/bases/kamas/americanas/king/2/",
             "nombre": "BASE SOLA AMERICANA KING - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/complementos/bases/americanas/king/2/",
             "colores": "si",
@@ -113,12 +121,15 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King"
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -145,9 +156,10 @@
             "id": 4,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/complementos/bases/americanas/king/3/",
+            "ruta": "/productos/complementos/bases/kamas/americanas/king/3/",
             "nombre": "BASE SOLA AMERICANA KING - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/bases/americanas/king/3/",
             "colores": "si",
@@ -159,12 +171,15 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King"
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "No",
@@ -191,9 +206,10 @@
             "id": 5,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/complementos/bases/americanas-con-cajones/king/4/",
+            "ruta": "/productos/complementos/bases/kamas/americanas-con-cajones/king/4/",
             "nombre": "BASE SOLA AMERICANA KING + 2 CAJONES AL PIE - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/complementos/bases/americanas-con-cajones/king/1/",
             "colores": "si",
@@ -205,12 +221,15 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King"
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -237,6 +256,7 @@
             "id": 6,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "americanas",
             "tamaño": "king",
             "ruta": "/ofertas/complementos/bases/americanas-con-cajones/king/5/",
@@ -253,12 +273,15 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "King"
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Americana",
                     "tamaño": "King",
                     "cajones": "Si",
@@ -285,9 +308,10 @@
             "id": 7,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "americanas",
             "tamaño": "queen",
-            "ruta": "/productos/complementos/bases/americanas-con-cajones/queen/6/",
+            "ruta": "/productos/complementos/bases/kamas/americanas-con-cajones/queen/6/",
             "nombre": "BASE SOLA AMERICANA QUEEN + 2 CAJONES AL PIE - ROJO",
             "fotos": "/assets/imagenes/productos/complementos/bases/americanas-con-cajones/queen/1/",
             "colores": "si",
@@ -299,12 +323,66 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "Queen"
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "complementos",
+            "subcategoria": "bases",
+            "marca": "kamas",
+            "linea": "americanas",
+            "tamaño": "queen",
+            "ruta": "/ofertas/solo-por-horas/complementos/bases/americanas-con-cajones/queen/7/",
+            "nombre": "BASE SOLA AMERICANA QUEEN + 2 CAJONES LATERALES - ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/americanas-con-cajones/queen/2/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 1059,
+            "precioVenta": 799,
+            "stock": 0,
+            "sku": "K7342N13",
+            "solo-por-horas": "si",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Americana",
+                    "tamaño": "Queen"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Americana",
                     "tamaño": "Queen",
                     "cajones": "Si",
@@ -331,6 +409,7 @@
             "id": 9,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
             "ruta": "/ofertas/complementos/bases/europeas/2-plazas/8/",
@@ -353,6 +432,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -379,9 +460,10 @@
             "id": 10,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas/2-plazas/9/",
+            "ruta": "/productos/complementos/bases/kamas/europeas/2-plazas/9/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS - COBALTO",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/2/",
             "colores": "si",
@@ -399,6 +481,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -425,9 +509,10 @@
             "id": 11,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas/2-plazas/10/",
+            "ruta": "/productos/complementos/bases/kamas/europeas/2-plazas/10/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS - MELON",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/3/",
             "colores": "si",
@@ -445,6 +530,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -471,9 +558,10 @@
             "id": 12,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas/2-plazas/11/",
+            "ruta": "/productos/complementos/bases/kamas/europeas/2-plazas/11/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/4/",
             "colores": "si",
@@ -491,6 +579,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -517,9 +607,10 @@
             "id": 13,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas/2-plazas/12/",
+            "ruta": "/productos/complementos/bases/kamas/europeas/2-plazas/12/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/5/",
             "colores": "si",
@@ -537,6 +628,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
@@ -563,9 +656,10 @@
             "id": 14,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "king",
-            "ruta": "/productos/complementos/bases/europeas/king/13/",
+            "ruta": "/productos/complementos/bases/kamas/europeas/king/13/",
             "nombre": "BASE SOLA EUROPEA KING - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas/king/1/",
             "colores": "si",
@@ -583,6 +677,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -609,9 +705,10 @@
             "id": 15,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "king",
-            "ruta": "/productos/complementos/bases/europeas/king/14/",
+            "ruta": "/productos/complementos/bases/kamas/europeas/king/14/",
             "nombre": "BASE SOLA EUROPEA KING - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas/king/2/",
             "colores": "si",
@@ -629,6 +726,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
@@ -655,9 +754,10 @@
             "id": 16,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas-con-cajones/2-plazas/15/",
+            "ruta": "/productos/complementos/bases/kamas/europeas-con-cajones/2-plazas/15/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/1/",
             "colores": "si",
@@ -675,6 +775,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -701,9 +803,10 @@
             "id": 17,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas-con-cajones/2-plazas/16/",
+            "ruta": "/productos/complementos/bases/kamas/europeas-con-cajones/2-plazas/16/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - VINO",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/2/",
             "colores": "si",
@@ -721,6 +824,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -747,9 +852,10 @@
             "id": 18,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas-con-cajones/2-plazas/17/",
+            "ruta": "/productos/complementos/bases/kamas/europeas-con-cajones/2-plazas/17/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - FUCSIA",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/3/",
             "colores": "si",
@@ -767,6 +873,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -793,6 +901,7 @@
             "id": 19,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
             "ruta": "/ofertas/solo-por-horas/complementos/bases/europeas-con-cajones/2-plazas/18/",
@@ -814,6 +923,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -840,9 +951,10 @@
             "id": 20,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas-con-cajones/2-plazas/19/",
+            "ruta": "/productos/complementos/bases/kamas/europeas-con-cajones/2-plazas/19/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - ROJO",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/5/",
             "colores": "si",
@@ -860,6 +972,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -886,6 +1000,7 @@
             "id": 21,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
             "ruta": "/ofertas/solo-por-horas/complementos/bases/europeas-con-cajones/2-plazas/20/",
@@ -907,6 +1022,8 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "Si",
@@ -933,9 +1050,10 @@
             "id": 22,
             "categoria": "complementos",
             "subcategoria": "bases",
+            "marca": "kamas",
             "linea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/complementos/bases/europeas-con-cajones/2-plazas/21/",
+            "ruta": "/productos/complementos/bases/kamas/europeas-con-cajones/2-plazas/21/",
             "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/7/",
             "colores": "si",
@@ -953,6 +1071,57 @@
             ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "complementos",
+            "subcategoria": "bases",
+            "marca": "kamas",
+            "linea": "europeas",
+            "tamaño": "queen",
+            "ruta": "/productos/complementos/bases/kamas/europeas-con-cajones/queen/1/",
+            "nombre": "BASE SOLA EUROPEA QUEEN + 2 CAJONES LATERALES - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/queen/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 1249,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "K7334N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
                     "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "Si",

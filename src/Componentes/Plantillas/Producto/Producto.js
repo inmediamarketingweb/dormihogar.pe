@@ -52,7 +52,7 @@ export function Producto({ producto = { id: null } , truncate }){
 
     return(
         <li>
-            <div className={`product-card ${producto.stock === 0 ? "agotado" : ""}`} title={producto.nombre}>
+            <div key={producto.sku} className={`product-card ${producto.stock === 0 ? "agotado" : ""}`} title={producto.nombre}>
                 <div className="product-card-images">
                     {descuento > 0 && (
                         <span className="product-card-discount">-{descuento}%</span>

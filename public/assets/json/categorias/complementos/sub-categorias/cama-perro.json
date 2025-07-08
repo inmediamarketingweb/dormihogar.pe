@@ -4,8 +4,9 @@
             "id": 1,
             "categoria": "complementos",
             "subcategoria": "cama perro",
+            "marca": "kamas",
             "tamaño": "s",
-            "ruta": "/productos/complementos/cama-perro/s/1/",
+            "ruta": "/productos/complementos/cama-perro/kamas/s/1/",
             "nombre": "CAMA PERRO S + CABECERA PEDESTAL - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/complementos/cama-perro/1/",
             "colores": "si",
@@ -17,6 +18,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "S",
                     "tipo-de-cabecera": "Pedestal"
@@ -24,7 +26,8 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "marca": "kamas",
+                    "sub-categoría": "cama perro",
                     "tamaño": "S",
                     "cajones": "No",
                     "base-encajonada": "Si",
@@ -68,8 +71,9 @@
             "id": 2,
             "categoria": "complementos",
             "subcategoria": "cama perro",
+            "marca": "kamas",
             "tamaño": "m",
-            "ruta": "/productos/complementos/cama-perro/m/1/",
+            "ruta": "/productos/complementos/cama-perro/kamas/m/1/",
             "nombre": "CAMA PERRO M + CABECERA PEDESTAL - VINO CLARO",
             "fotos": "/assets/imagenes/productos/complementos/cama-perro/2/",
             "colores": "si",
@@ -81,6 +85,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "M",
                     "tipo-de-cabecera": "Pedestal"
@@ -88,7 +93,8 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "marca": "kamas",
+                    "sub-categoría": "cama perro",
                     "tamaño": "M",
                     "cajones": "No",
                     "base-encajonada": "Si",
@@ -132,8 +138,9 @@
             "id": 3,
             "categoria": "complementos",
             "subcategoria": "cama perro",
+            "marca": "kamas",
             "tamaño": "l",
-            "ruta": "/productos/complementos/cama-perro/l/1/",
+            "ruta": "/productos/complementos/cama-perro/kamas/l/1/",
             "nombre": "CAMA PERRO L + CABECERA PEDESTAL - PALO ROSA",
             "fotos": "/assets/imagenes/productos/complementos/cama-perro/3/",
             "colores": "si",
@@ -145,6 +152,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "L",
                     "tipo-de-cabecera": "Pedestal"
@@ -152,7 +160,8 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "marca": "kamas",
+                    "sub-categoría": "cama perro",
                     "tamaño": "L",
                     "cajones": "No",
                     "base-encajonada": "Si",
@@ -196,8 +205,9 @@
             "id": 4,
             "categoria": "complementos",
             "subcategoria": "cama perro",
+            "marca": "kamas",
             "tamaño": "xl",
-            "ruta": "/productos/complementos/cama-perro/xl/1/",
+            "ruta": "/productos/complementos/cama-perro/kamas/xl/1/",
             "nombre": "CAMA PERRO XL + CABECERA PEDESTAL - MORO",
             "fotos": "/assets/imagenes/productos/complementos/cama-perro/4/",
             "colores": "si",
@@ -209,6 +219,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "Xl",
                     "tipo-de-cabecera": "Pedestal"
@@ -216,7 +227,8 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "marca": "kamas",
+                    "sub-categoría": "cama perro",
                     "tamaño": "Xl",
                     "cajones": "No",
                     "base-encajonada": "Si",
@@ -260,8 +272,9 @@
             "id": 5,
             "categoria": "complementos",
             "subcategoria": "cama perro",
+            "marca": "kamas",
             "tamaño": "xxl",
-            "ruta": "/productos/complementos/cama-perro/xxl/1/",
+            "ruta": "/productos/complementos/cama-perro/kamas/xxl/1/",
             "nombre": "CAMA PERRO XXL ENCAJONADA + COLCHÓN - AZUL",
             "fotos": "/assets/imagenes/productos/complementos/cama-perro/5/",
             "colores": "si",
@@ -273,6 +286,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "XXL",
                     "tipo-de-cabecera": "Pedestal"
@@ -280,7 +294,8 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "marca": "kamas",
+                    "sub-categoría": "cama perro",
                     "tamaño": "Xxl",
                     "cajones": "No",
                     "base-encajonada": "Si",
@@ -332,8 +347,9 @@
             "id": 6,
             "categoria": "complementos",
             "subcategoria": "cama perro",
+            "marca": "kamas",
             "tamaño": "xxl",
-            "ruta": "/productos/complementos/cama-perro/xxl/2/",
+            "ruta": "/productos/complementos/cama-perro/kamas/xxl/2/",
             "nombre": "CAMA PERRO XXL ENCAJONADA + COLCHÓN - MORO",
             "fotos": "/assets/imagenes/productos/complementos/cama-perro/6/",
             "colores": "si",
@@ -345,6 +361,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "XXL",
                     "tipo-de-cabecera": "Pedestal"
@@ -352,7 +369,8 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "marca": "kamas",
+                    "sub-categoría": "cama perro",
                     "tamaño": "Xxl",
                     "cajones": "No",
                     "base-encajonada": "Si",
@@ -404,8 +422,9 @@
             "id": 7,
             "categoria": "complementos",
             "subcategoria": "cama perro",
+            "marca": "kamas",
             "tamaño": "l",
-            "ruta": "/productos/complementos/cama-perro/l/3/",
+            "ruta": "/productos/complementos/cama-perro/kamas/l/3/",
             "nombre": "CAMA PERRO L ENCAJONADA - MORO",
             "fotos": "/assets/imagenes/productos/complementos/cama-perro/7/",
             "colores": "si",
@@ -417,6 +436,7 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "línea": "Americana",
                     "tamaño": "L",
                     "tipo-de-cabecera": "Pedestal"
@@ -424,7 +444,8 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "marca": "kamas",
+                    "sub-categoría": "cama perro",
                     "tamaño": "L",
                     "cajones": "No",
                     "base-encajonada": "Si"

@@ -4,8 +4,9 @@
             "id": 1,
             "categoria": "complementos",
             "subcategoria": "veladores",
+            "marca": "kamas",
             "modelo": "shelter",
-            "ruta": "/productos/complementos/veladores/1/",
+            "ruta": "/productos/complementos/veladores/kamas/1/",
             "nombre": "VELADOR SHELTER - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/1/",
             "precioRegular": 1430,
@@ -16,12 +17,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Shelter",
                     "cajones": 6
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -43,8 +46,9 @@
             "id": 2,
             "categoria": "complementos",
             "subcategoria": "veladores",
+            "marca": "kamas",
             "modelo": "shelter",
-            "ruta": "/productos/complementos/veladores/2/",
+            "ruta": "/productos/complementos/veladores/kamas/2/",
             "nombre": "VELADOR SHELTER - NEGRO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/2/",
             "precioRegular": 1430,
@@ -55,12 +59,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Shelter",
                     "cajones": 6
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -82,7 +88,8 @@
             "id": 3,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/3/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/3/",
             "nombre": "VELADOR CLÁSICO 3 - CAMELL",
             "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/3/",
             "precioRegular": 1430,
@@ -93,12 +100,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Clásico 3",
                     "cajones": 3
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -120,7 +129,8 @@
             "id": 4,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/4/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/4/",
             "nombre": "VELADOR MODELO 2 EN 1 - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/1/",
             "precioRegular": 1430,
@@ -131,12 +141,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "2 en 1",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -158,7 +170,8 @@
             "id": 5,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/5/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/5/",
             "nombre": "VELADOR GHOST - CAFÉ",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/2/",
             "precioRegular": 1430,
@@ -169,12 +182,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Ghost",
                     "cajones": 1
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -196,7 +211,8 @@
             "id": 6,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/6/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/6/",
             "nombre": "VELADOR YANIRA - HUESO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/3/",
             "precioRegular": 589,
@@ -207,12 +223,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Yanira",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -234,7 +252,8 @@
             "id": 7,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/7/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/7/",
             "nombre": "VELADOR CLÁSICO 3 - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/4/",
             "precioRegular": 589,
@@ -245,12 +264,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Clásico 3",
                     "cajones": 3
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -272,7 +293,8 @@
             "id": 8,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/8/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/8/",
             "nombre": "VELADOR CLÁSICO 3 - BLANCO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/5/",
             "precioRegular": 589,
@@ -283,12 +305,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Clásico 3",
                     "cajones": 3
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -310,7 +334,8 @@
             "id": 9,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/9/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/9/",
             "nombre": "VELADOR CLÁSICO 3 - FUCSIA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/6/",
             "precioRegular": 589,
@@ -321,12 +346,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Clásico 3",
                     "cajones": 3
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -348,7 +375,8 @@
             "id": 10,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/10/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/10/",
             "nombre": "VELADOR CLÁSICO 3 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/7/",
             "precioRegular": 589,
@@ -359,12 +387,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Clásico 3",
                     "cajones": 3
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -386,7 +416,8 @@
             "id": 11,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/11/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/11/",
             "nombre": "VELADOR VINTAGE 2 NEW - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/8/",
             "precioRegular": 579,
@@ -397,12 +428,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Vintage 2 new",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -424,7 +457,8 @@
             "id": 12,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/12/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/12/",
             "nombre": "VELADOR VINTAGE 2 MODERNO - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/9/",
             "precioRegular": 579,
@@ -435,12 +469,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Vintage 2 moderno",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -462,7 +498,8 @@
             "id": 13,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/13/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/13/",
             "nombre": "VELADOR VINTAGE 2 MODERNO - ARENA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/10/",
             "precioRegular": 579,
@@ -473,12 +510,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Vintage 2 moderno",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -500,7 +539,8 @@
             "id": 14,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/14/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/14/",
             "nombre": "VELADOR CUBE - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/11/",
             "precioRegular": 469,
@@ -511,12 +551,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Cube",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -538,7 +580,8 @@
             "id": 15,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/15/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/15/",
             "nombre": "VELADOR VINTAGE 2 - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/13/",
             "precioRegular": 489,
@@ -549,12 +592,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Vintage 2",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -576,7 +621,8 @@
             "id": 16,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/16/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/16/",
             "nombre": "VELADOR ATLANTA - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/14/",
             "precioRegular": 489,
@@ -587,12 +633,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Atlanta",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -614,7 +662,8 @@
             "id": 17,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/17/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/17/",
             "nombre": "VELADOR CLÁSICO 3 - BLANCO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/15/",
             "precioRegular": 489,
@@ -625,12 +674,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Clásico 3",
                     "cajones": 3
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -652,7 +703,8 @@
             "id": 18,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/18/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/18/",
             "nombre": "VELADOR ROB - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/16/",
             "precioRegular": 489,
@@ -663,12 +715,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Rob",
                     "cajones": 2
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }
@@ -690,7 +744,8 @@
             "id": 19,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/19/",
+            "marca": "kamas",
+            "ruta": "/productos/complementos/veladores/kamas/19/",
             "nombre": "VELADOR GHOST - BLANCO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/17/",
             "precioRegular": 449,
@@ -701,12 +756,14 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Ghost",
                     "cajones": 1
                 }
             ],
             "detalles-del-producto":[
                 {
+                    "marcas": "kamas",
                     "sub-categoría": "Veladores",
                     "cajones": "Si"
                 }

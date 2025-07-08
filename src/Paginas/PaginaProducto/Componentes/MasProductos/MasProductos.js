@@ -7,77 +7,134 @@ import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
 export default function MasProductos({ categoriaActual }) {
     const [products, setProducts] = useState([]);
     const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
     const [refreshTrigger, setRefreshTrigger] = useState(0);
 
     useEffect(() => {
+        const controller = new AbortController();
+        const { signal } = controller;
+
         async function fetchRandomProducts() {
             try {
-                const manifestRes = await fetch('/assets/json/manifest.json');
-                const manifest = await manifestRes.json();
-                const files = manifest.files;
+                setLoading(true);
+                setError(null);
 
+                if (!categoriaActual || typeof categoriaActual !== 'string') {
+                    throw new Error('Categoría inválida');
+                }
+
+                const basePath = window.location.origin;
+                const manifestUrl = `${basePath}/assets/json/manifest.json`;
+                const manifestRes = await fetch(manifestUrl, { signal });
+                const contentType = manifestRes.headers.get('content-type') || '';
+
+                if (!contentType.includes('application/json')) {
+                    const textResponse = await manifestRes.text();
+                    if (textResponse.startsWith('<!DOCTYPE')) {
+                        throw new Error('El servidor devolvió una página HTML en lugar de JSON. Verifique la ruta del manifest.');
+                    }
+                    throw new Error(`Tipo de contenido inválido: ${contentType}`);
+                }
+
+                const manifest = await manifestRes.json();
+                
                 const allData = await Promise.all(
-                    files.map(async (filePath) => {
-                        const res = await fetch(filePath);
+                    manifest.files.map(async (filePath) => {
+                        const fullUrl = filePath.startsWith('http') 
+                            ? filePath 
+                            : `${basePath}${filePath.startsWith('/') ? '' : '/'}${filePath}`;
+                            
+                        const res = await fetch(fullUrl, { signal });
+                        
+                        const resContentType = res.headers.get('content-type') || '';
+                        if (!resContentType.includes('application/json')) {
+                            const text = await res.text();
+                            if (text.startsWith('<!DOCTYPE')) {
+                                console.error(`Archivo devuelve HTML: ${fullUrl}`);
+                                return { productos: [] };
+                            }
+                            throw new Error(`Tipo de contenido inválido para ${fullUrl}: ${resContentType}`);
+                        }
+
                         return res.json();
                     })
                 );
 
+                const normalizedCategory = categoriaActual.trim().toLowerCase();
                 const categoryProducts = allData.reduce((acc, data) => {
-                    if (Array.isArray(data.productos)) {
-                        const matches = data.productos.filter(
-                            (p) => p.categoria === categoriaActual
+                    if (Array.isArray(data?.productos)) {
+                        const matches = data.productos.filter(p => 
+                            p.categoria?.trim().toLowerCase() === normalizedCategory
                         );
-                        return acc.concat(matches);
+                        return [...acc, ...matches];
                     }
                     return acc;
                 }, []);
 
-                if (!categoryProducts.length) {
-                    setProducts([]);
-                    return;
-                }
-
-                for (let i = categoryProducts.length - 1; i > 0; i--) {
+                const shuffled = [...categoryProducts];
+                for (let i = shuffled.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
-                    [categoryProducts[i], categoryProducts[j]] = [
-                        categoryProducts[j],
-                        categoryProducts[i]
-                    ];
+                    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
                 }
 
-                const selected = categoryProducts.slice(0, 10);
-
-                setProducts(selected);
+                setProducts(shuffled.slice(0, 10));
             } catch (err) {
-                console.error('Error al cargar:', err);
+                if (err.name !== 'AbortError') {
+                    console.error('Error al cargar productos:', err);
+                    setError(`Error cargando productos: ${err.message}`);
+                }
             } finally {
-                setLoading(false);
+                if (!signal.aborted) {
+                    setLoading(false);
+                }
             }
         }
 
         if (categoriaActual) {
-            setLoading(true);
             fetchRandomProducts();
         } else {
             setLoading(false);
         }
+
+        return () => controller.abort();
     }, [categoriaActual, refreshTrigger]);
 
-    const handleRefresh = () => {
-        setRefreshTrigger(prev => prev + 1);
-    };
+    const handleRefresh = () => setRefreshTrigger(prev => prev + 1);
+
+    const truncate = (str, maxLength) => 
+        str?.length <= maxLength ? str : str?.slice(0, maxLength) + '...';
 
     if (loading) {
-        return(
+        return (
             <div className='d-flex'>
-                <p className='text'>Cargando más productos</p>
+                <p className='text'>Cargando más productos...</p>
             </div>
         );
     }
 
-    const truncate = (str, maxLength) =>
-        str.length <= maxLength ? str : str.slice(0, maxLength) + '...';
+    if (error) {
+        return(
+            <div className='d-flex-column align-items-center gap-10'>
+                <p className='text-error'>{error}</p>
+                <button onClick={handleRefresh} className='button-link button-link-2'>
+                    <p className='button-link-text'>Reintentar</p>
+                    <span className="material-icons">cached</span>
+                </button>
+            </div>
+        );
+    }
+
+    if (products.length === 0) {
+        return (
+            <div className='d-flex-column align-items-center gap-10'>
+                <p className='text'>No se encontraron productos en esta categoría</p>
+                <button onClick={handleRefresh} className='button-link button-link-2'>
+                    <p className='button-link-text'>Reintentar</p>
+                    <span className="material-icons">cached</span>
+                </button>
+            </div>
+        );
+    }
 
     return (
         <div className='block-container'>
@@ -91,9 +148,7 @@ export default function MasProductos({ categoriaActual }) {
                         <nav className="product-page-more-products-content">
                             <ul className='d-grid-5-3-2fr gap-10'>
                                 {products.map((producto) => (
-                                    <li className='d-flex-column'>
-                                        <Producto key={producto.sku} producto={producto} truncate={truncate} />
-                                    </li>
+                                    <Producto producto={producto} truncate={truncate} />
                                 ))}
                             </ul>
                         </nav>

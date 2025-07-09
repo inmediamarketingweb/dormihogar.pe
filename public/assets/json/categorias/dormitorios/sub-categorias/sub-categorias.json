@@ -3,19 +3,19 @@
         {
             "id": 1,
             "subcategoria": "Kamas",
-            "metaTitulo": "Dormitorios - Kamas | Dormihogar",
+            "metaTitulo": "Dormitorios - Kamas | Homesleep",
             "ruta": "/productos/dormitorios/kamas/"
         },
         {
             "id": 2,
             "subcategoria": "Paraiso",
-            "metaTitulo": "Dormitorios - Paraiso | Dormihogar",
+            "metaTitulo": "Dormitorios - Paraiso | Homesleep",
             "ruta": "/productos/dormitorios/paraiso/"
         },
         {
             "id": 3,
             "subcategoria": "El Cisne",
-            "metaTitulo": "Dormitorios - El Cisne | Dormihogar",
+            "metaTitulo": "Dormitorios - El Cisne | Homesleep",
             "ruta": "/productos/dormitorios/el-cisne/"
         }
     ]

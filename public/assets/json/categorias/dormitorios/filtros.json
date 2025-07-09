@@ -1,32 +1,6 @@
 [
     {
-        "id": 0,
-        "titulo": "Tamaño",
-        "nombre": "tamaño",
-        "lista":[
-            {
-                "id": 1,
-                "nombre": "1 plaza"
-            },
-            {
-                "id": 2,
-                "nombre": "1 plaza y media"
-            },
-            {
-                "id": 3,
-                "nombre": "2 plazas"
-            },
-            {
-                "id": 4,
-                "nombre": "Queen"
-            },
-            {
-                "id": 5,
-                "nombre": "King"
-            }
-        ]
-    },
-    {
+        "id": 1,
         "titulo": "Marca",
         "nombre": "marca",
         "lista":[
@@ -71,6 +45,33 @@
     },
     {
         "id": 3,
+        "titulo": "Tamaño",
+        "nombre": "tamaño",
+        "lista":[
+            {
+                "id": 1,
+                "nombre": "1 plaza"
+            },
+            {
+                "id": 2,
+                "nombre": "1 plaza y media"
+            },
+            {
+                "id": 3,
+                "nombre": "2 plazas"
+            },
+            {
+                "id": 4,
+                "nombre": "Queen"
+            },
+            {
+                "id": 5,
+                "nombre": "King"
+            }
+        ]
+    },
+    {
+        "id": 4,
         "titulo": "Cajones",
         "nombre": "cajones",
         "lista":[
@@ -83,7 +84,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "titulo": "Base encajonada",
         "nombre": "base-encajonada",
         "lista":[
@@ -96,7 +97,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "titulo": "Modelo de colchón",
         "nombre": "modelo-de-colchón",
         "lista":[
@@ -139,7 +140,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 7,
         "titulo": "Tipo de cabecera",
         "nombre": "tipo-de-cabecera",
         "lista":[
@@ -155,7 +156,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "titulo": "Diseño de cabecera",
         "nombre": "diseño-de-cabecera",
         "lista":[
@@ -183,7 +184,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "titulo": "Brazos de cabecera",
         "nombre": "brazos-de-cabecera",
         "lista":[

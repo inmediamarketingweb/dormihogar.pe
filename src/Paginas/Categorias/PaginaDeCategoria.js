@@ -9,7 +9,16 @@ import Footer from "../../Componentes/Footer/Footer";
 
 import "./PaginaDeCategoria.css";
 
-function PaginaDeCategoria() {
+function shuffleArray(array){
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+}
+
+function PaginaDeCategoria(){
     const params = useParams();
     const { categoria, subcategoria, marca } = params;
     const [metadatos, setMetadatos] = useState({ title: "", description: "" });
@@ -171,8 +180,9 @@ function PaginaDeCategoria() {
                     }
                 }
 
-                setProductos(products);
-                setProductosFiltrados(products);
+                const shuffledProducts = shuffleArray(products);
+                setProductos(shuffledProducts);
+                setProductosFiltrados(shuffledProducts);
             } catch (error) {
                 console.error("Error crítico al cargar productos:", {
                     error: error.message,
@@ -217,8 +227,8 @@ function PaginaDeCategoria() {
     const handlePreviousPage = () => handlePageChange(currentPage - 1);
     const handleNextPage = () => handlePageChange(currentPage + 1);
 
-    const startIndex = Math.max(0, totalItems - (currentPage * itemsPerPage));
-    const endIndex = totalItems - ((currentPage - 1) * itemsPerPage);
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
     const currentProducts = productosFiltrados.slice(startIndex, endIndex);
 
     const handleToggleFilters = () => setFiltersActive((prev) => !prev);
@@ -276,7 +286,7 @@ function PaginaDeCategoria() {
                                         <ul className="category-page-products">
                                             {currentProducts
                                                 .filter((producto) => producto.oferta !== "si")
-                                                .sort((a, b) => b.id - a.id)
+                                                // Se eliminó el ordenamiento por ID
                                                 .map((producto) => {
                                                     const descuento = Math.round(
                                                         ((producto.precioNormal - producto.precioVenta) * 100) /
@@ -302,7 +312,7 @@ function PaginaDeCategoria() {
                                                                         <LazyImage width={isSmallScreen ? 140 : 200} height={isSmallScreen ? 140 : 200} src={`${producto.fotos}1`} alt={producto.nombre}/>
                                                                     </a>
 
-                                                                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)}  title="Agregar a favoritos">
+                                                                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos">
                                                                         <span className="material-icons">favorite</span>
                                                                     </button>
                                                                 </div>
@@ -347,7 +357,7 @@ function PaginaDeCategoria() {
                                                                     )}
 
                                                                     <span className="product-card-brand">{producto.marca}</span>
-                                                                    <h4 className="product-card-name">{truncate(producto.nombre, 100)}</h4>
+                                                                    <h4 className="product-card-name">{truncate(producto.nombre, 72)}</h4>
                                                                     <div className="product-card-prices">
                                                                         <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
                                                                         <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
@@ -360,7 +370,7 @@ function PaginaDeCategoria() {
                                         </ul>
 
                                         <div className="pagination-controls">
-                                            <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
+                                            <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1} >
                                                 <span className="material-icons">chevron_left</span>
                                             </button>
 
@@ -374,13 +384,15 @@ function PaginaDeCategoria() {
                                                 )}
                                             </div>
 
-                                            <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages} >
+                                            <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
                                                 <span className="material-icons">chevron_right</span>
                                             </button>
                                         </div>
                                     </>
                                 ) : (
-                                    <p>No se encontraron productos.</p>
+                                    <div className="category-loading-container">
+                                        <span class="loader"></span>
+                                    </div>
                                 )}
                             </div>
                         </div>

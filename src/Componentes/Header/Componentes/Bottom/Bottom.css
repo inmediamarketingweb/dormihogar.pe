@@ -182,6 +182,10 @@
     }
 
     .menu-link{
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
         padding: 0;
     }
 
@@ -201,10 +205,11 @@
         display: flex;
         color: var(--color-1);
         transition: var(--t-200ms-linear);
+        pointer-events: none;
     }
 
-    .menu-li.active .menu-li-div .menu-link-button{
-        rotate: -180deg;
+    .menu-li .menu-li-div .menu-link-button{
+        rotate: -90deg;
     }
 
     .menu-li-div:nth-last-child(1){
@@ -212,18 +217,7 @@
     }
 
     .submenu-container{
-        position: unset;
-        left: unset;
-        top: unset;
-        width: 100%;
-        height: 0;
-        padding: 0 20px;
-        display: flex;
-        overflow: hidden;
-        opacity: 1;
-        pointer-events: unset;
-        user-select: unset;
-        interpolate-size: allow-keywords;
+        display: none;
     }
 
     .menu-li.active .submenu-container{

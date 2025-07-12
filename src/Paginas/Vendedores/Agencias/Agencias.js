@@ -3,6 +3,9 @@ import { useState, useEffect, useRef } from 'react';
 import './Agencias.css';
 
 import Header from '../../../Componentes/Header/Header';
+
+import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
+
 import Footer from '../../../Componentes/Footer/Footer';
 
 function Agencias(){
@@ -124,11 +127,8 @@ function Agencias(){
     }, []);
 
     if (loading) {
-        return (
-            <div className="loading-container">
-                <div className="loading-spinner"></div>
-                <p>Cargando datos...</p>
-            </div>
+        return(
+            <SpinnerLoading/>
         );
     }
 
@@ -220,23 +220,24 @@ function Agencias(){
                                             ) : selectedDistrito ? (
                                                 isLimaOrCallao(selectedDistrito) ? (
                                                     <li>
-                                                        <div className="message message-success">
+                                                        <div className="message message-note">
                                                             <span className="material-icons">check_circle</span>
-                                                            <p>Envío gratis para Lima y Callao</p>
+                                                            <p>¿Vives en Lima o Callao? El envío de tu dormitorio king es gratis.</p>
                                                         </div>
                                                     </li>
                                                 ) : (
                                                     <li>
-                                                        <div className="message message-error">
+                                                        <div className="message message-warning">
                                                             <span className="material-icons">error</span>
-                                                            <p>Lo sentimos, no tenemos información sobre agencias en este distrito</p>
+                                                            <p>Lo sentimos, no conocemos agencias recomendadas para este distrito, sin embargo podemos ayudarte a encontrar la mejor.</p>
                                                         </div>
                                                     </li>
                                                 )
                                             ) : (
-                                                <li>
-                                                    <p className='text'>Busca y selecciona un distrito para ver las agencias disponibles</p>
-                                                </li>
+                                                <div className='message message-note'>
+                                                    <span class="material-icons">search</span>
+                                                    <p>Busca tu distrito para ver las agencias recomendadas.</p>
+                                                </div>
                                             )}
                                         </ul>
                                 </div>
@@ -293,7 +294,10 @@ function Agencias(){
                                                             </div>
                                                             <p className='tipo-de-envio-price'>
                                                                 {isLimaOrCallao(selectedDistrito) ? (
-                                                                    <span className="free-shipping">Envío gratis para Lima y Callao</span>
+                                                                    <div className='message message-note'>
+                                                                        <span class="material-icons">local_shipping</span>
+                                                                        <p className="text">Envío gratis para Lima y Callao</p>
+                                                                    </div>
                                                                 ) : (
                                                                     `S/.${selectedDistrito['envio-directo']}`
                                                                 )}
@@ -309,7 +313,7 @@ function Agencias(){
                                         <div className='d-flex-column gap-20'>
                                             <div className='d-flex-column gap-10'>
                                                 <p className='block-title d-flex'>{selectedDistrito.distrito}</p>
-                                                
+
                                                 {!isLimaOrCallao(selectedDistrito) && hasEnvioDirecto(selectedDistrito) && (
                                                     <div className='d-flex-column'>
                                                         <p className='text'>Contamos con envío directo para {selectedDistrito.distrito}. Llevamos tus productos a tu domicilio el día y a la hora que lo necesites.</p>
@@ -324,7 +328,10 @@ function Agencias(){
                                                         </div>
                                                         <p className='tipo-de-envio-price'>
                                                             {isLimaOrCallao(selectedDistrito) ? (
-                                                                <span className="free-shipping">Envío gratis para Lima y Callao</span>
+                                                                <div className='message message-note'>
+                                                                    <span class="material-icons">local_shipping</span>
+                                                                    <p>Envío gratis para Lima y Callao</p>
+                                                                </div>
                                                             ) : (
                                                                 `S/.${selectedDistrito['envio-directo']}`
                                                             )}
@@ -333,15 +340,22 @@ function Agencias(){
                                                 )}
 
                                                 {isLimaOrCallao(selectedDistrito) ? (
-                                                    <div className="message message-success">
+                                                    <div className="message message-note">
                                                         <span className="material-icons">check_circle</span>
                                                         <p>Envío gratis para Lima y Callao</p>
                                                     </div>
                                                 ) : !selectedDistrito.agencias && !hasEnvioDirecto(selectedDistrito) ? (
-                                                    <div className="message message-error">
-                                                        <span className="material-icons">error</span>
-                                                        <p>Lo sentimos, no contamos con servicio de entrega para este distrito</p>
-                                                    </div>
+                                                    <>
+                                                        <div className="message message-warning">
+                                                            <span className="material-icons">sentiment_dissatisfied</span>
+                                                            <p>Lo sentimos, no conocemos agencias recomendadas para este distrito, sin embargo podemos ayudarte a encontrar la mejor.</p>
+                                                        </div>
+
+                                                        {/* <a href='' className='button-link button-link-2 margin-left d-flex-center-center gap-10'>
+                                                            <img src='/assets/imagenes/iconos/whatsapp-blanco.svg' alt='' />
+                                                            <p className='button-link-text'>WhatsApp</p>
+                                                        </a> */}
+                                                    </>
                                                 ) : !selectedDistrito.agencias ? (
                                                     <div className="message message-note">
                                                         <span className="material-icons">local_shipping</span>
@@ -350,16 +364,16 @@ function Agencias(){
                                                 ) : (
                                                     <div className="message message-note">
                                                         <span className="material-icons">sentiment_satisfied</span>
-                                                        <p>El envío de dormitorios es gratis para Lima y Callao o al distrito de la agencia.</p>
+                                                        <p>Realizamos envíos inmediatos a provincia a traves de la agencia de tu preferencia.</p>
                                                     </div>
                                                 )}
                                             </div>
                                         </div>
                                     </div>
                                 ) : (
-                                    <div className='empty-state'>
-                                        <span className="material-icons">info</span>
-                                        <p>Busca y selecciona un distrito para ver los detalles</p>
+                                    <div className='message message-note'>
+                                        <span className="material-icons">search</span>
+                                        <p>Busca y selecciona una agencia para ver los detalles.</p>
                                     </div>
                                 )}
                             </div>

@@ -345,6 +345,16 @@ button{
     color: var(--white);
 }
 
+/**/
+
+.button-link-2 img{
+    width: 24px;
+    height: auto;
+    aspect-ratio: 1/1;
+}
+
+/**/
+
 .button-link-3{
     width: auto;
     height: 48px;

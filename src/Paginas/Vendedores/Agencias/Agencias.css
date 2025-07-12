@@ -11,7 +11,7 @@
     height: 100%;
     border: 0;
     outline: 0;
-    padding: 0 20px;
+    padding: 0 10px;
     background: var(--body);
     /* background: red; */
     color: var(--text);

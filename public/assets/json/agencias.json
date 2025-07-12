@@ -1,0 +1,1030 @@
+{
+    "departamentos":[
+        {
+            "departamento": "Lima",
+            "provincias":[
+                {
+                    "provincia": "Provincia constitucional del Callao",
+                    "distritos":[
+                        {
+                            "distrito": "Callao cercado",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 30
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 70
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 130
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Bellavista",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 30
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Carmen de la Legua",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 60
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 120
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "La Perla",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 30
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 70
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 120
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "La Punta",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 30
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 70
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 120
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Ventanilla",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 60
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 120
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Mi Perú",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 60
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 120
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "provincia": "Lima metropolitana",
+                    "distritos":[
+                        {
+                            "distrito": "Ancón",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 30
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 70
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 120
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Carabayllo",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Comas",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Independencia",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Los Olivos",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Puente Piedra",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Martín de Porres",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Santa Rosa",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Barranco",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Breña",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Jesús María",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "La Victoria",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Lima",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Lince",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Magdalena del Mar",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Miraflores",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Pueblo Libre",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Rímac",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Borja",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Isidro",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Miguel",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Santiago de Surco",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Surquillo",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Ate",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Chaclacayo",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Cieneguilla",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "El Agustino",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Huaycán",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "La Molina",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Lurigancho",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Juan de Lurigancho",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Luis",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Santa Anita",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Chorrillos",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Lurín",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Pachacamac",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Pucusana",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Punta Hermosa",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Punta Negra",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Bartolo",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Juan de Miraflores",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Santa María del Mar",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Villa el Salvador",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Villa María del Triunfo",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío preferente",
+                                    "precio": 25
+                                },
+                                {
+                                    "tipo-de-envio": "Envío aplicado",
+                                    "precio": 40
+                                },
+                                {
+                                    "tipo-de-envio": "Envío express",
+                                    "precio": 70
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "provincia": "Barranca",
+                    "distritos":[
+                        {
+                            "distrito": "Barranca",
+                            "envio-directo": 500,
+                            "agencias":[
+                                {
+                                    "agencia": "Señor de Luren",
+                                    "sedes":[
+                                        {
+                                            "sede": "Los Olivos",
+                                            "direccion": "Av. Carlos Izaguirre 1408",
+                                            "link": "https://maps.app.goo.gl/NioU6mPvoJkFj5328",
+                                            "envio-por-agencia": 380,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Vilma express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Paramonga",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío directo",
+                                    "precio": 500
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Pativilca",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío directo",
+                                    "precio": 500
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Supe",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío directo",
+                                    "precio": 500
+                                }
+                            ],
+                            "agencias":[
+                                {
+                                    "agencia": "Sullana Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Señor de Luren",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Supe Puerto",
+                            "tipos-de-envio":[
+                                {
+                                    "tipo-de-envio": "Envío directo",
+                                    "precio": 500
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "provincia": "Cajatambo",
+                    "distritos":[
+                        {
+                            "distrito": "Manás"
+                        },
+                        {
+                            "distrito": "Gorgor"
+                        },
+                        {
+                            "distrito": "Huancapón"
+                        },
+                        {
+                            "distrito": "Cajatambo"
+                        },
+                        {
+                            "distrito": "Copa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

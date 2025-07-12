@@ -122,21 +122,26 @@
 
 /**/
 
-.envío-express{
+.envío-express,
+.envio-express{
     border: 1px solid var(--express);
     background: rgba(255 165 0 / 0.1);
 }
 
 .envío-express > .d-flex-column > span,
-.envío-express > .d-flex-column > p{
+.envio-express > .d-flex-column > span,
+.envío-express > .d-flex-column > p,
+.envio-express > .d-flex-column > p{
     color: var(--express);
 }
 
-.envío-express .tipo-de-envio-price{
+.envío-express .tipo-de-envio-price,
+.envio-express .tipo-de-envio-price{
     color: var(--express);
 }
 
-.envío-express .hasta{
+.envío-express .hasta,
+.envio-express .hasta{
     background: var(--express);
     color: var(--white);
 }
@@ -164,21 +169,26 @@
 
 /**/
 
-.envío-preferente{
+.envío-preferente,
+.envio-preferente{
     border: 1px solid var(--preferente);
     background: rgba(0 0 255 / 0.1);
 }
 
 .envío-preferente > .d-flex-column > span,
-.envío-preferente > .d-flex-column > p{
+.envio-preferente > .d-flex-column > span,
+.envío-preferente > .d-flex-column > p,
+.envio-preferente > .d-flex-column > p{
     color: var(--preferente);
 }
 
-.envío-preferente .tipo-de-envio-price{
+.envío-preferente .tipo-de-envio-price,
+.envio-preferente .tipo-de-envio-price{
     color: var(--preferente);
 }
 
-.envío-preferente .hasta{
+.envío-preferente .hasta,
+.envio-preferente .hasta{
     background: var(--preferente);
     color: var(--white);
 }

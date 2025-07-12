@@ -54,6 +54,7 @@ import Error404 from "./Paginas/Error404/Error404";
 
 //Páginas para los vendedores
 import Colores from './Paginas/Vendedores/Colores/Colores';
+import Agencias from "./Paginas/Vendedores/Agencias/Agencias";
 
 import './App.css';
 
@@ -124,6 +125,7 @@ function App(){
                     <Route path="*" element={<Error404/>}/>
 
                     <Route path="/paleta-de-colores/" element={<Colores/>} />
+                    <Route path="/agencias-recomendadas/" element={<Agencias/>} />
                 </Routes>
             </Router>
         </HelmetProvider>

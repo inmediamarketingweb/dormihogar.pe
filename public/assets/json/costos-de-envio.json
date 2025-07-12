@@ -885,18 +885,16 @@
                     "distritos":[
                         {
                             "distrito": "Barranca",
-                            "tipos-de-envio":[
-                                {
-                                    "tipo-de-envio": "Envío directo",
-                                    "precio": 500
-                                }
-                            ],
-                            "agencias-recomendadas":[
+                            "envio-directo": 500,
+                            "agencias":[
                                 {
                                     "agencia": "Señor de Luren",
                                     "sedes":[
                                         {
                                             "sede": "Los Olivos",
+                                            "direccion": "Av. Carlos Izaguirre 1408",
+                                            "link": "https://maps.app.goo.gl/NioU6mPvoJkFj5328",
+                                            "envio-por-agencia": 380,
                                             "tipos-de-envio":[
                                                 {
                                                     "tipo-de-envio": "Envío preferente",
@@ -915,6 +913,9 @@
                                     "sedes":[
                                         {
                                             "sede": "La Victoria",
+                                            "direccion": "Jr. Mendoza Merino 608",
+                                            "link": "https://maps.app.goo.gl/EzmiFr1r9pHtxUZi8",
+                                            "envio-por-agencia": 380,
                                             "tipos-de-envio":[
                                                 {
                                                     "tipo-de-envio": "Envío preferente",
@@ -932,36 +933,40 @@
                         },
                         {
                             "distrito": "Paramonga",
-                            "tipos-de-envio":[
-                                {
-                                    "tipo-de-envio": "Envío directo",
-                                    "precio": 500
-                                }
-                            ]
+                            "envio-directo":500
                         },
                         {
                             "distrito": "Pativilca",
-                            "tipos-de-envio":[
-                                {
-                                    "tipo-de-envio": "Envío directo",
-                                    "precio": 500
-                                }
-                            ]
+                            "envio-directo": 500
                         },
                         {
                             "distrito": "Supe",
-                            "tipos-de-envio":[
-                                {
-                                    "tipo-de-envio": "Envío directo",
-                                    "precio": 500
-                                }
-                            ],
-                            "agencias-recomendadas":[
+                            "envio-directo": 500,
+                            "agencias":[
                                 {
                                     "agencia": "Sullana Express",
                                     "sedes":[
                                         {
+                                            "sede": "Izaguirre",
+                                            "direccion": "Ca. David Alva 1570",
+                                            "link": "https://maps.app.goo.gl/ec15X1xcYBFYAz3U9",
+                                            "envio-por-agencia": 380,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        },
+                                        {
                                             "sede": "La Victoria",
+                                            "direccion": "Jr. Mendoza Merino 608",
+                                            "link": "https://maps.app.goo.gl/EzmiFr1r9pHtxUZi8",
+                                            "envio-por-agencia": 380,
                                             "tipos-de-envio":[
                                                 {
                                                     "tipo-de-envio": "Envío preferente",
@@ -980,6 +985,9 @@
                                     "sedes":[
                                         {
                                             "sede": "La Victoria",
+                                            "direccion": "Bazo 1256",
+                                            "link": "https://maps.app.goo.gl/SJuSFaETdDbSam3s6",
+                                            "envio-por-agencia": 380,
                                             "tipos-de-envio":[
                                                 {
                                                     "tipo-de-envio": "Envío preferente",
@@ -1104,7 +1112,7 @@
                                     "precio": 230
                                 }
                             ],
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Transportes gil",
                                     "sedes":[
@@ -1244,7 +1252,7 @@
                                     "precio": 400
                                 }
                             ],
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Señor de Luren",
                                     "sedes":[
@@ -1329,7 +1337,7 @@
                                     "precio": 220
                                 }
                             ],
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Chimbote express",
                                     "sedes":[
@@ -1358,7 +1366,7 @@
                                     "precio": 250
                                 }
                             ],
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Camibel logistic",
                                     "sedes":[
@@ -1643,7 +1651,7 @@
                                     "precio": 350
                                 }
                             ],
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Cargo Express Americano",
                                     "sedes":[
@@ -1694,7 +1702,7 @@
                     "distritos":[
                         {
                             "distrito": "Yauyos",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1717,7 +1725,7 @@
                         },
                         {
                             "distrito": "Alis",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1740,7 +1748,7 @@
                         },
                         {
                             "distrito": "Ayauca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1763,7 +1771,7 @@
                         },
                         {
                             "distrito": "Ayaviri",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1786,7 +1794,7 @@
                         },
                         {
                             "distrito": "Azángaro",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1809,7 +1817,7 @@
                         },
                         {
                             "distrito": "Cacra",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1832,7 +1840,7 @@
                         },
                         {
                             "distrito": "Caraina",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1855,7 +1863,7 @@
                         },
                         {
                             "distrito": "Catahuasi",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1878,7 +1886,7 @@
                         },
                         {
                             "distrito": "Chocos",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1901,7 +1909,7 @@
                         },
                         {
                             "distrito": "Cochas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1924,7 +1932,7 @@
                         },
                         {
                             "distrito": "Colonia",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1947,7 +1955,7 @@
                         },
                         {
                             "distrito": "Hongos",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1970,7 +1978,7 @@
                         },
                         {
                             "distrito": "Huampará",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -1993,7 +2001,7 @@
                         },
                         {
                             "distrito": "Huancaya",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2016,7 +2024,7 @@
                         },
                         {
                             "distrito": "Huangáscar",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2039,7 +2047,7 @@
                         },
                         {
                             "distrito": "Huantán",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2062,7 +2070,7 @@
                         },
                         {
                             "distrito": "Huáñec",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2085,7 +2093,7 @@
                         },
                         {
                             "distrito": "Laraos",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2108,7 +2116,7 @@
                         },
                         {
                             "distrito": "Lincha",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2131,7 +2139,7 @@
                         },
                         {
                             "distrito": "Madeán",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2154,7 +2162,7 @@
                         },
                         {
                             "distrito": "Miraflores",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2177,7 +2185,7 @@
                         },
                         {
                             "distrito": "Omas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2200,7 +2208,7 @@
                         },
                         {
                             "distrito": "Putinza",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2223,7 +2231,7 @@
                         },
                         {
                             "distrito": "Quinches",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2246,7 +2254,7 @@
                         },
                         {
                             "distrito": "Quinocay",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2269,7 +2277,7 @@
                         },
                         {
                             "distrito": "San Joaquín",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2292,7 +2300,7 @@
                         },
                         {
                             "distrito": "San Pedro de Pilas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2315,7 +2323,7 @@
                         },
                         {
                             "distrito": "Tanta",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2338,7 +2346,7 @@
                         },
                         {
                             "distrito": "Tauripampa",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2361,7 +2369,7 @@
                         },
                         {
                             "distrito": "Tomas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2384,7 +2392,7 @@
                         },
                         {
                             "distrito": "Tupe",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2407,7 +2415,7 @@
                         },
                         {
                             "distrito": "Viñac",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2430,7 +2438,7 @@
                         },
                         {
                             "distrito": "Vitis",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -2463,7 +2471,7 @@
                     "distritos":[
                         {
                             "distrito": "Asunción",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2486,7 +2494,7 @@
                         },
                         {
                             "distrito": "Balsa",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2535,7 +2543,7 @@
                         },
                         {
                             "distrito": "Chachapoyas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Tafur Tafur",
                                     "sedes":[
@@ -2577,7 +2585,7 @@
                         },
                         {
                             "distrito": "Cheto",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2613,7 +2621,7 @@
                         },
                         {
                             "distrito": "Chilliquín",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2649,7 +2657,7 @@
                         },
                         {
                             "distrito": "Chuquibamba",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2685,7 +2693,7 @@
                         },
                         {
                             "distrito": "Granada",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2734,7 +2742,7 @@
                         },
                         {
                             "distrito": "Huancas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2757,7 +2765,7 @@
                         },
                         {
                             "distrito": "La Jalca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2780,7 +2788,7 @@
                         },
                         {
                             "distrito": "Leimebamba",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2803,7 +2811,7 @@
                         },
                         {
                             "distrito": "Levanto",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2826,7 +2834,7 @@
                         },
                         {
                             "distrito": "Magdalena",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2875,7 +2883,7 @@
                         },
                         {
                             "distrito": "Mariscal Castilla",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2924,7 +2932,7 @@
                         },
                         {
                             "distrito": "Molinopampa",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -2973,7 +2981,7 @@
                         },
                         {
                             "distrito": "Montevideo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -3022,7 +3030,7 @@
                         },
                         {
                             "distrito": "Olleros",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -3058,7 +3066,7 @@
                         },
                         {
                             "distrito": "Quinjalca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -3094,7 +3102,7 @@
                         },
                         {
                             "distrito": "San Fransico de Daguas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -3130,7 +3138,7 @@
                         },
                         {
                             "distrito": "San Isidro de Maino",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -3179,7 +3187,7 @@
                         },
                         {
                             "distrito": "Soloco",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -3228,7 +3236,7 @@
                         },
                         {
                             "distrito": "Sonches",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Shalom",
                                     "sedes":[
@@ -3272,7 +3280,7 @@
                         },
                         {
                             "distrito": "Bagua",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Divino cargo",
                                     "sedes":[
@@ -3367,7 +3375,7 @@
                     "distritos":[
                         {
                             "distrito": "Camporredondo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3390,7 +3398,7 @@
                         },
                         {
                             "distrito": "Cocabamba",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3413,7 +3421,7 @@
                         },
                         {
                             "distrito": "Colcamar",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3436,7 +3444,7 @@
                         },
                         {
                             "distrito": "Conila",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3459,7 +3467,7 @@
                         },
                         {
                             "distrito": "Inguilpata",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3482,7 +3490,7 @@
                         },
                         {
                             "distrito": "Lámud",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3505,7 +3513,7 @@
                         },
                         {
                             "distrito": "Longuita",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3528,7 +3536,7 @@
                         },
                         {
                             "distrito": "Lonya Chico",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3551,7 +3559,7 @@
                         },
                         {
                             "distrito": "Luya",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3574,7 +3582,7 @@
                         },
                         {
                             "distrito": "Luya viejo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3597,7 +3605,7 @@
                         },
                         {
                             "distrito": "María",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3620,7 +3628,7 @@
                         },
                         {
                             "distrito": "María",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3643,7 +3651,7 @@
                         },
                         {
                             "distrito": "Ocalli",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3666,7 +3674,7 @@
                         },
                         {
                             "distrito": "Ocumal",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3689,7 +3697,7 @@
                         },
                         {
                             "distrito": "Pisuquía",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3712,7 +3720,7 @@
                         },
                         {
                             "distrito": "Providencia",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3735,7 +3743,7 @@
                         },
                         {
                             "distrito": "San Cristóbal",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3758,7 +3766,7 @@
                         },
                         {
                             "distrito": "San Fransico del Yeso",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3781,7 +3789,7 @@
                         },
                         {
                             "distrito": "San Jerónimo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3804,7 +3812,7 @@
                         },
                         {
                             "distrito": "San Juan de Lopecancha",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3827,7 +3835,7 @@
                         },
                         {
                             "distrito": "Santa Catalina",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3850,7 +3858,7 @@
                         },
                         {
                             "distrito": "Santo Tomás",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3873,7 +3881,7 @@
                         },
                         {
                             "distrito": "Tingo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3896,7 +3904,7 @@
                         },
                         {
                             "distrito": "Trita",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3924,7 +3932,7 @@
                     "distritos":[
                         {
                             "distrito": "Chorimoto",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3947,7 +3955,7 @@
                         },
                         {
                             "distrito": "Cochamal",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3970,7 +3978,7 @@
                         },
                         {
                             "distrito": "Huambo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -3993,7 +4001,7 @@
                         },
                         {
                             "distrito": "Limabamba",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4016,7 +4024,7 @@
                         },
                         {
                             "distrito": "Longar",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4039,7 +4047,7 @@
                         },
                         {
                             "distrito": "Mariscal Benavides",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4062,7 +4070,7 @@
                         },
                         {
                             "distrito": "Milpuc",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4085,7 +4093,7 @@
                         },
                         {
                             "distrito": "Omia",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4108,7 +4116,7 @@
                         },
                         {
                             "distrito": "San Nicólas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4131,7 +4139,7 @@
                         },
                         {
                             "distrito": "Santa Rosa",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4154,7 +4162,7 @@
                         },
                         {
                             "distrito": "Totora",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4177,7 +4185,7 @@
                         },
                         {
                             "distrito": "Vista Alegre",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4205,7 +4213,7 @@
                     "distritos":[
                         {
                             "distrito": "Bagua Grande",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Leonardo Express",
                                     "sedes":[
@@ -4246,7 +4254,7 @@
                         },
                         {
                             "distrito": "Cajaruro",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4269,7 +4277,7 @@
                         },
                         {
                             "distrito": "Cumba",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4292,7 +4300,7 @@
                         },
                         {
                             "distrito": "El Milagro",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4315,7 +4323,7 @@
                         },
                         {
                             "distrito": "Jamalca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4338,7 +4346,7 @@
                         },
                         {
                             "distrito": "Lonya Grande",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4361,7 +4369,7 @@
                         },
                         {
                             "distrito": "Yamón",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -4510,7 +4518,7 @@
                         },
                         {
                             "distrito": "Carhuaz",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Julio César",
                                     "sedes":[
@@ -4577,7 +4585,7 @@
                         },
                         {
                             "distrito": "San Nicolás",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Tafur Tafur",
                                     "sedes":[
@@ -4660,7 +4668,7 @@
                         },
                         {
                             "distrito": "Huaraz",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Julio César",
                                     "sedes":[
@@ -4748,7 +4756,7 @@
                         },
                         {
                             "distrito": "Huari",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Julio César",
                                     "sedes":[
@@ -4786,7 +4794,7 @@
                         },
                         {
                             "distrito": "San Marcos",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Julio César",
                                     "sedes":[
@@ -4826,7 +4834,7 @@
                         },
                         {
                             "distrito": "Huarmey",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -4860,7 +4868,7 @@
                     "distritos":[
                         {
                             "distrito": "Caraz",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Espinoza",
                                     "sedes":[
@@ -5084,7 +5092,7 @@
                     "distritos":[
                         {
                             "distrito": "Chimbote",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Huapaya express",
                                     "sedes":[
@@ -5194,7 +5202,7 @@
                         },
                         {
                             "distrito": "Nuevo Chimbote",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Julio César",
                                     "sedes":[
@@ -5333,7 +5341,7 @@
                     "distritos":[
                         {
                             "distrito": "Abancay",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Chankas",
                                     "sedes":[
@@ -5421,7 +5429,7 @@
                     "distritos":[
                         {
                             "distrito": "Andahuaylas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Guizado",
                                     "sedes":[
@@ -5577,7 +5585,7 @@
                         },
                         {
                             "distrito": "Chalhuanca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Palomino",
                                     "sedes":[
@@ -5668,7 +5676,7 @@
                         },
                         {
                             "distrito": "Chincheros",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Guizado",
                                     "sedes":[
@@ -5723,7 +5731,7 @@
                     "distritos":[
                         {
                             "distrito": "Chalhuahuacho",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Quechua express",
                                     "sedes":[
@@ -5746,7 +5754,7 @@
                         },
                         {
                             "distrito": "Cotabambas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Jatsa",
                                     "sedes":[
@@ -5859,7 +5867,7 @@
                         },
                         {
                             "distrito": "Arequipa",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Express comité",
                                     "sedes":[
@@ -5918,7 +5926,7 @@
                         },
                         {
                             "distrito": "La Joya",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Express comité",
                                     "sedes":[
@@ -6024,7 +6032,7 @@
                     "distritos":[
                         {
                             "distrito": "Camaná",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Express comité",
                                     "sedes":[
@@ -6109,7 +6117,7 @@
                         },
                         {
                             "distrito": "Chala",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Express comité",
                                     "sedes":[
@@ -6165,7 +6173,7 @@
                         },
                         {
                             "distrito": "Yauca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Express comité",
                                     "sedes":[
@@ -6403,7 +6411,7 @@
                         },
                         {
                             "distrito": "Ayacucho",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Guizado",
                                     "sedes":[
@@ -6721,7 +6729,7 @@
                     "distritos":[
                         {
                             "distrito": "Cora cora",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Transsoli",
                                     "sedes":[
@@ -6958,7 +6966,7 @@
                     "distritos":[
                         {
                             "distrito": "Cajamarca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Hermanos Marín",
                                     "sedes":[
@@ -7028,7 +7036,7 @@
                         },
                         {
                             "distrito": "Cajabamba",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Huáscar Cargo Internacional",
                                     "sedes":[
@@ -7098,7 +7106,7 @@
                     "distritos":[
                         {
                             "distrito": "Celendín",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Huáscar Cargo Internacional",
                                     "sedes":[
@@ -7253,7 +7261,7 @@
                         },
                         {
                             "distrito": "Cutervo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Huáscar Cargo Internacional",
                                     "sedes":[
@@ -7332,7 +7340,7 @@
                     "distritos":[
                         {
                             "distrito": "Bambamarca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Huáscar Cargo Internacional",
                                     "sedes":[
@@ -7384,7 +7392,7 @@
                     "distritos":[
                         {
                             "distrito": "Jaén",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Tafur Tafur",
                                     "sedes":[
@@ -7726,7 +7734,7 @@
                         },
                         {
                             "distrito": "Cusco",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Chankas",
                                     "sedes":[
@@ -7857,7 +7865,7 @@
                         },
                         {
                             "distrito": "Kimbiri",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Leonardo Express",
                                     "sedes":[
@@ -7907,7 +7915,7 @@
                         },
                         {
                             "distrito": "Pichari",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Lucerito Vrae",
                                     "sedes":[
@@ -8334,7 +8342,7 @@
                         },
                         {
                             "distrito": "La Merced",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Multiservicios Perene",
                                     "sedes":[
@@ -8485,7 +8493,7 @@
                         },
                         {
                             "distrito": "Huánuco",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -8767,7 +8775,7 @@
                     "distritos":[
                         {
                             "distrito": "Ambo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -8900,7 +8908,7 @@
                     "distritos":[
                         {
                             "distrito": "Ica",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Transportes gil",
                                     "sedes":[
@@ -9006,7 +9014,7 @@
                         },
                         {
                             "distrito": "Chincha Alta",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Transportes gil",
                                     "sedes":[
@@ -9124,7 +9132,7 @@
                         },
                         {
                             "distrito": "Pisco",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Transportes gil",
                                     "sedes":[
@@ -9197,7 +9205,7 @@
                     "distritos":[
                         {
                             "distrito": "Nazca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Estrella del sur",
                                     "sedes":[
@@ -9241,7 +9249,7 @@
                         },
                         {
                             "distrito": "El Ingenio",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Charles",
                                     "sedes":[
@@ -9267,7 +9275,7 @@
                         },
                         {
                             "distrito": "Vista Alegre",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Estrella del sur",
                                     "sedes":[
@@ -9298,7 +9306,7 @@
                         },
                         {
                             "distrito": "Palpa",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Estrella del sur",
                                     "sedes":[
@@ -9394,7 +9402,7 @@
                         },
                         {
                             "distrito": "Huancayo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -9491,7 +9499,7 @@
                         },
                         {
                             "distrito": "Chupaca",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -9537,7 +9545,7 @@
                     "distritos":[
                         {
                             "distrito": "Carhuamayo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -9560,7 +9568,7 @@
                         },
                         {
                             "distrito": "Junín",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -9618,7 +9626,7 @@
                         },
                         {
                             "distrito": "Tarma",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Teresita",
                                     "sedes":[
@@ -9652,7 +9660,7 @@
                         },
                         {
                             "distrito": "La Oroya",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -9716,7 +9724,7 @@
                         },
                         {
                             "distrito": "El Mantaro",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -9898,7 +9906,7 @@
                         },
                         {
                             "distrito": "Concepción",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Expreso nacional",
                                     "sedes":[
@@ -10010,7 +10018,7 @@
                     "distritos":[
                         {
                             "distrito": "Chepén",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Andeskar",
                                     "sedes":[
@@ -10169,7 +10177,7 @@
                         },
                         {
                             "distrito": "Urpay",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Gutsa",
                                     "sedes":[
@@ -10206,7 +10214,7 @@
                         },
                         {
                             "distrito": "Huamachuco",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Tunesa express",
                                     "sedes":[
@@ -10338,7 +10346,7 @@
                         },
                         {
                             "distrito": "Trujillo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Cargo Express Americano",
                                     "sedes":[
@@ -10438,7 +10446,7 @@
                     "distritos":[
                         {
                             "distrito": "Chao",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Andeskar",
                                     "sedes":[
@@ -10464,7 +10472,7 @@
                         },
                         {
                             "distrito": "Virú",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Tunesa express",
                                     "sedes":[
@@ -10500,7 +10508,7 @@
                         },
                         {
                             "distrito": "Chiclayo",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Cargo Express Americano",
                                     "sedes":[
@@ -10680,7 +10688,7 @@
                         },
                         {
                             "distrito": "Olmos",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Civa",
                                     "sedes":[
@@ -10778,7 +10786,7 @@
                         },
                         {
                             "distrito": "Yurimaguas",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Leonardo Express",
                                     "sedes":[
@@ -10946,7 +10954,7 @@
                     "distritos":[
                         {
                             "distrito": "Tambopata",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Quechua express",
                                     "sedes":[
@@ -11034,7 +11042,7 @@
                         },
                         {
                             "distrito": "Torata",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia",
                                     "sedes":[
@@ -11940,7 +11948,7 @@
                         },
                         {
                             "distrito": "Rumisapa",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Nombre agencia"
                                 }
@@ -12276,7 +12284,7 @@
                         },
                         {
                             "distrito": "San Jacinto",
-                            "agencias-recomendadas":[
+                            "agencias":[
                                 {
                                     "agencia": "Trans. Cruz del norte",
                                     "sedes":[

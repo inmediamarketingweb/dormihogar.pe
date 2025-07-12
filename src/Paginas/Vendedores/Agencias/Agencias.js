@@ -274,14 +274,15 @@ function Agencias(){
 
                                             <div className='d-grid-2-1fr gap-10'>
                                                 <div className='d-flex-column gap-10'>
-                                                    <div className='d-flex-center-left gap-10'>
+                                                    <div className='d-flex-center-left gap-5'>
                                                         <p className='title'>✔ Costo flete:</p>
-                                                        <p className='title color-color-1'>S/.{selectedAgencia.sede['envio-por-agencia'] || '00.00'}</p>
+                                                        <p className='block-title color-color-1'>S/.{selectedAgencia.sede['envio-por-agencia'] || '00.00'}</p>
+                                                        <p className='text font-13'>aprox.</p>
                                                     </div>
 
                                                     <div className="message message-warning margin-right">
                                                         <span className="material-icons">warning</span>
-                                                        <p>El precio mostrado es un aproximado por el envío de un dormitorio completo tamaño king. El precio será confirmado por la agencia.</p>
+                                                        <p>El precio mostrado es un aproximado por el envío de un dormitorio completo tamaño king. El precio será confirmado por la agencia al momento de realizar el envío.</p>
                                                     </div>
                                                 </div>
 

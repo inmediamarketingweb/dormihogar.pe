@@ -161,7 +161,7 @@ button{
 }
 
 .title{
-    font-size: 18px;
+    font-size: 19px;
     font-weight: bold;
 }
 
@@ -385,6 +385,16 @@ button{
 
 .message-warning span{
     color: #FFA500;
+}
+
+.message-note{
+    border: 1px solid green;
+    background: rgba(144 238 144 / 0.1);
+    border-radius: 4px;
+}
+
+.message-note span{
+    color: green;
 }
 
 .position-relative{

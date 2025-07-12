@@ -37,7 +37,6 @@ function WhatsApp({producto, selectedShipping, shippingInfo, selectedColor, quan
         (district.trim() || headquarters.trim())
     );
 
-    // Build class list
     const buttonClasses = [
         'product-page-whatsapp',
         hasRequiredFields && 'active',

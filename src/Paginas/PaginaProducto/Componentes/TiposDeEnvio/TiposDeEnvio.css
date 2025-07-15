@@ -125,7 +125,7 @@
 .envío-express,
 .envio-express{
     border: 1px solid var(--express);
-    background: rgba(255 165 0 / 0.1);
+    background: #FFF6E6;
 }
 
 .envío-express > .d-flex-column > span,
@@ -368,4 +368,12 @@
     opacity: 1;
     pointer-events: unset;
     user-select: unset;
+}
+
+/**/
+
+@media screen and (max-width: 600px){
+    .distrito-details{
+        display: none;
+    }
 }

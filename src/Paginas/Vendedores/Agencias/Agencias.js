@@ -3,10 +3,28 @@ import { useState, useEffect, useRef } from 'react';
 import './Agencias.css';
 
 import Header from '../../../Componentes/Header/Header';
-
 import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
-
 import Footer from '../../../Componentes/Footer/Footer';
+
+const useMobile = () => {
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const checkIfMobile = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+
+    checkIfMobile();
+    
+    window.addEventListener('resize', checkIfMobile);
+    
+    return () => {
+      window.removeEventListener('resize', checkIfMobile);
+    };
+  }, []);
+
+  return isMobile;
+};
 
 function Agencias(){
     const [datos, setDatos] = useState(null);
@@ -17,7 +35,9 @@ function Agencias(){
     const [error, setError] = useState(null);
     const [searchResults, setSearchResults] = useState([]);
     const [loading, setLoading] = useState(true);
+    const [expandedAgencias, setExpandedAgencias] = useState({});
     const searchRef = useRef(null);
+    const isMobile = useMobile();
 
     useEffect(() => {
         const cargarDatos = async () => {
@@ -44,11 +64,9 @@ function Agencias(){
     }, []);
 
     const buscarDistritos = (term) => {
-        if (!datos) return;
-
+        if (!datos) return [];
         const termLower = term.toLowerCase();
         const resultados = [];
-
         datos.departamentos.forEach(depto => {
             depto.provincias.forEach(prov => {
                 prov.distritos.forEach(dist => {
@@ -63,6 +81,7 @@ function Agencias(){
             });
         });
         setSearchResults(resultados);
+        return resultados;
     };
 
     const handleSearchChange = (e) => {
@@ -77,11 +96,25 @@ function Agencias(){
         }
     };
 
+    const handleSearchClick = () => {
+        if (searchTerm.length >= 2) {
+            const resultados = buscarDistritos(searchTerm);
+            setShowSearchResults(true);
+            
+            if (resultados.length === 1) {
+                seleccionarDistrito(resultados[0]);
+                setShowSearchResults(false);
+            }
+        }
+    };
+
     const handleKeyDown = (e) => {
         if (e.key === 'Enter') {
             if (searchResults.length === 1) {
                 seleccionarDistrito(searchResults[0]);
                 setShowSearchResults(false);
+            } else {
+                handleSearchClick();
             }
         }
     };
@@ -91,10 +124,18 @@ function Agencias(){
         setSelectedAgencia(null);
         setSearchTerm(dist.distrito);
         setShowSearchResults(false);
+        setExpandedAgencias({});
     };
 
     const seleccionarAgencia = (agencia, sede) => {
         setSelectedAgencia({ agencia, sede });
+    };
+
+    const toggleAgenciaInfo = (agenciaKey) => {
+        setExpandedAgencias(prev => ({
+            ...prev,
+            [agenciaKey]: !prev[agenciaKey]
+        }));
     };
 
     const isLimaOrCallao = (distrito) => {
@@ -107,11 +148,6 @@ function Agencias(){
 
     const hasEnvioDirecto = (distrito) => {
         return distrito['envio-directo'] && parseFloat(distrito['envio-directo']) > 0;
-    };
-
-    const getEnvioDirectoPrice = (distrito) => {
-        if (!distrito['envio-directo']) return null;
-        return `S/.${distrito['envio-directo']}`;
     };
 
     useEffect(() => {
@@ -132,7 +168,7 @@ function Agencias(){
         );
     }
 
-    if (error) {
+    if(error){
         return(
             <div className="error-container">
                 <div className="message message-error">
@@ -171,7 +207,7 @@ function Agencias(){
                                 <div className='position-relative' ref={searchRef}>
                                     <div className='agencias-search-bar-container'>
                                         <input type='text' placeholder='Busca tu distrito'value={searchTerm} onChange={handleSearchChange} onKeyDown={handleKeyDown}/>
-                                        <button type='button'>
+                                        <button type='button' onClick={handleSearchClick}>
                                             <span className="material-icons">search</span>
                                         </button>
                                     </div>
@@ -183,7 +219,13 @@ function Agencias(){
                                                     searchResults.map((dist, index) => (
                                                         <li key={index}>
                                                             <button type='button' onClick={() => seleccionarDistrito(dist)}>
-                                                                <p>{dist.distrito}</p>
+                                                                <div className='d-flex-column'>
+                                                                    <div className='d-flex gap-5'>
+                                                                        <p className='color-gray cursive font-13'>{dist.departamento},</p>
+                                                                        <p className='color-gray cursive font-13'>{dist.provincia}</p>
+                                                                    </div>
+                                                                    <p className='margin-right title color-black'>{dist.distrito}</p>
+                                                                </div>
                                                                 <span className="material-icons">arrow_forward</span>
                                                             </button>
                                                         </li>
@@ -205,17 +247,74 @@ function Agencias(){
                                         <ul className='d-flex-column gap-10'>
                                             {selectedDistrito && selectedDistrito.agencias ? (
                                                 selectedDistrito.agencias.map((agencia, index) => (
-                                                    agencia.sedes.map((sede, sedeIndex) => (
-                                                        <li key={`${index}-${sedeIndex}`}>
-                                                            <button type='button' onClick={() => seleccionarAgencia(agencia, sede)}>
-                                                                <span className="material-icons">location_on</span>
-                                                                <div className='d-flex-column'>
-                                                                    <p className='title'>{agencia.agencia}</p>
-                                                                    <p className='text'>{sede.sede}</p>
+                                                    agencia.sedes.map((sede, sedeIndex) => {
+                                                        const agenciaKey = `${index}-${sedeIndex}`;
+                                                        const isExpanded = expandedAgencias[agenciaKey];
+                                                        
+                                                        return(
+                                                            <li key={`${index}-${sedeIndex}`} className='d-flex-column gap-10'>
+                                                                <div className='d-flex w-100'>
+                                                                    <button type='button' className='d-flex-center-between w-100'onClick={() => {
+                                                                            if (isMobile) {
+                                                                                toggleAgenciaInfo(agenciaKey);
+                                                                            }
+                                                                            else {
+                                                                                seleccionarAgencia(agencia, sede);
+                                                                            }
+                                                                        }}
+                                                                    >
+                                                                        <div className='d-flex-center-left'>
+                                                                            <span className="material-icons margin-top margin-bottom">location_on</span>
+                                                                            <div className='d-flex-column'>
+                                                                                <p className='title'>{agencia.agencia}</p>
+                                                                                <p className='text cursive'>{sede.sede}</p>
+                                                                            </div>
+                                                                        </div>
+                                                                        
+                                                                        {isMobile && (
+                                                                            <span className="material-icons expand-icon">
+                                                                                {isExpanded ? 'expand_less' : 'expand_more'}
+                                                                            </span>
+                                                                        )}
+                                                                    </button>
                                                                 </div>
-                                                            </button>
-                                                        </li>
-                                                    ))
+                                                                
+                                                                {isMobile && isExpanded && (
+                                                                    <div className='agencia-mobile-details'>
+                                                                        <div className='d-flex-column gap-10'>
+                                                                            <div className='d-flex-center-left gap-5'>
+                                                                                <p className='text'>✔ Costo flete:</p>
+                                                                                <div className='d-flex gap-5'>
+                                                                                    <p className='text color-color-1'>S/.{sede['envio-por-agencia'] || '00.00'}</p>
+                                                                                    <p className=''>aprox.</p>
+                                                                                </div>
+                                                                            </div>
+                                                                            
+                                                                            {hasEnvioDirecto(selectedDistrito) && (
+                                                                                <div className='tipo-de-envio envío-directo'>
+                                                                                    <div className='d-flex-column'>
+                                                                                        <span className="material-icons">local_shipping</span>
+                                                                                        <p className='tipo-envio-title'>Envío directo</p>
+                                                                                    </div>
+
+                                                                                    <p className='tipo-de-envio-price'>
+                                                                                        {isLimaOrCallao(selectedDistrito) ? (
+                                                                                           <div className='message message-note'>
+                                                                                               <span className="material-icons">local_shipping</span>
+                                                                                               <p className="text">Envío gratis para Lima y Callao</p>
+                                                                                            </div>
+                                                                                        ) : (
+                                                                                            `S/.${selectedDistrito['envio-directo']}`
+                                                                                        )}
+                                                                                    </p>
+                                                                                </div>
+                                                                            )}
+                                                                        </div>
+                                                                    </div>
+                                                                )}
+                                                            </li>
+                                                        );
+                                                    })
                                                 ))
                                             ) : selectedDistrito ? (
                                                 isLimaOrCallao(selectedDistrito) ? (
@@ -235,7 +334,7 @@ function Agencias(){
                                                 )
                                             ) : (
                                                 <div className='message message-note'>
-                                                    <span class="material-icons">search</span>
+                                                    <span className="material-icons">search</span>
                                                     <p>Busca tu distrito para ver las agencias recomendadas.</p>
                                                 </div>
                                             )}
@@ -296,7 +395,7 @@ function Agencias(){
                                                             <p className='tipo-de-envio-price'>
                                                                 {isLimaOrCallao(selectedDistrito) ? (
                                                                     <div className='message message-note'>
-                                                                        <span class="material-icons">local_shipping</span>
+                                                                        <span className="material-icons">local_shipping</span>
                                                                         <p className="text">Envío gratis para Lima y Callao</p>
                                                                     </div>
                                                                 ) : (
@@ -330,7 +429,7 @@ function Agencias(){
                                                         <p className='tipo-de-envio-price'>
                                                             {isLimaOrCallao(selectedDistrito) ? (
                                                                 <div className='message message-note'>
-                                                                    <span class="material-icons">local_shipping</span>
+                                                                    <span className="material-icons">local_shipping</span>
                                                                     <p>Envío gratis para Lima y Callao</p>
                                                                 </div>
                                                             ) : (
@@ -346,17 +445,10 @@ function Agencias(){
                                                         <p>Envío gratis para Lima y Callao</p>
                                                     </div>
                                                 ) : !selectedDistrito.agencias && !hasEnvioDirecto(selectedDistrito) ? (
-                                                    <>
-                                                        <div className="message message-warning">
-                                                            <span className="material-icons">sentiment_dissatisfied</span>
-                                                            <p>Lo sentimos, no conocemos agencias recomendadas para este distrito, sin embargo podemos ayudarte a encontrar la mejor.</p>
-                                                        </div>
-
-                                                        {/* <a href='' className='button-link button-link-2 margin-left d-flex-center-center gap-10'>
-                                                            <img src='/assets/imagenes/iconos/whatsapp-blanco.svg' alt='' />
-                                                            <p className='button-link-text'>WhatsApp</p>
-                                                        </a> */}
-                                                    </>
+                                                    <div className="message message-warning">
+                                                        <span className="material-icons">sentiment_dissatisfied</span>
+                                                        <p>Lo sentimos, no conocemos agencias recomendadas para este distrito, sin embargo podemos ayudarte a encontrar la mejor.</p>
+                                                    </div>
                                                 ) : !selectedDistrito.agencias ? (
                                                     <div className="message message-note">
                                                         <span className="material-icons">local_shipping</span>

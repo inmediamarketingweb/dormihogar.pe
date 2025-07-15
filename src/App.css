@@ -160,6 +160,10 @@ button{
     transition: var(--t-200ms-linear);
 }
 
+.cursive{
+    font-style: italic;
+}
+
 .title{
     font-size: 19px;
     font-weight: bold;
@@ -219,7 +223,7 @@ button{
 }
 
 .w-100{
-    width: 100%;
+    width: 100% !important;
 }
 
 .d-grid-2-1fr{

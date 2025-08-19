@@ -13,7 +13,6 @@
     outline: 0;
     padding: 0 10px;
     background: var(--body);
-    /* background: red; */
     color: var(--text);
 }
 
@@ -53,10 +52,6 @@
     overflow-y: auto;
     border-radius: 4px 0 0 4px;
     z-index: 1;
-    
-    /* opacity: 0;
-    pointer-events: none;
-    user-select: none; */
 }
 
 .agencias-resultados::-webkit-scrollbar{
@@ -66,7 +61,6 @@
 
 .agencias-resultados::-webkit-scrollbar-thumb{
     background: var(--color-1);
-    /* border-radius: 4px; */
 }
 
 .agencias-resultados ul{
@@ -87,7 +81,6 @@
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    /* height: 48px; */
     padding: 10px 20px;
     transition: var(--t-200ms-linear);
 }
@@ -104,8 +97,6 @@
     color: #999;
 }
 
-/**/
-
 .agencias-options-container{
     display: flex;
     width: 100%;
@@ -115,8 +106,6 @@
 .agencias-options-container select{
     width: 100%;
 }
-
-/**/
 
 .agencias-resultados-2 ul{
     display: flex;
@@ -161,7 +150,6 @@
 
 .agencias-resultados-2 ul li button div p:nth-child(1){
     color: var(--black);
-    /* font-weight: bold; */
 }
 
 .agencias-resultados-2 ul li button div p:nth-child(2),
@@ -172,8 +160,6 @@
 .agencias-resultados-2 ul li button div p:nth-child(3){
     font-size: 14px !important;
 }
-
-/**/
 
 .agencias-options-container{
     width: 100%;
@@ -225,10 +211,6 @@
     border-radius: 4px;
     border: 1px solid rgba(0 0 0 / 0.2);
     z-index: 1;
-
-    /* opacity: 0;
-    pointer-events: none;
-    user-select: none; */
 }
 
 .select-container ul li{
@@ -249,8 +231,6 @@
     background: rgba(0 0 0 / 0.025);
 }
 
-/**/
-
 .direction-link{
     display: flex;
     align-items: center;
@@ -259,7 +239,6 @@
     width: 52px;
     height: 60px;
     aspect-ratio: 1/1;
-    /* gap: 5px; */
     background: var(--color-1);
     border-radius: 4px;
     position: relative;
@@ -287,13 +266,26 @@
     z-index: 1;
 }
 
-/**/
-
 .agencia-mobile-details{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    min-height: 56px;
     padding: 10px;
-    border: 1px solid rgba(0 0 0 / 0.075);
+    /* border: 1px solid rgba(0 0 0 / 0.075); */
     background: rgba(0 0 0 / 0.05);
     border-radius: 6px;
+    /* padding-left: 40px; */
 }
 
+.agencia-mobile-details > div{
+    display: flex;
+    width: 100%;
+}
 
+.agencia-mobile-details > div > div > div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

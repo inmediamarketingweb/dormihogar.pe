@@ -285,7 +285,7 @@ function Agencias(){
                                                                             <div className='d-flex-center-left gap-5'>
                                                                                 <p className='text'>✔ Costo flete:</p>
                                                                                 <div className='d-flex gap-5'>
-                                                                                    <p className='text color-color-1'>S/.{sede['envio-por-agencia'] || '00.00'}</p>
+                                                                                    <p className='title color-color-1'>S/.{sede['envio-por-agencia'] || '00.00'}</p>
                                                                                     <p className=''>aprox.</p>
                                                                                 </div>
                                                                             </div>

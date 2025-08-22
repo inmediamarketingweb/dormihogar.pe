@@ -1,18 +1,13 @@
 import { Helmet } from 'react-helmet';
 
-import Header from '../../../../Componentes/Header/Header';
-import Footer from '../../../../Componentes/Footer/Footer';
-
 import './CostosDeEnvioPorZonas.css';
 
 function CostosDeEnvioPorZonas(){
     return(
         <>
             <Helmet>
-                <title>Costos de envios por zonas | Kamas</title>
+                <title>Costos de envios por zonas | Dormihogar</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className="block-container">
@@ -21,8 +16,6 @@ function CostosDeEnvioPorZonas(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

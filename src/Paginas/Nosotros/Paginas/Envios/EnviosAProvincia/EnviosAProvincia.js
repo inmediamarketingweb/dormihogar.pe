@@ -1,9 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 
-import Footer from '../../../../../Componentes/Footer/Footer';
-import Header from '../../../../../Componentes/Header/Header';
-
 import '../EnviosALimaYCallao/EnviosALimaYCallao.css';
 
 function EnviosAProvincia(){
@@ -40,10 +37,8 @@ function EnviosAProvincia(){
     return(
         <>
             <Helmet>
-                <title>Envíos a provincia | Kamas</title>
+                <title>Envíos a provincia | Dormihogar</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className="block-container">
@@ -86,8 +81,6 @@ function EnviosAProvincia(){
                     </section>
                 </div>
             </main>
-
-            <Footer />
         </>
     );
 }

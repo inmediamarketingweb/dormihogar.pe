@@ -1,9 +1,6 @@
 import { useEffect, useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 
-import Header from "../../Componentes/Header/Header";
-import Footer from "../../Componentes/Footer/Footer";
-
 import "./Favoritos.css";
 
 function Favoritos(){
@@ -29,9 +26,7 @@ function Favoritos(){
 
     return(
         <>
-            <title>Mis favoritos | Kamas</title>
-
-            <Header/>
+            <title>Mis favoritos | Dormihogar</title>
 
             <main>
                 <div className="block-container">
@@ -78,8 +73,6 @@ function Favoritos(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 }

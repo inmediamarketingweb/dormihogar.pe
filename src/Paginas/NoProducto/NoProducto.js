@@ -1,13 +1,8 @@
 import './NoProducto.css';
 
-import Header from '../../Componentes/Header/Header';
-import Footer from '../../Componentes/Footer/Footer';
-
 function NoProducto(){
     return(
         <>
-            <Header/>
-
             <main>
                 <div className='block-container margin-auto'>
                     <section className='block-content d-flex-center-center d-flex-column'>
@@ -16,8 +11,6 @@ function NoProducto(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

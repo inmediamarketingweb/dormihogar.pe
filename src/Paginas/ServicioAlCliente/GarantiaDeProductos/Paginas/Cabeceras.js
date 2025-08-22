@@ -1,17 +1,11 @@
-import React from "react";
 import { Helmet } from "react-helmet";
-
-import Header from '../../../../Componentes/Header/Header';
-import Footer from '../../../../Componentes/Footer/Footer';
 
 function GarantiaCabeceras(){
     return(
         <>
             <Helmet>
-                <title>Garantía de productos - Cabeceras | Kamas</title>
+                <title>Garantía de productos - Cabeceras | Dormihogar</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className='block-container'>
@@ -20,8 +14,6 @@ function GarantiaCabeceras(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

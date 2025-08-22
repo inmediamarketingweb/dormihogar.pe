@@ -1,17 +1,11 @@
-import React from "react";
 import { Helmet } from "react-helmet";
-
-import Header from '../../../../Componentes/Header/Header';
-import Footer from '../../../../Componentes/Footer/Footer';
 
 function RecomendacionesCabeceras(){
     return(
         <>
             <Helmet>
-                <title>Recomendaciones de uso - Cabeceras | Kamas</title>
+                <title>Recomendaciones de uso - Cabeceras | Dormihogar</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className='block-container'>
@@ -20,8 +14,6 @@ function RecomendacionesCabeceras(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

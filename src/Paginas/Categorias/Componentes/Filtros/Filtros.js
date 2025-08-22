@@ -47,10 +47,20 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         if (!searchParams) return;
         
         const filtrosDesdeURL = {};
+        
         searchParams.forEach((value, key) => {
-            const opciones = value.split("+").map((op) => decodeURIComponent(op).toLowerCase());
-            filtrosDesdeURL[key] = new Set(opciones);
+            if (key === 'rango-precio') {
+                setRangoDePrecioSeleccionado(value);
+            } else if (key === 'envio-gratis') {
+                setEnvioGratisSeleccionado(value === 'true');
+            } else {
+                const opciones = value.split("+").map((op) => decodeURIComponent(op).toLowerCase());
+                if (opciones.length > 0) {
+                    filtrosDesdeURL[key] = new Set([opciones[0]]);
+                }
+            }
         });
+        
         setFiltrosSeleccionados(filtrosDesdeURL);
     }, [searchParams]);
 
@@ -153,20 +163,22 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         const opcionNormalizada = opcion.toLowerCase().replace(/\s+/g, "-");
         setFiltrosSeleccionados((prev) => {
             const nuevoEstado = { ...prev };
-            const opciones = new Set(nuevoEstado[categoriaFiltro] || []);
             
-            if (opciones.has(opcionNormalizada)) {
-                opciones.delete(opcionNormalizada);
-            } else {
-                opciones.add(opcionNormalizada);
-            }
-
-            if (opciones.size > 0) {
-                nuevoEstado[categoriaFiltro] = opciones;
-            } else {
+            if (nuevoEstado[categoriaFiltro] && nuevoEstado[categoriaFiltro].has(opcionNormalizada)) {
                 delete nuevoEstado[categoriaFiltro];
+            } else {
+                nuevoEstado[categoriaFiltro] = new Set([opcionNormalizada]);
             }
 
+            actualizarURL(nuevoEstado);
+            return nuevoEstado;
+        });
+    };
+
+    const handleVerTodos = (categoriaFiltro) => {
+        setFiltrosSeleccionados((prev) => {
+            const nuevoEstado = { ...prev };
+            delete nuevoEstado[categoriaFiltro];
             actualizarURL(nuevoEstado);
             return nuevoEstado;
         });
@@ -182,14 +194,41 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
 
     const actualizarURL = useCallback((filtrosActuales) => {
         const params = new URLSearchParams();
+        
         Object.keys(filtrosActuales).forEach((categoriaFiltro) => {
-            params.set(
-                categoriaFiltro,
-                [...filtrosActuales[categoriaFiltro]].map((valor) => valor.toLowerCase().replace(/\s+/g, "-")).join("+")
-            );
+            const valor = [...filtrosActuales[categoriaFiltro]][0];
+            params.set(categoriaFiltro, valor);
         });
+
+        if (rangoDePrecioSeleccionado) {
+            params.set('rango-precio', rangoDePrecioSeleccionado);
+        }
+
+        if (envioGratisSeleccionado) {
+            params.set('envio-gratis', 'true');
+        }
+
         setSearchParams(params);
-    }, [setSearchParams]);
+    }, [setSearchParams, rangoDePrecioSeleccionado, envioGratisSeleccionado]);
+
+    useEffect(() => {
+        const params = new URLSearchParams();
+        
+        Object.keys(filtrosSeleccionados).forEach((categoriaFiltro) => {
+            const valor = [...filtrosSeleccionados[categoriaFiltro]][0];
+            params.set(categoriaFiltro, valor);
+        });
+
+        if (rangoDePrecioSeleccionado) {
+            params.set('rango-precio', rangoDePrecioSeleccionado);
+        }
+
+        if (envioGratisSeleccionado) {
+            params.set('envio-gratis', 'true');
+        }
+
+        setSearchParams(params);
+    }, [rangoDePrecioSeleccionado, envioGratisSeleccionado, filtrosSeleccionados, setSearchParams]);
 
     const handleClearFilters = () => {
         setFiltrosSeleccionados({});
@@ -220,6 +259,17 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                             <h3 className="title">Rangos de Precio:</h3>
                         </div>
                         <ul className="d-flex-column">
+                            <li key="rango-todos">
+                                <input 
+                                    type="radio" 
+                                    id="rango-todos" 
+                                    name="rango-precio" 
+                                    checked={rangoDePrecioSeleccionado === null} 
+                                    onChange={() => setRangoDePrecioSeleccionado(null)} 
+                                    className="radio-input"
+                                />
+                                <label htmlFor="rango-todos" className="radio-label">Todos los precios</label>
+                            </li>
                             {rangosDePrecio.map((rango) => (
                                 <li key={rango.id}>
                                     <input type="radio" id={`rango-${rango.id}`} name="rango-precio" checked={rangoDePrecioSeleccionado === rango.id} onChange={() => handleCambioRangoPrecio(rango.id)} className="radio-input"/>
@@ -254,7 +304,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                                         );
                                         return (
                                             <li key={opcion.id} className={isActive ? "active" : ""} onClick={() => handleFiltroChange(filtro.nombre, opcion.nombre)} role="button" tabIndex="0">
-                                                <input type="checkbox" readOnly checked={isActive || false}/>
+                                                <input type="radio" readOnly checked={isActive || false}/>
                                                 <label>{opcion.nombre}</label>
                                             </li>
                                         );
@@ -262,6 +312,11 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                                 ) : (
                                     <p>Sin opciones disponibles</p>
                                 )}
+
+                                <li key={`${filtro.nombre}-todos`} className={!filtrosSeleccionados[filtro.nombre] ? "" : ""} onClick={() => handleVerTodos(filtro.nombre)} role="button" tabIndex="0">
+                                    <input type="radio" readOnly checked={!filtrosSeleccionados[filtro.nombre]}/>
+                                    <label>Ver todos</label>
+                                </li>
                             </ul>
                         </div>
                     ))}
@@ -273,7 +328,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                         </button>
                     </div>
 
-                    <img src="/assets/imagenes/paginas/categoria/1.jpg" alt="Dormihogar" className="page-banner-img" />
+                    <img src="/assets/imagenes/paginas/categorias/1.jpg" alt="Homelsleep" className="page-banner-img" />
                 </div>
             </div>
         </>

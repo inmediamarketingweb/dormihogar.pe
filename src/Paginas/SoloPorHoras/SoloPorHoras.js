@@ -74,7 +74,7 @@ function SoloPorHoras() {
     return (
         <>
             <Helmet>
-                <title>Ofertas - Solo por horas | Kamas</title>
+                <title>Ofertas - Solo por horas | Dormihogar</title>
                 <meta name="description" content="Descubre los mejores descuentos en productos solo por horas en Kamas." />
             </Helmet>
 

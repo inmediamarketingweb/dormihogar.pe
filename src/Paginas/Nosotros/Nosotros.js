@@ -1,24 +1,19 @@
 import { Helmet } from "react-helmet-async";
 
-import Header from "../../Componentes/Header/Header";
-import Footer from "../../Componentes/Footer/Footer";
-
 function Nosotros(){
     return(
         <>
             <Helmet>
-                <title>Nosotros | Kamas</title>
+                <title>Nosotros | Dormihogar</title>
                 <meta name="description" content="Sobre nosotros"/>
 
-                <meta property="og:title" content="Nosotros | Kamas"/>
+                <meta property="og:title" content="Nosotros | Dormihogar"/>
                 <meta property="og:site_name" content="Nosotros"/>
                 <meta property="og:description" content="Sobre nosotros"/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content="https://www.kamas.pe/nosotros/"/>
-                <meta property="og:image" content="https://kamas.pe/assets/imagenes/paginas/pagina-principal/homepage-video.jpg"/>
+                <meta property="og:url" content="https://www.dormihogar.pe/nosotros/"/>
+                <meta property="og:image" content="https://dormihogar.pe/assets/imagenes/paginas/pagina-principal/homepage-video.jpg"/>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className="block-container">
@@ -49,8 +44,6 @@ function Nosotros(){
                     </section>
                 </div>
             </main>
-
-            <Footer />
         </>
     );
 }

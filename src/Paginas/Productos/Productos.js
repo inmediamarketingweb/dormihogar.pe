@@ -1,13 +1,8 @@
-import Header from '../../Componentes/Header/Header';
-import Footer from '../../Componentes/Footer/Footer';
-
 import './Productos.css';
 
 function Productos(){
     return(
         <>
-            <Header/>
-
             <main>
                 <div className='block-container'>
                     <section className='block-content'>
@@ -19,8 +14,6 @@ function Productos(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

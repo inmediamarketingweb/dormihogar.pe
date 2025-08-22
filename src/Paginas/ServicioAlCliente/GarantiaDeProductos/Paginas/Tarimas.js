@@ -1,17 +1,11 @@
-import React from "react";
 import { Helmet } from "react-helmet";
-
-import Header from '../../../../Componentes/Header/Header';
-import Footer from '../../../../Componentes/Footer/Footer';
 
 function GarantiaTarimas(){
     return(
         <>
             <Helmet>
-                <title>Garantía de productos - Box tarimas | Kamas</title>
+                <title>Garantía de productos - Box tarimas | Dormihogar</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className='block-container'>
@@ -20,8 +14,6 @@ function GarantiaTarimas(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

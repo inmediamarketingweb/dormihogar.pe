@@ -2,11 +2,7 @@ import { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import Helmet from 'react-helmet';
 
-import Header from '../../Componentes/Header/Header';
-
 import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
-
-import Footer from '../../Componentes/Footer/Footer';
 
 import './Busqueda.css';
 
@@ -149,8 +145,6 @@ function PaginaBusqueda() {
                 <meta name='description' content="Resultados de búsqueda" />
             </Helmet>
 
-            <Header/>
-
             <main>
                 <div className='block-container'>
                     <section className='block-content'>
@@ -211,8 +205,6 @@ function PaginaBusqueda() {
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 }

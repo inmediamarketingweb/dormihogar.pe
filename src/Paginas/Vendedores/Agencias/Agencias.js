@@ -2,9 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 
 import './Agencias.css';
 
-import Header from '../../../Componentes/Header/Header';
 import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
-import Footer from '../../../Componentes/Footer/Footer';
 
 const useMobile = () => {
   const [isMobile, setIsMobile] = useState(false);
@@ -193,8 +191,6 @@ function Agencias(){
 
     return(
         <>
-            <Header/>
-
             <main>
                 <section className='block-container'>
                     <div className='block-content'>
@@ -474,8 +470,6 @@ function Agencias(){
                     </div>
                 </section>
             </main>
-
-            <Footer/>
         </>
     );
 }

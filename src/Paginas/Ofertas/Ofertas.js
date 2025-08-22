@@ -2,9 +2,7 @@ import { useEffect, useState } from "react";
 import { Helmet } from "react-helmet-async";
 import { v4 as uuidv4 } from "uuid";
 
-import Header from "../../Componentes/Header/Header";
 import LazyImage from '../../Componentes/Plantillas/LazyImage';
-import Footer from "../../Componentes/Footer/Footer";
 
 import "./Ofertas.css";
 
@@ -61,11 +59,9 @@ function Ofertas(){
     return(
         <>
             <Helmet>
-                <title>Ofertas | Kamas</title>
+                <title>Ofertas | Dormihogar</title>
                 <meta name="description" content="Descubre las mejores ofertas en productos seleccionados, solo aquí en Kamas" />
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className="block-container">
@@ -116,8 +112,6 @@ function Ofertas(){
                     </section>
                 </div>
             </main>
-
-            <Footer />
         </>
     );
 }

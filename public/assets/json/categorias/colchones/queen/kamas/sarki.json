@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "sarki",
+            "ruta": "/productos/colchones/queen/kamas/sarki/",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/",
+            "precioRegular": 969,
+            "precioNormal": 899,
+            "precioVenta": 599,
+            "stock": 99,
+            "sku": "H1133N10",
+            "regalos":{
+                "texto": "2 almohadas",
+                "foto": "/assets/imagenes/productos/almohadas.webp"
+            },
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "Queen",
+                    "linea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/sarki/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/sarki/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "Queen",
+                    "línea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "16 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "26cm.",
+                    "soporte-de-peso": "80kg. por persona",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

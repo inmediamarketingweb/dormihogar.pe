@@ -1,0 +1,574 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas - Paraiso",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "pocket star",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET STAR + CABECERA KAMAS PEDESTAL CUADROS 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/2-plazas/pocket-star/pedestales/americanas/brazos-rectos/cuadros-2/1/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2319,
+            "precioVenta": 1729,
+            "stock": 9,
+            "sku": "H32222143N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tela": "Tejido de punto",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-resorte": "Pocket",
+                            "pillow-top": "extra acolchado",
+                            "marco": "zebra 25",
+                            "sistema": "one side",
+                            "sensación": "intermedia",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas - Paraiso",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "pocket star",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/2/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET STAR + CABECERA KAMAS PEDESTAL EMPERATRIZ - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/2-plazas/pocket-star/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 2199,
+            "precioNormal": 1799,
+            "precioVenta": 1249,
+            "stock": 9,
+            "sku": "H32222143N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tela": "Tejido de punto",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-resorte": "Pocket",
+                            "pillow-top": "extra acolchado",
+                            "marco": "zebra 25",
+                            "sistema": "one side",
+                            "sensación": "intermedia",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas - Paraiso",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "pocket star",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/3/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET STAR + CABECERA KAMAS PEDESTAL CORONA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/2-plazas/pocket-star/pedestales/coronas/brazos-rectos/otros-modelos/1/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "H32222145N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tela": "Tejido de punto",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-resorte": "Pocket",
+                            "pillow-top": "extra acolchado",
+                            "marco": "zebra 25",
+                            "sistema": "one side",
+                            "sensación": "intermedia",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas - Paraiso",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "pocket star",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/4/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET STAR + CABECERA KAMAS PEDESTAL CORONA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/2-plazas/pocket-star/pedestales/coronas/brazos-rectos/otros-modelos/2/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1249,
+            "stock": 9,
+            "sku": "H32222145N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tela": "Tejido de punto",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-resorte": "Pocket",
+                            "pillow-top": "extra acolchado",
+                            "marco": "zebra 25",
+                            "sistema": "one side",
+                            "sensación": "intermedia",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas - Paraiso",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "pocket star",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/5/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET STAR + CABECERA KAMAS AEREA CAPITONEADA - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/2-plazas/pocket-star/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 1999,
+            "precioNormal": 1599,
+            "precioVenta": 1099,
+            "stock": 9,
+            "sku": "H32222143N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tela": "Tejido de punto",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-resorte": "Pocket",
+                            "pillow-top": "extra acolchado",
+                            "marco": "zebra 25",
+                            "sistema": "one side",
+                            "sensación": "intermedia",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas - Paraiso",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "pocket star",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/6/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET STAR + CABECERA KAMAS AEREA CAPITONEADA + VELADOR SHELTER - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/paraiso/americanos/2-plazas/pocket-star/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "colores": "si",
+            "precioRegular": 2499,
+            "precioNormal": 1999,
+            "precioVenta": 1479,
+            "stock": 9,
+            "sku": "H32222143N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelascticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "modelo-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tela": "Tejido de punto",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-resorte": "Pocket",
+                            "pillow-top": "extra acolchado",
+                            "marco": "zebra 25",
+                            "sistema": "one side",
+                            "sensación": "intermedia",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

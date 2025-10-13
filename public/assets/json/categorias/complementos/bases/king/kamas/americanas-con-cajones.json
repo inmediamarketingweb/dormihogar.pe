@@ -1,0 +1,106 @@
+{
+    "productos":[
+        {
+            "id": 5,
+            "categoria": "complementos",
+            "subcategoria": "bases",
+            "marca": "kamas",
+            "linea": "americanas",
+            "tamaño": "king",
+            "ruta": "/productos/complementos/bases/king/kamas/americanas-con-cajones/4/",
+            "nombre": "BASE SOLA AMERICANA KING + 2 CAJONES AL PIE - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/americanas-con-cajones/king/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 14,
+            "sku": "K73422N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Americana",
+                    "tamaño": "King"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "complementos",
+            "subcategoria": "bases",
+            "marca": "kamas",
+            "linea": "americanas",
+            "tamaño": "king",
+            "ruta": "/productos/complementos/bases/king/kamas/americanas-con-cajones/5/",
+            "nombre": "BASE SOLA AMERICANA KING + 4 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/americanas-con-cajones/king/2/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 1119,
+            "precioVenta": 899,
+            "stock": 14,
+            "sku": "K73422N11",
+            "oferta": "si",
+
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Americana",
+                    "tamaño": "King"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,154 +1,53 @@
-[
-    {
-        "titulo": "Tamaño",
-        "nombre": "tamaño",
-        "lista":[
-            {
-                "id": 1,
-                "nombre": "1 plaza"
-            },
-            {
-                "id": 2,
-                "nombre": "1 plaza y media"
-            },
-            {
-                "id": 3,
-                "nombre": "2 plazas"
-            },
-            {
-                "id": 4,
-                "nombre": "Queen"
-            },
-            {
-                "id": 5,
-                "nombre": "King"
-            }
-        ]
-    },
-    {
-        "titulo": "Marca",
-        "nombre": "marca",
-        "lista":[
-            {
-                "nombre": "Kamas"
-            },
-            {
-                "nombre": "Paraiso"
-            },
-            {
-                "nombre": "El Cisne"
-            }
-        ]
-    },
-    {
-        "titulo": "Línea",
-        "nombre": "línea",
-        "lista":[
-            {
-                "nombre": "Clásica"
-            },
-            {
-                "nombre": "Americana"
-            },
-            {
-                "nombre": "Europea"
-            },
-            {
-                "nombre": "Madera natural"
-            },
-            {
-                "nombre": "Premium"
-            }
-        ]
-    },
-    {
-        "titulo": "Cajones",
-        "nombre": "cajones",
-        "lista":[
-            {
-                "nombre": "Si"
-            },
-            {
-                "nombre": "No"
-            }
-        ]
-    },
-    {
-        "titulo": "Base encajonada",
-        "nombre": "base-encajonada",
-        "lista":[
-            {
-                "nombre": "Si"
-            },
-            {
-                "nombre": "No"
-            }
-        ]
-    },
-    {
-        "titulo": "Tipo de cabecera",
-        "nombre": "tipo-de-cabecera",
-        "lista":[
-            {
-                "nombre": "Sin cabecera"
-            },
-            {
-                "nombre": "Aérea"
-            },
-            {
-                "nombre": "Aérea con patas"
-            },
-            {
-                "nombre": "Pedestal"
-            }
-        ]
-    },
-    {
-        "titulo": "Diseño de cabecera",
-        "nombre": "diseño-de-cabecera",
-        "lista":[
-            {
-                "nombre": "Infantil"
-            },
-            {
-                "nombre": "Clásica"
-            },
-            {
-                "nombre": "Americana"
-            },
-            {
-                "nombre": "Con marco"
-            },
-            {
-                "nombre": "Corona"
-            },
-            {
-                "nombre": "Bloques"
-            },
-            {
-                "nombre": "Otras formas"
-            }
-        ]
-    },
-    {
-        "titulo": "Brazos de cabecera",
-        "nombre": "brazos-de-cabecera",
-        "lista":[
-            {
-                "nombre": "Sin brazos"
-            },
-            {
-                "nombre": "Brazos rectos"
-            },
-            {
-                "nombre": "Brazos curvos"
-            },
-            {
-                "nombre": "Brazos P"
-            },
-            {
-                "nombre": "Brazos seahorse"
-            }
-        ]
-    }
-]
+{
+    "filtros":[
+        {
+            "camas-funcionales":[
+                {
+                    "cama-funcional": "Box espacio",
+                    "ruta": "/productos/camas-funcionales/box-espacio/"
+                },
+                {
+                    "cama-funcional": "Box con baúl",
+                    "ruta": "/productos/camas-funcionales/box-con-baúl/"
+                },
+                {
+                    "cama-funcional": "Cama divan",
+                    "ruta": "/productos/camas-funcionales/cama-divan/"
+                },
+                {
+                    "cama-funcional": "Camarotes",
+                    "ruta": "/productos/camas-funcionales/camarotes/"
+                },
+                {
+                    "cama-funcional": "Cunas",
+                    "ruta": "/productos/camas-funcionales/cunas/"
+                },
+                {
+                    "cama-funcional": "Ver todos",
+                    "ruta": "/productos/camas-funcionales/"
+                }
+            ]
+        },
+        {
+            "tamaño":["1 plaza", "1 plaza y media", "2 plazas", "Queen", "King"]
+        },
+        {
+            "marca":["El cisne", "Kamas", "Paraiso", "Komfort"]
+        },
+        {
+            "línea":["clásica", "americana", "americana con cajones", "europea", "europea con cajones"]
+        },
+        {
+            "base-encajonada":["si", "no"]
+        },
+        {
+            "tipo-de-cabecera":["aérea", "aérea con patas", "pedestal"]
+        },
+        {
+            "diseño-de-cabecera":["infantil", "clásico", "americano", "con marco", "corona", "bloques"]
+        },
+        {
+            "brazos-de-cabecera":["sin brazos", "brazos rectos", "brazos curvos", "brazos p", "brazos seahorse"]
+        }
+    ]
+}

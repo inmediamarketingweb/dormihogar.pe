@@ -1,0 +1,56 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "complementos",
+            "subcategoria": "bases",
+            "marca": "kamas",
+            "linea": "americanas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/bases/2-plazas/kamas/americanas/1/",
+            "nombre": "BASE SOLA AMERICANA 2 PLAZAS ENCAJONADA - MORO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/americanas/2-plazas/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 589,
+            "precioVenta": 439,
+            "stock": 14,
+            "sku": "K7221N10",
+            "oferta": "si",
+
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Americana",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Pvc",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

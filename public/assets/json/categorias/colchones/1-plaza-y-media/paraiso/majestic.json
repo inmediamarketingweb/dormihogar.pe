@@ -1,0 +1,52 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "majestic",
+            "ruta": "/productos/colchones/1-plaza-y-media/paraiso/majestic/",
+            "nombre": "COLCHÓN PARAISO MAJESTIC 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/majestic/",
+            "precioRegular": 999,
+            "precioNormal": 499,
+            "precioVenta": 260,
+            "stock": 14,
+            "sku": "H121525N10",
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Majestic",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/paraiso/majestic/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Majestic",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Poliseda",
+                    "tipo-de-resorte": "Bonell",
+                    "capas": "2 zebra 18",
+                    "marco": "zebra 16",
+                    "sistema": "double side",
+                    "sensación": "intermedia",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

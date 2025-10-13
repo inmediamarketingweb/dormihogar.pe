@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "kamas",
+            "metaTitulo": "Colchones - 1 plaza y media - Kamas | Homesleep",
+            "ruta": "/productos/colchones/1-plaza-y-media/kamas/"
+        },
+        {
+            "subcategoria": "el cisne",
+            "metaTitulo": "Colchones - 1 plaza y media - El Cisne | Homesleep",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/"
+        },
+        {
+            "subcategoria": "paraiso",
+            "metaTitulo": "Colchones - 1 plaza y media - Paraiso | Homesleep",
+            "ruta": "/productos/colchones/1-plaza-y-media/paraiso/"
+        }
+    ]
+}

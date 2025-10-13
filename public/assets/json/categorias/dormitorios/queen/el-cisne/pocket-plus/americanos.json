@@ -1,0 +1,106 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas - El Cisne",
+            "linea": "americanos",
+            "tamaño": "queen",
+            "modelo": "pocket plus",
+            "ruta": "/productos/dormitorios/el-cisne/queen/pocket-plus/americanos/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO QUEEN + COLCHÓN EL CISNE POCKET PLUS + CABECERA KAMAS AEREA CAPITONEADA - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/pocket-plus/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 2099,
+            "precioNormal": 2699,
+            "precioVenta": 1899,
+            "stock": 10,
+            "sku": "H3323233N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "queen",
+                    "modelo-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/el-cisne/americanos/king/pocket-plus/34/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americano",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "396 bicónicos",
+                            "tela": "Pique",
+                            "tratamiento": "Antihongos, antibacterias y antiácaros",
+                            "tipo-de-uso": "un solo lado",
+                            "tipo-de-resorte": "Pocket",
+                            "marco": "Espuma con densidad 20kg/m3",
+                            "capas": "2 láminas fibra no tejida de 300gr. 2 láminas espuma de poliuretano de 1 1/2 con 18kg/m3 y 2 láminas de poliuretano de 1 1/4 con 16kg/m3",
+                            "sensación": "intermedia",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

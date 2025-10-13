@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "sarki",
+            "ruta": "/productos/colchones/1-plaza-y-media/kamas/sarki/",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/",
+            "precioRegular": 575,
+            "precioNormal": 499,
+            "precioVenta": 319,
+            "stock": 99,
+            "sku": "H11153N10",
+            "regalos":{
+                "texto": "1 almohada",
+                "foto": "/assets/imagenes/productos/almohada.webp"
+            },
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "1 plaza y media",
+                    "linea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/kamas/sarki/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/sarki/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                "resortes": "9 filas",
+                "tela": "Algodón tejido en punto",
+                "densidad-de-espuma": "18kg/m3",
+                "tipo-de-uso": "Ambos lados",
+                "marco": "Sellado",
+                "soporte-de-peso": "65kg. por persona",
+                "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

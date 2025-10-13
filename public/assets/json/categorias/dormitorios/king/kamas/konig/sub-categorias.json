@@ -1,0 +1,14 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios - King - Kamas - Konig - Americanos | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/"
+        },
+        {
+            "subcategoria": "europeos",
+            "metaTitulo": "Dormitorios - King - Kamas - Konig - Europeos | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/konig/europeos/"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "rucay",
+            "ruta": "/productos/colchones/queen/kamas/rucay/",
+            "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/",
+            "precioRegular": 747,
+            "precioNormal": 679,
+            "precioVenta": 549,
+            "stock": 99,
+            "sku": "H1132N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Rucay",
+                    "tamaño": "Queen",
+                    "línea-de-colchón": "Anátomico",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/rucay/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/rucay/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/rucay/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Rucay",
+                    "tamaño": "Queen",
+                    "línea-de-colchón": "Anátomico",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "15 filas en forma vertical",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "grosor": "25cm.",
+                    "refuerzos": "Centrales",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

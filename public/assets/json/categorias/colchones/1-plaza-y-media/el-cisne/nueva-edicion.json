@@ -1,0 +1,55 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "el cisne",
+            "tamaño": "1 plaza y media",
+            "subcategoria": "presence",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/nueva-edicion/",
+            "nombre": "COLCHÓN EL CISNE NUEVA EDIDICIÓN 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/nueva-edicion/",
+            "precioRegular": 1999,
+            "precioNormal": 999,
+            "precioVenta": 699,
+            "stock": 10,
+            "sku": "H13151N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "El cisne",
+                    "modelo-de-colchón": "Nueva edición",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "El cisne",
+                    "modelo-de-colchón": "Nueva edición",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "255 bicónicos",
+                    "tela": "Pique",
+                    "marco": "Espuma con densidad 16kg/m3",
+                    "capas": "2 láminas de poliuretano de alta densidad y 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3",
+                    "sensación": "intermedia",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

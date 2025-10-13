@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "1 plaza",
+            "metaTitulo": "Dormitorios - 1 plaza | Homesleep",
+            "ruta": "/productos/dormitorios/1-plaza/"
+        },
+        {
+            "subcategoria": "1 plaza y media",
+            "metaTitulo": "Dormitorios - 1 plaza y media | Homesleep",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/"
+        },
+        {
+            "subcategoria": "2 plazas",
+            "metaTitulo": "Dormitorios - 2 plazas | Homesleep",
+            "ruta": "/productos/dormitorios/2-plazas/"
+        },
+        {
+            "subcategoria": "queen",
+            "metaTitulo": "Dormitorios - Queen | Homesleep",
+            "ruta": "/productos/dormitorios/queen/"
+        },
+        {
+            "subcategoria": "king",
+            "metaTitulo": "Dormitorios - King | Homesleep",
+            "ruta": "/productos/dormitorios/king/"
+        }
+    ]
+}

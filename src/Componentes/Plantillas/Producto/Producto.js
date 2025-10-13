@@ -8,17 +8,16 @@ import "./Producto.css";
 /**
  * @param {Object} props
  * @param {Object} props.producto
- * @param {function} props.truncate
 **/
 
-export function Producto({ producto = { id: null } , truncate }){
-    const [favorites, setFavorites] = useState([]);
+export function Producto({ producto = { id: null } }){
+    // const [favorites, setFavorites] = useState([]);
     const descuento = Math.round( ((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal );
 
-    useEffect(() => {
-        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || [];
-        setFavorites(favStorage);
-    }, []);
+    // useEffect(() => {
+    //     const favStorage = JSON.parse(localStorage.getItem("favoritos")) || [];
+    //     setFavorites(favStorage);
+    // }, []);
 
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
 
@@ -34,24 +33,24 @@ export function Producto({ producto = { id: null } , truncate }){
         };
     }, []);
 
-    const toggleFavorite = (producto) => {
-        const exists = favorites.some((fav) => fav.sku === producto.sku);
-        const updatedFavorites = exists
-            ? favorites.filter((fav) => fav.sku !== producto.sku)
-            : [...favorites, producto];
-        setFavorites(updatedFavorites);
-        localStorage.setItem("favoritos", JSON.stringify(updatedFavorites));
-    };
+    // const toggleFavorite = (producto) => {
+    //     const exists = favorites.some((fav) => fav.sku === producto.sku);
+    //     const updatedFavorites = exists
+    //         ? favorites.filter((fav) => fav.sku !== producto.sku)
+    //         : [...favorites, producto];
+    //     setFavorites(updatedFavorites);
+    //     localStorage.setItem("favoritos", JSON.stringify(updatedFavorites));
+    // };
 
     const tipoEnvioClase = producto["tipo-de-envio"] === "Gratis" ? "envio-gratis"
     : producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente"
     : producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado"
     : "";
 
-    const isFavorite = favorites.some( (fav) => fav.sku === producto.sku );
+    // const isFavorite = favorites.some( (fav) => fav.sku === producto.sku );
 
     return(
-        <li>
+        <li className='product-card-li'>
             <div key={producto.sku} className={`product-card ${producto.stock === 0 ? "agotado" : ""}`} title={producto.nombre}>
                 <div className="product-card-images">
                     {descuento > 0 && (
@@ -62,9 +61,9 @@ export function Producto({ producto = { id: null } , truncate }){
                         <LazyImage width={isSmallScreen ? 140 : 200} height={isSmallScreen ? 140 : 200} src={`${producto.fotos}1`} alt={producto.nombre}/>
                     </a>
 
-                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos" >
+                    {/* <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos" >
                         <span className="material-icons">favorite</span>
-                    </button>
+                    </button> */}
                 </div>
 
                 <a href={producto.ruta} className="product-card-content">
@@ -74,27 +73,8 @@ export function Producto({ producto = { id: null } , truncate }){
                         </div>
                     ) : (
                         <>
-                            {producto.novedades === "si" && (
-                                <div className="product-card-target">
-                                    <span>¡Lo más nuevo!</span>
-                                </div>
-                            )}
-
-                            {producto["solo-por-horas"] === "si" && (
-                                <div className="product-card-stock">
-                                    <span>¡ Solo por horas ⌛ !</span>
-                                </div>
-                            )}
-
-                            {producto.oferta === "si" && (
-                                <div className="product-card-ofert">
-                                    <span>En oferta 🔥</span>
-                                </div>
-                            )}
-
-                            {producto.novedades !== "si" &&
-                                producto["solo-por-horas"] !== "si" &&
-                                producto.oferta !== "si" && (
+                            {
+                                producto.novedades !== "si" && producto["solo-por-horas"] !== "si" && producto.oferta !== "si" && (
                                     <div className={`product-card-tipo-de-envio ${tipoEnvioClase}`}>
                                         <span>
                                             {producto["tipo-de-envio"] === "Gratis"
@@ -102,12 +82,13 @@ export function Producto({ producto = { id: null } , truncate }){
                                                 : producto["tipo-de-envio"] || "No especificado"}
                                         </span>
                                     </div>
-                                )}
+                                )
+                            }
                         </>
                     )}
 
                     <span className="product-card-brand">{producto.marca}</span>
-                    <h4 className="product-card-name">{truncate(producto.nombre, 90)}</h4>
+                    <h4 className="product-card-name">{producto.nombre}</h4>
                     <div className="product-card-prices">
                         <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
                         <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
@@ -127,5 +108,4 @@ Producto.propTypes = {
         precioNormal: PropTypes.number.isRequired,
         precioVenta: PropTypes.number.isRequired,
     }).isRequired,
-    truncate: PropTypes.func.isRequired,
 };

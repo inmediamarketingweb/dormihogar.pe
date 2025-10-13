@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "el cisne",
+            "metaTitulo": "Dormitorios - King - El Cisne | Homesleep",
+            "ruta": "/productos/dormitorios/king/el-cisne/"
+        },
+        {
+            "subcategoria": "kamas",
+            "metaTitulo": "Dormitorios - King - Kamas | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/"
+        },
+        {
+            "subcategoria": "paraiso",
+            "metaTitulo": "Dormitorios - King - Paraiso | Homesleep",
+            "ruta": "/productos/dormitorios/king/paraiso/"
+        }
+    ]
+}

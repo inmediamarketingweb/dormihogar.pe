@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios - King - Kamas - Sarki - Americanos | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/"
+        },
+        {
+            "subcategoria": "americanos con cajones",
+            "metaTitulo": "Dormitorios - King - Kamas - Sarki - Americanos con cajones | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/americanos-con-cajones/"
+        },
+        {
+            "subcategoria": "europeos",
+            "metaTitulo": "Dormitorios - King - Kamas - Sarki - Europeos | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/europeos/"
+        },
+        {
+            "subcategoria": "europeos con cajones",
+            "metaTitulo": "Dormitorios - King - Kamas - Sarki - Europeos con cajones | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/europeos-con-cajones/"
+        },
+        {
+            "subcategoria": "premium",
+            "metaTitulo": "Dormitorios - King - Kamas - Sarki - Premium | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/premium/"
+        }
+    ]
+}

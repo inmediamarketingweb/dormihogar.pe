@@ -1,0 +1,68 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "konig",
+            "ruta": "/productos/colchones/1-plaza-y-media/kamas/konig/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
+            "precioRegular": 1649,
+            "precioNormal": 1399,
+            "precioVenta": 899,
+            "stock": 99,
+            "sku": "H111511N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/konig/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/kamas/konig/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/konig/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "12 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "100kg. por persona",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

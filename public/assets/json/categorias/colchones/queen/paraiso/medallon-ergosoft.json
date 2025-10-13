@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "medallon ergosoft",
+            "ruta": "/productos/colchones/queen/paraiso/medallon-ergosoft/",
+            "nombre": "COLCHÓN PARAISO MEDALLON ERGOSOFT QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon-ergosoft/",
+            "precioRegular": 1499,
+            "precioNormal": 939,
+            "precioVenta": 479,
+            "stock": 14,
+            "sku": "H12310N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/medallon-ergosoft/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/paraiso/medallon-ergosoft/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Jacquard",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "banda": "mesh",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sistema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "7 años"
+                }
+            ]
+        }
+    ]
+}

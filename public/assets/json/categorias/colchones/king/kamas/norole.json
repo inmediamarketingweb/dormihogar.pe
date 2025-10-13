@@ -1,0 +1,72 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "norole",
+            "ruta": "/productos/colchones/king/kamas/norole/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE KING",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
+            "precioRegular": 2399,
+            "precioNormal": 1999,
+            "precioVenta": 1399,
+            "stock": 99,
+            "sku": "H1149N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Norole",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/norole/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/norole/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/kamas/norole/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Norole",
+                    "tamaño": "Queen",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "20 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "40cm.",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "7 años"
+                }
+            ]
+        }
+    ]
+}

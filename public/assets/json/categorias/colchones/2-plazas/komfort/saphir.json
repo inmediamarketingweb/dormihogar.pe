@@ -1,0 +1,65 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "tamaño": "king",
+            "marca": "komfort",
+            "modelo": "spahir",
+            "ruta": "/productos/colchones/2-plazas/komfort/saphir/",
+            "nombre": "COLCHÓN KOMFORT POCKET SAPHIR 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/komfort/saphir/",
+            "precioRegular": 1319,
+            "precioNormal": 999,
+            "precioVenta": 599,
+            "stock": 14,
+            "sku": "H1421N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Komfort",
+                    "modelo-de-colchón": "Saphir",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/komfort/saphir/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/komfort/saphir/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Komfort",
+                    "modelo-de-colchón": "Saphir",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "494 resortes pocket",
+                    "marco": "de espuma de poliuretano",
+                    "soporte": "23kg/m3",
+                    "tela": "tejido en punto"
+                }
+            ]
+        }
+    ]
+}

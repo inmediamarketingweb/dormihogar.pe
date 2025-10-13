@@ -1,70 +1,58 @@
-[
-    {
-        "titulo": "Marcas",
-        "nombre": "marca",
-        "lista":[
-            {
-                "nombre": "Kamas"
-            },
-            {
-                "nombre": "Paraiso"
-            },
-            {
-                "nombre": "El Cisne"
-            }
-        ]
-    },
-    {
-        "titulo": "Modelos",
-        "nombre": "modelo",
-        "lista":[
-            {
-                "nombre": "Juegos de sala"
-            },
-            {
-                "nombre": "Seccionales"
-            },
-            {
-                "nombre": "Sófas camas"
-            },
-            {
-                "nombre": "Reclinables"
-            },
-            {
-                "nombre": "Sofás y sillones"
-            },
-            {
-                "nombre": "Mecedoras"
-            },
-            {
-                "nombre": "Butacas"
-            }
-        ]
-    },
-    {
-        "titulo": "Tamaño",
-        "nombre": "tamaño",
-        "lista":[
-            {
-                "id": 1,
-                "nombre": "1 plaza"
-            },
-            {
-                "id": 2,
-                "nombre": "1 plaza y media"
-            },
-            {
-                "id": 3,
-                "nombre": "2 plazas"
-            },
-            {
-                "id": 4,
-                "nombre": "Queen"
-            },
-            {
-                "id": 5,
-                "nombre": "King"
-            }
-        ]
-    }
-]
+{
+    "filtros":[
+        {
+            "sofas":[
+                {
+                    "sofas": "Juegos de sala",
+                    "ruta": "/productos/sofas/juegos-de-sala/"
+                },
+                {
+                    "sofas": "Seccionales",
+                    "ruta": "/productos/sofas/seccionales/"
+                },
+                {
+                    "sofas": "Sofa cama",
+                    "ruta": "/productos/sofas/sofa-cama/"
+                },
+                {
+                    "sofas": "Reclinables",
+                    "ruta": "/productos/sofas/reclinables/"
+                },
+                {
+                    "sofas": "Sofas y sillones",
+                    "ruta": "/productos/sofas/sofas-y-sillones/"
+                },
+                {
+                    "sofas": "Mecedoras",
+                    "ruta": "/productos/sofas/mecedoras/"
+                },
+                {
+                    "sofas": "Butacas",
+                    "ruta": "/productos/sofas/butacas/"
+                },
+                {
+                    "sofas": "Ver todos",
+                    "ruta": "/productos/sofas/"
+                }
+            ]
+        },
+        {
+            "marca":["El cisne", "Kamas", "Paraiso", "Komfort"]
+        },
+        {
+            "línea":["clásica", "americana", "americana con cajones", "europea", "europea con cajones"]
+        },
+        {
+            "base-encajonada":["si", "no"]
+        },
+        {
+            "tipo-de-cabecera":["aérea", "aérea con patas", "pedestal"]
+        },
+        {
+            "diseño-de-cabecera":["infantil", "clásico", "americano", "con marco", "corona", "bloques"]
+        },
+        {
+            "brazos-de-cabecera":["sin brazos", "brazos rectos", "brazos curvos", "brazos p", "brazos seahorse"]
+        }
+    ]
+}

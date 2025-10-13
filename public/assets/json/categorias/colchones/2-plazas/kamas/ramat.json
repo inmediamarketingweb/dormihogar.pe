@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "ramat",
+            "ruta": "/productos/colchones/2-plazas/kamas/ramat/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
+            "precioRegular": 1249,
+            "precioNormal": 999,
+            "precioVenta": 649,
+            "stock": 99,
+            "sku": "H1125N10",
+            "incluye":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "2 plazas",
+                    "línea-de-colchón": "Súper ortopédico",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/ramat/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/kamas/ramat/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/ramat/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "2 plazas",
+                    "línea-de-colchón": "Súper ortopédico",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "15 filas",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "doble-pestaña": "Si",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

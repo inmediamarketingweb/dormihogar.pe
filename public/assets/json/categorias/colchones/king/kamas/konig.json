@@ -1,0 +1,72 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "konig",
+            "ruta": "/productos/colchones/king/kamas/konig/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG KING",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
+            "precioRegular": 2800,
+            "precioNormal": 2499,
+            "precioVenta": 1699,
+            "stock": 99,
+            "sku": "H11411N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/konig/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/konig/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/kamas/konig/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "20 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "incorpora": "Sistema PT",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "44cm.",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

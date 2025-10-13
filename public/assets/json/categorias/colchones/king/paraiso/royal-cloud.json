@@ -1,0 +1,73 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "royal cloud",
+            "ruta": "/productos/colchones/king/paraiso/royal-cloud/",
+            "nombre": "COLCHÓN PARAISO ROYAL CLOUD KING",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-cloud/",
+            "precioRegular": 3989,
+            "precioNormal": 3529,
+            "precioVenta": 1579,
+            "stock": 14,
+            "sku": "H12422N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal cloud",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Muy suave"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-cloud/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-cloud/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/paraiso/royal-cloud/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal cloud",
+                    "tamaño": "King",
+                    "nivel-de-confort": "Muy suave",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "Pocket slim",
+                    "tratamiento": "Antihongos, antibacterias y antiacaros",
+                    "tela": "Tejido de punto higroscópica que absorbe la humedad",
+                    "top": "euro top acolchado superior",
+                    "técnología": "Memory foarm D55",
+                    "marco": "zebra 30 HD",
+                    "sistema": "one side",
+                    "espuma": "Viscoelástica D70",
+                    "capas": "2 de Zebra 30 HR",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+} 

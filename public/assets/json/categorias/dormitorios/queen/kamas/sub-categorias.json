@@ -1,0 +1,39 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "sarki",
+            "metaTitulo": "Dormitorios - Queen - Kamas - Sarki | Homesleep",
+            "ruta": "/productos/dormitorios/queen/kamas/sarki/"
+        },
+        {
+            "subcategoria": "safynnte",
+            "metaTitulo": "Dormitorios - Queen - Kamas - Safynnte | Homesleep",
+            "ruta": "/productos/dormitorios/queen/kamas/safynnte/"
+        },
+        {
+            "subcategoria": "der prinz",
+            "metaTitulo": "Dormitorios - Queen - Kamas - Der Prinz | Homesleep",
+            "ruta": "/productos/dormitorios/queen/kamas/der-prinz/"
+        },
+        {
+            "subcategoria": "nesie",
+            "metaTitulo": "Dormitorios - Queen - Kamas - Nesie | Homesleep",
+            "ruta": "/productos/dormitorios/queen/kamas/nesie/"
+        },
+        {
+            "subcategoria": "ramat",
+            "metaTitulo": "Dormitorios - Queen - Kamas - Ramat | Homesleep",
+            "ruta": "/productos/dormitorios/queen/kamas/ramat/"
+        },
+        {
+            "subcategoria": "norole",
+            "metaTitulo": "Dormitorios - Queen - Kamas - Norole | Homesleep",
+            "ruta": "/productos/dormitorios/queen/kamas/norole/"
+        },
+        {
+            "subcategoria": "konig",
+            "metaTitulo": "Dormitorios - Queen - Kamas - Konig | Homesleep",
+            "ruta": "/productos/dormitorios/queen/kamas/konig/"
+        }
+    ]
+}

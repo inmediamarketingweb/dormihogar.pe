@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "safynnte",
+            "ruta": "/productos/colchones/2-plazas/kamas/safynnte/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
+            "precioRegular": 775,
+            "precioNormal": 699,
+            "precioVenta": 449,
+            "stock": 99,
+            "sku": "H1126N10",
+            "regalos":{
+                "texto": "1 almohada",
+                "foto": "/assets/imagenes/productos/almohada.webp"
+            },
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "2-plazas",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Super ortopédico"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/safynnte/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/kamas/safynnte/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/safynnte/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "2 plazas",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Super ortopédico",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "14 filas",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "75kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

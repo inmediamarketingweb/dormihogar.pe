@@ -46,8 +46,13 @@ body{
 }
 
 body::-webkit-scrollbar{
-    display: none;
-    transition: all 200ms linear;
+    width: 8px;
+    background: rgba(0 0 0 / 0.075);
+}
+
+body::-webkit-scrollbar-thumb{
+    background: var(--color-2);
+    cursor: pointer;
 }
 
 main{

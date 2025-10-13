@@ -1,0 +1,70 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "royal prince",
+            "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-prince/",
+            "nombre": "COLCHÓN PARAISO ROYAL PRINCE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-prince/",
+            "precioRegular": 1999,
+            "precioNormal": 1286,
+            "precioVenta": 579,
+            "stock": 14,
+            "sku": "H121523N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal prince",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-prince/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/paraiso/royal-prince/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/paraiso/royal-prince/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal prince",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Firme",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "Pocket",
+                    "tela": "Tejido de punto higroscópica que absorde la húmedad",
+                    "sistema": "one side",
+                    "sensación": "firme",
+                    "marco": "zebra 30 HD",
+                    "capas": "2 de Zebra D20, Zebra 30 HD y espuma D90",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

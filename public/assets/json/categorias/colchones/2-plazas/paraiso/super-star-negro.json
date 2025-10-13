@@ -1,0 +1,73 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "super star negro",
+            "ruta": "/productos/colchones/2-plazas/paraiso/super-star-negro/",
+            "nombre": "COLCHÓN PARAISO SUPER STAR NEGRO 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star-negro/",
+            "precioRegular": 1299,
+            "precioNormal": 887,
+            "precioVenta": 479,
+            "stock": 14,
+            "sku": "H12219N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star negro",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Cosisoft"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/super-star-negro/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/paraiso/super-star-negro/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/paraiso/super-star-negro/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Super star negro",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Tejido de punto",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Cosisoft",
+                    "ergosoft": "acolchado superior",
+                    "marco": "zebra 25",
+                    "sistema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "8 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "el cisne",
+            "subcategoria": "valente",
+            "ruta": "/productos/colchones/king/el-cisne/valente/",
+            "nombre": "COLCHÓN EL CISNE VALENTE KING",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/valente/",
+            "precioRegular": 2599,
+            "precioNormal": 2089,
+            "precioVenta": 1399,
+            "stock": 14,
+            "sku": "H1349N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelásticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Valente",
+                    "tamaño": "King",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "El Cisne",
+                    "modelo-de-colchón": "Valente",
+                    "tamaño": "King",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "728 pocket",
+                    "tela": "Pique",
+                    "tipo-de-uso": "un solo lado",
+                    "tipo-de-resorte": "Pocket",
+                    "marco": "Espuma con flexible de poliuretano de alta densidad.",
+                    "capas": "1 lámina de espuma de 2'' de alta densidad y espuma de 3/4''",
+                    "sensación": "intermedia",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

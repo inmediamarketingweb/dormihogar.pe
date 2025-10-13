@@ -1,67 +1,36 @@
-[
-    {
-        "titulo": "Sub categoría",
-        "nombre": "sub-categoría",
-        "lista":[
-            {
-                "nombre": "Veladores"
-            },
-            {
-                "nombre": "Baúles"
-            },
-            {
-                "nombre": "Bases"
-            },
-            {
-                "nombre": "Puffs"
-            },
-            {
-                "nombre": "Almohadas"
-            },
-            {
-                "nombre": "Sábanas y cobertores"
-            },
-            {
-                "nombre": "Cama perro"
-            }
-        ]
-    },
-    {
-        "titulo": "Tamaño",
-        "nombre": "tamaño",
-        "lista":[
-            {
-                "id": 1,
-                "nombre": "1 plaza"
-            },
-            {
-                "id": 2,
-                "nombre": "1 plaza y media"
-            },
-            {
-                "id": 3,
-                "nombre": "2 plazas"
-            },
-            {
-                "id": 4,
-                "nombre": "Queen"
-            },
-            {
-                "id": 5,
-                "nombre": "King"
-            }
-        ]
-    },
-    {
-        "titulo": "Cajones",
-        "nombre": "cajones",
-        "lista":[
-            {
-                "nombre": "Si"
-            },
-            {
-                "nombre": "No"
-            }
-        ]
-    }
-]
+{
+    "filtros":[
+        {
+            "complementos":[
+                {
+                    "complementos": "Veladores",
+                    "ruta": "/productos/complementos/veladores/"
+                },
+                {
+                    "complementos": "Baúles",
+                    "ruta": "/productos/complementos/baules/"
+                },
+                {
+                    "complementos": "Bases",
+                    "ruta": "/productos/complementos/bases/"
+                },
+                {
+                    "complementos": "Puffs",
+                    "ruta": "/productos/complementos/puffs/"
+                },
+                {
+                    "complementos": "Almohadas",
+                    "ruta": "/productos/complementos/almohadas/"
+                },
+                {
+                    "complementos": "Sábanas y cobertores",
+                    "ruta": "/productos/complementos/sabanas-y-cobertores/"
+                },
+                {
+                    "complementos": "Cama perro",
+                    "ruta": "/productos/complementos/cama-perro/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,143 +1,60 @@
-[
-    {
-        "titulo": "Tamaño",
-        "nombre": "tamaño",
-        "lista":[
-            {
-                "nombre": "1 plaza"
-            },
-            {
-                "nombre": "1 plaza y media"
-            },
-            {
-                "nombre": "2 plazas"
-            },
-            {
-                "nombre": "Queen"
-            },
-            {
-                "nombre": "King"
-            }
-        ]
-    },
-    {
-        "titulo": "Marca",
-        "nombre": "marca",
-        "lista":[
-            {
-                "nombre": "Kamas"
-            },
-            {
-                "nombre": "Paraiso"
-            },
-            {
-                "nombre": "El Cisne"
-            }
-        ]
-    },
-    {
-        "titulo": "Línea de colchón",
-        "nombre": "línea-de-colchón",
-        "lista":[
-            {
-                "nombre": "Semi ortopédico"
-            },
-            {
-                "nombre": "Anátomico"
-            },
-            {
-                "nombre": "Ortopédico"
-            },
-            {
-                "nombre": "Súper ortopédico"
-            },
-            {
-                "nombre": "Hotelero"
-            },
-            {
-                "nombre": "Extra ortopédico"
-            }
-        ]
-    },
-    {
-        "titulo": "Nivel de confort",
-        "nombre": "nivel-de-confort",
-        "lista":[
-            {
-                "nombre": "Muy suave"
-            },
-            {
-                "nombre": "Confortable"
-            },
-            {
-                "nombre": "Intermedio"
-            },
-            {
-                "nombre": "Muy confortable"
-            },
-            {
-                "nombre": "Firme"
-            },
-            {
-                "nombre": "Muy firme"
-            }
-        ]
-    },
-    {
-        "titulo": "Tipo de resorte",
-        "nombre": "tipo-de-resorte",
-        "lista":[
-            {
-                "nombre": "Bonell"
-            },
-            {
-                "nombre": "Cosisoft"
-            },
-            {
-                "nombre": "Pocket"
-            }
-        ]
-    },
-    {
-        "titulo": "Modelo de colchón",
-        "nombre": "modelo-de-colchón",
-        "lista":[
-            {
-                "nombre": "Adel"
-            },
-            {
-                "nombre": "Rucay"
-            },
-            {
-                "nombre": "Sarki"
-            },
-            {
-                "nombre": "Safynnte"
-            },
-            {
-                "nombre": "Der Prinz"
-            },
-            {
-                "nombre": "Thameo Pocket"
-            },
-            {
-                "nombre": "Ramat"
-            },
-            {
-                "nombre": "Nesie"
-            },
-            {
-                "nombre": "Norole"
-            },
-            {
-                "nombre": "Thaleo Pocket"
-            },
-            {
-                "nombre": "Konig"
-            },
-            {
-                "nombre": "Yurmale"
-            }
-        ]
-    }
-]
+{
+    "filtros":[
+        {
+            "tamaño":[
+                {
+                    "tamaño": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/"
+                },
+                {
+                    "tamaño": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/"
+                },
+                {
+                    "tamaño": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/"
+                },
+                {
+                    "tamaño": "Queen",
+                    "ruta": "/productos/colchones/queen/"
+                },
+                {
+                    "tamaño": "King",
+                    "ruta": "/productos/colchones/king/"
+                },
+                {
+                    "tamaño": "Ver todos",
+                    "ruta": "/productos/colchones/"
+                }
+            ]
+        },
+        {
+            "marca":["El cisne", "Kamas", "Paraiso", "Komfort"]
+        },
+        {
+            "línea":["Semi ortopédico", "Anátomico", "Ortopédico", "Súper ortopédico", "Hotelero", "Extra ortopédico"]
+        },
+        {
+            "nivel-de-confort":["Muy suave", "Confortable", "Intermedio", "Muy confortable", "Firme", "Muy firme"]
+        },
+        {
+            "resortes":["Bonell", "Cosisoft", "Pocket"]
+        },
+        {
+            "modelos":[
+                {
+                    "el-cisne":["Cisne CEC", "Argus", "RC-418", "Presence pillow", "RC-608", "Argus pocket", "Iconio", "Dynamic", "Valente", "Element"]
+                },
+                {
+                    "kamas":["Adel", "Rucay", "Sarki", "Safynnte", "Der prinz", "Thameo pocket", "Ramat", "Nesie", "Norole", "Thaleo pocket", "Konig", "Yurmale"]
+                },
+                {
+                    "paraiso":["Majestic", "Cancun", "Consul plus", "Eden plus", "Tropical ergo", "Medallon ergosoft", "Su majestad de lujo", "Pocket italiano", "Super star", "Super star negro", "Pocket star", "Royal prince", "Royal elizabeth", "Royal dynasty", "Royal cloud", "Abrazzo"]
+                },
+                {
+                    "komfort":["Saphir"]
+                }
+            ]
+        }
+    ]
+}

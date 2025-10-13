@@ -1,0 +1,608 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "icono": "",
+            "icono-alt": "",
+            "categoria": "Colchones",
+            "meta-titulo": "Colchones | Homesleep",
+            "ruta": "/productos/colchones/",
+            "menu-mensaje":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas.",
+                "segundo mensaje jaskdajslll",
+                "3er mensaje"
+            ],
+            "lista-uno":{
+                "titulo": "Medidas",
+                "lista":[
+                    {
+                        "titulo": "1 plaza",
+                        "ruta": "/productos/colchones/1-plaza/"
+                    },
+                    {
+                        "titulo": "1 plaza y media",
+                        "ruta": "/productos/colchones/1-plaza-y-media/"
+                    },
+                    {
+                        "titulo": "2 plazas",
+                        "ruta": "/productos/colchones/2-plazas/"
+                    },
+                    {
+                        "titulo": "queen",
+                        "ruta": "/productos/colchones/queen/"
+                    },
+                    {
+                        "titulo": "king",
+                        "ruta": "/productos/colchones/king/"
+                    },
+                    {
+                        "titulo": "ver todos",
+                        "ruta": "/productos/colchones/"
+                    }
+                ]
+            },
+            "marcas":{
+                "titulo": "Marcas",
+                "lista":[
+                    {
+                        "titulo": "El Cisne",
+                        "ruta": "/productos/colchones/?marca=el-cisne"
+                    },
+                    {
+                        "titulo": "Kamas",
+                        "ruta": "/productos/colchones/?marca=kamas"
+                    },
+                    {
+                        "titulo": "Paraiso",
+                        "ruta": "/productos/colchones/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Komfort",
+                        "ruta": "/productos/colchones/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/colchones/"
+                    }
+                ]
+            },
+            "menu-imagen":{
+                "src": "",
+                "alt": ""
+            },
+            "categoria-miniatura":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/colchones.webp",
+                "alt": ""
+            },
+            "categoria-banner":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/colchones.webp",
+                "alt": ""
+            },
+            "categoria-mensaje":[
+                "mensaje 1",
+                "mensaje 2",
+                "mensaje 3"
+            ]
+        },
+        {
+            "id": 2,
+            "icono": "",
+            "icono-alt": "",
+            "categoria": "Camas box tarimas",
+            "meta-titulo": "Camas box tarimas | Homesleep",
+            "ruta": "/productos/camas-box-tarimas/",
+            "menu-mensaje":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas.",
+                "segundo mensaje jaskdajslll",
+                "3er mensaje"
+            ],
+            "lista-1":{
+                "titulo": "Medidas",
+                "lista":[
+                    {
+                        "titulo": "1 plaza",
+                        "ruta": "/productos/camas-box-tarimas/"
+                    },
+                    {
+                        "titulo": "1 plaza y media",
+                        "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
+                    },
+                    {
+                        "titulo": "2 plazas",
+                        "ruta": "/productos/camas-box-tarimas/2-plazas/"
+                    },
+                    {
+                        "titulo": "queen",
+                        "ruta": "/productos/camas-box-tarimas/queen/"
+                    },
+                    {
+                        "titulo": "king",
+                        "ruta": "/productos/camas-box-tarimas/king/"
+                    },
+                    {
+                        "titulo": "ver todos",
+                        "ruta": "/productos/camas-box-tarimas/"
+                    }
+                ]
+            },
+            "marcas":{
+                "titulo": "Marcas",
+                "lista":[
+                    {
+                        "titulo": "El Cisne",
+                        "ruta": "/productos/camas-box-tarimas/?marca=el-cisne"
+                    },
+                    {
+                        "titulo": "Kamas",
+                        "ruta": "/productos/camas-box-tarimas/?marca=kamas"
+                    },
+                    {
+                        "titulo": "Paraiso",
+                        "ruta": "/productos/camas-box-tarimas/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Komfort",
+                        "ruta": "/productos/camas-box-tarimas/?marca=komfort"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/camas-box-tarimas/"
+                    }
+                ]
+            },
+            "menu-imagen":{
+                "src": "",
+                "alt": ""
+            },
+            "categoria-miniatura":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-box-tarimas.webp",
+                "alt": ""
+            },
+            "categoria-banner":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-box-tarimas.webp",
+                "alt": ""
+            },
+            "categoria-mensaje":[
+                "mensaje 1",
+                "mensaje 2",
+                "mensaje 3"
+            ]
+        },
+        {
+            "id": 3,
+            "icono": "",
+            "icono-alt": "",
+            "categoria": "Dormitorios",
+            "meta-titulo": "Dormitorios | Homesleep",
+            "ruta": "/productos/dormitorios/",
+            "menu-mensaje":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas.",
+                "segundo mensaje jaskdajslll",
+                "3er mensaje"
+            ],
+            "lista-1":{
+                "titulo": "Medidas",
+                "lista":[
+                    {
+                        "titulo": "1 plaza",
+                        "ruta": "/productos/dormitorios/"
+                    },
+                    {
+                        "titulo": "1 plaza y media",
+                        "ruta": "/productos/dormitorios/1-plaza-y-media/"
+                    },
+                    {
+                        "titulo": "2 plazas",
+                        "ruta": "/productos/dormitorios/2-plazas/"
+                    },
+                    {
+                        "titulo": "queen",
+                        "ruta": "/productos/dormitorios/queen/"
+                    },
+                    {
+                        "titulo": "king",
+                        "ruta": "/productos/dormitorios/king/"
+                    },
+                    {
+                        "titulo": "ver todos",
+                        "ruta": "/productos/dormitorios/"
+                    }
+                ]
+            },
+            "marcas":{
+                "titulo": "Marcas",
+                "lista":[
+                    {
+                        "titulo": "El Cisne",
+                        "ruta": "/productos/dormitorios/?marca=el-cisne"
+                    },
+                    {
+                        "titulo": "Kamas",
+                        "ruta": "/productos/dormitorios/?marca=kamas"
+                    },
+                    {
+                        "titulo": "Paraiso",
+                        "ruta": "/productos/dormitorios/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Komfort",
+                        "ruta": "/productos/dormitorios/?marca=komfort"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/dormitorios/"
+                    }
+                ]
+            },
+            "menu-imagen":{
+                "src": "",
+                "alt": ""
+            },
+            "categoria-miniatura":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/dormitorios.webp",
+                "alt": ""
+            },
+            "categoria-banner":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/dormitorios.webp",
+                "alt": ""
+            },
+            "categoria-mensaje":[
+                "mensaje 1",
+                "mensaje 2",
+                "mensaje 3"
+            ]
+        },
+        {
+            "id": 4,
+            "icono": "",
+            "icono-alt": "",
+            "categoria": "Camas funcionales",
+            "meta-titulo": "Camas funcionales | Homesleep",
+            "ruta": "/productos/camas-funcionales/",
+            "menu-mensaje":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas.",
+                "segundo mensaje jaskdajslll",
+                "3er mensaje"
+            ],
+            "lista-1":{
+                "titulo": "Medidas",
+                "lista":[
+                    {
+                        "titulo": "1 plaza",
+                        "ruta": "/productos/camas-funcionales/"
+                    },
+                    {
+                        "titulo": "1 plaza y media",
+                        "ruta": "/productos/camas-funcionales/1-plaza-y-media/"
+                    },
+                    {
+                        "titulo": "2 plazas",
+                        "ruta": "/productos/camas-funcionales/2-plazas/"
+                    },
+                    {
+                        "titulo": "queen",
+                        "ruta": "/productos/camas-funcionales/queen/"
+                    },
+                    {
+                        "titulo": "king",
+                        "ruta": "/productos/camas-funcionales/king/"
+                    },
+                    {
+                        "titulo": "ver todos",
+                        "ruta": "/productos/camas-funcionales/"
+                    }
+                ]
+            },
+            "marcas":{
+                "titulo": "Marcas",
+                "lista":[
+                    {
+                        "titulo": "El Cisne",
+                        "ruta": "/productos/camas-funcionales/?marca=el-cisne"
+                    },
+                    {
+                        "titulo": "Kamas",
+                        "ruta": "/productos/camas-funcionales/?marca=kamas"
+                    },
+                    {
+                        "titulo": "Paraiso",
+                        "ruta": "/productos/camas-funcionales/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Komfort",
+                        "ruta": "/productos/camas-funcionales/?marca=komfort"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/camas-funcionales/"
+                    }
+                ]
+            },
+            "menu-imagen":{
+                "src": "",
+                "alt": ""
+            },
+            "categoria-miniatura":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-funcionales.webp",
+                "alt": ""
+            },
+            "categoria-banner":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-funcionales.webp",
+                "alt": ""
+            },
+            "categoria-mensaje":[
+                "mensaje 1",
+                "mensaje 2",
+                "mensaje 3"
+            ]
+        },
+        {
+            "id": 5,
+            "icono": "",
+            "icono-alt": "",
+            "categoria": "Cabeceras",
+            "meta-titulo": "Cabeceras | Homesleep",
+            "ruta": "/productos/cabeceras/",
+            "menu-mensaje":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas.",
+                "segundo mensaje jaskdajslll",
+                "3er mensaje"
+            ],
+            "lista-1":{
+                "titulo": "Medidas",
+                "lista":[
+                    {
+                        "titulo": "1 plaza",
+                        "ruta": "/productos/cabeceras/"
+                    },
+                    {
+                        "titulo": "1 plaza y media",
+                        "ruta": "/productos/cabeceras/1-plaza-y-media/"
+                    },
+                    {
+                        "titulo": "2 plazas",
+                        "ruta": "/productos/cabeceras/2-plazas/"
+                    },
+                    {
+                        "titulo": "queen",
+                        "ruta": "/productos/cabeceras/queen/"
+                    },
+                    {
+                        "titulo": "king",
+                        "ruta": "/productos/cabeceras/king/"
+                    },
+                    {
+                        "titulo": "ver todos",
+                        "ruta": "/productos/cabeceras/"
+                    }
+                ]
+            },
+            "marcas":{
+                "titulo": "Marcas",
+                "lista":[
+                    {
+                        "titulo": "El Cisne",
+                        "ruta": "/productos/cabeceras/?marca=el-cisne"
+                    },
+                    {
+                        "titulo": "Kamas",
+                        "ruta": "/productos/cabeceras/?marca=kamas"
+                    },
+                    {
+                        "titulo": "Paraiso",
+                        "ruta": "/productos/cabeceras/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Komfort",
+                        "ruta": "/productos/cabeceras/?marca=komfort"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/cabeceras/"
+                    }
+                ]
+            },
+            "menu-imagen":{
+                "src": "",
+                "alt": ""
+            },
+            "categoria-miniatura":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/cabeceras.webp",
+                "alt": ""
+            },
+            "categoria-banner":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/cabeceras.webp",
+                "alt": ""
+            },
+            "categoria-mensaje":[
+                "mensaje 1",
+                "mensaje 2",
+                "mensaje 3"
+            ]
+        },
+        {
+            "id": 6,
+            "icono": "",
+            "icono-alt": "",
+            "categoria": "Sofás",
+            "meta-titulo": "Sofás | Homesleep",
+            "ruta": "/productos/sofas/",
+            "menu-mensaje":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas.",
+                "segundo mensaje jaskdajslll",
+                "3er mensaje"
+            ],
+            "marcas":{
+                "titulo": "Marcas",
+                "lista":[
+                    {
+                        "titulo": "El Cisne",
+                        "ruta": "/productos/sofas/?marca=el-cisne"
+                    },
+                    {
+                        "titulo": "Kamas",
+                        "ruta": "/productos/sofas/?marca=kamas"
+                    },
+                    {
+                        "titulo": "Paraiso",
+                        "ruta": "/productos/sofas/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Komfort",
+                        "ruta": "/productos/sofas/?marca=komfort"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/sofas/"
+                    }
+                ]
+            },
+            "modelos":{
+                "titulo": "Modelos",
+                "lista":[
+                    {
+                        "titulo": "Juegos de sala",
+                        "ruta": "/productos/sofas/juegos-de-sala/"
+                    },
+                    {
+                        "titulo": "Seccionales",
+                        "ruta": "/productos/sofas/seccionales/"
+                    },
+                    {
+                        "titulo": "Sofás camas",
+                        "ruta": "/productos/sofas/sofas-camas/"
+                    },
+                    {
+                        "titulo": "Reclinables",
+                        "ruta": "/productos/sofas/reclinables/"
+                    },
+                    {
+                        "titulo": "Sofás y sillones",
+                        "ruta": "/productos/sofas/sofas-y-sillones/"
+                    },
+                    {
+                        "titulo": "Mecedoras",
+                        "ruta": "/productos/sofas/mecedoras/"
+                    },
+                    {
+                        "titulo": "Butacas",
+                        "ruta": "/productos/sofas/butacas/"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/sofas/"
+                    }
+                ]
+            },
+            "menu-imagen":{
+                "src": "",
+                "alt": ""
+            },
+            "categoria-miniatura":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/sofas.webp",
+                "alt": ""
+            },
+            "categoria-banner":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/sofas.webp",
+                "alt": ""
+            },
+            "categoria-mensaje":[
+                "mensaje 1",
+                "mensaje 2",
+                "mensaje 3"
+            ]
+        },
+        {
+            "id": 7,
+            "icono": "",
+            "icono-alt": "",
+            "categoria": "Complementos",
+            "meta-titulo": "Complementos | Homesleep",
+            "ruta": "/productos/complementos/",
+            "menu-mensaje":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas.",
+                "segundo mensaje jaskdajslll",
+                "3er mensaje"
+            ],
+            "marcas":{
+                "titulo": "Marcas",
+                "lista":[
+                    {
+                        "titulo": "El Cisne",
+                        "ruta": "/productos/complementos/?marca=el-cisne"
+                    },
+                    {
+                        "titulo": "Kamas",
+                        "ruta": "/productos/complementos/?marca=kamas"
+                    },
+                    {
+                        "titulo": "Paraiso",
+                        "ruta": "/productos/complementos/?marca=paraiso"
+                    },
+                    {
+                        "titulo": "Komfort",
+                        "ruta": "/productos/complementos/?marca=komfort"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/sofas/"
+                    }
+                ]
+            },
+            "sub-categorias":{
+                "titulo": "Sub categorías",
+                "lista":[
+                    {
+                        "titulo": "Veladores",
+                        "ruta": "/productos/complementos/veladores/"
+                    },
+                    {
+                        "titulo": "Baúles",
+                        "ruta": "/productos/complementos/baules/"
+                    },
+                    {
+                        "titulo": "Bases",
+                        "ruta": "/productos/complementos/bases/"
+                    },
+                    {
+                        "titulo": "Puffs",
+                        "ruta": "/productos/complementos/puffs/"
+                    },
+                    {
+                        "titulo": "Almohadas",
+                        "ruta": "/productos/complementos/almohadas/"
+                    },
+                    {
+                        "titulo": "Sábanas y cobertores",
+                        "ruta": "/productos/complementos/sabanas-y-cobertores/"
+                    },
+                    {
+                        "titulo": "Cama perro",
+                        "ruta": "/productos/complementos/cama-perro/"
+                    },
+                    {
+                        "titulo": "Ver todos",
+                        "ruta": "/productos/complementos/"
+                    }
+                ]
+            },
+            "menu-imagen":{
+                "src": "",
+                "alt": ""
+            },
+            "categoria-miniatura":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/complementos.webp",
+                "alt": ""
+            },
+            "categoria-banner":{
+                "src": "https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/complementos.webp",
+                "alt": ""
+            },
+            "categoria-mensaje":[
+                "mensaje 1",
+                "mensaje 2",
+                "mensaje 3"
+            ]
+        }
+    ]
+}

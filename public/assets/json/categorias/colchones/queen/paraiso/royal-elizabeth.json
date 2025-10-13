@@ -1,0 +1,71 @@
+{
+    "productos":[
+        {
+            "id": 3,
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "royal elizabeth",
+            "ruta": "/productos/colchones/queen/paraiso/royal-elizabeth/",
+            "nombre": "COLCHÓN PARAISO ROYAL ELIZABETH QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-elizabeth/",
+            "precioRegular": 2439,
+            "precioNormal": 2108,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "H1239N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada viscoelástica",
+                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal elizabeth",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-elizabeth/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-elizabeth/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/paraiso/royal-elizabeth/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal elizabeth",
+                    "tamaño": "Queen",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "Pocket",
+                    "tela": "Tejido de punto higroscópica",
+                    "sistema": "one side",
+                    "marco": "zebra 30 HD",
+                    "espuma": "Viscoelástica D70",
+                    "capas": "3 de Zebra D20",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

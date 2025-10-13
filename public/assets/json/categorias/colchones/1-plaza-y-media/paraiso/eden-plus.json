@@ -1,0 +1,54 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "eden plus",
+            "ruta": "/productos/colchones/1-plaza-y-media/paraiso/eden-plus/",
+            "nombre": "COLCHÓN PARAISO EDEN PLUS 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/eden-plus/",
+            "precioRegular": 999,
+            "precioNormal": 367,
+            "precioVenta": 239,
+            "stock": 14,
+            "sku": "H12158N10",
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Eden plus",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/paraiso/eden-plus/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Eden plus",
+                    "tamaño": "1 plaza y media",
+                    "nivel-de-confort": "Intermedio",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tela": "Jacquard",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "acabado": "vaporizado",
+                    "tipo-de-resorte": "Bonell",
+                    "capas": "2 zebra 18",
+                    "marco": "zebra 16",
+                    "sistema": "double side",
+                    "sensación": "intermedia",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

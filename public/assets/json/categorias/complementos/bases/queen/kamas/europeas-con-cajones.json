@@ -1,0 +1,53 @@
+{
+    "productos":[
+        {
+            "id": 23,
+            "categoria": "complementos",
+            "subcategoria": "bases",
+            "marca": "kamas",
+            "linea": "europeas",
+            "tamaño": "queen",
+            "ruta": "/productos/complementos/bases/queen/kamas/europeas-con-cajones/1/",
+            "nombre": "BASE SOLA EUROPEA QUEEN + 2 CAJONES LATERALES - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/queen/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 1249,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "K7334N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "sub-categoría": "bases",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

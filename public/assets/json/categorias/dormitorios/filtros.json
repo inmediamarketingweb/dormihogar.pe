@@ -1,208 +1,66 @@
-[
-    {
-        "id": 1,
-        "titulo": "Marca",
-        "nombre": "marca",
-        "lista":[
-            {
-                "nombre": "Kamas"
-            },
-            {
-                "nombre": "Paraiso"
-            },
-            {
-                "nombre": "Kamas - Paraiso"
-            },
-            {
-                "nombre": "El cisne"
-            },
-            {
-                "nombre": "Kamas - El Cisne"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "titulo": "Línea",
-        "nombre": "línea",
-        "lista":[
-            {
-                "nombre": "Clásica"
-            },
-            {
-                "nombre": "Americano"
-            },
-            {
-                "nombre": "Europeo"
-            },
-            {
-                "nombre": "Madera natural"
-            },
-            {
-                "nombre": "Premium"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "titulo": "Tamaño",
-        "nombre": "tamaño",
-        "lista":[
-            {
-                "id": 1,
-                "nombre": "1 plaza"
-            },
-            {
-                "id": 2,
-                "nombre": "1 plaza y media"
-            },
-            {
-                "id": 3,
-                "nombre": "2 plazas"
-            },
-            {
-                "id": 4,
-                "nombre": "Queen"
-            },
-            {
-                "id": 5,
-                "nombre": "King"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "titulo": "Cajones",
-        "nombre": "cajones",
-        "lista":[
-            {
-                "nombre": "Si"
-            },
-            {
-                "nombre": "No"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "titulo": "Base encajonada",
-        "nombre": "base-encajonada",
-        "lista":[
-            {
-                "nombre": "Si"
-            },
-            {
-                "nombre": "No"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "titulo": "Modelo de colchón",
-        "nombre": "modelo-de-colchón",
-        "lista":[
-            {
-                "nombre": "Adel"
-            },
-            {
-                "nombre": "Rucay"
-            },
-            {
-                "nombre": "Sarki"
-            },
-            {
-                "nombre": "Safynnte"
-            },
-            {
-                "nombre": "Der prinz"
-            },
-            {
-                "nombre": "Thameo pocket"
-            },
-            {
-                "nombre": "Ramat"
-            },
-            {
-                "nombre": "Nesie"
-            },
-            {
-                "nombre": "Norole"
-            },
-            {
-                "nombre": "Thaleo pocket"
-            },
-            {
-                "nombre": "Konig"
-            },
-            {
-                "nombre": "Yurmale"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "titulo": "Tipo de cabecera",
-        "nombre": "tipo-de-cabecera",
-        "lista":[
-            {
-                "nombre": "Aérea"
-            },
-            {
-                "nombre": "Aérea con patas"
-            },
-            {
-                "nombre": "Pedestal"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "titulo": "Diseño de cabecera",
-        "nombre": "diseño-de-cabecera",
-        "lista":[
-            {
-                "nombre": "Infantil"
-            },
-            {
-                "nombre": "Clásica"
-            },
-            {
-                "nombre": "Americana"
-            },
-            {
-                "nombre": "Con marco"
-            },
-            {
-                "nombre": "Corona"
-            },
-            {
-                "nombre": "Bloques"
-            },
-            {
-                "nombre": "Otras formas"
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "titulo": "Brazos de cabecera",
-        "nombre": "brazos-de-cabecera",
-        "lista":[
-            {
-                "nombre": "Sin brazos"
-            },
-            {
-                "nombre": "Brazos rectos"
-            },
-            {
-                "nombre": "Brazos curvos"
-            },
-            {
-                "nombre": "Brazos P"
-            },
-            {
-                "nombre": "Brazos seahorse"
-            }
-        ]
-    }
-]
+{
+    "filtros":[
+        {
+            "tamaño":[
+                {
+                    "tamaño": "1 plaza",
+                    "ruta": "/productos/dormitorios/1-plaza/"
+                },
+                {
+                    "tamaño": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/"
+                },
+                {
+                    "tamaño": "2 plazas",
+                    "ruta": "/productos/dormitorios/2-plazas/"
+                },
+                {
+                    "tamaño": "Queen",
+                    "ruta": "/productos/dormitorios/queen/"
+                },
+                {
+                    "tamaño": "King",
+                    "ruta": "/productos/dormitorios/king/"
+                },
+                {
+                    "tamaño": "Ver todos",
+                    "ruta": "/productos/dormitorios/"
+                }
+            ]
+        },
+        {
+            "marca":["El cisne", "Kamas - El cisne", "Kamas", "Paraiso", "Kamas - Paraiso", "Komfort", "Komfort - Kamas"]
+        },
+        {
+            "línea":["clásicos", "americanos", "americanos con cajones", "europeos", "europeos con cajones"]
+        },
+        {
+            "base-encajonada":["si", "no"]
+        },
+        {
+            "modelos":[
+                {
+                    "el-cisne":["Cisne CEC", "Argus", "RC-418", "Presence pillow", "RC-608", "Argus pocket", "Iconio", "Dynamic", "Valente", "Element"]
+                },
+                {
+                    "kamas":["Adel", "Rucay", "Sarki", "Safynnte", "Der prinz", "Thameo pocket", "Ramat", "Nesie", "Norole", "Thaleo pocket", "Konig", "Yurmale"]
+                },
+                {
+                    "paraiso":["Majestic", "Cancun", "Consul plus", "Eden plus", "Tropical ergo", "Medallon ergosoft", "Su majestad de lujo", "Pocket italiano", "Super star", "Super star negro", "Pocket star", "Royal prince", "Royal elizabeth", "Royal dynasty", "Royal cloud", "Abrazzo"]
+                },
+                {
+                    "komfort":["Saphir"]
+                }
+            ]
+        },
+        {
+            "tipo-de-cabecera":["aérea", "aérea con patas", "pedestal"]
+        },
+        {
+            "diseño-de-cabecera":["infantil", "clásico", "americano", "con marco", "corona", "bloques"]
+        },
+        {
+            "brazos-de-cabecera":["sin brazos", "brazos rectos", "brazos curvos", "brazos p", "brazos seahorse"]
+        }
+    ]
+}

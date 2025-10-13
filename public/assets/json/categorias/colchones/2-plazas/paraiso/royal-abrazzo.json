@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "paraiso",
+            "subcategoria": "royal abrazzo",
+            "ruta": "/productos/colchones/2-plazas/paraiso/royal-abrazzo/",
+            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO 2 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
+            "precioRegular": 2750,
+            "precioNormal": 1929,
+            "precioVenta": 1249,
+            "stock": 14,
+            "sku": "H1221N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas viscoelásticas",
+                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal abrazzo",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Muy suave",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-abrazzo/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/paraiso/royal-abrazzo/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/paraiso/royal-abrazzo/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "modelo-de-colchón": "Royal abrazzo",
+                    "tamaño": "2 plazas",
+                    "nivel-de-confort": "Muy suave",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "tratamiento": "Antihongos, antibacterias y antiacaros",
+                    "tela": "Tejido de punto higroscópica con diseño 3D",
+                    "espuma": "Viscoelástica D70",
+                    "capas": "Capas de Zebras 35 HR y 35 HD",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

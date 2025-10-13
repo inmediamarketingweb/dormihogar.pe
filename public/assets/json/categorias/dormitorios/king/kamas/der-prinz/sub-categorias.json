@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios - King - Kamas - Der Prinz - Americanos | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/"
+        },
+        {
+            "subcategoria": "americanos con cajones",
+            "metaTitulo": "Dormitorios - King - Kamas - Der Prinz - Americanos con cajones | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/"
+        },
+        {
+            "subcategoria": "europeos con cajones",
+            "metaTitulo": "Dormitorios - King - Kamas - Der Prinz - Europeos con cajones | Homesleep",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/europeos-con-cajones/"
+        }
+    ]
+}

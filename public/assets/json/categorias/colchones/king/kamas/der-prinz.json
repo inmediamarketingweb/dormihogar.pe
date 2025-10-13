@@ -1,0 +1,72 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "der prinz",
+            "ruta": "/productos/colchones/king/kamas/der-prinz/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ KING",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/",
+            "precioRegular": 1650,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "H1147N10",
+            "incluye":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Super ortopédico",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/der-prinz/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/der-prinz/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/kamas/der-prinz/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Super ortopédico",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "19 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "30cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

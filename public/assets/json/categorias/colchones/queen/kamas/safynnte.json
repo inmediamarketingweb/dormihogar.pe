@@ -1,0 +1,70 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "safynnte",
+            "ruta": "/productos/colchones/queen/kamas/safynnte/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
+            "precioRegular": 1290,
+            "precioNormal": 999,
+            "precioVenta": 699,
+            "stock": 99,
+            "sku": "H1136N10",
+            "regalos":{
+                "texto": "2 almohadas",
+                "foto": "/assets/imagenes/productos/almohadas.webp"
+            },
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "Queen",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Super ortopédico"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/safynnte/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/safynnte/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/safynnte/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "Queen",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Super ortopédico",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "16 filas",
+                    "material-de-resortes": "Acero templado",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "De espuma",
+                    "grosor": "30cm.",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

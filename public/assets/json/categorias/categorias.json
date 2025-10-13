@@ -5,11 +5,38 @@
             "icono": "/assets/imagenes/componentes/header/colchones.svg",
             "iconoAlt": "Colchón vector",
             "categoria": "Colchones",
-            "metaTitulo": "Colchones | Dormihogar",
+            "metaTitulo": "Colchones | Homesleep",
             "ruta": "/productos/colchones/",
             "menuMensaje":[
                 {
-                    "text": "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y marcas."
+                    "text": "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y Marcass propios."
+                }
+            ],
+            "medidas":[
+                {
+                    "id": 2,
+                    "medida": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/"
+                },
+                {
+                    "id": 3,
+                    "medida": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/"
+                },
+                {
+                    "id": 4,
+                    "medida": "Queen",
+                    "ruta": "/productos/colchones/queen/"
+                },
+                {
+                    "id": 5,
+                    "medida": "King",
+                    "ruta": "/productos/colchones/king/"
+                },
+                {
+                    "id": 6,
+                    "medida": "Ver todos",
+                    "ruta": "/productos/colchones/"
                 }
             ],
             "subCategoriasTitulo":[
@@ -21,64 +48,38 @@
                 {
                     "id": 1,
                     "subcategoria": "Kamas",
-                    "metaTitulo": "Colchones - Kamas | Dormihogar",
+                    "metaTitulo": "Colchones - Kamas | Homesleep",
                     "ruta": "/productos/colchones/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
-                    "metaTitulo": "Colchones - Paraiso | Dormihogar",
+                    "metaTitulo": "Colchones - Paraiso | Homesleep",
                     "ruta": "/productos/colchones/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
-                    "metaTitulo": "Colchones - El Cisne | Dormihogar",
+                    "metaTitulo": "Colchones - El Cisne | Homesleep",
                     "ruta": "/productos/colchones/?marca=el-cisne"
                 },
                 {
                     "id": 4,
-                    "subcategoria": "Ver todos",
-                    "metaTitulo": "Colchones | Dormihogar",
-                    "ruta": "/productos/colchones/"
-                }
-            ],
-            "medidas":[
-                {
-                    "id": 1,
-                    "medida": "1 plaza",
-                    "ruta": "/productos/colchones?tamaño=1-plaza"
-                },
-                {
-                    "id": 2,
-                    "medida": "1 plaza y media",
-                    "ruta": "/productos/colchones?tamaño=1-plaza-y-media"
-                },
-                {
-                    "id": 3,
-                    "medida": "2 plazas",
-                    "ruta": "/productos/colchones?tamaño=2-plazas"
-                },
-                {
-                    "id": 4,
-                    "medida": "Queen",
-                    "ruta": "/productos/colchones?tamaño=queen"
+                    "subcategoria": "Komfort",
+                    "metaTitulo": "Colchones - Komfort | Homesleep",
+                    "ruta": "/productos/colchones/?marca=komfort"
                 },
                 {
                     "id": 5,
-                    "medida": "King",
-                    "ruta": "/productos/colchones?tamaño=king"
-                },
-                {
-                    "id": 6,
-                    "medida": "Ver todos",
+                    "subcategoria": "Ver todos",
+                    "metaTitulo": "Colchones | Homesleep",
                     "ruta": "/productos/colchones/"
                 }
             ],
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/colchones/1.webp",
-                    "imgAlt": "Colchones | Dormihogar"
+                    "imgAlt": "Colchones | Homesleep"
                 }
             ]
         },
@@ -87,11 +88,38 @@
             "icono": "/assets/imagenes/componentes/header/cama-box-tarimas.svg",
             "iconoAlt": "Cama box tarima vector",
             "categoria": "Camas box tarimas",
-            "metaTitulo": "Camas box tarimas | Dormihogar",
+            "metaTitulo": "Camas box tarimas | Homesleep",
             "ruta": "/productos/camas-box-tarimas/",
             "menuMensaje":[
                 {
                     "text": "Bases con diseños americanos, europeos con o sin cajones... son la base de un buen descanso."
+                }
+            ],
+            "medidas":[
+                {
+                    "id": 2,
+                    "medida": "1 plaza y media",
+                    "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
+                },
+                {
+                    "id": 3,
+                    "medida": "2 plazas",
+                    "ruta": "/productos/camas-box-tarimas/2-plazas/"
+                },
+                {
+                    "id": 4,
+                    "medida": "Queen",
+                    "ruta": "/productos/camas-box-tarimas/queen/"
+                },
+                {
+                    "id": 5,
+                    "medida": "King",
+                    "ruta": "/productos/camas-box-tarimas/king/"
+                },
+                {
+                    "id": 6,
+                    "medida": "Ver todos",
+                    "ruta": "/productos/camas-box-tarimas/"
                 }
             ],
             "subCategoriasTitulo":[
@@ -103,64 +131,32 @@
                 {
                     "id": 1,
                     "subcategoria": "Kamas",
-                    "metaTitulo": "Camas box tarimas - Kamas | Dormihogar",
+                    "metaTitulo": "Camas box tarimas - Kamas | Homesleep",
                     "ruta": "/productos/camas-box-tarimas/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraíso",
-                    "metaTitulo": "Camas box tarimas - Paraíso | Dormihogar",
+                    "metaTitulo": "Camas box tarimas - Paraíso | Homesleep",
                     "ruta": "/productos/camas-box-tarimas/?marca=paraiso"
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Cisne",
-                    "metaTitulo": "Camas box tarimas - Cisne | Dormihogar",
+                    "subcategoria": "El cisne",
+                    "metaTitulo": "Camas box tarimas - El Cisne | Homesleep",
                     "ruta": "/productos/camas-box-tarimas/?marca=el-cisne"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Ver todos",
-                    "metaTitulo": "Camas box tarimas | Dormihogar",
-                    "ruta": "/productos/camas-box-tarimas/"
-                }
-            ],
-            "medidas":[
-                {
-                    "id": 1,
-                    "medida": "1 plaza",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=1-plaza"
-                },
-                {
-                    "id": 2,
-                    "medida": "1 plaza y media",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=1-plaza-y-media"
-                },
-                {
-                    "id": 3,
-                    "medida": "2 plazas",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=2-plazas"
-                },
-                {
-                    "id": 4,
-                    "medida": "Queen",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=queen"
-                },
-                {
-                    "id": 5,
-                    "medida": "King",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=king"
-                },
-                {
-                    "id": 6,
-                    "medida": "Ver todos",
+                    "metaTitulo": "Camas box tarimas | Homesleep",
                     "ruta": "/productos/camas-box-tarimas/"
                 }
             ],
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/camas-box-tarimas/1.webp",
-                    "imgAlt": "Cama box tarimas | Dormihogar"
+                    "imgAlt": "Cama box tarimas | Homesleep"
                 }
             ]
         },
@@ -169,7 +165,7 @@
             "icono": "/assets/imagenes/componentes/header/cama-box-tarimas.svg",
             "iconoAlt": "dormitorio vector",
             "categoria": "Dormitorios",
-            "metaTitulo": "Dormitorios | Dormihogar",
+            "metaTitulo": "Dormitorios | Homesleep",
             "ruta": "/productos/dormitorios/",
             "menuMensaje":[
                 {
@@ -185,25 +181,25 @@
                 {
                     "id": 1,
                     "subcategoria": "Kamas",
-                    "metaTitulo": "Dormitorios - Kamas | Dormihogar",
+                    "metaTitulo": "Dormitorios - Kamas | Homesleep",
                     "ruta": "/productos/dormitorios/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
-                    "metaTitulo": "Dormitorios - Paraiso | Dormihogar",
+                    "metaTitulo": "Dormitorios - Paraiso | Homesleep",
                     "ruta": "/productos/dormitorios/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
-                    "metaTitulo": "Dormitorios - El Cisne | Dormihogar",
+                    "metaTitulo": "Dormitorios - El Cisne | Homesleep",
                     "ruta": "/productos/dormitorios/?marca=el-cisne"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Ver todos",
-                    "metaTitulo": "Dormitorios | Dormihogar",
+                    "metaTitulo": "Dormitorios | Homesleep",
                     "ruta": "/productos/dormitorios/"
                 }
             ],
@@ -211,27 +207,27 @@
                 {
                     "id": 1,
                     "medida": "1 plaza",
-                    "ruta": "/productos/dormitorios?tamaño=1-plaza"
+                    "ruta": "/productos/dormitorios/1-plaza/"
                 },
                 {
                     "id": 2,
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/dormitorios?tamaño=1-plaza-y-media"
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/"
                 },
                 {
                     "id": 3,
                     "medida": "2 plazas",
-                    "ruta": "/productos/dormitorios?tamaño=2-plazas"
+                    "ruta": "/productos/dormitorios/2-plazas/"
                 },
                 {
                     "id": 4,
                     "medida": "Queen",
-                    "ruta": "/productos/dormitorios?tamaño=queen"
+                    "ruta": "/productos/dormitorios/queen/"
                 },
                 {
                     "id": 5,
                     "medida": "King",
-                    "ruta": "/productos/dormitorios?tamaño=king"
+                    "ruta": "/productos/dormitorios/king/"
                 },
                 {
                     "id": 6,
@@ -242,7 +238,7 @@
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/dormitorios/1.webp",
-                    "imgAlt": "Dormitorios | Dormihogar"
+                    "imgAlt": "Dormitorios | Homesleep"
                 }
             ]
         },
@@ -251,7 +247,7 @@
             "categoria": "Camas funcionales",
             "icono": "/assets/imagenes/componentes/header/camas-funcionales.svg",
             "iconoAlt": "Box espacio vector",
-            "metaTitulo": "Camas funcionales | Dormihogar",
+            "metaTitulo": "Camas funcionales | Homesleep",
             "ruta": "/productos/camas-funcionales/",
             "menuMensaje":[
                 {
@@ -267,25 +263,25 @@
                 {
                     "id": 1,
                     "subcategoria": "Kamas",
-                    "metaTitulo": "Camas funcionales - Kamas | Dormihogar",
+                    "metaTitulo": "Camas funcionales - Kamas | Homesleep",
                     "ruta": "/productos/camas-funcionales/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraíso",
-                    "metaTitulo": "Camas funcionales - Paraíso | Dormihogar",
+                    "metaTitulo": "Camas funcionales - Paraíso | Homesleep",
                     "ruta": "/productos/camas-funcionales/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
-                    "metaTitulo": "Camas funcionales - El Cisne | Dormihogar",
+                    "metaTitulo": "Camas funcionales - El Cisne | Homesleep",
                     "ruta": "/productos/camas-funcionales/?marca=el-cisne"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Ver todos",
-                    "metaTitulo": "Camas funcionales | Dormihogar",
+                    "metaTitulo": "Camas funcionales | Homesleep",
                     "ruta": "/productos/camas-funcionales/"
                 }
             ],
@@ -293,27 +289,27 @@
                 {
                     "id": 1,
                     "medida": "1 plaza",
-                    "ruta": "/productos/camas-funcionales?tamaño=1-plaza"
+                    "ruta": "/productos/camas-funcionales/1-plaza/"
                 },
                 {
                     "id": 2,
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/camas-funcionales?tamaño=1-plaza-y-media"
+                    "ruta": "/productos/camas-funcionales/1-plaza-y-media/"
                 },
                 {
                     "id": 3,
                     "medida": "2 plazas",
-                    "ruta": "/productos/camas-funcionales?tamaño=2-plazas"
+                    "ruta": "/productos/camas-funcionales/2-plazas/"
                 },
                 {
                     "id": 4,
                     "medida": "Queen",
-                    "ruta": "/productos/camas-funcionales?tamaño=queen"
+                    "ruta": "/productos/camas-funcionales/queen/"
                 },
                 {
                     "id": 5,
                     "medida": "King",
-                    "ruta": "/productos/camas-funcionales?tamaño=king"
+                    "ruta": "/productos/camas-funcionales/king/"
                 },
                 {
                     "id": 6,
@@ -324,7 +320,7 @@
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/camas-funcionales/1.webp",
-                    "imgAlt": "Camas funcionales | Dormihogar"
+                    "imgAlt": "Camas funcionales | Homesleep"
                 }
             ]
         },
@@ -333,7 +329,7 @@
             "icono": "/assets/imagenes/componentes/header/cabeceras.svg",
             "iconoAlt": "Cabecera vector",
             "categoria": "Cabeceras",
-            "metaTitulo": "Cabeceras | Dormihogar",
+            "metaTitulo": "Cabeceras | Homesleep",
             "ruta": "/productos/cabeceras/",
             "menuMensaje":[
                 {
@@ -349,25 +345,25 @@
                 {
                     "id": 1,
                     "subcategoria": "Kamas",
-                    "metaTitulo": "Cabeceras - Kamas | Dormihogar",
+                    "metaTitulo": "Cabeceras - Kamas | Homesleep",
                     "ruta": "/productos/cabeceras/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
-                    "metaTitulo": "Cabeceras - Paraiso | Dormihogar",
+                    "metaTitulo": "Cabeceras - Paraiso | Homesleep",
                     "ruta": "/productos/cabeceras/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
-                    "metaTitulo": "Cabeceras - El Cisne | Dormihogar",
+                    "metaTitulo": "Cabeceras - El Cisne | Homesleep",
                     "ruta": "/productos/cabeceras/?marca=el-cisne"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Ver todos",
-                    "metaTitulo": "Cabeceras | Dormihogar",
+                    "metaTitulo": "Cabeceras | Homesleep",
                     "ruta": "/productos/cabeceras/"
                 }
             ],
@@ -375,27 +371,27 @@
                 {
                     "id": 1,
                     "medida": "1 plaza",
-                    "ruta": "/productos/cabeceras?tamaño=1-plaza"
+                    "ruta": "/productos/cabeceras/1-plaza/"
                 },
                 {
                     "id": 2,
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/cabeceras?tamaño=1-plaza-y-media"
+                    "ruta": "/productos/cabeceras/1-plaza-y-media/"
                 },
                 {
                     "id": 3,
                     "medida": "2 plazas",
-                    "ruta": "/productos/cabeceras?tamaño=2-plazas"
+                    "ruta": "/productos/cabeceras/2-plazas/"
                 },
                 {
                     "id": 4,
                     "medida": "Queen",
-                    "ruta": "/productos/cabeceras?tamaño=queen"
+                    "ruta": "/productos/cabeceras/queen/"
                 },
                 {
                     "id": 5,
                     "medida": "King",
-                    "ruta": "/productos/cabeceras?tamaño=king"
+                    "ruta": "/productos/cabeceras/king/"
                 },
                 {
                     "id": 6,
@@ -406,7 +402,7 @@
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/cabeceras/1.webp",
-                    "imgAlt": "Cabeceras | Dormihogar"
+                    "imgAlt": "Cabeceras | Homesleep"
                 }
             ]
         },
@@ -415,7 +411,7 @@
             "icono": "/assets/imagenes/componentes/header/sofa.svg",
             "iconoAlt": "Sofá vector",
             "categoria": "Sofás",
-            "metaTitulo": "Sofás | Dormihogar",
+            "metaTitulo": "Sofás | Homesleep",
             "ruta": "/productos/sofas/",
             "menuMensaje":[
                 {
@@ -431,25 +427,25 @@
                 {
                     "id": 1,
                     "subcategoria": "Kamas",
-                    "metaTitulo": "Sofás - Kamas | Dormihogar",
-                    "ruta": "/productos/sofas/?marca=kamas/"
+                    "metaTitulo": "Sofás - Kamas | Homesleep",
+                    "ruta": "/productos/sofas/?marca=kamas"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Paraiso",
-                    "metaTitulo": "Sofás - Paraiso | Dormihogar",
-                    "ruta": "/productos/sofas/?marca=paraiso/"
+                    "metaTitulo": "Sofás - Paraiso | Homesleep",
+                    "ruta": "/productos/sofas/?marca=paraiso"
                 },
                 {
                     "id": 3,
                     "subcategoria": "El Cisne",
-                    "metaTitulo": "Sofás - El Cisne | Dormihogar",
-                    "ruta": "/productos/sofas/?marca=el-cisne/"
+                    "metaTitulo": "Sofás - El Cisne | Homesleep",
+                    "ruta": "/productos/sofas/?marca=el-cisne"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Ver todos",
-                    "metaTitulo": "Sofás | Dormihogar",
+                    "metaTitulo": "Sofás | Homesleep",
                     "ruta": "/productos/sofas/"
                 }
             ],
@@ -457,56 +453,56 @@
                 {
                     "id": 1,
                     "modelo": "Juegos de sala",
-                    "metaTitulo": "Sofás - Juegos de sala | Dormihogar",
+                    "metaTitulo": "Sofás - Juegos de sala | Homesleep",
                     "ruta": "/productos/sofas/?modelo=juegos-de-sala"
                 },
                 {
                     "id": 2,
                     "modelo": "Seccionales",
-                    "metaTitulo": "Sofás - Seccionales | Dormihogar",
+                    "metaTitulo": "Sofás - Seccionales | Homesleep",
                     "ruta": "/productos/sofas/?modelo=seccionales"
                 },
                 {
                     "id": 3,
                     "modelo": "Sofás camas",
-                    "metaTitulo": "Sofás - Sofás camas | Dormihogar",
+                    "metaTitulo": "Sofás - Sofás camas | Homesleep",
                     "ruta": "/productos/sofas/?modelo=sofás-camas"
                 },
                 {
                     "id": 4,
                     "modelo": "Reclinales",
-                    "metaTitulo": "Sofás - Reclinables | Dormihogar",
+                    "metaTitulo": "Sofás - Reclinables | Homesleep",
                     "ruta": "/productos/sofas/?modelo=reclinables"
                 },
                 {
                     "id": 5,
                     "modelo": "Sofás y sillones",
-                    "metaTitulo": "Sofás - Sofás y sillones | Dormihogar",
+                    "metaTitulo": "Sofás - Sofás y sillones | Homesleep",
                     "ruta": "/productos/sofas/?modelo=sofas-y-sillones"
                 },
                 {
                     "id": 6,
                     "modelo": "Mecedoras",
-                    "metaTitulo": "Sofás - Mecedoras | Dormihogar",
+                    "metaTitulo": "Sofás - Mecedoras | Homesleep",
                     "ruta": "/productos/sofas/?modelo=mecedoras"
                 },
                 {
                     "id": 7,
                     "modelo": "Butacas",
-                    "metaTitulo": "Sofás - Butacas | Dormihogar",
+                    "metaTitulo": "Sofás - Butacas | Homesleep",
                     "ruta": "/productos/sofas/?modelo=butacas"
                 },
                 {
                     "id": 8,
                     "modelo": "Ver todos",
-                    "metaTitulo": "Sofás | Dormihogar",
+                    "metaTitulo": "Sofás | Homesleep",
                     "ruta": "/productos/sofas/"
                 }
             ],
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/sofas/1.webp",
-                    "imgAlt": "Sofás | Dormihogar"
+                    "imgAlt": "Sofás | Homesleep"
                 }
             ]
         },
@@ -515,7 +511,7 @@
             "icono": "/assets/imagenes/componentes/header/complementos.svg",
             "iconoAlt": "Velador vector",
             "categoria": "Complementos",
-            "metaTitulo": "Complementos | Dormihogar",
+            "metaTitulo": "Complementos | Homesleep",
             "ruta": "/productos/complementos/",
             "menuMensaje":[
                 {
@@ -531,64 +527,58 @@
                 {
                     "id": 1,
                     "subcategoria": "Veladores",
-                    "metaTitulo": "Complementos - Veladores | Dormihogar",
+                    "metaTitulo": "Complementos - Veladores | Homesleep",
                     "ruta": "/productos/complementos/?sub-categoría=veladores"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Baúles",
-                    "metaTitulo": "Complementos - Baúles | Dormihogar",
+                    "metaTitulo": "Complementos - Baúles | Homesleep",
                     "ruta": "/productos/complementos/?sub-categoría=baules"
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Base sola",
-                    "metaTitulo": "Complementos - Base sola | Dormihogar",
-                    "ruta": "/productos/complementos/?sub-categoría=base-sola"
+                    "subcategoria": "Bases",
+                    "metaTitulo": "Complementos - Bases | Homesleep",
+                    "ruta": "/productos/complementos/?sub-categoría=bases"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Puffs",
-                    "metaTitulo": "Complementos - Puffs | Dormihogar",
+                    "metaTitulo": "Complementos - Puffs | Homesleep",
                     "ruta": "/productos/complementos/?sub-categoría=puffs"
                 },
                 {
                     "id": 5,
                     "subcategoria": "Almohadas",
-                    "metaTitulo": "Complementos - Almohadas | Dormihogar",
+                    "metaTitulo": "Complementos - Almohadas | Homesleep",
                     "ruta": "/productos/complementos/?sub-categoría=almohadas"
                 },
                 {
                     "id": 6,
                     "subcategoria": "Sábanas y cobertores",
-                    "metaTitulo": "Complementos - Sábanas y cobertores | Dormihogar",
+                    "metaTitulo": "Complementos - Sábanas y cobertores | Homesleep",
                     "ruta": "/productos/complementos/?sub-categoría=sabanas-y-cobertores"
                 },
                 {
                     "id": 7,
                     "subcategoria": "Cama perro",
-                    "metaTitulo": "Complementos - Cama perro | Dormihogar",
+                    "metaTitulo": "Complementos - Cama perro | Homesleep",
                     "ruta": "/productos/complementos/?sub-categoría=cama-perro"
                 },
                 {
                     "id": 8,
                     "subcategoria": "Ver todos",
-                    "metaTitulo": "Complementos | Dormihogar",
+                    "metaTitulo": "Complementos | Homesleep",
                     "ruta": "/productos/complementos/"
                 }
             ],
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/complementos/1.webp",
-                    "imgAlt": "Sofás | Dormihogar"
+                    "imgAlt": "Sofás | Homesleep"
                 }
             ]
-        },
-        {
-            "id": 8,
-            "icono": "sell",
-            "categoria": "Ofertas",
-            "ruta": "/ofertas/"
         }
     ]
 }

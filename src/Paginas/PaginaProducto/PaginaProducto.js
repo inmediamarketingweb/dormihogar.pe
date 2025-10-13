@@ -20,151 +20,156 @@ import './PaginaProducto.css';
 
 const MasProductos = lazy(() => import('./Componentes/MasProductos/MasProductos'));
 
+function normalizePathWithTrailingSlash(p = "") {
+    if (!p) return "/";
+    return p.endsWith("/") ? p : p + "/";
+}
+
 function PaginaProducto(){
     const [shippingInfo, setShippingInfo] = useState(null);
     const [shippingOptions, setShippingOptions] = useState([]);
     const [selectedShipping, setSelectedShipping] = useState({ tipo: null, precio: null });
     const location = useLocation();
-    const [productoData, setProductoData] = useState({
-        producto: null,
-        imagenes: [],
-        error: false,
-        loading: true
-    });
+    const [productoData, setProductoData] = useState({ producto: null, imagenes: [], error: false, loading: true});
     const [selectedColor, setSelectedColor] = useState(null);
     const [quantity, setQuantity] = useState(1);
-
-    const [userName, setUserName] = useState(
-        typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : ''
-    );
+    const [userName, setUserName] = useState(typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : '');
+    const [isCategoryFallback, setIsCategoryFallback] = useState(false);
+    const [categoryProducts, setCategoryProducts] = useState([]);
 
     useEffect(() => {
-        const fetchProducto = async () => {
-            try {
-                const path = location.pathname;
-                
-                try {
-                    const indexResponse = await fetch('/assets/json/manifest.json');
-                    const productIndex = await indexResponse.json();
-                    const productPath = productIndex[path];
-                    
-                    if (productPath) {
-                        const response = await fetch(productPath);
-                        const productoData = await response.json();
-                        
-                        setProductoData(prev => ({
-                            ...prev,
-                            producto: productoData,
-                            loading: false
-                        }));
-                        
-                        cargarImagenesOptimizadas(productoData.fotos);
-                        return;
-                    }
-                } catch (indexError) {
-                    console.warn("No se encontró índice de productos, usando búsqueda alternativa");
-                }
+        let cancelled = false;
 
-                const pathParts = path.split('/').filter(p => p);
-                const searchPaths = [];
-                for (let i = 3; i <= Math.min(7, pathParts.length); i++) {
-                    searchPaths.push(`/${pathParts.slice(0, i).join('/')}/`);
-                }
+        const fetchProducto = async () => {
+            setProductoData(prev => ({ ...prev, loading: true, error: false }));
+            setIsCategoryFallback(false);
+            setCategoryProducts([]);
+
+            const path = normalizePathWithTrailingSlash(location.pathname);
+
+            try{
+                let filesList = [];
+                try{
+                    const manifestRes = await fetch('/assets/json/manifest.json');
+                    if (manifestRes.ok) {
+                        const manifestJson = await manifestRes.json();
+                        if (Array.isArray(manifestJson)) filesList = manifestJson;
+                        else if (Array.isArray(manifestJson.files)) filesList = manifestJson.files;
+                        else if (typeof manifestJson === 'object' && manifestJson !== null && manifestJson[path]) {
+                            const productFilePath = manifestJson[path];
+                            const resp = await fetch(productFilePath);
+                            if (resp.ok) {
+                                const pd = await resp.json();
+                                if (!cancelled) {
+                                    setProductoData({ producto: pd, imagenes: [], error: false, loading: false });
+                                    cargarImagenesOptimizadas(pd.fotos);
+                                    return;
+                                }
+                            }
+                        }
+                    }
+                } catch (errIndex) { }
+
+            if (filesList.length === 0) {
+                try{
+                    const manifestRes2 = await fetch('/assets/json/manifest.json');
+                    if (manifestRes2.ok) {
+                        const manifestJson2 = await manifestRes2.json();
+                        if (Array.isArray(manifestJson2)) filesList = manifestJson2;
+                        else if (Array.isArray(manifestJson2.files)) filesList = manifestJson2.files;
+                    }
+                } catch (e) { }
+            }
+
+                const parts = path.split('/').filter(Boolean);
+                const category = parts[1] || parts[0] || '';
+                let candidates = filesList.filter(f => f.includes(`/categorias/${category}/`));
+                if (candidates.length === 0) candidates = filesList;
 
                 let productoEncontrado = null;
-
-                for (const basePath of searchPaths) {
-                    productoEncontrado = await buscarProductoEnCategorias(basePath);
-                    if (productoEncontrado) break;
+                for (const filePath of candidates) {
+                    try {
+                        const r = await fetch(filePath);
+                        if (!r.ok) continue;
+                        const json = await r.json();
+                        const arr = json.productos || [];
+                        const found = arr.find(p => {
+                            const pr = String(p.ruta || "").trim();
+                            return normalizePathWithTrailingSlash(pr) === path;
+                        });
+                        if (found) {
+                            productoEncontrado = found;
+                            break;
+                        }
+                    } catch (e) { continue; }
                 }
 
                 if (productoEncontrado) {
-                    setProductoData(prev => ({
-                        ...prev,
-                        producto: productoEncontrado,
-                        loading: false
-                    }));
-                    cargarImagenesOptimizadas(productoEncontrado.fotos);
-                } else {
-                    setProductoData(prev => ({
-                        ...prev,
-                        error: true,
-                        loading: false
-                    }));
+                    if (!cancelled) {
+                        setProductoData(prev => ({ ...prev, producto: productoEncontrado, loading: false, error: false }));
+                        cargarImagenesOptimizadas(productoEncontrado.fotos);
+                    }
+                    return;
+                }
+
+                const idMatch = path.match(/\/(\d+)\/$/);
+
+                if (idMatch) {
+                    const idStr = idMatch[1];
+                    for (const filePath of candidates) {
+                        try{
+                            const r = await fetch(filePath);
+                            if (!r.ok) continue;
+                            const json = await r.json();
+                            const arr = json.productos || [];
+                            const foundById = arr.find(p => {
+                                const pr = normalizePathWithTrailingSlash(String(p.ruta || ""));
+                                return pr.endsWith(`/${idStr}/`);
+                            });
+                            if (foundById) {
+                                productoEncontrado = foundById;
+                                break;
+                            }
+                        } catch (e) { continue; }
+                    }
+                }
+
+                if (productoEncontrado) {
+                    if (!cancelled) {
+                        setProductoData(prev => ({ ...prev, producto: productoEncontrado, loading: false, error: false }));
+                        cargarImagenesOptimizadas(productoEncontrado.fotos);
+                    }
+                    return;
+                }
+
+                const rel = path.replace(/^\/productos\//, '').replace(/\/$/, '');
+                const categoryJsonPath = `/assets/json/categorias/${rel}.json`;
+
+                if (filesList.includes(categoryJsonPath)) {
+                    try {
+                        const catRes = await fetch(categoryJsonPath);
+                        if (catRes.ok) {
+                            const catJson = await catRes.json();
+                            if (Array.isArray(catJson.productos) && catJson.productos.length > 0) {
+                                if (!cancelled) {
+                                    setIsCategoryFallback(true);
+                                    setCategoryProducts(catJson.productos);
+                                    setProductoData(prev => ({ ...prev, loading: false, producto: null, error: false }));
+                                }
+                                return;
+                            }
+                        }
+                    } catch (e) {
+                    }
+                }
+
+                if (!cancelled) {
+                    setProductoData(prev => ({ ...prev, error: true, loading: false }));
                 }
             } catch (error) {
                 console.error("Error al buscar el producto:", error);
-                setProductoData(prev => ({
-                    ...prev,
-                    error: true,
-                    loading: false
-                }));
+                if (!cancelled) setProductoData(prev => ({ ...prev, error: true, loading: false }));
             }
-        };
-
-        const buscarProductoEnCategorias = async (rutaBuscada) => {
-            const categorias = ["colchones", "camas-box-tarimas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];
-            
-            const categoriaPromises = categorias.map(async (categoria) => {
-                try {
-                    const subcategorias = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`)
-                        .then(response => response.json())
-                        .catch(() => ({ subcategorias: [] }));
-
-                    for (const subcat of subcategorias.subcategorias || []) {
-                        const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                        const jsonPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
-                        
-                        const data = await fetch(jsonPath)
-                            .then(response => response.json())
-                            .catch(() => null);
-
-                        if (data?.productos) {
-                            const producto = data.productos.find(p => p.ruta === rutaBuscada);
-                            if (producto) return producto;
-                        }
-                    }
-
-                    const subSubCatPromises = (subcategorias.subcategorias || []).map(async (subcat) => {
-                        const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                        const subSubCatPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`;
-                        
-                        try {
-                            const subSubCatResponse = await fetch(subSubCatPath);
-                            if (!subSubCatResponse.ok) return null;
-                            
-                            const subSubCatData = await subSubCatResponse.json();
-                            
-                            for (const marca of subSubCatData.subcategorias || []) {
-                                const marcaNombre = marca.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                                const marcaPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${marcaNombre}.json`;
-                                
-                                const marcaData = await fetch(marcaPath)
-                                    .then(response => response.json())
-                                    .catch(() => null);
-
-                                if (marcaData?.productos) {
-                                    const producto = marcaData.productos.find(p => p.ruta === rutaBuscada);
-                                    if (producto) return producto;
-                                }
-                            }
-                        } catch (e) {
-                            return null;
-                        }
-                        return null;
-                    });
-
-                    const subSubResults = await Promise.all(subSubCatPromises);
-                    return subSubResults.find(result => result !== null) || null;
-                    
-                } catch (error) {
-                    console.error(`Error en categoría ${categoria}:`, error);
-                    return null;
-                }
-            });
-
-            const results = await Promise.all(categoriaPromises);
-            return results.find(result => result !== null) || null;
         };
 
         const cargarImagenesOptimizadas = (carpetaFotos) => {
@@ -179,11 +184,8 @@ function PaginaProducto(){
             };
 
             (async () => {
-                const primeraImagen = 
-                    await cargarImagen(1, 'webp') || 
-                    await cargarImagen(1, 'jpg') || 
-                    await cargarImagen(1, 'png');
-                
+                const primeraImagen = await cargarImagen(1, 'webp') || await cargarImagen(1, 'jpg') || await cargarImagen(1, 'png');
+
                 if (primeraImagen) {
                     setProductoData(prev => ({
                         ...prev,
@@ -195,7 +197,7 @@ function PaginaProducto(){
             setTimeout(async () => {
                 const promesas = [];
                 const formatos = ['webp', 'jpg'];
-                
+
                 for (let index = 2; index <= 5; index++) {
                     for (const formato of formatos) {
                         promesas.push(cargarImagen(index, formato));
@@ -204,7 +206,7 @@ function PaginaProducto(){
 
                 const resultados = await Promise.all(promesas);
                 const nuevasImagenes = resultados.filter(url => url !== null);
-                
+
                 setProductoData(prev => ({
                     ...prev,
                     imagenes: [...prev.imagenes, ...nuevasImagenes]
@@ -212,9 +214,11 @@ function PaginaProducto(){
             }, 100);
         };
 
-        setProductoData(prev => ({ ...prev, loading: true, error: false }));
         fetchProducto();
 
+        return () => {
+            cancelled = true;
+        };
     }, [location.pathname]);
 
     useEffect(() => {
@@ -225,16 +229,42 @@ function PaginaProducto(){
 
     useEffect(() => {
         if (typeof window === 'undefined') return;
-        
+
         const handleStorageChange = () => {
             const storedName = localStorage.getItem('nombre') || '';
-            if (storedName !== userName) {
-                setUserName(storedName);
-            }
+            setUserName(storedName);
         };
         window.addEventListener('storage', handleStorageChange);
         return () => window.removeEventListener('storage', handleStorageChange);
-    }, [userName]);
+    }, []);
+
+    if (isCategoryFallback){
+        return (
+            <>
+                <Helmet>
+                    <title>leosoplapuco | Homesleep</title>
+                </Helmet>
+
+                <main className="main-category">
+                    <div className="block-container">
+                        <section className="block-content">
+                            <div className="">
+                                <div className="category-page-left">
+                                    <ul className="category-page-products d-flex-column">
+                                        {categoryProducts.map((producto, idx) => (
+                                            <a href={producto.ruta} key={producto.sku || idx}>
+                                                <p>{producto.nombre}</p>
+                                            </a>
+                                        ))}
+                                    </ul>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </main>
+            </>
+        );
+    }
 
     if (productoData.error) {
         return(
@@ -256,34 +286,25 @@ function PaginaProducto(){
         }
     };
 
-    const handleRemove = () => {
-        if (quantity > 0) {
-            setQuantity(quantity - 1);
-        }
-    };
-
-    const handleAdd = () => {
-        if (quantity < 10) {
-            setQuantity(quantity + 1);
-        }
-    };
+    const handleRemove = () => { if (quantity > 0) setQuantity(quantity - 1); };
+    const handleAdd = () => { if (quantity < 10) setQuantity(quantity + 1); };
 
     const productSchema = {
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": producto.nombre,
         "image": [
-            `https://dormihogar.pe${producto.fotos}1.jpg`
+            `https://homesleep.pe${producto.fotos}1.jpg`
         ],
-        "description": producto["resumen-del-producto"].map(d => Object.values(d)[0]).join(' – '),
+        "description": producto["resumen-del-producto"]?.map(d => Object.values(d)[0]).join(' – '),
         "sku": producto.sku,
         "brand": {
             "@type": "Brand",
-            "name": "Dormihogar"
+            "name": "Homesleep"
         },
         "offers": {
             "@type": "Offer",
-            "url": `https://dormihogar.pe${producto.ruta}`,
+            "url": `https://homesleep.pe${producto.ruta}`,
             "priceCurrency": "PEN",
             "price": producto.precioVenta,
             "priceValidUntil": "2025-12-31",
@@ -295,18 +316,15 @@ function PaginaProducto(){
     return(
         <>
             <Helmet>
-                <title>{producto.nombre} | Dormihogar</title>
+                <title>{producto.nombre}</title>
                 <meta name="description" content={producto.nombre}/>
-
-                <link rel="preload" as="image" href={`https://dormihogar.pe${producto.fotos}1.jpg`} />
-
-                <meta property="og:image" content={`https://dormihogar.pe${producto.fotos}1.jpg`}/>
+                <link rel="preload" as="image" href={`https://homesleep.pe${producto.fotos}1.jpg`} />
+                <meta property="og:image" content={`https://homesleep.pe${producto.fotos}1.jpg`}/>
                 <meta property="og:title" content={producto.nombre}/>
                 <meta property="og:site_name" content={producto.nombre}/>
                 <meta property="og:description" content={producto.nombre}/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content={`https://dormihogar.pe${producto.ruta}`}/>
-
+                <meta property="og:url" content={`https://homesleep.pe${producto.ruta}`}/>
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 
@@ -368,8 +386,7 @@ function PaginaProducto(){
                                             }
                                         }}/>
 
-                                        <TiposDeEnvio 
-                                            shippingOptions={shippingOptions} 
+                                        <TiposDeEnvio shippingOptions={shippingOptions} 
                                             provincia={shippingInfo?.locationData?.provincia || ''} 
                                             distrito={shippingInfo?.locationData?.distrito || ''} 
                                             hasAgency={shippingInfo?.hasAgency} 
@@ -441,3 +458,4 @@ function PaginaProducto(){
 }
 
 export default PaginaProducto;
+

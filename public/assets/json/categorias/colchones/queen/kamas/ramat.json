@@ -1,0 +1,73 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "marca": "kamas",
+            "subcategoria": "ramat",
+            "ruta": "/productos/colchones/queen/kamas/ramat/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
+            "precioRegular": 1569,
+            "precioNormal": 1499,
+            "precioVenta": 999,
+            "stock": 99,
+            "sku": "H1135N10",
+            "incluye":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "Queen",
+                    "línea-de-colchón": "Súper ortopédico",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/ramat/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/kamas/ramat/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/kamas/ramat/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "Queen",
+                    "línea-de-colchón": "Súper ortopédico",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "17 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "doble-pestaña": "Si",
+                    "incorpora": "Sistema PT",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "37cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

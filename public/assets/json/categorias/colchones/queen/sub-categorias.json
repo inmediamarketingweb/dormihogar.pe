@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Kamas",
+            "metaTitulo": "Colchones - Kamas | Homesleep",
+            "ruta": "/productos/colchones/queen/kamas/"
+        },
+        {
+            "subcategoria": "Cisne",
+            "metaTitulo": "Colchones - Cisne | Homesleep",
+            "ruta": "/productos/colchones/queen/cisne/"
+        },
+        {
+            "subcategoria": "Paraiso",
+            "metaTitulo": "Colchones - Paraiso | Homesleep",
+            "ruta": "/productos/colchones/queen/paraiso/"
+        }
+    ]
+}

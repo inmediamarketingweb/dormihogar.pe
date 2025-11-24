@@ -8,13 +8,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/1/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PALO ROSA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/1/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N10",
+            "sku": "D324273N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -29,7 +29,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -39,7 +39,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -107,13 +107,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/2/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/2/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/2/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N11",
+            "sku": "D324273N11",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -128,7 +128,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -138,7 +138,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -206,13 +206,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/3/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - CAMELL",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/3/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/3/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N12",
+            "sku": "D324273N12",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -227,7 +227,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -237,7 +237,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -305,13 +305,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/4/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/4/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/4/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N13",
+            "sku": "D324273N13",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -326,7 +326,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -336,7 +336,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -404,13 +404,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/5/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/5/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/5/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N14",
+            "sku": "D324273N14",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -425,7 +425,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -435,7 +435,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -503,13 +503,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/6/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - GRIS PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/6/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/6/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N15",
+            "sku": "D324273N15",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -524,7 +524,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -534,7 +534,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -602,13 +602,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/7/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - LILA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/7/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/7/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N16",
+            "sku": "D324273N16",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -623,7 +623,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -633,7 +633,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -701,13 +701,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/8/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PLOMO OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/8/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/8/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N17",
+            "sku": "D324273N17",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -722,7 +722,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -732,7 +732,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -800,13 +800,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/9/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - BEIGE OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/9/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/9/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N18",
+            "sku": "D324273N18",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -821,7 +821,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -831,7 +831,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -899,13 +899,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/10/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - TURQUESA OPÁLO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/10/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/cuadros-1/10/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2259,
             "precioVenta": 1749,
             "stock": 13,
-            "sku": "K324273N19",
+            "sku": "D324273N19",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -920,7 +920,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -930,7 +930,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -998,13 +998,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/11/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - HUESO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/1/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/1/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N20",
+            "sku": "D324273N20",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1015,7 +1015,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1025,7 +1025,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1093,13 +1093,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/12/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - MELON",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/2/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/2/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N21",
+            "sku": "D324273N21",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1110,7 +1110,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1120,7 +1120,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1188,13 +1188,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/13/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - UVA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/3/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N22",
+            "sku": "D324273N22",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1205,7 +1205,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1215,7 +1215,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1283,13 +1283,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/14/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/4/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N23",
+            "sku": "D324273N23",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1300,7 +1300,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1310,7 +1310,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1378,13 +1378,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/15/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - TURQUESA OPÁLO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/5/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/5/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N24",
+            "sku": "D324273N24",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1395,7 +1395,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1405,7 +1405,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1473,13 +1473,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/16/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - CAMELL",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/6/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/6/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N25",
+            "sku": "D324273N25",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1490,7 +1490,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1500,7 +1500,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1568,13 +1568,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/17/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/7/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/7/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N26",
+            "sku": "D324273N26",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1590,7 +1590,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1600,7 +1600,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1668,13 +1668,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/18/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/8/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/8/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N27",
+            "sku": "D324273N27",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1686,7 +1686,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1696,7 +1696,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1764,13 +1764,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/19/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/9/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/emperatriz/9/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324273N28",
+            "sku": "D324273N28",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -1782,7 +1782,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1792,7 +1792,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1860,13 +1860,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/20/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL LINEAL - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/1/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/lineal-1/1/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324276N29",
+            "sku": "D324276N29",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -1882,7 +1882,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1892,7 +1892,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1960,13 +1960,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/21/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL LINEAL - ARENA OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/2/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/lineal-1/2/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324276N30",
+            "sku": "D324276N30",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -1982,7 +1982,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -1992,7 +1992,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2060,13 +2060,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/22/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL LINEAL - COBALTO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/3/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/lineal-1/3/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324276N31",
+            "sku": "D324276N31",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2082,7 +2082,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2092,7 +2092,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2160,13 +2160,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/23/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL LINEAL - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/4/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/pedestales/lineal-1/4/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2479,
             "precioVenta": 1929,
             "stock": 13,
-            "sku": "K324276N32",
+            "sku": "D324276N32",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2182,7 +2182,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2192,7 +2192,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2260,13 +2260,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/24/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/1/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/1/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2579,
             "precioVenta": 2009,
             "stock": 13,
-            "sku": "K324275N10",
+            "sku": "D324275N10",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2277,7 +2277,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2287,7 +2287,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2355,13 +2355,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/25/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - HUESO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/2/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/2/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2579,
             "precioVenta": 2009,
             "stock": 13,
-            "sku": "K324275N11",
+            "sku": "D324275N11",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2372,7 +2372,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2382,7 +2382,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2450,13 +2450,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/26/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/3/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/3/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2579,
             "precioVenta": 2009,
             "stock": 13,
-            "sku": "K324275N12",
+            "sku": "D324275N12",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2467,7 +2467,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2477,7 +2477,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2545,13 +2545,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/27/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/4/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/4/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2579,
             "precioVenta": 2009,
             "stock": 13,
-            "sku": "K324275N13",
+            "sku": "D324275N13",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2562,7 +2562,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2572,7 +2572,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2640,13 +2640,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/28/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ROSADO BEBÉ",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/5/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/5/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2579,
             "precioVenta": 2009,
             "stock": 13,
-            "sku": "K324275N14",
+            "sku": "D324275N14",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2657,7 +2657,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2667,7 +2667,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2735,13 +2735,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/29/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ARENA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/6/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/6/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2579,
             "precioVenta": 2009,
             "stock": 13,
-            "sku": "K324275N15",
+            "sku": "D324275N15",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2752,7 +2752,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2762,7 +2762,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2830,13 +2830,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/30/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - UVA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/7/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/7/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N16",
+            "sku": "D324275N16",
             "tipo-de-envio": "Gratis",
              "regalos":[
                 {
@@ -2851,7 +2851,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2861,7 +2861,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -2929,13 +2929,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/31/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/8/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/8/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N17",
+            "sku": "D324275N17",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -2950,7 +2950,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -2960,7 +2960,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3028,13 +3028,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/32/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - TURQUESA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/9/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/9/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N18",
+            "sku": "D324275N18",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -3049,7 +3049,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -3059,7 +3059,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3127,13 +3127,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/33/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/10/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/10/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N19",
+            "sku": "D324275N19",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -3148,7 +3148,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -3158,7 +3158,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3226,13 +3226,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/34/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - BEIGE",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/11/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/11/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N20",
+            "sku": "D324275N20",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -3247,7 +3247,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -3257,7 +3257,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3325,13 +3325,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/35/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - PALO ROSA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/12/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/12/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N21",
+            "sku": "D324275N21",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -3346,7 +3346,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -3356,7 +3356,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3424,13 +3424,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/36/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/13/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/13/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N22",
+            "sku": "D324275N22",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -3445,7 +3445,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -3455,7 +3455,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3523,13 +3523,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/37/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ARENA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/14/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/14/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N23",
+            "sku": "D324275N23",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -3544,7 +3544,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -3554,7 +3554,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3622,13 +3622,13 @@
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/38/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - BEIGE OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/15/", 
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/15/", 
             "colores": "si",
             "precioRegular": 2889,
             "precioNormal": 2899,
             "precioVenta": 2259,
             "stock": 13,
-            "sku": "K324275N24",
+            "sku": "D324275N24",
             "tipo-de-envio": "Gratis",
               "regalos":[
                 {
@@ -3643,7 +3643,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
@@ -3653,7 +3653,7 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -3718,49 +3718,49 @@
             "marca": "kamas",
             "linea": "americanos",
             "tamaño": "king",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/americanos/king/sarki/183/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/19/",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/39/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/lineal-3/1/", 
             "colores": "si",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1499,
-            "stock": 9,
-            "sku": "K324233N48",
+            "precioRegular": 2889,
+            "precioNormal": 2259,
+            "precioVenta": 1749,
+            "stock": 13,
+            "sku": "D3123273N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
                 },
-                {
+                {   
                     "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/rojo.webp"
+                    "foto": "/assets/imagenes/productos/regalos/cojines/palo-rosa.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
-                    "modelo-colchón": "Sarki",
+                    "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
+                    "modelo-de-cabecera": "Cuadros 1"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
+                    "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneado"
+                    "modelo-de-cabecera": "Cuadros 1"
                 }
             ],
             "descripciones":[
@@ -3781,113 +3781,18 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "18 filas",
+                            "resortes": "19 filas en forma vertical",
                             "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
                             "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
                             "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/americanos/king/sarki/184/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA EGYPT - VINO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/egyp/1/",
-            "colores": "si",
-            "precioRegular": 2549,
-            "precioNormal": 2199,
-            "precioVenta": 1699,
-            "stock": 9,
-            "sku": "K324236N92",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/vino.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Egypt"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Egypt"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona por persona",
-                            "garantía": "2 años"
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
                         }
                     ]
                 },

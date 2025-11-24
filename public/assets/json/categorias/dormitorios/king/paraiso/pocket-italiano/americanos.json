@@ -1,0 +1,2974 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CAPITONEADO 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/capitoneados-1/1/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/2/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CAPITONEADO 1 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/capitoneados-1/2/",
+            "colores": "si",
+            "precioRegular": 2999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/3/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CAPITONEADO 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/capitoneados-1/3/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2999,
+            "stock": 9,
+            "sku": "D32242263N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/4/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CLASICO - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/clasicos-1/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Clasico"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clasico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/5/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CUADROS 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/cuadros-1/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/6/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CUADROS 1 - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/cuadros-1/2/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/7/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CUADROS 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/cuadros-2/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/8/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CUADROS 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/cuadros-2/2/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/9/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA CUADROS 2 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/cuadros-2/3/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/10/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA LINEAL 1 - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-1/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/11/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA LINEAL 3 - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-3/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/12/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA LINEAL 4 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-4/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/13/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA LINEAL 4 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-4/2/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/14/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA RECTANGULAR 1 - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/rectangular-1/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242263N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Rectangular 1"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/15/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA AEREA LINEAL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/lineal-2/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D32242266N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/16/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/17/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/2/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/18/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/3/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/19/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/4/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/21/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/5/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/22/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - LILA ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/6/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/23/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - ROJO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/8/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/24/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - NEGRO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/7/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/25/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - VINO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/9/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/26/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - TURQUESA ÓPALO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/10/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/27/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - IVORY ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/11/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/28/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/12/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/29/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - FUCSIA ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/13/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/31/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - ROSADO BEBÉ ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/15/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "pocket-italiano",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/30/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET PARAISO + CABECERA PEDESTAL EMPERATRIZ - GRIS ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/pedestales/emperatriz/14/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 2379,
+            "precioVenta": 1879,
+            "stock": 9,
+            "sku": "D32242263N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas ",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "Americano",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }                                                                  
+    ]
+}

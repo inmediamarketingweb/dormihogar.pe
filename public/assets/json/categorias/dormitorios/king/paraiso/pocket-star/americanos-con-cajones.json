@@ -1,0 +1,103 @@
+{
+    "productos":[
+        {   
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "Pocket Star",
+            "ruta": "/productos/dormitorios/king/paraiso/pocket-star/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET STAR + CABECERA PEDESTAL CAPITONEADO 1 + 4 CAJONES - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-star/americanos-con-cajones/pedestales/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2329,
+            "stock": 9,
+            "sku": "D32242143N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "king",
+                    "modelo-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

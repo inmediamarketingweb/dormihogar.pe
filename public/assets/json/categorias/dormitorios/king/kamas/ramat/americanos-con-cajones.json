@@ -1,20 +1,21 @@
 {
     "productos":[
+       
         {
             "categoria": "dormitorios",
-            "linea": "americanos con cajones",
             "marca": "kamas",
-            "tamaño": "king",
+            "subcategoria": "americanos con cajones",
+            "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/1/",
-            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - COBALTO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - PLOMO AZULADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/americanas/emperatriz/1/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2859,
-            "precioVenta": 2029,
-            "stock": 9,
-            "sku": "H3124173N10",
+            "precioRegular": 2599,
+            "precioNormal": 1839,
+            "precioVenta": 1449,
+            "stock": 23,
+            "sku": "D3123173N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -25,25 +26,25 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos con cajones",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -51,12 +52,13 @@
                     "titulo": "Cama box tarima",
                     "descripcion":[
                         {
-                            "madera": "Pino americano radiata seco al horno.",
+                            "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
+                            "láminas": "MDF brasileño de 3mm.",
+                            "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
+                            "rieles": "Telescópicos pesados",
+                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -66,17 +68,13 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "15 filas",
                             "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "Doble-pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
+                            "densidad-de-la-espuma": "20kg/m3",
+                            "tipo-de-uso": "Un solo lado",
+                            "doble-pestaña":  "Si",
+                            "marco": "Refuerzo de marco sellado",
+                            "soporte-de-peso": "85kg. por persona",
                             "garantía": "4 años"
                         }
                     ]
@@ -99,19 +97,19 @@
         },
         {
             "categoria": "dormitorios",
-            "linea": "americanos con cajones",
             "marca": "kamas",
-            "tamaño": "king",
+            "subcategoria": "americanos con cajones",
+            "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/2/",
-            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/americanas/emperatriz/2/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2859,
-            "precioVenta": 2029,
-            "stock": 9,
-            "sku": "H3124173N11",
+            "precioRegular": 2599,
+            "precioNormal": 1839,
+            "precioVenta": 1449,
+            "stock": 23,
+            "sku": "D3123173N11",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -122,25 +120,25 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos con cajones",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -148,12 +146,13 @@
                     "titulo": "Cama box tarima",
                     "descripcion":[
                         {
-                            "madera": "Pino americano radiata seco al horno.",
+                            "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
+                            "láminas": "MDF brasileño de 3mm.",
+                            "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
+                            "rieles": "Telescópicos pesados",
+                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -163,17 +162,13 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "15 filas",
                             "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "Doble-pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
+                            "densidad-de-la-espuma": "20kg/m3",
+                            "tipo-de-uso": "Un solo lado",
+                            "doble-pestaña":  "Si",
+                            "marco": "Refuerzo de marco sellado",
+                            "soporte-de-peso": "85kg. por persona",
                             "garantía": "4 años"
                         }
                     ]
@@ -196,19 +191,19 @@
         },
         {
             "categoria": "dormitorios",
-            "linea": "americanos con cajones",
             "marca": "kamas",
-            "tamaño": "king",
+            "subcategoria": "americanos con cajones",
+            "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/3/",
-            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - ROSADO BEBE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/americanas/emperatriz/3/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2859,
-            "precioVenta": 2029,
-            "stock": 9,
-            "sku": "H3124173N12",
+            "precioRegular": 2599,
+            "precioNormal": 1839,
+            "precioVenta": 1449,
+            "stock": 23,
+            "sku": "D3123173N12",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -219,25 +214,25 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos con cajones",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -245,12 +240,13 @@
                     "titulo": "Cama box tarima",
                     "descripcion":[
                         {
-                            "madera": "Pino americano radiata seco al horno.",
+                            "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
+                            "láminas": "MDF brasileño de 3mm.",
+                            "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
+                            "rieles": "Telescópicos pesados",
+                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -260,17 +256,13 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "15 filas",
                             "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "Doble-pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
+                            "densidad-de-la-espuma": "20kg/m3",
+                            "tipo-de-uso": "Un solo lado",
+                            "doble-pestaña":  "Si",
+                            "marco": "Refuerzo de marco sellado",
+                            "soporte-de-peso": "85kg. por persona",
                             "garantía": "4 años"
                         }
                     ]
@@ -293,19 +285,19 @@
         },
         {
             "categoria": "dormitorios",
-            "linea": "americanos con cajones",
             "marca": "kamas",
-            "tamaño": "king",
+            "subcategoria": "americanos con cajones",
+            "tamaño": "2 plazas",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/4/",
-            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - TURQUESA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - TURQUESA ÓPALO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/americanas/emperatriz/4/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2859,
-            "precioVenta": 2029,
-            "stock": 9,
-            "sku": "H3124173N13",
+            "precioRegular": 2599,
+            "precioNormal": 1839,
+            "precioVenta": 1449,
+            "stock": 23,
+            "sku": "D3123173N13",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -316,25 +308,25 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos con cajones",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -342,12 +334,13 @@
                     "titulo": "Cama box tarima",
                     "descripcion":[
                         {
-                            "madera": "Pino americano radiata seco al horno.",
+                            "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
+                            "láminas": "MDF brasileño de 3mm.",
+                            "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
+                            "rieles": "Telescópicos pesados",
+                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -357,17 +350,13 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "15 filas",
                             "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "Doble-pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
+                            "densidad-de-la-espuma": "20kg/m3",
+                            "tipo-de-uso": "Un solo lado",
+                            "doble-pestaña":  "Si",
+                            "marco": "Refuerzo de marco sellado",
+                            "soporte-de-peso": "85kg. por persona",
                             "garantía": "4 años"
                         }
                     ]
@@ -390,19 +379,19 @@
         },
         {
             "categoria": "dormitorios",
-            "linea": "americanos con cajones",
             "marca": "kamas",
-            "tamaño": "king",
+            "subcategoria": "americanos con cajones",
+            "tamaño": "2 plazas",
             "modelo": "ramat",
-            "ruta": "/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/5/",
-            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - HUESO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos-con-cajones/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "ruta": "/productos/dormitorios/king/kamas/ramat/europeos-con-cajones/5/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos-con-cajones/americanas/emperatriz/5/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2859,
-            "precioVenta": 2029,
-            "stock": 9,
-            "sku": "H3124173N14",
+            "precioRegular": 2599,
+            "precioNormal": 1839,
+            "precioVenta": 1449,
+            "stock": 23,
+            "sku": "D3123173N14",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -413,25 +402,25 @@
             "resumen-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos con cajones",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -439,12 +428,13 @@
                     "titulo": "Cama box tarima",
                     "descripcion":[
                         {
-                            "madera": "Pino americano radiata seco al horno.",
+                            "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
+                            "láminas": "MDF brasileño de 3mm.",
+                            "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
+                            "rieles": "Telescópicos pesados",
+                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -454,17 +444,13 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "15 filas",
                             "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "Doble-pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
+                            "densidad-de-la-espuma": "20kg/m3",
+                            "tipo-de-uso": "Un solo lado",
+                            "doble-pestaña":  "Si",
+                            "marco": "Refuerzo de marco sellado",
+                            "soporte-de-peso": "85kg. por persona",
                             "garantía": "4 años"
                         }
                     ]

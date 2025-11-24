@@ -7,8 +7,8 @@
             "tamaño": "king",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/king/kamas/safynnte/americanos/1/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA CAPITONEADA - MORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/safynnte/pedestales/americanas/brazos-rectos/emperatriz/1/", 
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/safynnte/americanos/pedestales/emperatriz/1/", 
             "colores": "si",
             "precioRegular": 2789,
             "precioNormal": 2419,
@@ -28,8 +28,8 @@
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Safynnte",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
                 }
             ],
             "detalles-del-producto":[
@@ -40,10 +40,10 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Safynnte",
-                    "tipo-de-cabecera": "Aérea con patas",
+                    "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
                 }
             ],
             "descripciones":[
@@ -101,8 +101,8 @@
             "tamaño": "king",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/king/kamas/safynnte/americanos/2/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA CAPITONEADA - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/safynnte/pedestales/americanas/brazos-rectos/emperatriz/2/", 
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/safynnte/americanos/pedestales/emperatriz/2/", 
             "colores": "si",
             "precioRegular": 2789,
             "precioNormal": 2419,
@@ -122,8 +122,8 @@
                     "línea": "Americano",
                     "tamaño": "King",
                     "modelo-de-colchón": "Safynnte",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
                 }
             ],
             "detalles-del-producto":[
@@ -134,10 +134,10 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Safynnte",
-                    "tipo-de-cabecera": "Aérea con patas",
+                    "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
                 }
             ],
             "descripciones":[

@@ -8,11 +8,11 @@
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/queen/kamas/der-prinz/americanos/1/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/capitoneado-1/1/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
+            "precioRegular": 2999,
+            "precioNormal": 2279,
+            "precioVenta": 1749,
             "stock": 9,
             "sku": "K323253N10",
             "tipo-de-envio": "Gratis",
@@ -106,11 +106,11 @@
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/queen/kamas/der-prinz/americanos/2/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/capitoneado-1/2/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
+            "precioRegular": 2999,
+            "precioNormal": 2279,
+            "precioVenta": 1749,
             "stock": 9,
             "sku": "K323253N11",
             "tipo-de-envio": "Gratis",
@@ -200,107 +200,13 @@
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/queen/kamas/der-prinz/americanos/3/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO AZULADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/capitoneado-1/3/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
+            "precioRegular": 2999,
+            "precioNormal": 2279,
+            "precioVenta": 1749,
             "stock": 9,
             "sku": "K323253N12",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/queen/kamas/der-prinz/americanos/5/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/kamas/americanos/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
-            "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
-            "stock": 9,
-            "sku": "K323253N13",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {

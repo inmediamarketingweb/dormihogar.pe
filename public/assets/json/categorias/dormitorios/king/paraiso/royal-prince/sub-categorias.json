@@ -1,0 +1,24 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios - King - Paraiso - Royal Prince - Americanos| DORMIHOGAR",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-prince/americanos/"
+        },
+        {
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios - King - Paraiso - Royal Prince - Americanos| DORMIHOGAR",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-prince/americanos-con-cajones/"
+        },
+        {
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios - King - Paraiso - Royal Prince - Europeos| DORMIHOGAR",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos/"
+        },
+        {
+            "subcategoria": "americanos",
+            "metaTitulo": "Dormitorios - King - Paraiso - Royal Prince - Europeos| DORMIHOGAR",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/"
+        }
+    ]
+}

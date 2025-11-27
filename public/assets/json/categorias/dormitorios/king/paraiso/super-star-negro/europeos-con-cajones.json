@@ -1,0 +1,499 @@
+{
+    "productos":[
+        {   
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "Super star negro",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES LATERALES - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/pedestales/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D32341193N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "modelo-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Pedestales",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Emperatriz",
+                    "diseño-de-cabecera": "Pedestales",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "Super star negro",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/2/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES AL PIE - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/pedestales/emperatriz/2/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D32341193N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "modelo-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Pedestales",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Emperatriz",
+                    "diseño-de-cabecera": "Pedestales",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "Super star negro",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/3/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES AL PIE - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/pedestales/emperatriz/3/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D32341193N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "modelo-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Pedestales",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Emperatriz",
+                    "diseño-de-cabecera": "Pedestales",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "Super star negro",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/4/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES AL PIE - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/pedestales/emperatriz/4/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D32341193N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "modelo-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Pedestales",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Emperatriz",
+                    "diseño-de-cabecera": "Pedestales",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "Super star negro",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/5/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES AL PIE - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/pedestales/emperatriz/5/",
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D32341193N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 protector",
+                    "foto": "/assets/imagenes/productos/protector.jpg"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "modelo-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Pedestales",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Emperatriz",
+                    "diseño-de-cabecera": "Pedestales",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "tratamiento": "Antihongos, antibacterias y antiacaros",
+                            "tela": "Tejido de punto higroscópica con diseño 3D",
+                            "espuma": "Viscoelástica D70",
+                            "capas": "De espuma zebra 35 HR y 35 HD",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

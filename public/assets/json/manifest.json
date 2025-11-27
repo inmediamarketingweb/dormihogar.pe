@@ -147,11 +147,12 @@
 
 
         "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/adel/americanos.json",
-        "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/adel/americanos-con-cajones.json",
 
-        "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/sarki/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/rucay/americanos.json",
 
-        "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/safynnte/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/sarki/americanos.json",
+
+        "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/safynnte/americanos.json",
 
         "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/ramat/americanos-con-cajones.json",
 
@@ -220,10 +221,9 @@
         "/assets/json/categorias/dormitorios/king/kamas/ramat/americanos-con-cajones.json",
 
         "/assets/json/categorias/dormitorios/king/kamas/safynnte/americanos.json",
-         "/assets/json/categorias/dormitorios/king/kamas/rucay/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/king/kamas/rucay/americanos-con-cajones.json",
 
         "/assets/json/categorias/dormitorios/king/kamas/sarki/americanos.json",
-        "/assets/json/categorias/dormitorios/king/kamas/sarki/bloques.json",
         "/assets/json/categorias/dormitorios/king/kamas/sarki/premium.json",
 
         "/assets/json/categorias/dormitorios/king/paraiso/royal-abrazzo/americanos.json",
@@ -250,8 +250,19 @@
         "/assets/json/categorias/dormitorios/king/paraiso/royal-elizabeth/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/king/paraiso/royal-elizabeth/europeos.json",
 
+        "/assets/json/categorias/dormitorios/king/paraiso/royal-prince/americanos.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/royal-prince/europeos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/royal-prince/europeos.json",
+
+        "/assets/json/categorias/dormitorios/king/paraiso/su-majestad-de-lujo/americanos.json",
+
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star/americanos.json",
 
 
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star-negro/americanos.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star-negro/europeos.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones.json",
 
         "/assets/json/categorias/camas-funcionales/box-espacio/2-plazas/kamas/americanos.json",
         "/assets/json/categorias/camas-funcionales/box-espacio/2-plazas/kamas/europeos.json",

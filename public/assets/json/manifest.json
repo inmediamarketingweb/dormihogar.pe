@@ -117,8 +117,6 @@
 
 
 
-        "/assets/json/categorias/camas-box-tarimas/1-plaza/kamas/americanas-con-cajones.json",
-
         "/assets/json/categorias/camas-box-tarimas/1-plaza-y-media/kamas/americanas.json",
         "/assets/json/categorias/camas-box-tarimas/1-plaza-y-media/kamas/americanas-con-cajones.json",
 
@@ -135,14 +133,6 @@
         "/assets/json/categorias/camas-box-tarimas/king/kamas/americanas.json",
         "/assets/json/categorias/camas-box-tarimas/king/kamas/americanas-con-cajones.json",
         "/assets/json/categorias/camas-box-tarimas/king/kamas/europeas-con-cajones.json",
-
-
-
-        "/assets/json/categorias/dormitorios/1-plaza/kamas/sarki/americanos-con-cajones.json",
-
-        "/assets/json/categorias/dormitorios/1-plaza/kamas/safynnte/americanos-con-cajones.json",
-
-        "/assets/json/categorias/dormitorios/1-plaza/kamas/ramat/americanos-con-cajones.json",
 
 
 
@@ -174,8 +164,6 @@
 
         "/assets/json/categorias/dormitorios/2-plazas/kamas/ramat/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/2-plazas/kamas/ramat/europeos.json",
-
-        "/assets/json/categorias/dormitorios/2-plazas/paraiso/pocket-star/americanos.json",
 
         "/assets/json/categorias/dormitorios/2-plazas/paraiso/royal-abrazzo/americanos.json",
 
@@ -295,7 +283,6 @@
         "/assets/json/categorias/sofas/seccionales/derecho/kamas.json",
         "/assets/json/categorias/sofas/seccionales/izquierdo/kamas.json",
 
-        "/assets/json/categorias/sofas/sofa-cama/1-plaza/kamas.json",
         "/assets/json/categorias/sofas/sofa-cama/2-plazas/kamas.json",
 
 

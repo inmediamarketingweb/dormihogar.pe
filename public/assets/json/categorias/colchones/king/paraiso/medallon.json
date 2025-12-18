@@ -3,15 +3,15 @@
         {
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "super star negro",
-            "ruta": "/productos/colchones/king/paraiso/super-star-negro/",
-            "nombre": "COLCHÓN PARAISO SUPER STAR NEGRO KING",
-            "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star-negro/",
-            "precioRegular": 1729,
-            "precioNormal": 1294,
-            "precioVenta": 889,
+            "subcategoria": "Medallon",
+            "ruta": "/productos/colchones/king/paraiso/medallon/",
+            "nombre": "COLCHÓN PARAISO POCKET STAR KING",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon/",
+            "precioRegular": 2419,
+            "precioNormal": 1806,
+            "precioVenta": 699,
             "stock": 14,
-            "sku": "H12419N10",
+            "sku": "H12414N10",
             "regalos":[
                 {
                     "texto": "2 almohadas",
@@ -25,7 +25,7 @@
             "resumen-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Super star negro",
+                    "modelo-de-colchón": "Medallon",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
@@ -34,22 +34,22 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/super-star-negro/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/Medallon/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/super-star-negro/"
+                    "ruta": "/productos/colchones/2-plazas/paraiso/Medallon/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/paraiso/super-star-negro/"
+                    "ruta": "/productos/colchones/queen/paraiso/Medallon/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "modelo-de-colchón": "Super star negro",
+                    "modelo-de-colchón": "Pocket Italiano",
                     "tamaño": "King",
                     "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Pocket"
@@ -59,13 +59,12 @@
                 {
                     "tela": "Tejido de punto",
                     "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "acabado": "vaporizado",
-                    "tipo-de-resorte": "Cosisoft",
-                    "ergosoft": "acolchado superior",
+                    "tipo-de-resorte": "Pocket",
+                    "pillow-top": "extra acolchado",
                     "marco": "zebra 25",
                     "sistema": "one side",
                     "sensación": "intermedia",
-                    "garantía": "8 años"
+                    "garantía": "10 años"
                 }
             ]
         }

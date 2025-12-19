@@ -1,0 +1,68 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal balanzze",
+            "linea": "americanos-con-cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-balanzze/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS + COLCHÓN PARAISO ROYAL BALANZZE + CABECERA PEDESTAL CAPITONEADO 1 + 4 CAJONES - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-balanzze/americanos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 5999,
+            "precioNormal": 4699, 
+            "precioVenta": 3349,
+            "stock": 9,
+            "sku": "D3224133N10",
+            "regalos": [ "1 puff" ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "royal balanzze",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal balanzze",
+            "linea": "americanos-con-cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-balanzze/americanos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS + COLCHÓN PARAISO ROYAL BALANZZE + CABECERA AEREA + 3 CAJONES - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-balanzze/americanos-con-cajones/bloques/moki/1/",
+            "precioRegular": 5999,
+            "precioNormal": 4699, 
+            "precioVenta": 3099,
+            "stock": 9,
+            "sku": "D3224136N10",
+            "regalos": [ "1 puff" ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "royal balanzze",
+                    "tipo-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }                                                                                                                                                                                 
+    ]
+}

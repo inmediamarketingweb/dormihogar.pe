@@ -1,0 +1,93 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "medallon ergosoft",
+            "línea": "Americanos con cajones",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/medallon-ergosoft/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / PARAISO CON 2 CAJONES + COLCHÓN PARAISO MEDALLON ERGOSOFT + CABECERA AÉREA CAPITONEADO 1 - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/medallon-ergosoft/americanos-con-cajones/clasicas/clasica-1/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "H32221103N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/medallon-ergosoft/americanos/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "medallon ergosoft",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "material-cajones": "melamina",
+                    "rieles-cajones": "telescópicos pesados",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "Cromadas o de madera",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
+                {
+                    "resortes": "cosisoft",
+                    "tela-superior": "jacquard",
+                    "banda": "mesh",
+                    "tipo-de-uso": "un solo lado",
+                    "marco": "de espuma zebra 25",
+                    "nivel-de-confort": "intermedio",
+                    "sensación": "intermedio",
+                    "garantía": "7 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "De manera",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

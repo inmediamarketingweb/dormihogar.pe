@@ -3,7 +3,8 @@
         {
             "categoria": "colchones",
             "marca": "kamas",
-            "subcategoria": "ramat",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
             "ruta": "/productos/colchones/2-plazas/kamas/ramat/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
@@ -12,58 +13,36 @@
             "precioVenta": 649,
             "stock": 99,
             "sku": "H1125N10",
-            "incluye":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Ramat",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Súper ortopédico",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
+            "incluye":[ "1 almohada" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/ramat/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/ramat/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/ramat/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11155N10" },
+                { "nombre": "Queen", "sku": "H1135N10" },
+                { "nombre": "King", "sku": "H1145N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Ramat",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Súper ortopédico",
-                    "nivel-de-confort": "Muy confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "15 filas",
-                    "tela": "Jacquard",
-                    "densidad-de-la-espuma": "20kg/m3",
-                    "tipo-de-uso": "Un solo lado",
-                    "doble-pestaña": "Si",
-                    "marco": "Refuerzo de marco sellado",
-                    "soporte-de-peso": "85kg. por persona",
-                    "garantía": "4 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Ramat en tamaño 2 plazas ofrece un descanso muy confortable gracias a su diseño súper ortopédico y su sistema de resortes Bonell con 15 filas, que brinda un soporte estable y duradero.",
+        "Cuenta con tela jacquard, espuma de 20 kg/m³, diseño de un solo lado y doble pestaña, que mejora su resistencia y forma. Su marco sellado y capacidad de soporte de 85 kg por persona lo convierten en una opción confiable para el uso diario.",
+        "Incluye 4 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Ramat",
+            "tamaño": "2 plazas",
+            "línea-de-colchón": "Súper ortopédico",
+            "nivel-de-confort": "Muy confortable",
+            "resortes": "Bonell",
+            "filas-de-resortes": "15 filas",
+            "tela": "Jacquard",
+            "densidad-de-la-espuma": "20kg/m3",
+            "tipo-de-uso": "Un solo lado",
+            "doble-pestaña": "Si",
+            "marco": "Refuerzo de marco sellado",
+            "soporte-de-peso": "85kg. por persona",
+            "garantía": "4 años"
         }
     ]
 }

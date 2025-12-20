@@ -1,37 +1,21 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
             "marca": "kamas",
-            "linea": "americanos",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "nesie",
             "ruta": "/productos/dormitorios/king/kamas/nesie/americanos/1/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nessie/americanos/americanas/capitoneado-1/1/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 2189,
-            "precioVenta": 1699,
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nesie/americanos/americanas/capitoneado-1/1/", 
+            "precioRegular": 3189,
+            "precioNormal": 2389,
+            "precioVenta": 1799,
             "stock": 13,
-            "sku": "D3242873N10",
+            "sku": "H3124283N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -41,93 +25,28 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Nesie",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
             "marca": "kamas",
-            "linea": "americanos",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "nesie",
             "ruta": "/productos/dormitorios/king/kamas/nesie/americanos/2/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - VERDE CERCETA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nessie/americanos/americanas/capitoneado-1/2/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 2189,
-            "precioVenta": 1699,
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nesie/americanos/americanas/capitoneado-1/2/", 
+            "precioRegular": 3189,
+            "precioNormal": 2389,
+            "precioVenta": 1799,
             "stock": 13,
-            "sku": "D3242873N11",
+            "sku": "H3124283N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -137,93 +56,28 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Nesie",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
+            "id": 3,
             "categoria": "dormitorios",
             "marca": "kamas",
-            "linea": "americanos",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "nesie",
             "ruta": "/productos/dormitorios/king/kamas/nesie/americanos/3/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - MORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nessie/americanos/americanas/capitoneado-1/3/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 2189,
-            "precioVenta": 1699,
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nesie/americanos/americanas/capitoneado-1/3/", 
+            "precioRegular": 3189,
+            "precioNormal": 2389,
+            "precioVenta": 1799,
             "stock": 13,
-            "sku": "D3242873N12",
+            "sku": "H3124283N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -233,93 +87,28 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Nesie",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
+            "id": 4,
             "categoria": "dormitorios",
             "marca": "kamas",
-            "linea": "americanos",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "nesie",
             "ruta": "/productos/dormitorios/king/kamas/nesie/americanos/4/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - PLOMO OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nessie/americanos/americanas/capitoneado-1/4/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 2189,
-            "precioVenta": 1699,
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nesie/americanos/americanas/capitoneado-1/4/", 
+            "precioRegular": 3189,
+            "precioNormal": 2389,
+            "precioVenta": 1799,
             "stock": 13,
-            "sku": "D3242873N13",
+            "sku": "H3124283N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -329,93 +118,28 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Nesie",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
+            "id": 5,
             "categoria": "dormitorios",
             "marca": "kamas",
-            "linea": "americanos",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "nesie",
             "ruta": "/productos/dormitorios/king/kamas/nesie/americanos/5/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - GRIS RATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nessie/americanos/americanas/capitoneado-1/5/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 2189,
-            "precioVenta": 1699,
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nesie/americanos/americanas/capitoneado-1/5/", 
+            "precioRegular": 3189,
+            "precioNormal": 2389,
+            "precioVenta": 1799,
             "stock": 13,
-            "sku": "D3242873N14",
+            "sku": "H3124283N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -425,154 +149,9 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Nesie",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "nesie",
-            "ruta": "/productos/dormitorios/king/kamas/nesie/americanos/6/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/nessie/americanos/americanas/capitoneado-1/6/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 2189,
-            "precioVenta": 1699,
-            "stock": 13,
-            "sku": "D3242873N15",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }

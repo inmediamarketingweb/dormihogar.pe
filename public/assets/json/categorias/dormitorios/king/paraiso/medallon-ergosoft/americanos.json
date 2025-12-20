@@ -1,54 +1,25 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon-ergosoft/americanos/1/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CAPITONEADO 1 - ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CAPITONEADO 1 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/capitoneado-1/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N10",
+            "sku": "H32242103N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/medallon-ergosoft/1/"
-                }
-            ],
+            "regalos": [ "3 cojines" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -59,96 +30,28 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon-ergosoft/americanos/2/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 1 - CAMEL",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 1 - CAMEL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/cuadros-1/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N11",
+            "sku": "H32242103N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/medallon-ergosoft/1/"
-                }
-            ],
+            "regalos": [ "3 cojines" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -159,96 +62,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 3,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/3/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CAPITONEADO 1 - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CAPITONEADO 1 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/capitoneado-1/2/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N12",
+            "sku": "H32242103N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -259,96 +93,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/5/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - VINO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/cuadros-2/2/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N14",
+            "sku": "H32242103N22",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
+            "regalos": [ "1 puff" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -359,96 +124,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/4/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/cuadros-2/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N13",
+            "sku": "H32242103N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
+            "regalos": [ "1 puff" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -459,96 +155,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/5/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - MORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/cuadros-2/3/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N14",
+            "sku": "H32242103N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
+            "regalos": [ "1 puff" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -559,96 +186,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/6/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/cuadros-2/4/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N15",
+            "sku": "H32242103N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
+            "regalos": [ "1 puff" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -659,96 +217,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/7/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - PLOMO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/cuadros-2/5/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N16",
+            "sku": "H32242103N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
+            "regalos": [ "3 cojines", "1 puff" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -759,96 +248,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/9/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LINEAL 1 - UVA",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LINEAL 1 - UVA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/lineal-1/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N18",
+            "sku": "H32242103N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -859,96 +278,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/8/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - GRIS",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CUADROS 2 - GRIS",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/cuadros-2/6/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N17",
+            "sku": "H32242103N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -959,96 +308,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/9/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LUXURY - CHAMPAGNE",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LUXURY - CHAMPAGNE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/luxury/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N18",
+            "sku": "H32242103N23",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Luxury"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1059,96 +338,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Luxury"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/10/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA RECTANGULAR 1 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA RECTANGULAR 1 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/rectangular-1/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N19",
+            "sku": "H32242103N19",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Rectangular 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1159,96 +368,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Rectangular 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/11/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA RECTANGULAR 2 - PLOMO OSCURO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA RECTANGULAR 2 - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/rectangular-2/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N20",
+            "sku": "H32242103N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Rectangular 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1259,96 +398,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Rectangular 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/12/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EGYTP 3 ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EGYTP 3 ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/egytp-4/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N10",
+            "sku": "H32242106N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Egytp 3"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1359,96 +428,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Egytp 3"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/13/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LINEAL 4 - TEJIDO PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LINEAL 4 - TEJIDO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/americanas/lineal-4/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1549,
             "stock": 9,
-            "sku": "D32242263N21",
+            "sku": "H32242103N21",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 4"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1459,96 +458,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 4"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/14/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA OLIMPIC - TEJIDO BEIGE ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA OLIMPIC - TEJIDO BEIGE ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/olimpic/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N11",
+            "sku": "H32242106N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Olimpic"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1559,96 +488,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/15/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA STARIS - VINO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA STARIS - VINO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/staris/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N12",
+            "sku": "H32242106N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Staris"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1659,96 +518,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Staris"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/16/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA GAVIOTA - AZUL NOCHE ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA GAVIOTA - AZUL NOCHE ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/gaviota/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N13",
+            "sku": "H32242106N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Gaviota"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1759,96 +548,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Gaviota"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/17/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA ROMBOI - PLATA ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA ROMBOI - PLATA ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/romboi/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N14",
+            "sku": "H32242106N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Romboi"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1859,96 +578,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Romboi"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/18/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA SPIDER - ANTIFLUIDO PLOMO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA SPIDER - ANTIFLUIDO PLOMO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/spider/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N15",
+            "sku": "H32242106N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Spider"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -1959,96 +608,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Spider"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/19/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA SYDNEY - TEJIDO CHOCOLATE ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA SYDNEY - TEJIDO CHOCOLATE ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/sydney/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N16",
+            "sku": "H32242106N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Sydney"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2059,96 +638,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Sydney"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/20/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA WUELO - CHOCOLATE ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA WUELO - CHOCOLATE ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/wuelo/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N17",
+            "sku": "H32242106N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Wuelo"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2159,96 +668,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Wuelo"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/21/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA PEDESTAÑ CORONA + PIECERA - CHAMPAGNE ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA PEDESTAÑ CORONA + PIECERA - CHAMPAGNE ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/coronas/otros-modelos/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1999,
             "stock": 9,
-            "sku": "D32242105N10",
+            "sku": "H32242105N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros Modelos"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2259,96 +698,26 @@
                     "brazos-de-cabecera": "Brazos Rectos",
                     "modelo-de-cabecera": "Otros Modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/22/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA PEDESTAÑ CORONA - CUERO NEGRO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA PEDESTAÑ CORONA - CUERO NEGRO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/coronas/otros-modelos/2/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1749,
             "stock": 9,
-            "sku": "D32242105N11",
+            "sku": "H32242105N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros Modelos"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2359,96 +728,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros Modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/23/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA OLIMPIC - IVORY ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA OLIMPIC - IVORY ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/olimpic/2/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N18",
+            "sku": "H32242106N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Olimpic"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2459,96 +758,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/24/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EXPLORER - VINO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EXPLORER - VINO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/explorer/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N19",
+            "sku": "H32242106N19",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Explorer"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2559,96 +788,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Explorer"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/25/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA GAVIOTA - PLATA ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA GAVIOTA - PLATA ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/gaviota/2/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N20",
+            "sku": "H32242106N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Gaviota"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2659,96 +818,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Gaviota"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/26/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LINEAL 2 - PLATA ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA LINEAL 2 - PLATA ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/lineal-2/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N21",
+            "sku": "H32242106N21",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 2"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2759,77 +848,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 2"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/27/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EGYPT - VINO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EGYPT - VINO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/egytp-1/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N22",
+            "sku": "H32242106N22",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
             "resumen-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
@@ -2840,15 +875,9 @@
                     "modelo-de-cabecera": "Egypt"
                 }
             ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2859,96 +888,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Egypt"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/28/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA VIENNA - CUERO NEGRO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA VIENNA - CUERO NEGRO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/vienna/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N23",
+            "sku": "H32242106N23",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Vienna"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -2959,96 +918,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Vienna"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/29/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA REPTILIAN - CUERO NEGRO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA REPTILIAN - CUERO NEGRO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/reptilian/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N24",
+            "sku": "H32242106N24",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Reptilian"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -3059,96 +948,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Reptilian"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/30/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA NILO - ANTIFLUIDO PLATA ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA NILO - ANTIFLUIDO PLATA ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/nilo/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N25",
+            "sku": "H32242106N25",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Nilo"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -3159,96 +978,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Nilo"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/31/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA TORTUN - TEJIDO MARFIL ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA TORTUN - TEJIDO MARFIL ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/tortun/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N26",
+            "sku": "H32242106N26",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Tortun"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -3259,96 +1008,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Tortun"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/32/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA TORTUN - TEJIDO CASTAÑO ",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA TORTUN - TEJIDO CASTAÑO ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/tortun/2/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N27",
+            "sku": "H32242106N27",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Tortun"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -3359,96 +1038,26 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Tortun"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/33/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EGYPT + BAUL KING - ANTIFLUIDO PLATA NEW",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA EGYPT + BAUL KING - ANTIFLUIDO PLATA NEW",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/egytp-1/2/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2199,
+            "precioRegular": 3699,
+            "precioNormal": 3199,
             "precioVenta": 2049,
             "stock": 9,
-            "sku": "D32242106N28",
+            "sku": "H32242106N28",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Egypt"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -3458,97 +1067,27 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Egypt"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/34/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA OLIMPIC - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA OLIMPIC - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos/bloques/olimpic/3/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 2199,
             "precioVenta": 1619,
             "stock": 9,
-            "sku": "D32242106N29",
+            "sku": "H32242106N29",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Olimpic"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "king",
                     "cajones": "No",
@@ -3558,45 +1097,6 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }                                                                                                                                                    

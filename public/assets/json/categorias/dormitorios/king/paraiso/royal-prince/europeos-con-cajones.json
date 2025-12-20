@@ -2,53 +2,22 @@
     "productos":[
         {   
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "europeos con cajones",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "Royal Prince",
+            "linea": "europeos con cajones",
             "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/1/",
-            "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL EMPERATIZ + 2 CAJONES LATERALES - PLATA",
+            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL EMPERATIZ + 2 CAJONES LATERALES - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/pedestales/emperatriz/1/",
-            "colores": "si",
             "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2699,
+            "precioNormal": 3899,
+            "precioVenta": 2779,
             "stock": 9,
-            "sku": "D32341153N10",
+            "sku": "H32341153N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Europeos con cajones",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Prince",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Europeos con cajones",
                     "tamaño": "king",
                     "cajones": "No",
@@ -58,96 +27,27 @@
                     "diseño-de-cabecera": "Pedestal",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {   
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "europeos con cajones",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "Royal Prince",
+            "linea": "europeos con cajones",
             "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/2/",
-            "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL EMPERATIZ + 2 CAJONES AL PIE - FUCSIA",
+            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL EMPERATIZ + 2 CAJONES AL PIE - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/pedestales/emperatriz/2/",
-            "colores": "si",
             "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2699,
+            "precioNormal": 3899,
+            "precioVenta": 2779,
             "stock": 9,
-            "sku": "D32341153N11",
+            "sku": "H32341153N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Europeos con cajones",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Prince",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Europeos con cajones",
                     "tamaño": "king",
                     "cajones": "No",
@@ -157,44 +57,6 @@
                     "diseño-de-cabecera": "Pedestal",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }

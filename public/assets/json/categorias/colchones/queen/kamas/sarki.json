@@ -1,69 +1,50 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "Queen",
             "marca": "kamas",
-            "subcategoria": "sarki",
+            "modelo": "sarki",
             "ruta": "/productos/colchones/queen/kamas/sarki/",
-            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI QUEEN",
+            "nombre": "COLCHÓN KAMAS QUEEN ORTOPÉDICO SARKI",
             "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/",
             "precioRegular": 969,
             "precioNormal": 899,
             "precioVenta": 599,
             "stock": 99,
             "sku": "H1133N10",
-            "regalos":{
-                "texto": "2 almohadas",
-                "foto": "/assets/imagenes/productos/almohadas.webp"
-            },
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Sarki",
-                    "tamaño": "Queen",
-                    "linea-de-colchón": "Ortopédico",
-                    "nivel-de-confort": "Confortable"
-                }
-            ],
+            "regalos": [ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/sarki/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/sarki/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/sarki/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11153N10" },
+                { "nombre": "2 plazas", "sku": "H1123N10" },
+                { "nombre": "King", "sku": "H1143N10" }
             ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Sarki",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Ortopédico",
-                    "nivel-de-confort": "Confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "16 filas",
-                    "material-de-resorte": "Acero templado",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-espuma": "18kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "refuerzos": "Centrales",
-                    "marco": "Sellado",
-                    "grosor": "26cm.",
-                    "soporte-de-peso": "80kg. por persona",
-                    "garantía": "2 años"
-                }
-            ]
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Sarki es el modelo más comercial de la marca, gracias a su equilibrio ideal entre precio, confort y durabilidad. Pertenece a la línea ortopédica y ofrece un nivel de confort confortable, adecuado para el uso diario.",
+        "Está fabricado con resortes Bonell de acero templado en 16 filas, que brindan un soporte estable y uniforme. Incorpora espuma de 18 kg/m³, refuerzos centrales y marco sellado, ayudando a mantener la firmeza y prolongar su vida útil.",
+        "Su tela de algodón tejido en punto aporta suavidad y buena ventilación. Es de uso por ambos lados, tiene un grosor de 26 cm, soporta hasta 80 kg por persona y cuenta con 2 años de garantía, convirtiéndolo en una opción práctica, confiable y muy demandada."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Sarki",
+            "línea-de-colchón": "Ortopédico",
+            "nivel-de-confort": "Confortable",
+            "resortes": "bonell",
+            "filas-de-resortes": "16",
+            "material-de-resorte": "Acero templado",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-espuma": "18kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "refuerzos": "Centrales",
+            "marco": "Sellado",
+            "grosor": "26cm.",
+            "soporte-de-peso": "80kg. por persona",
+            "garantía": "2 años"
         }
     ]
 }

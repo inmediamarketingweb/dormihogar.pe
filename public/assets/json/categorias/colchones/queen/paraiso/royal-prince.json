@@ -1,70 +1,47 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "Queen",
             "marca": "paraiso",
-            "subcategoria": "royal prince",
+            "modelo": "royal prince",
             "ruta": "/productos/colchones/queen/paraiso/royal-prince/",
-            "nombre": "COLCHÓN PARAISO ROYAL PRINCE QUEEN",
+            "nombre": "COLCHÓN PARAISO QUEEN ROYAL PRINCE",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-prince/",
             "precioRegular": 2472,
             "precioNormal": 1953,
-            "precioVenta": 1099,
+            "precioVenta": 879,
             "stock": 14,
             "sku": "H12323N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal prince",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Firme"
-                }
-            ],
+            "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-prince/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-prince/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/paraiso/royal-prince/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H121523N10" },
+                { "nombre": "2 plazas", "sku": "H12223N10" },
+                { "nombre": "King", "sku": "H12423N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal prince",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Firme",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "Pocket",
-                    "tela": "Tejido de punto higroscópica que absorde la húmedad",
-                    "sistema": "one side",
-                    "sensación": "firme",
-                    "marco": "zebra 30 HD",
-                    "capas": "2 de Zebra D20, Zebra 30 HD y espuma D90",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Royal Prince ofrece un soporte firme y definido en tamaño Queen. Su sensación firme asegura alineación espinal y descanso profundo. Los resortes Pocket brindan sostén robusto y reducen la transferencia de movimiento.",
+        "Su estructura de alta resistencia incluye 2 capas Zebra D20, marco Zebra 30 HD y base de espuma D90 para máxima durabilidad.",
+        "Cubierto con tela higroscópica que absorbe humedad, su diseño One Side es práctico y sin mantenimiento. Con garantía de 10 años, es el trono firme para tu descanso."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal prince",
+            "tamaño": "Queen",
+            "nivel-de-confort": "Firme",
+            "tipo-de-resorte": "Pocket",
+            "resortes": "Pocket",
+            "tela": "Tejido de punto higroscópica que absorde la húmedad",
+            "sistema": "one side",
+            "sensación": "firme",
+            "marco": "zebra 30 HD",
+            "capas": "2 de Zebra D20, Zebra 30 HD y espuma D90",
+            "garantía": "10 años"
         }
     ]
 }

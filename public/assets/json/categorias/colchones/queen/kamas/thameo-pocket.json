@@ -1,70 +1,49 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "queen",
             "marca": "kamas",
-            "subcategoria": "thameo pocket",
+            "modelo": "thameo pocket",
             "ruta": "/productos/colchones/queen/kamas/thameo-pocket/",
-            "nombre": "COLCHÓN KAMAS THAMEO POCKET QUEEN",
+            "nombre": "COLCHÓN KAMAS QUEEN THAMEO POCKET",
             "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/",
             "precioRegular": 1479,
             "precioNormal": 1159,
             "precioVenta": 899,
             "stock": 99,
             "sku": "H1138N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Thameo pocket",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Super ortopedico",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/thameo-pocket/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/thameo-pocket/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/thameo-pocket/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11158N10" },
+                { "nombre": "2 plazas", "sku": "H1128N10" },
+                { "nombre": "King", "sku": "H1148N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Thameo pocket",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Super ortopedico",
-                    "nivel-de-confort": "Muy confortable",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "600 resortes pocket",
-                    "tela": "Tejido en punto",
-                    "refuerzos": "centrales",
-                    "densidad-de-la-espuma": "18kg/m3",
-                    "marco": "sellado",
-                    "grosor": "30cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "90kg. por persona",
-                    "garantía": "5 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Thameo Pocket forma parte de la línea súper ortopédica y ha sido diseñado para brindar un equilibrio ideal entre soporte y comodidad, ofreciendo una sensación muy confortable sin perder firmeza estructural.",
+        "Incorpora 600 resortes Pocket, que funcionan de manera independiente para adaptarse al cuerpo, reducir los movimientos y favorecer una correcta alineación de la columna. Su espuma de 18 kg/m³, junto con refuerzos centrales y marco sellado, garantiza estabilidad, resistencia y mayor durabilidad.",
+        "Está recubierto con tela de tejido en punto, suave al tacto y con buena ventilación. Con un grosor de 30 cm, uso por ambos lados, soporte de hasta 90 kg por persona y 5 años de garantía, es una excelente opción para quienes buscan confort ortopédico confiable y duradero."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Thameo pocket",
+            "línea-de-colchón": "Super ortopedico",
+            "nivel-de-confort": "Muy confortable",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "600 resortes pocket",
+            "tela": "Tejido en punto",
+            "refuerzos": "centrales",
+            "densidad-de-la-espuma": "18kg/m3",
+            "marco": "sellado",
+            "grosor": "30cm",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "90kg. por persona",
+            "garantía": "5 años"
         }
     ]
 }

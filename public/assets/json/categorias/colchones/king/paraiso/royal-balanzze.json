@@ -1,0 +1,48 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "king",
+            "marca": "paraiso",
+            "modelo": "royal balanzze",
+            "ruta": "/productos/colchones/king/paraiso/royal-balanzze/",
+            "nombre": "COLCHÓN PARAISO KING ROYAL BALANZZE",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-balanzze/",
+            "precioRegular": 2799,
+            "precioNormal": 2349,
+            "precioVenta": 1759,
+            "stock": 14,
+            "sku": "H1243N10",
+            "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
+            "tamaños-disponibles":[
+                { "nombre": "1 plaza y media", "sku": "H12151N10" },
+                { "nombre": "2 plazas", "sku": "H1221N10" },
+                { "nombre": "Queen", "sku": "H1231N10" }
+            ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Royal Abrazzo redefine el confort intermedio. Su sistema de doble panel de resortes Pocket ofrece una estabilidad sin precedentes y una independencia de movimiento total, garantizando un descanso imperturbable.",
+        "Su capa superior de espuma viscoelástica D70 se adapta inteligentemente a la forma de tu cuerpo, aliviando puntos de presión. Esta innovación está protegida por una cobertura con iones de plata antimicrobianos y un tejido de punto higroscópico que absorbe la humedad, tratado con protección antihongos, antibacterias y antiácaros para un espacio de sueño puro.",
+        "Sobre su robusto marco Zebra 35 HD, cada capa está diseñada para durar. El práctico sistema One Side maximiza su vida útil sin mantenimiento.",
+        "Un abrazo de confort y protección, respaldado por una garantía de 10 años. La excelencia hecha descanso."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal abrazzo",
+            "nivel-de-confort": "intermedio",
+            "tratamiento": "Antihongos, antibacterias y antiacaros",
+            "tela": "tejido de punto higroscópica que absorbe la humedad",
+            "Marco": "De Zebra 35 HD",
+            "espuma": "Viscoelástica D70 que se adapta al cuerpo",
+            "Cobertura": "iones de plata antimicrobianos",
+            "capas": "Doble panel de resortes Pocket. Mayor estabilidad e independencia de movimiento",
+            "sistema": "One side",
+            "sensacion": "intermedia",
+            "garantía": "10 años"
+        }
+    ]
+}

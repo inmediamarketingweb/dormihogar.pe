@@ -1,0 +1,159 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/europeos/americanas/capitoneado-1/1/",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H32315233N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/europeos/2/",
+            "nombre": "DORMITORIO EUROPEO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/europeos/americanas/capitoneado-1/2/",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H32315233N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/europeos/3/",
+            "nombre": "DORMITORIO EUROPEO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/europeos/americanas/capitoneado-1/3/",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H32315233N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/europeos/4/",
+            "nombre": "DORMITORIO EUROPEO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/europeos/americanas/capitoneado-1/4/",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H32315233N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/europeos/5/",
+            "nombre": "DORMITORIO EUROPEO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/europeos/con-marco/cuadros-1/1/",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H32315234N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "cuadros 1"
+                }
+            ]
+        }
+    ]
+}

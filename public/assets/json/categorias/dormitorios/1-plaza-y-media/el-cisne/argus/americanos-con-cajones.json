@@ -1,0 +1,41 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El Cisne",
+            "modelo": "argus",
+            "línea": "Americanos con cajones",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/argus/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE 2 CON CAJONES AL PIE + COLCHÓN ARGUS + CABECERA AÉREA CLÁSICA 2 - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/argus/americanos-con-cajones/aereas-con-patas/clasicas/clasica-2/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "H3321512N10",
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/argus/americanos-con-cajones/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "argus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        }
+    ]
+}

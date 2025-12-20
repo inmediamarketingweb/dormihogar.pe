@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "1 plaza y media",
             "marca": "kamas",
-            "subcategoria": "adel",
+            "modelo": "adel",
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/adel/",
             "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/adel/",
@@ -12,48 +13,26 @@
             "precioVenta": 249,
             "stock": 99,
             "sku": "H11151N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "modelo-de-colchón": "Adel",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Semi ortopédico",
-                    "nivel-de-confort": "Confortable"
-                }
-            ],
+            "regalos":["1 almohada"],
             "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/adel/"
-                }
+                {"nombre": "2 plazas", "sku": "H1121N10"}
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "modelo-de-colchón": "Adel",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Semi ortopédico",
-                    "nivel-de-confort": "Confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "8 filas en forma vertical",
-                    "tela": "Tricop",
-                    "densidad-de-la-espuma": "16kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "55kg. por persona",
-                    "garantía": "1 año"
-                }
-            ]
+            "tipo-de-envio": "Envío aplicado"
+        }
+    ],
+    "mensajes":[
+        "Este colchón ofrece una construcción básica y funcional, ideal para usos ligeros o temporales. Su estructura cuenta con 8 filas de resortes en forma vertical, proporcionando un soporte simple para el descanso.",
+        "La tela Tricop aporta resistencia y una superficie de contacto estándar, mientras que la espuma de 16 kg/m³ brinda un nivel de confort básico. Al ser de uso por ambos lados, permite rotarlo para prolongar su vida útil.",
+        "Pensado para pesos moderados, soporta hasta 55 kg por persona, lo que lo convierte en una opción práctica para habitaciones secundarias o uso ocasional. Incluye 1 año de garantía."
+    ],
+    "ficha":[
+        {
+            "resortes": "8 filas en forma vertical",
+            "tela": "Tricop",
+            "densidad-de-la-espuma": "16kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "55kg. por persona",
+            "garantía": "1 año"
         }
     ]
 }

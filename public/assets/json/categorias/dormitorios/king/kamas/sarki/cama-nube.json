@@ -1,0 +1,99 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "cama nube",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/cama-nube/1/",
+            "nombre": "DORMITORIO NUBE KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL NUBE - TEJIDO GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/cama-nube/1/",
+            "precioRegular": 3599,
+            "precioNormal": 3099,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "H3124235N1000",
+            "tipo-de-envio": "Gratis",
+            "regalos": [ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "cama nube",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "cama nube",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/cama-nube/2/",
+            "nombre": "DORMITORIO NUBE KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL NUBE - TEJIDO AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/cama-nube/2/",
+            "precioRegular": 3599,
+            "precioNormal": 3099,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "H3124235N1001",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "cama nube",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "cama nube",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/cama-nube/3/",
+            "nombre": "DORMITORIO NUBE KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL NUBE - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/cama-nube/3/",
+            "precioRegular": 3599,
+            "precioNormal": 3099,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "H3124235N1002",
+            "tipo-de-envio": "Gratis",
+            "regalos": [ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "cama nube",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        }
+    ]
+}

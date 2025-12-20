@@ -1,0 +1,184 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/1/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 1 - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/americanas/lineal-1/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H3422213N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/2/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 3 - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/americanas/lineal-3/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H3422213N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/2/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/3/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA MOKI - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/moki/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H34222136N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "Cromadas o de madera",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
+                {
+                    "resortes": "231 bicónicos",
+                    "tela-superior": "pique",
+                    "espuma": "poliuretano de 1 1/2'",
+                    "soporte": "60kg por persona",
+                    "tipo-de-uso": "ambos lados",
+                    "marco": "de espuma de poliuretano",
+                    "banda": "tela tricop",
+                    "nivel-de-confort": "intermedio",
+                    "grosor": "21 cm",
+                    "sensación": "intermedia",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "De manera",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

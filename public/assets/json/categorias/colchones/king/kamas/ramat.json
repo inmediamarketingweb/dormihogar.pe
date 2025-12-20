@@ -2,8 +2,9 @@
     "productos":[
         {
             "marca": "kamas",
+            "tamaño": "king",
             "categoria": "colchones",
-            "subcategoria": "ramat",
+            "modelo": "ramat",
             "ruta": "/productos/colchones/king/kamas/ramat/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT KING",
             "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
@@ -12,62 +13,38 @@
             "precioVenta": 1199,
             "stock": 99,
             "sku": "H1145N10",
-            "incluye":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Ramat",
-                    "tamaño": "King",
-                    "línea-de-colchón": "Súper ortopédico",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/ramat/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/ramat/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/ramat/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11155N10" },
+                { "nombre": "2 plazas", "sku": "H1125N10" },
+                { "nombre": "Queen", "sku": "H1135N10" }
             ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Ramat",
-                    "tamaño": "King",
-                    "línea-de-colchón": "Súper ortopédico",
-                    "nivel-de-confort": "Muy confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "19 filas",
-                    "material-de-resorte": "Acero templado",
-                    "tela": "Jacquard",
-                    "densidad-de-la-espuma": "20kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "doble-pestaña": "Si",
-                    "incorpora": "Sistema PT",
-                    "refuerzos": "Centrales",
-                    "marco": "Marco de espuma",
-                    "grosor": "37cm.",
-                    "soporte-de-peso": "90kg. por persona",
-                    "garantía": "4 años"
-                }
-            ]
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Ramat, de línea Súper Ortopédica, ofrece un descanso muy confortable gracias a su sistema de resortes bonell con 19 filas de acero templado y refuerzos centrales. Está fabricado con espuma de 20 kg/m³, tela jacquard y cuenta con doble pestaña, lo que aumenta su durabilidad. Su diseño de ambos lados, sistema PT, marco de espuma y 37 cm de grosor brindan soporte estable para hasta 90 kg por persona. Incluye 4 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Ramat",
+            "tamaño": "King",
+            "línea-de-colchón": "Súper ortopédico",
+            "nivel-de-confort": "Muy confortable",
+            "resortes": "Bonell",
+            "filas-de-resortes": "19",
+            "material-de-resorte": "Acero templado",
+            "tela": "Jacquard",
+            "densidad-de-la-espuma": "20kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "doble-pestaña": "Si",
+            "incorpora": "Sistema PT",
+            "refuerzos": "Centrales",
+            "marco": "Marco de espuma",
+            "grosor": "37cm.",
+            "soporte-de-peso": "90kg. por persona",
+            "garantía": "4 años"
         }
     ]
 }

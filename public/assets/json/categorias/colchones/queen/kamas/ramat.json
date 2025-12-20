@@ -1,9 +1,11 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "queen",
             "marca": "kamas",
-            "subcategoria": "ramat",
+            "modelo": "ramat",
             "ruta": "/productos/colchones/queen/kamas/ramat/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
@@ -12,62 +14,39 @@
             "precioVenta": 999,
             "stock": 99,
             "sku": "H1135N10",
-            "incluye":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Ramat",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Súper ortopédico",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/ramat/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/ramat/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/ramat/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11155N10" },
+                { "nombre": "2 plazas", "sku": "H1125N10" },
+                { "nombre": "King", "sku": "H1145N10" }
             ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Ramat",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Súper ortopédico",
-                    "nivel-de-confort": "Muy confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "17 filas",
-                    "material-de-resorte": "Acero templado",
-                    "tela": "Jacquard",
-                    "densidad-de-la-espuma": "20kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "doble-pestaña": "Si",
-                    "incorpora": "Sistema PT",
-                    "refuerzos": "Centrales",
-                    "marco": "Marco de espuma",
-                    "grosor": "37cm.",
-                    "soporte-de-peso": "90kg. por persona",
-                    "garantía": "4 años"
-                }
-            ]
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Ramat Queen pertenece a la línea SÚPER ORTOPÉDICA, ideal para quienes buscan un descanso muy confortable con soporte firme y estable. Su sistema de resortes Bonell con 17 filas de acero templado brinda resistencia y durabilidad, favoreciendo una correcta postura al dormir.",
+        "Cuenta con espuma de 20 kg/m³, refuerzos centrales y marco de espuma, que aseguran una distribución uniforme del peso y mayor firmeza en toda la superficie. Incorpora el Sistema PT, pensado para mejorar la estabilidad estructural del colchón.",
+        "Su tela Jacquard ofrece mayor resistencia y elegancia, mientras que el diseño de uso por ambos lados y la doble pestaña prolongan su vida útil. Con un grosor de 37 cm, soporta hasta 90 kg por persona y está respaldado por 4 años de garantía, siendo una excelente opción súper ortopédica para un descanso cómodo y confiable."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Ramat",
+            "línea-de-colchón": "Súper ortopédico",
+            "nivel-de-confort": "Muy confortable",
+            "resortes": "Bonell",
+            "fila-de-resortes": "17",
+            "material-de-resorte": "Acero templado",
+            "tela": "Jacquard",
+            "densidad-de-la-espuma": "20kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "doble-pestaña": "Si",
+            "incorpora": "Sistema PT",
+            "refuerzos": "Centrales",
+            "marco": "Marco de espuma",
+            "grosor": "37cm.",
+            "soporte-de-peso": "90kg. por persona",
+            "garantía": "4 años"
         }
     ]
 }

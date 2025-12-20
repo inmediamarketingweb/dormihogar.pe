@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "1 plaza y media",
             "marca": "kamas",
-            "subcategoria": "rucay",
+            "modelo": "rucay",
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/rucay/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/rucay/",
@@ -12,58 +13,34 @@
             "precioVenta": 289,
             "stock": 99,
             "sku": "H11152N10",
-            "regalos":[
-                {
-                    "id": 1,
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Rucay",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Anátomico",
-                    "nivel-de-confort": "Confortable"
-                }
-            ],
+            "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/rucay/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/rucay/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/rucay/"
-                }
+                { "nombre": "2 plazas", "sku": "H1122N10" },
+                { "nombre": "Queen", "sku": "H1132N10" },
+                { "nombre": "King", "sku": "H1142N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Rucay",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Anátomico",
-                    "nivel-de-confort": "Confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "8 filas en forma vertical",
-                    "tela": "Tricop",
-                    "densidad-de-la-espuma": "16kg/m3",
-                    "tipo-de-uso": "Un solo lado",
-                    "marco": "Sellado",
-                    "soporte-de-peso": "60kg. por persona",
-                    "garantía": "1 año"
-                }
-            ]
+            "tipo-de-envio": "Envío aplicado"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Rucay es un colchón básico mejorado, un nivel por encima del Adel. Ofrece un confort agradable gracias a su sistema de resortes Bonell con 8 filas verticales y espuma de 16 kg/m³.",
+        "Su diseño de un solo lado, tela tricop y marco sellado lo convierten en una opción sencilla, funcional y accesible.",
+        "Soporta hasta 60 kg por persona y cuenta con 1 año de garantía, ideal para quienes buscan un colchón económico pero con mejor soporte que los modelos más básicos."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Rucay",
+            "línea-de-colchón": "Anátomico",
+            "nivel-de-confort": "Confortable",
+            "resortes": "Bonell",
+            "filas-de-resortes": "8 filas en forma vertical",
+            "tela": "Tricop",
+            "densidad-de-la-espuma": "16kg/m3",
+            "tipo-de-uso": "Un solo lado",
+            "marco": "Sellado",
+            "soporte-de-peso": "60kg. por persona",
+            "garantía": "1 año"
         }
     ]
 }

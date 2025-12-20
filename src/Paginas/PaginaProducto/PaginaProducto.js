@@ -242,7 +242,7 @@ function PaginaProducto(){
         return (
             <>
                 <Helmet>
-                    <title>leosoplapuco | Homesleep</title>
+                    <title>404 | Domrihogar</title>
                 </Helmet>
 
                 <main className="main-category">
@@ -294,20 +294,20 @@ function PaginaProducto(){
         "@type": "Product",
         "name": producto.nombre,
         "image": [
-            `https://homesleep.pe${producto.fotos}1.jpg`
+            `https://dormihogar.pe${producto.fotos}1.jpg`
         ],
         "description": producto["resumen-del-producto"]?.map(d => Object.values(d)[0]).join(' – '),
         "sku": producto.sku,
         "brand": {
             "@type": "Brand",
-            "name": "Homesleep"
+            "name": "dormihogar"
         },
         "offers": {
             "@type": "Offer",
-            "url": `https://homesleep.pe${producto.ruta}`,
+            "url": `https://dormihogar.pe${producto.ruta}`,
             "priceCurrency": "PEN",
             "price": producto.precioVenta,
-            "priceValidUntil": "2025-12-31",
+            "priceValidUntil": "2035-12-31",
             "itemCondition": "https://schema.org/NewCondition",
             "availability": producto.stock > 0 ? "https://schema.org/InStock" : "https://schema.org/OutOfStock"
         }
@@ -318,13 +318,13 @@ function PaginaProducto(){
             <Helmet>
                 <title>{producto.nombre}</title>
                 <meta name="description" content={producto.nombre}/>
-                <link rel="preload" as="image" href={`https://homesleep.pe${producto.fotos}1.jpg`} />
-                <meta property="og:image" content={`https://homesleep.pe${producto.fotos}1.jpg`}/>
+                <link rel="preload" as="image" href={`https://dormihogar.pe${producto.fotos}1.jpg`} />
+                <meta property="og:image" content={`https://dormihogar.pe${producto.fotos}1.jpg`}/>
                 <meta property="og:title" content={producto.nombre}/>
                 <meta property="og:site_name" content={producto.nombre}/>
                 <meta property="og:description" content={producto.nombre}/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content={`https://homesleep.pe${producto.ruta}`}/>
+                <meta property="og:url" content={`https://dormihogar.pe${producto.ruta}`}/>
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 

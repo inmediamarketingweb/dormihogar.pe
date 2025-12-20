@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "1 plaza y media",
             "marca": "kamas",
-            "subcategoria": "yurmale",
+            "modelo": "yurmale",
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/yurmale/",
             "nombre": "COLCHÓN KAMAS YURMALE 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/",
@@ -11,61 +12,39 @@
             "precioNormal": 1279,
             "precioVenta": 999,
             "stock": 99,
-            "sku": "K11512N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Yurmale",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopedico",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "sku": "H111512N10",
+            "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/yurmale/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/yurmale/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/yurmale/"
-                }
+                { "nombre": "2 plazas", "sku": "H11212N10"},
+                { "nombre": "Queen", "sku": "H11312N10"},
+                { "nombre": "King", "sku": "H11412N10"}
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Yurmale",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopedico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "364 resortes pocket",
-                    "tela": "Tela algodón tejido en punto",
-                    "sistema": "One size",
-                    "refuerzos": "Centrales",
-                    "densidad-de-la-espuma": "25kg/m3",
-                    "marco": "De espuma",
-                    "grosor": "44cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "12 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Yurmale es el colchón premium de la marca, pensado para quienes buscan máxima firmeza, soporte superior y durabilidad. Su sistema de 364 resortes Pocket brinda independencia de movimiento y un soporte preciso, complementado por refuerzos centrales que aumentan la estabilidad.",
+        "Cuenta con tela algodón tejido en punto, espuma de alta densidad (25 kg/m³) y un robusto marco de espuma. Con sus 44 cm de grosor y diseño one size, ofrece una estructura imponente y de larga vida útil.",
+        "Apto para uso por ambos lados y soporta hasta 130 kg por persona, siendo ideal para quienes necesitan un colchón firme y resistente.",
+        "Incluye 12 años de garantía, reflejando su calidad y categoría premium."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Yurmale",
+            "línea-de-colchón": "Extra ortopedico",
+            "nivel-de-confort": "Muy firme",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "364 resortes pocket",
+            "tela": "Tela algodón tejido en punto",
+            "sistema": "One size",
+            "refuerzos": "Centrales",
+            "densidad-de-la-espuma": "25kg/m3",
+            "marco": "De espuma",
+            "grosor": "44cm",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "130kg. por persona",
+            "garantía": "12 años"
         }
     ]
 }

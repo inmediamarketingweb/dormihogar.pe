@@ -1,0 +1,3293 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/1/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/2/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADA 2 - ACERO + BLANCO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-2/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/2/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/3/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-2/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/4/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADO 3 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-3/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/4/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 3"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/5/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 2 - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/cuadros-2/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/5/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/6/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-3/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/6/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/7/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/lineal-2/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/7/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/8/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA PANAL CON DORADO - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/panal/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/8/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Panal"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/9/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/1/",
+            "precioRegular": 3499,
+            "precioNormal": 2499,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/9/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/10/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN + 2 VELADORES - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/2/",
+            "precioRegular": 3719,
+            "precioNormal": 3219,
+            "precioVenta": 1819,
+            "stock": 9,
+            "sku": "H3323256N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/10/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/11/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN + 2 VELADORES - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/3/",
+            "precioRegular": 3719,
+            "precioNormal": 3319,
+            "precioVenta": 1819,
+            "stock": 9,
+            "sku": "H3323256N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/11/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/12/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN + 2 VELADORES - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/4/",
+            "precioRegular": 3719,
+            "precioNormal": 3319,
+            "precioVenta": 1819,
+            "stock": 9,
+            "sku": "H3323256N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/12/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/13/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/5/",
+            "precioRegular": 3499,
+            "precioNormal": 2499,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/13/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/14/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN + 2 VELADORES - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/6/",
+            "precioRegular": 3719,
+            "precioNormal": 3319,
+            "precioVenta": 1819,
+            "stock": 9,
+            "sku": "H3323256N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/14/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/15/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/10/",
+            "precioRegular": 3499,
+            "precioNormal": 2499,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/15/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/16/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN + 2 VELADORES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/8/",
+            "precioRegular": 3719,
+            "precioNormal": 3319,
+            "precioVenta": 1819,
+            "stock": 9,
+            "sku": "H3323256N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/16/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/17/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN + 2 VELADORES - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/9/",
+            "precioRegular": 3719,
+            "precioNormal": 3319,
+            "precioVenta": 1819,
+            "stock": 9,
+            "sku": "H3323256N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/17/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/18/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CHAN CHAN + 2 VELADORES - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/chan-chan/11/",
+            "precioRegular": 3719,
+            "precioNormal": 3319,
+            "precioVenta": 1819,
+            "stock": 9,
+            "sku": "H3323256N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/18/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/19/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/con-marco/cuadros-1/1/",
+            "precioRegular": 3499,
+            "precioNormal": 2499,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323254N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/19/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/20/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA PEDESTAL SEAHORSE CAPITONEADO 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-1/4/",
+            "precioRegular": 3599,
+            "precioNormal": 2999,
+            "precioVenta": 2069,
+            "stock": 9,
+            "sku": "H3323253N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/20/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/21/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADO 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/21/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/22/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADO 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-1/3/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/22/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/23/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADA + 2 VELADORES CLÁSICO 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-2/3/",
+            "precioRegular": 3749,
+            "precioNormal": 2749,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "H3323253N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/23/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/24/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CAPITONEADO 3 - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/capitoneado-3/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/24/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 3"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/25/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/cuadros-1/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/25/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/26/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/cuadros-1/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/26/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/27/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 2 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/cuadros-2/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/27/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/28/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 2 - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/cuadros-2/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/28/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/29/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 1 - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-1/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/29/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/30/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 3 - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-3/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N26",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/30/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/31/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-3/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/31/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/32/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 3 - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-3/3/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N28",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/32/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/33/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 4 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-4/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/33/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/34/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 4 - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-5/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/34/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 5"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/35/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL HORI - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-hori/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N31",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/35/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/36/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL HORI - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-hori/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N32",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/36/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/37/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL HORI - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/lineal-hori/3/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N33",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/37/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/38/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA RECTANGULAR 1 - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/rectangular-1/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N34",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/38/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 1"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/39/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA RECTANGULAR 2 - ANTIFLUIDO PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/americanas/rectangular-2/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323253N35",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/39/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/40/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CORAZÓN - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/corazon/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/40/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corazón"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/41/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA EGYPT - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/egypt/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/41/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/42/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA GRID - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/grid/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/42/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/43/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA LINEAL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/lineal-2/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/43/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/44/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA NILO - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/nilo/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N26",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/44/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/45/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA OBSIDIAN - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/obsidian/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/45/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Obsidian"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/46/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/otros-modelos/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N28",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/46/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otro modelos"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/47/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA PANAL - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/panal/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/47/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Panal"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/48/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA PRESTIGE - CUERO ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/prestige/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/48/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Prestige"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/49/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA REPTILIAN - AZUL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/reptilian/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N31",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/49/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/50/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA ROMBOI - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/romboi/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N32",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/50/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/51/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA SYDNEY - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/sydney/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N33",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/51/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sydney"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/52/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/tortun/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N34",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/52/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/53/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA TORTUN - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/tortun/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N35",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/53/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/54/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA VELUTO - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/veluto/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N36",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/54/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Veluto"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/55/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA VIENA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/viena/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N37",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/55/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Viena"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/56/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA YACU - CUERO CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/bloques/yacu/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323256N38",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/56/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Yacu"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/57/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CLÁSICA 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/clasicas/clasica-1/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323252N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/57/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/58/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CLÁSICA 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/clasicas/clasica-2/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2299,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323252N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/58/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/59/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/con-marco/cuadros-1/2/",
+            "precioRegular": 3499,
+            "precioNormal": 2499,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323254N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/59/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/60/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 - ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/con-marco/cuadros-1/3/",
+            "precioRegular": 3499,
+            "precioNormal": 2499,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323254N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/60/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/61/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/con-marco/cuadros-1/4/",
+            "precioRegular": 3499,
+            "precioNormal": 2499,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "H3323254N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/61/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/62/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 + 2 VELADORES CLÁSICO 2 - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/con-marco/cuadros-1/5/",
+            "precioRegular": 3849,
+            "precioNormal": 2849,
+            "precioVenta": 1849,
+            "stock": 9,
+            "sku": "H3323254N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/62/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/63/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA AÉREA CUADROS 1 + 2 VELADORES CLÁSICO 2 - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/con-marco/cuadros-1/6/",
+            "precioRegular": 3849,
+            "precioNormal": 2849,
+            "precioVenta": 1849,
+            "stock": 9,
+            "sku": "H3323254N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/63/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-608",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/rc-456/americanos/64/",
+            "nombre": "DORMITORIO QUEEN KAMAS / CISNE + COLCHÓN CISNE RC-608 + CABECERA PEDESTAL CORONA - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/rc-608/americanos/coronas/otros-modelos/1/",
+            "precioRegular": 3849,
+            "precioNormal": 2849,
+            "precioVenta": 1849,
+            "stock": 9,
+            "sku": "H3323255N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/rc-456/americanos/64/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "RC-456",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 6"
+                }
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "Cromadas",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
+                {
+                    "resortes": "608 continuos",
+                    "tela": "Pique",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "tipo-de-uso": "un solo lado",
+                    "tipo-de-resorte": "Pocket",
+                    "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+                    "alto": "31 cm.",
+                    "sensación": "intermedia",
+                    "garantía": "4 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "De manera",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

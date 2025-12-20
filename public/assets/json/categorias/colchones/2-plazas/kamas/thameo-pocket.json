@@ -3,7 +3,8 @@
         {
             "categoria": "colchones",
             "marca": "kamas",
-            "subcategoria": "thameo pocket",
+            "tamaño": "2 plazas",
+            "modelo": "thameo pocket",
             "ruta": "/productos/colchones/2-plazas/kamas/thameo-pocket/",
             "nombre": "COLCHÓN KAMAS THAMEO POCKET 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/",
@@ -12,59 +13,36 @@
             "precioVenta": 549,
             "stock": 99,
             "sku": "H1128N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Thameo pocket",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Super ortopedico",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
+            "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/thameo-pocket/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/thameo-pocket/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/thameo-pocket/"
-                }
+                { "nombre": "1 plaza y media", "ruta": "H11158N10" },
+                { "nombre": "Queen", "ruta": "H1138N10" },
+                { "nombre": "King", "ruta": "H1148N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Thameo pocket",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Super ortopedico",
-                    "nivel-de-confort": "Muy confortable",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "494 resortes pocket",
-                    "tela": "Tejido en punto",
-                    "refuerzos": "centrales",
-                    "densidad-de-la-espuma": "18kg/m3",
-                    "marco": "sellado",
-                    "grosor": "30cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "90kg. por persona",
-                    "garantía": "5 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Thameo Pocket está diseñado para quienes buscan un descanso muy confortable con soporte ortopédico. Su estructura de 494 resortes pocket brinda independencia de movimiento y una adaptación más precisa al cuerpo.",
+        "Cuenta con tela tejida en punto, espuma de 18 kg/m³, refuerzos centrales, grosor de 30 cm y diseño ambos lados, lo que mejora su durabilidad y comodidad.",
+        "Soporta hasta 90 kg por persona y viene con 5 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Thameo pocket",
+            "línea-de-colchón": "Súper ortopédico",
+            "nivel-de-confort": "Muy confortable",
+            "resortes": "pocket",
+            "cantidad-de-resortes": "494 resortes pocket",
+            "tela": "Tejido en punto",
+            "refuerzos": "centrales",
+            "densidad-de-la-espuma": "18kg/m3",
+            "marco": "sellado",
+            "grosor": "30cm",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "90kg. por persona",
+            "garantía": "5 años"
         }
     ]
 }

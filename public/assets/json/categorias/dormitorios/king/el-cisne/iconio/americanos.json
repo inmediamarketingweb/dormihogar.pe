@@ -1,0 +1,159 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Iconio",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/iconio/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN ICONIO + CABECERA AÉREA CAPITONEADO 1 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/iconio/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 2899,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "H3324267N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Iconio",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Iconio",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/iconio/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN ICONIO + CABECERA AÉREA CAPITONEADO 1 - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/iconio/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 3599,
+            "precioNormal": 2899,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "H3324267N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Iconio",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Iconio",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/iconio/americanos/3/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN ICONIO + CABECERA AÉREA CUADROS 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/iconio/americanos/americanas/cuadros-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 2899,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "H3324267N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Iconio",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Iconio",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/iconio/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN ICONIO + CABECERA AÉREA CUADROS 2 - ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/iconio/americanos/americanas/cuadros-2/1/",
+            "precioRegular": 3599,
+            "precioNormal": 2899,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "H3324267N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Iconio",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Iconio",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/iconio/americanos/5/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN ICONIO + CABECERA AÉREA LINEAL 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/iconio/americanos/americanas/lineal-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 2899,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "H3324267N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Iconio",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        }
+    ]
+}

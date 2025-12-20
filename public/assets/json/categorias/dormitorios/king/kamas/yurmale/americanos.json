@@ -1,0 +1,67 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "yurmale",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/yurmale/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA EXPLORER - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/yurmale/americanos/bloques/explorer/1/",
+            "precioRegular": 4599,
+            "precioNormal": 3999,
+            "precioVenta": 2599,
+            "stock": 9,
+            "sku": "H31242126N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "yurmale",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "explorer"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "yurmale",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/yurmale/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA CAPITONEADO 3 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/yurmale/americanos/americanas/capitoneado-3/1/",
+            "precioRegular": 4599,
+            "precioNormal": 3999,
+            "precioVenta": 2599,
+            "stock": 9,
+            "sku": "H31242123N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "yurmale",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 3"
+                }
+            ]
+        }
+    ]
+}

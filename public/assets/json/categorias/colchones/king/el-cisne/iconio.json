@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "King",
             "marca": "el cisne",
-            "subcategoria": "iconio",
+            "modelo": "iconio",
             "ruta": "/productos/colchones/king/el-cisne/iconio/",
             "nombre": "COLCHÓN EL CISNE ICONIO KING",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/iconio/",
@@ -12,48 +13,28 @@
             "precioVenta": 1399,
             "stock": 14,
             "sku": "H1347N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Iconio",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Iconio",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "396 bicónicos",
-                    "tela": "Pique",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "tipo-de-uso": "un solo lado",
-                    "tipo-de-resorte": "Pocket",
-                    "marco": "Espuma con densidad 20kg/m3",
-                    "capas": "Poliuretano 1 1/4' a 16kg/m3, 1 1/2' a 30kg/m3 y prensado 1 pulgada de espesor.",
-                    "alto": "31 cm.",
-                    "sensación": "intermedia",
-                    "garantía": "4 años"
-                }
-            ]
+            "regalos":["2 almohadas viscoelásticas", "1 protector de colchón"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Este colchón ofrece un descanso de alta calidad gracias a su panel de 396 resortes bicónicos, que brindan soporte uniforme y una estructura resistente. Su espuma Zebra de 1 1/2' (18kg/m³) aporta suavidad y ergonomía, asegurando una superficie cómoda y adaptable.",
+        "La cubierta en tela Pique garantiza frescura y confort, mientras que la espuma de 20 kg/m³ añade una sensación adicional de comodidad. Su marco de espuma flexible refuerza el colchón, evita deformaciones y prolonga su vida útil.",
+        "La banda de tela en punto proporciona mayor durabilidad y resistencia, complementada por una altura de 40 cm, que ofrece fácil acceso y una apariencia más lujosa.",
+        "Con 8 años de garantía, este modelo es una opción ideal para quienes buscan soporte, confort y elegancia en un solo colchón."
+    ],
+    "ficha":[
+        {
+            "resortes": "396 bicónicos",
+            "tela": "Pique",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "tipo-de-uso": "un solo lado",
+            "tipo-de-resorte": "Pocket",
+            "marco": "Espuma con densidad 20kg/m3",
+            "capas": "Poliuretano 1 1/4' a 16kg/m3, 1 1/2' a 30kg/m3 y prensado 1 pulgada de espesor.",
+            "alto": "40 cm.",
+            "sensación": "intermedia",
+            "garantía": "8 años"
         }
     ]
 }

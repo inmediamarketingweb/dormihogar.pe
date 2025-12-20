@@ -1,1902 +1,405 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "konig",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/konig/americanos/1/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/1/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
+            "precioRegular": 3199,
+            "precioNormal": 2819,
+            "precioVenta": 2399,
             "stock": 13,
-            "sku": "D3242113N10",
+            "sku": "H31242113N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "konig",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/konig/americanos/2/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/2/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
+            "precioRegular": 3199,
+            "precioNormal": 2819,
+            "precioVenta": 2399,
             "stock": 13,
-            "sku": "D3242113N11",
+            "sku": "H31242113N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 3,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "konig",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/konig/americanos/3/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/3/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
-            "stock": 13,
-            "sku": "D3242113N12",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/4/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - PLOMO AZULADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/4/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
-            "stock": 13,
-            "sku": "D3242113N13",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/5/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/5/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
-            "stock": 13,
-            "sku": "D3242113N14",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/6/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/6/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
-            "stock": 13,
-            "sku": "D3242113N15",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/7/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - VERDE CERCETA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/7/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
-            "stock": 13,
-            "sku": "D3242113N16",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/8/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/8/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
-            "stock": 13,
-            "sku": "D3242113N17",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/9/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - TURQUESA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/9/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 2299,
-            "stock": 13,
-            "sku": "D3242113N18",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/10/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VINTAGE - AZUL NOCHE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/1/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 3899,
-            "precioVenta": 3039,
-            "stock": 13,
-            "sku": "D3242113N19",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/11/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VINTAGE - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/2/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 3899,
-            "precioVenta": 3039,
-            "stock": 13,
-            "sku": "D3242113N20",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/12/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VINTAGE- TURQUESA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/3/", 
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 3899,
-            "precioVenta": 3039,
-            "stock": 13,
-            "sku": "D3242113N21",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/13/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VITAGE - GRIS RATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/4/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 3899,
-            "precioVenta": 3039,
-            "stock": 13,
-            "sku": "D3242113N22",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/14/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ- MORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/5/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 3359,
-            "precioVenta": 2479,
-            "stock": 13,
-            "sku": "D3242113N23",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/15/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/6/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 3559,
-            "precioVenta": 2759,
-            "stock": 13,
-            "sku": "D3242113N24",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/16/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - CH0COLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/7/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 3559,
-            "precioVenta": 2759,
-            "stock": 13,
-            "sku": "D3242113N25",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/17/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/9/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 3559,
-            "precioVenta": 2759,
-            "stock": 13,
-            "sku": "D3242113N26",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/18/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - COBALTO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/10/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 3559,
-            "precioVenta": 2759,
-            "stock": 13,
-            "sku": "D3242113N27",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/19/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - TURQUESA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/pedestales/emperatriz/11/", 
-            "colores": "si",
-            "precioRegular": 2889,
-            "precioNormal": 3559,
-            "precioVenta": 2759,
-            "stock": 13,
-            "sku": "D3242113N28",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/20/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CON PATAS LINEAL 3 - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/lineal-3/1/", 
-            "colores": "si",
-            "precioRegular": 3889,
-            "precioNormal": 3359,
+            "precioRegular": 3199,
+            "precioNormal": 2819,
             "precioVenta": 2399,
             "stock": 13,
-            "sku": "D31242113N10",
+            "sku": "H31242113N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 3"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "Americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Lineal 3"
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
-            ],
-            "descripciones":[
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/5/", 
+            "precioRegular": 3199,
+            "precioNormal": 2819,
+            "precioVenta": 2399,
+            "stock": 13,
+            "sku": "H31242113N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
                 {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/5/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/6/", 
+            "precioRegular": 3199,
+            "precioNormal": 2819,
+            "precioVenta": 2399,
+            "stock": 13,
+            "sku": "H31242113N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
                 {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "20 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "25kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "44cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "130kg. por persona",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/6/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/7/", 
+            "precioRegular": 3199,
+            "precioNormal": 2819,
+            "precioVenta": 2399,
+            "stock": 13,
+            "sku": "H31242113N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
                 {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/7/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/8/", 
+            "precioRegular": 4199,
+            "precioNormal": 3479,
+            "precioVenta": 2579,
+            "stock": 13,
+            "sku": "H31242113N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/8/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/9/", 
+            "precioRegular": 4399,
+            "precioNormal": 3779,
+            "precioVenta": 2929,
+            "stock": 13,
+            "sku": "H31242113N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/9/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/9/", 
+            "precioRegular": 4399,
+            "precioNormal": 3779,
+            "precioVenta": 2929,
+            "stock": 13,
+            "sku": "H31242113N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/10/", 
+            "precioRegular": 4399,
+            "precioNormal": 3779,
+            "precioVenta": 2929,
+            "stock": 13,
+            "sku": "H31242113N18",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/10/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/11/",
+            "precioRegular": 4399,
+            "precioNormal": 3779,
+            "precioVenta": 2929,
+            "stock": 13,
+            "sku": "H31242113N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/11/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/12/",
+            "precioRegular": 4399,
+            "precioNormal": 3779,
+            "precioVenta": 2929,
+            "stock": 13,
+            "sku": "H31242113N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/13/",
+            "precioRegular": 4399,
+            "precioNormal": 3779,
+            "precioVenta": 2929,
+            "stock": 13,
+            "sku": "H31242113N21",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         }

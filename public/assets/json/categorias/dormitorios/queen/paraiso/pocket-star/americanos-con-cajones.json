@@ -1,0 +1,101 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket star",
+            "línea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-star/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO CON 6 CAJONES + COLCHÓN PARAISO POCKET STAR + CABECERA PEDESTAL - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-star/americanos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 3799,
+            "precioNormal": 3499,
+            "precioVenta": 2129,
+            "stock": 9,
+            "sku": "H32231143N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-star/americanos-con-cajones/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "si",
+                    "cantidad-de-cajones": "6",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket star",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "material-de-cajones": "melamina",
+                    "rieles": "pesados",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "Cromadas o de madera",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
+                {
+                    "tela": "Tejido de punto",
+                    "tratamiento": "Antihongos, antibacterias y antiácaros",
+                    "tipo-de-resorte": "Pocket",
+                    "pillow-top": "extra acolchado",
+                    "marco": "zebra 25",
+                    "sistema": "one side",
+                    "sensación": "intermedia",
+                    "garantía": "10 años"
+                }
+             ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

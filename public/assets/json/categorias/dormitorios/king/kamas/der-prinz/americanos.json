@@ -1,1705 +1,343 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/1/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/capitoneado-1/1/",
-            "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/aereas-con-patas/americanas/capitoneado-1/1/",
+            "precioRegular": 3149,
+            "precioNormal": 2649,
+            "precioVenta": 1749,
             "stock": 9,
-            "sku": "D324253N10",
+            "sku": "H3124253N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/2/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/capitoneado-1/2/",
-            "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/aereas-con-patas/americanas/capitoneado-1/2/",
+            "precioRegular": 3149,
+            "precioNormal": 2649,
+            "precioVenta": 1749,
             "stock": 9,
-            "sku": "D324253N11",
+            "sku": "H3124253N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 3,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/3/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/capitoneado-1/3/",
-            "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA 1 - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/aereas-con-patas/americanas/capitoneado-1/3/",
+            "precioRegular": 3149,
+            "precioNormal": 2649,
+            "precioVenta": 1749,
             "stock": 9,
-            "sku": "D324253N12",
+            "sku": "H3124253N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 4,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA RECTANGULAR 2 - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/aereas-con-patas/americanas/rectangular-2/1/",
+            "precioRegular": 3149,
+            "precioNormal": 2649,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "H3124253N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/5/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/capitoneado-1/4/",
-            "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 2079,
-            "precioVenta": 1649,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA V - CUERO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/aereas-con-patas/bloques/v/1/",
+            "precioRegular": 3149,
+            "precioNormal": 2649,
+            "precioVenta": 1749,
             "stock": 9,
-            "sku": "D324253N13",
+            "sku": "H3124253N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "modelo-de-cabecera": "V"
                 }
             ]
         },
         {
+            "id": 6,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/6/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA VIENA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/aereas-con-patas/bloques/viena/1/",
+            "precioRegular": 3149,
+            "precioNormal": 2649,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "H3124256N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Viena"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/7/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/1/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA SYDNEY - TEJIDO CHOCOLATE NEW",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/aereas-con-patas/con-marco/sydney/1/",
+            "precioRegular": 3199,
+            "precioNormal": 2699,
+            "precioVenta": 1799,
             "stock": 9,
-            "sku": "D324253N15",
+            "sku": "H3124254N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sydney"
                 }
             ]
         },
         {
+            "id": 8,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/8/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - UVA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/2/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CAPITONEADO 1 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/americanas/capitoneado-1/1/",
+            "precioRegular": 3329,
+            "precioNormal": 2829,
+            "precioVenta": 1929,
             "stock": 9,
-            "sku": "D324253N16",
+            "sku": "H3124253N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 9,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/9/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - ROSADO BEBÉ",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/3/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CAPITONEADO 1 - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/americanas/capitoneado-1/2/",
+            "precioRegular": 3329,
+            "precioNormal": 2829,
+            "precioVenta": 1929,
             "stock": 9,
-            "sku": "D324253N17",
+            "sku": "H3124253N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 10,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/10/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - TURQUESA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/4/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CAPITONEADO 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/americanas/capitoneado-1/3/",
+            "precioRegular": 3329,
+            "precioNormal": 2829,
+            "precioVenta": 1929,
             "stock": 9,
-            "sku": "D324253N18",
+            "sku": "H3124253N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
+            "id": 11,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "kamas",
             "modelo": "der prinz",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/11/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - PLOMO RATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/5/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CORONA LINEAL 6 - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/coronas/lineal-6/1/",
+            "precioRegular": 3499,
+            "precioNormal": 2999,
+            "precioVenta": 2299,
             "stock": 9,
-            "sku": "D324253N19",
+            "sku": "H3124255N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americano",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/12/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/6/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
-            "stock": 9,
-            "sku": "D324253N2O",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/13/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/7/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
-            "stock": 0,
-            "sku": "D324253N21",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/14/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - VINO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/8/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
-            "stock": 13,
-            "sku": "D324253N22",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {"resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/15/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/pedestales/emperatriz/9/", 
-            "colores": "si",
-            "precioRegular": 2789,
-            "precioNormal": 2459,
-            "precioVenta": 1829,
-            "stock": 13,
-            "sku": "K324253N23",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/16/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA V - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/v/1/",
-            "colores": "si",
-            "precioRegular": 2549,
-            "precioNormal": 2199,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K3242116N11",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "V"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "V"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "grosor": "30cm.",
-                            "incorpora":"Sistema one size",
-                            "soporte-de-peso": "90kg. por persona por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/17/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA RECTANGULAR 2 - PLOMO OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/americanas/rectangular-2/1/",
-            "colores": "si",
-            "precioRegular": 2549,
-            "precioNormal": 2199,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K3242116N12",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Rectángular 2"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Rectángular 2"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "grosor": "30cm.",
-                            "incorpora":"Sistema one size",
-                            "soporte-de-peso": "90kg. por persona por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/18/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CON MARCO SIDNEY- CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/sidney/1/",
-            "colores": "si",
-            "precioRegular": 2549,
-            "precioNormal": 2199,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K3242116N13",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                          {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-               {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "grosor": "30cm.",
-                            "incorpora":"Sistema one size",
-                            "soporte-de-peso": "90kg. por persona por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/19/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CORONA + PIECERA - CHAMPAGNE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/coronas/otros-modelos/1/",
-            "colores": "si",
-            "precioRegular": 2549,
-            "precioNormal": 2589,
-            "precioVenta": 2079,
-            "stock": 9,
-            "sku": "K324225N17",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                  {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-               {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/champagne.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "grosor": "30cm.",
-                            "incorpora":"Sistema one size",
-                            "soporte-de-peso": "90kg. por persona por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/20/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA VIENA - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/Viena/1/",
-            "colores": "si",
-            "precioRegular": 2549,
-            "precioNormal": 2199,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K3242116N11",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "modelo-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "V"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americano",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "V"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "grosor": "30cm.",
-                            "incorpora":"Sistema one size",
-                            "soporte-de-peso": "90kg. por persona por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Lineal 6"
                 }
             ]
         }

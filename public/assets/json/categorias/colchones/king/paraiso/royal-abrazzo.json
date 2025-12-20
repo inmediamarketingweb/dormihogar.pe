@@ -1,70 +1,45 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "king",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
+            "modelo": "royal abrazzo",
             "ruta": "/productos/colchones/king/paraiso/royal-abrazzo/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO KING",
+            "nombre": "COLCHÓN KING PARAISO ROYAL ABRAZZO",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
             "precioRegular": 2519,
             "precioNormal": 2239,
             "precioVenta": 1829,
             "stock": 14,
             "sku": "H1241N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Muy suave"
-                }
-            ],
+            "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-abrazzo/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-abrazzo/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/paraiso/royal-abrazzo/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H12151N10" },
+                { "nombre": "2 plazas", "sku": "H1221N10" },
+                { "nombre": "Queen", "sku": "H1231N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Muy suave",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
-                    "espuma": "Viscoelástica D70 que se adapta al cuerpo",
-                    "capas": "2 capas de Zebras HR y HD para un mejor soporte",
-                    "sistema": "One side",
-                    "sensacion": "Muy suave",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Paraíso Royal Abrazzo es el mejor y más exclusivo modelo de la marca Paraíso, creado para quienes buscan una experiencia de descanso superior. Ofrece una sensación muy suave, ideal para envolver el cuerpo con máximo confort desde el primer contacto.",
+        "Incorpora espuma viscoelástica D70, que se adapta perfectamente a la forma del cuerpo, aliviando puntos de presión y favoreciendo un descanso profundo. Sus capas de Zebras HR y HD brindan un soporte equilibrado y duradero, asegurando estabilidad sin sacrificar suavidad.",
+        "Está revestido con tela de tejido en punto higroscópica con diseño 3D, que ayuda a regular la temperatura y mantener una sensación fresca durante la noche. Además, cuenta con tratamiento antihongos, antibacterias y antiácaros, garantizando mayor higiene y bienestar. Su sistema One Side facilita el uso diario, mientras que la garantía de 10 años respalda la alta calidad y excelencia del Paraíso Royal Abrazzo."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal abrazzo",
+            "nivel-de-confort": "Muy suave",
+            "tratamiento": "Antihongos, antibacterias y antiacaros",
+            "tela": "Tejido de punto higroscópica con diseño 3D",
+            "espuma": "Viscoelástica D70 que se adapta al cuerpo",
+            "capas": "2 capas de Zebras HR y HD para un mejor soporte",
+            "sistema": "One side",
+            "sensacion": "Muy suave",
+            "garantía": "10 años"
         }
     ]
 }

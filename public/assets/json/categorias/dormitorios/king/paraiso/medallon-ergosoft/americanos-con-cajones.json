@@ -1,54 +1,25 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
-            "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos/3/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CAPITONEADO 2 + 2 CAJONES- LILA FANDANGO",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING CON 2 CAJONES + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CAPITONEADO 2 - LILA FANDANGO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos-con-cajones/americanas/capitoneados-2/1/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2199,
+            "precioRegular": 3299,
+            "precioNormal": 2699,
             "precioVenta": 1649,
             "stock": 9,
-            "sku": "D32241263N10",
+            "sku": "H32241263N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/plomo-plata.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americano",
-                    "tamaño": "king",
-                    "modelo-colchón": "Medallon Ergosoft",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/abrazzo/1/"
-                }
-            ],
+            "regalos":[ "1 puff" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos con cajones",
                     "tamaño": "king",
                     "cajones": "No",
@@ -58,45 +29,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto Jacquard",
-                            "espuma": "Viscoelástica D90",
-                            "capas": "De espuma zebra 23 HR y 25 HD",
-                            "sensacion": "Intermedio",
-                            "garantía": "08 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }                                                                 

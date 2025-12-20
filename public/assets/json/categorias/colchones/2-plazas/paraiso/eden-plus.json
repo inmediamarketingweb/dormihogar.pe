@@ -1,54 +1,42 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño":"2 plazas",
             "marca": "paraiso",
-            "subcategoria": "eden plus",
+            "modelos": "eden plus",
             "ruta": "/productos/colchones/2-plazas/paraiso/eden-plus/",
-            "nombre": "COLCHÓN PARAISO EDEN PLUS 2 PLAZAS",
+            "nombre": "COLCHÓN PARAISO 2 PLAZAS EDEN PLUS",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/eden-plus/",
             "precioRegular": 999,
-            "precioNormal": 481,
-            "precioVenta": 359,
+            "precioNormal": 441,
+            "precioVenta": 309,
             "stock": 14,
             "sku": "H1228N10",
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Eden plus",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/eden-plus/"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Eden plus",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Jacquard",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "acabado": "vaporizado",
-                    "tipo-de-resorte": "Bonell",
-                    "capas": "2 zebra 18",
-                    "marco": "zebra 16",
-                    "sistema": "double side",
-                    "sensación": "intermedia",
-                    "garantía": "3 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Eden Plus es la elección ideal para un descanso en pareja. Ofrece una sensación intermedia que equilibra soporte y confort. Su núcleo con resortes Bonell garantiza una firmeza clásica, una óptima ventilación y una gran durabilidad.",
+        "Su estructura se refuerza con 2 capas Zebra 18 y un marco Zebra 16 para mayor resistencia. Está cubierto por una elegante y suave tela Jacquard, que gracias a su acabado vaporizado incorpora un tratamiento antihongos, antibacterias y antiácaros, cuidando tu espacio de descanso.",
+        "Diseñado para un uso inteligente, su sistema Double Side permite girarlo y aprovechar ambas caras, alargando su vida útil. Un descanso confiable, respaldado por una garantía de 3 años."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Eden plus",
+            "tamaño": "2 plazas",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Bonell",
+            "tela": "Jacquard",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "acabado": "vaporizado",
+            "capas": "2 zebra 18",
+            "marco": "zebra 16",
+            "sistema": "double side",
+            "sensación": "intermedia",
+            "garantía": "3 años"
         }
     ]
 }

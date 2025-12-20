@@ -1,72 +1,47 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "king",
             "marca": "paraiso",
-            "subcategoria": "royal dynasty",
+            "modelo": "royal dynasty",
             "ruta": "/productos/colchones/king/paraiso/royal-dynasty/",
-            "nombre": "COLCHÓN PARAISO ROYAL DYNASTY KING",
+            "nombre": "COLCHÓN KING PARAISO ROYAL DYNASTY",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-dynasty/",
             "precioRegular": 3719,
             "precioNormal": 3242,
             "precioVenta": 1459,
             "stock": 14,
             "sku": "H1247N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal dynasty",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
+            "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-dynasty/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-dynasty/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/paraiso/royal-dynasty/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H12157N10"},
+                { "nombre": "2 plazas", "sku": "H1227N10"},
+                { "nombre": "Queen", "sku": "H1237N10"}
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal dynasty",
-                    "tamaño": "king",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "Pocket",
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica",
-                    "top": "euro top acolchado superior",
-                    "técnología": "Memory foam D55",
-                    "marco": "zebra 30 HD",
-                    "espuma": "perfilada D20",
-                    "capas": "2 de Zebra 30 HR",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Paraíso Royal Dynasty es la opción perfecta para quienes buscan un descanso intermedio con un soporte sólido y un confort equilibrado. Su Euro Top acolchado superior ofrece una capa adicional de suavidad, garantizando una experiencia de descanso cómoda y adaptada a tus necesidades.",
+        "Incorpora tecnología Memory Foam D55, que se adapta a la forma del cuerpo, distribuyendo el peso de manera uniforme y proporcionando alivio a los puntos de presión. Su espuma perfilada D20 y el marco Zebra 30 HD ofrecen una base estable, mientras que las capas de Zebra 30 HR aseguran mayor durabilidad y soporte en todo el colchón.",
+        "La superficie está fabricada con tela de punto higroscópica, que ayuda a regular la humedad, manteniendo una temperatura agradable durante la noche. Además, el colchón cuenta con un tratamiento antihongos, antibacterias y antiácaros, lo que mejora la higiene y el bienestar general.",
+        "Con una garantía de 10 años, el Paraíso Royal Dynasty es una opción confiable y de alta calidad, perfecta para quienes buscan un colchón duradero y cómodo, respaldado por la confianza de la marca Paraíso."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal dynasty",
+            "nivel-de-confort": "Intermedio",
+            "tratamiento": "Antihongos, antibacterias y antiacaros",
+            "tela": "Tejido de punto higroscópica",
+            "top": "euro top acolchado superior",
+            "técnología": "Memory foam D55",
+            "marco": "zebra 30 HD",
+            "espuma": "perfilada D20",
+            "capas": "2 de Zebra 30 HR",
+            "garantía": "10 años"
         }
     ]
 } 

@@ -1,0 +1,47 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "2 plazas",
+            "marca": "paraiso",
+            "modelo": "pocket italiano",
+            "ruta": "/productos/colchones/2-plazas/paraiso/pocket-italiano/",
+            "nombre": "COLCHÓN PARAISO 2 PLAZAS MEDALLON POCKET ITALIANO",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/pocket-italiano/",
+            "precioRegular": 1199,
+            "precioNormal": 733,
+            "precioVenta": 599,
+            "stock": 14,
+            "sku": "H12226N10",
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
+            "tamaños-disponibles":[
+                { "nombre": "1 plaza y media", "sku": "H121526N10" },
+                { "nombre": "Queen", "sku": "H12326N10" },
+                { "nombre": "king", "sku": "H12426N10" }
+            ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Paraíso Pocket Italiano ofrece un descanso intermedio ideal para quienes buscan un equilibrio entre confort y soporte. Su sistema de 450 resortes Pocket trabaja de forma independiente, adaptándose al cuerpo y reduciendo la transmisión de movimiento para un descanso más profundo y continuo.",
+        "Incorpora espuma Zebra de 1 1/2” con densidad de 18 kg/m³, que brinda una sensación confortable y una adecuada distribución del peso. Su marco de espuma flexible refuerza la estructura del colchón y ayuda a evitar deformaciones, garantizando mayor durabilidad.",
+        "Está recubierto con tela de tejido en punto, tanto en la superficie como en la banda lateral, aportando suavidad y frescura al descanso. Además, cuenta con tratamiento antihongos, antibacterias y antiácaros, ideal para un entorno más higiénico. Con una sensación intermedia y 5 años de garantía, el Paraíso Pocket Italiano es una opción confiable y confortable para el descanso diario."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "pocket italiano",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "pocket",
+            "cantidad-de-resortes": "450 resortes",
+            "tela": "tejido en punto",
+            "espuma": "zebra 1 1/2' + 18kg/m",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "banda": "tela tejido en punto",
+            "marco": "de espuma flexible, evita deformaciones",
+            "sensación": "intermedia",
+            "garantía": "5 años"
+        }
+    ]
+}

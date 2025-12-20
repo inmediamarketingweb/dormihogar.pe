@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "1 plaza y media",
             "marca": "kamas",
-            "subcategoria": "norole",
+            "modelo": "norole",
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/norole/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
@@ -12,57 +13,34 @@
             "precioVenta": 699,
             "stock": 99,
             "sku": "H11159N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Norole",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "regalos":["1 almohada"],
             "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/norole/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/norole/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/norole/"
-                }
+                { "nombre": "2 plazas", "ruta": "H1129N10" },
+                { "nombre": "Queen", "ruta": "H1139N10" },
+                { "nombre": "King", "ruta": "H1149N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Norole",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "12 filas",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "23kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "marco": "Refuerzo de marco sellado",
-                    "soporte-de-peso": "85kg. por persona",
-                    "garantía": "7 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Norole ofrece un soporte muy firme, ideal para quienes buscan estabilidad y correcto alineamiento corporal. Cuenta con resortes Bonell de 12 filas y espuma de 23 kg/m³, brindando resistencia y durabilidad.",
+        "Su tela de algodón tejido en punto aporta frescura y comodidad. Es de uso por ambos lados y posee marco sellado reforzado para mayor estabilidad.",
+        "Soporta hasta 85 kg por persona y viene con 7 años de garantía, convirtiéndolo en una opción ortopédica confiable y de larga duración."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Norole",
+            "línea-de-colchón": "Extra ortopédico",
+            "nivel-de-confort": "Muy firme",
+            "tipo-de-resorte": "Bonell",
+            "resortes": "12 filas",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-la-espuma": "23kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "marco": "Refuerzo de marco sellado",
+            "soporte-de-peso": "85kg. por persona",
+            "garantía": "7 años"
         }
     ]
 }

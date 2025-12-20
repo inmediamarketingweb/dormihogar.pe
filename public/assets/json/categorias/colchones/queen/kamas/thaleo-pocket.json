@@ -1,23 +1,20 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "queen",
             "marca": "kamas",
-            "subcategoria": "thaleo pocket",
-            "ruta": "/productos/colchones/kamas/thaleo-pocket/queen/",
-            "nombre": "COLCHÓN KAMAS THALEO POCKET QUEEN",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/colchones/queen/kamas/thaleo-pocket/",
+            "nombre": "COLCHÓN KAMAS QUEEN THALEO POCKET",
             "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/",
             "precioRegular": 1899,
             "precioNormal": 1599,
             "precioVenta": 1249,
             "stock": 99,
             "sku": "H11310N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "resumen-del-producto":[
                 {
                     "marca": "kamas",
@@ -28,44 +25,35 @@
                 }
             ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/kamas/thaleo-pocket/1-plaza-y-media/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/kamas/thaleo-pocket/2-plazas/"
-                },
-                {
-                    "nombre": "king",
-                    "ruta": "/productos/colchones/kamas/thaleo-pocket/king/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H111510N10" },
+                { "nombre": "2 plazas", "sku": "H11210N10" },
+                { "nombre": "king", "sku": "H11410N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Thaleo pocket",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Extra ortopedico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "600 resortes pocket",
-                    "tela": "Tela algodón tejido en punto",
-                    "sistema": "One size",
-                    "refuerzos": "centrales",
-                    "densidad-de-la-espuma": "20kg/m3",
-                    "marco": "De espuma",
-                    "grosor": "32cm",
-                    "tipo-de-uso": "Un solo lado",
-                    "soporte-de-peso": "110kg. por persona",
-                    "garantía": "8 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Thaleo Pocket pertenece a la línea extra ortopédica y está diseñado para quienes buscan un soporte muy firme y de alto desempeño. Incorpora 600 resortes Pocket, que trabajan de manera independiente para una correcta alineación del cuerpo y menor transferencia de movimiento.",
+        "Cuenta con espuma de 20 kg/m³, refuerzos centrales y marco de espuma, ofreciendo estabilidad y resistencia incluso en usos exigentes. Su tela de algodón tejido en punto brinda suavidad y buena ventilación.",
+        "Es de uso por un solo lado, tiene un grosor de 32 cm, soporta hasta 110 kg por persona e incluye 8 años de garantía, siendo una excelente opción para quienes requieren firmeza, durabilidad y soporte ortopédico superior."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Thaleo pocket",
+            "línea-de-colchón": "Extra ortopédico",
+            "nivel-de-confort": "Muy firme",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "600",
+            "tela": "Tela algodón tejido en punto",
+            "sistema": "One size",
+            "refuerzos": "centrales",
+            "densidad-de-la-espuma": "20kg/m3",
+            "marco": "De espuma",
+            "grosor": "32cm",
+            "tipo-de-uso": "Un solo lado",
+            "soporte-de-peso": "110kg. por persona",
+            "garantía": "8 años"
         }
     ]
 }

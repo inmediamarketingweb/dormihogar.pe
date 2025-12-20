@@ -9,65 +9,38 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/su-majestad-de-lujo/",
             "precioRegular": 1428,
             "precioNormal": 845,
-            "precioVenta": 579,
+            "precioVenta": 499,
             "stock": 14,
             "sku": "H12317N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Su majestad de lujo",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Cosisoft"
-                }
-            ],
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/su-majestad-de-lujo/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/su-majestad-de-lujo/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/paraiso/su-majestad-de-lujo/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H121517N10" },
+                { "nombre": "2 plazas", "sku": "H12217N10" },
+                { "nombre": "King", "sku": "H12417N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Su majestad de lujo",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Cosisoft"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Tejido de punto",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "acabado": "vaporizado",
-                    "tipo-de-resorte": "Cosisoft",
-                    "ergosoft": "acolchado superior",
-                    "marco": "zebra 25",
-                    "sistema": "one side",
-                    "sensación": "intermedia",
-                    "garantía": "8 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Su Majestad de Lujo ofrece el equilibrio perfecto en tamaño Queen. Su sensación intermedia combina adaptabilidad y soporte. Los resortes Cosisoft brindan ajuste ergonómico y reducen el movimiento.",
+        "El acolchado superior ErgoSoft moldea el cuerpo para aliviar presión. Con tejido de punto y acabado vaporizado, incluye protección antihongos, antibacterias y antiácaros.",
+        "Su marco Zebra 25 asegura estabilidad y durabilidad. El diseño One Side ofrece comodidad sin volteos. Respaldado por una garantía de 8 años, es el lujo que tu descanso merece."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Su majestad de lujo",
+            "tamaño": "Queen",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Cosisoft",
+            "tela": "Tejido de punto",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "acabado": "vaporizado",
+            "ergosoft": "acolchado superior",
+            "marco": "zebra 25",
+            "sistema": "one side",
+            "sensación": "intermedia",
+            "garantía": "8 años"
         }
     ]
 }

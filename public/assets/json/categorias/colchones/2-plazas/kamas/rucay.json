@@ -12,58 +12,34 @@
             "precioVenta": 349,
             "stock": 99,
             "sku": "H1122N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Rucay",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Anátomicos",
-                    "nivel-de-confort": "Confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
+            "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/rucay/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/rucay/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/rucay/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11152N10" },
+                { "nombre": "Queen", "sku": "H1132N10" },
+                { "nombre": "King", "sku": "H1142N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Rucay",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Anátomicos",
-                    "nivel-de-confort": "Confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "12 filas en forma vertical",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "16kg/m3",
-                    "marco": "Marco sellado",
-                    "tipo-de-uso": "Un solo lado",
-                    "soporte-de-peso": "70kg. por persona",
-                    "garantía": "1 año"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Rucay es un colchón básico, ideal para quienes buscan una opción económica pero confiable. Su estructura de resortes Bonell con 12 filas brinda un soporte adecuado y una sensación confortable para el descanso diario.",
+        "Tiene tela de algodón tejido en punto, espuma de 16 kg/m³, diseño de un solo lado y marco sellado, pensado para un uso práctico y sin complicaciones.",
+        "Soporta hasta 70 kg por persona y ofrece 1 año de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Rucay",
+            "línea-de-colchón": "Anátomicos",
+            "nivel-de-confort": "Confortable",
+            "resortes": "Bonell",
+            "filas-de-resortes": "12 filas en forma vertical",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-la-espuma": "16kg/m3",
+            "marco": "Marco sellado",
+            "tipo-de-uso": "Un solo lado",
+            "soporte-de-peso": "70kg. por persona",
+            "garantía": "1 año"
         }
     ]
 }

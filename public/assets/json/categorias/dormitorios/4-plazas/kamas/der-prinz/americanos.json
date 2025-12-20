@@ -1,0 +1,36 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/1/",
+            "nombre": "DORMITORIO KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2499,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "H3124233N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "4 cojines", "2 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

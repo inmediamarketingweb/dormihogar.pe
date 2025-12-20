@@ -1,73 +1,49 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño":"2 plazas",
             "marca": "paraiso",
-            "subcategoria": "super star negro",
+            "modelo": "super star negro",
             "ruta": "/productos/colchones/2-plazas/paraiso/super-star-negro/",
-            "nombre": "COLCHÓN PARAISO SUPER STAR NEGRO 2 PLAZAS",
+            "nombre": "COLCHÓN PARAISO 2 PLAZAS SUPER STAR NEGRO",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star-negro/",
             "precioRegular": 1299,
             "precioNormal": 887,
-            "precioVenta": 569,
+            "precioVenta": 479,
             "stock": 14,
             "sku": "H12219N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Super star negro",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Cosisoft"
-                }
-            ],
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/super-star-negro/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/paraiso/super-star-negro/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/paraiso/super-star-negro/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H121519N10" },
+                { "nombre": "Queen", "sku": "H12319N10" },
+                { "nombre": "King", "sku": "H12419N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Super star negro",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Tejido de punto",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "acabado": "vaporizado",
-                    "tipo-de-resorte": "Cosisoft",
-                    "ergosoft": "acolchado superior",
-                    "marco": "zebra 25",
-                    "sistema": "one side",
-                    "sensación": "intermedia",
-                    "garantía": "8 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Super Star Negro ofrece un confort intermedio de alto rendimiento. Su núcleo de resortes Pocket independientes brinda un soporte preciso y un excelente aislamiento del movimiento, ideal para un descanso compartido sin interrupciones.",
+        "La experiencia se potencia con su acolchado superior ErgoSoft, diseñado para adaptarse ergonómicamente al cuerpo y aliviar puntos de presión. Está cubierto por un moderno tejido de punto negro, que gracias a su acabado vaporizado, incorpora un tratamiento antihongos, antibacterias y antiácaros para mayor higiene y frescura.",
+        "Su estructura se refuerza con un robusto marco Zebra 25, asegurando estabilidad y durabilidad a largo plazo. El práctico diseño One Side te libera del mantenimiento.",
+        "Descansa bajo la protección de una garantía de 8 años. El estilo y la tecnología se unen para tus noches."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Super star negro",
+            "tamaño": "2 plazas",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Pocket",
+            "tela": "Tejido de punto",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "acabado": "vaporizado",
+            "ergosoft": "acolchado superior",
+            "marco": "zebra 25",
+            "sistema": "one side",
+            "sensación": "intermedia",
+            "garantía": "8 años"
         }
     ]
 }

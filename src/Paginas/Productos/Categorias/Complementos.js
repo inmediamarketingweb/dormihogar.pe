@@ -1,368 +1,3 @@
-// import { useEffect, useState } from 'react';
-// import { Helmet } from 'react-helmet';
-// import { useParams, useLocation, useNavigate, Link } from 'react-router-dom';
-
-// import '../Productos.css';
-// import './Layout.css';
-
-// import Categorias from '../Componentes/Categorias/Categorias';
-// import FiltrosTop from '../Componentes/FiltrosTop/FiltrosTop';
-// import { Producto } from '../../../Componentes/Plantillas/Producto/Producto';
-
-// const normalizarTexto = (texto) => {
-//     return texto.toLowerCase().normalize("NFD").replace(/\s+/g, "-");
-// };
-
-// const filtroKeyMap = {
-//     "tipo": "tipo",
-//     "marca": "marca", 
-//     "tamaño": "tamaño",
-//     "estilo": "estilo",
-//     "categoría": "categoría"
-// };
-
-// function Complementos() {
-//     const { 
-//         sub1, sub2, sub3, sub4, sub5, 
-//         tamaño, marca, tipo, estilo, id 
-//     } = useParams();
-    
-//     const location = useLocation();
-//     const navigate = useNavigate();
-//     const [productos, setProductos] = useState([]);
-//     const [loading, setLoading] = useState(true);
-//     const [filtros, setFiltros] = useState([]);
-//     const [orden, setOrden] = useState("ultimo");
-
-//     // Determinar la estructura basada en la ruta actual
-//     const determinarEstructura = () => {
-//         const path = location.pathname;
-        
-//         if (path.includes('/bases/')) {
-//             return { tipo: 'bases', niveles: 4 }; // /bases/tamaño/marca/tipo
-//         } else if (path.includes('/cama-perro/')) {
-//             return { tipo: 'cama-perro', niveles: 3 }; // /cama-perro/tamaño/marca
-//         } else if (path.includes('/puff/')) {
-//             return { tipo: 'puff', niveles: 3 }; // /puff/estilo/marca
-//         } else if (path.includes('/veladores/')) {
-//             return { tipo: 'veladores', niveles: 2 }; // /veladores/marca
-//         }
-        
-//         return { tipo: 'general', niveles: 0 };
-//     };
-
-//     // Determinar si estamos en una página de producto
-//     const esPaginaProducto = () => {
-//         const path = location.pathname;
-//         const partes = path.split('/').filter(Boolean);
-//         const ultimaParte = partes[partes.length - 1];
-//         return !isNaN(ultimaParte);
-//     };
-
-//     // Obtener la ruta exacta para filtrar archivos
-//     const obtenerRutaExacta = () => {
-//         const estructura = determinarEstructura();
-//         const path = location.pathname;
-//         const partes = path.split('/').filter(Boolean);
-        
-//         // Remover "productos" del inicio
-//         const partesRelevantes = partes.slice(1);
-        
-//         console.log('🔍 [Complementos] Partes relevantes de la ruta:', partesRelevantes);
-        
-//         return partesRelevantes.join('/');
-//     };
-
-//     // Redirigir a PaginaProducto si estamos en el último nivel
-//     useEffect(() => {
-//         if (esPaginaProducto()) {
-//             navigate(location.pathname, { replace: true });
-//         }
-//     }, [location.pathname, navigate]);
-
-//     // Cargar productos - solo si NO es página de producto
-//     useEffect(() => {
-//         if (esPaginaProducto()) {
-//             return;
-//         }
-
-//         const cargarProductosComplementos = async () => {
-//             try {
-//                 setLoading(true);
-//                 const manifestResponse = await fetch('/assets/json/manifest.json');
-//                 const manifestData = await manifestResponse.json();
-//                 const archivos = manifestData.files || [];
-
-//                 // Filtrar solo archivos de complementos
-//                 let archivosProductos = archivos.filter(url =>
-//                     url.startsWith('/assets/json/categorias/complementos/')
-//                 );
-
-//                 console.log('🔍 [Complementos] Total archivos de complementos:', archivosProductos.length);
-
-//                 // Obtener la ruta exacta actual
-//                 const rutaActual = obtenerRutaExacta();
-//                 console.log('🔍 [Complementos] Ruta actual para filtrar:', rutaActual);
-
-//                 // Filtrar archivos basado en la ruta exacta
-//                 if (rutaActual) {
-//                     archivosProductos = archivosProductos.filter(url => {
-//                         // Convertir la URL del archivo a una ruta comparable
-//                         // Ejemplo: "/assets/json/categorias/complementos/bases/queen/kamas/americanas.json"
-//                         // → "complementos/bases/queen/kamas/americanas"
-//                         const rutaArchivo = url
-//                             .replace('/assets/json/categorias/', '')
-//                             .replace('.json', '');
-                        
-//                         console.log('🔍 [Complementos] Comparando:', {
-//                             rutaArchivo,
-//                             rutaActual,
-//                             coincide: rutaArchivo.startsWith(rutaActual)
-//                         });
-
-//                         // Solo incluir archivos que empiecen con la ruta actual
-//                         return rutaArchivo.startsWith(rutaActual);
-//                     });
-//                 }
-
-//                 console.log('🔍 [Complementos] Archivos después del filtrado:', archivosProductos);
-
-//                 const productosPromesas = archivosProductos.map(async (url) => {
-//                     try {
-//                         const response = await fetch(url);
-//                         const data = await response.json();
-//                         const productosArchivo = data.productos || [];
-//                         console.log('🔍 [Complementos] Productos de', url, ':', productosArchivo.length);
-//                         return productosArchivo;
-//                     } catch (error) {
-//                         console.error(`Error cargando ${url}:`, error);
-//                         return [];
-//                     }
-//                 });
-
-//                 const productosPorArchivo = await Promise.all(productosPromesas);
-//                 const todosProductos = productosPorArchivo.flat();
-
-//                 console.log('🔍 [Complementos] Total de productos cargados:', todosProductos.length);
-//                 setProductos(todosProductos);
-//             } catch (error) {
-//                 console.error("Error cargando productos de complementos:", error);
-//             } finally {
-//                 setLoading(false);
-//             }
-//         };
-
-//         cargarProductosComplementos();
-//     }, [location.pathname]);
-
-//     useEffect(() => {
-//         if (esPaginaProducto()) {
-//             return;
-//         }
-
-//         const cargarFiltros = async () => {
-//             try {
-//                 const response = await fetch('/assets/json/categorias/complementos/filtros.json');
-//                 const data = await response.json();
-//                 setFiltros(data.filtros || []);
-//             } catch (error) {
-//                 console.error("Error cargando filtros:", error);
-//             }
-//         };
-
-//         cargarFiltros();
-//     }, [location.pathname]);
-
-//     if (esPaginaProducto()) {
-//         return null;
-//     }
-
-//     const queryParams = new URLSearchParams(location.search);
-
-//     const productosFiltrados = productos.filter(producto => {
-//         if (queryParams.entries().length === 0) return true;
-
-//         for (let [paramUrl, valorFiltro] of queryParams.entries()) {
-//             const claveJson = filtroKeyMap[paramUrl];
-//             if (!claveJson) continue;
-
-//             const normalizadoFiltro = normalizarTexto(valorFiltro);
-//             const detalles = producto["detalles-del-producto"] || [];
-            
-//             const cumpleFiltro = detalles.some(detalle => {
-//                 const valorProducto = detalle[claveJson];
-//                 if (!valorProducto) return false;
-
-//                 const normalizadoProducto = normalizarTexto(valorProducto.toString());
-//                 return normalizadoProducto === normalizadoFiltro;
-//             });
-
-//             if (!cumpleFiltro) return false;
-//         }
-//         return true;
-//     });
-
-//     const productosOrdenados = [...productosFiltrados].sort((a, b) => {
-//         const precioA = a.precioVenta || 0;
-//         const precioB = b.precioVenta || 0;
-
-//         if (orden === "menor-mayor") return precioA - precioB;
-//         if (orden === "mayor-menor") return precioB - precioA;
-//         return 0;
-//     });
-
-//     const toggleFiltro = (nombreFiltro, valor) => {
-//         const normalizadoValor = normalizarTexto(valor);
-//         const newParams = new URLSearchParams(location.search);
-        
-//         const valorActual = newParams.get(nombreFiltro);
-
-//         if (valorActual === normalizadoValor) {
-//             newParams.delete(nombreFiltro);
-//         } else {
-//             newParams.set(nombreFiltro, normalizadoValor);
-//         }
-
-//         navigate(`${location.pathname}?${newParams.toString()}`, { replace: true });
-//     };
-
-//     const isFiltroActivo = (nombreFiltro, valor) => {
-//         const normalizadoValor = normalizarTexto(valor);
-//         return queryParams.get(nombreFiltro) === normalizadoValor;
-//     };
-
-//     const limpiarFiltros = () => {
-//         navigate(location.pathname, { replace: true });
-//     };
-
-//     return(
-//         <>
-//             <Helmet>
-//                 <title>Complementos | Homesleep</title>
-//             </Helmet>
-
-//             <main className='products-page-main d-flex-column gap-20'>
-//                 <Categorias/>
-
-//                 <div className='products-page-blocks'>
-//                     <div className='products-page-left'>
-//                         <div className='products-page-filters-container-global'>
-//                             <div className='d-flex-column gap-20'>
-//                                 <div className='d-flex-column padding-bottom-20 border-bottom-2-solid-component'>
-//                                     <p className='block-title color-color-1 uppercase w-100 d-flex'>Homesleep</p>
-//                                     <p className='uppercase w-100 d-flex'>Los mejores complementos para tu descanso</p>
-//                                 </div>
-
-//                                 <div className='products-page-filters-container d-flex-column gap-20'>
-//                                     {filtros.map((filtro, index) => {
-//                                         const nombreFiltro = Object.keys(filtro)[0];
-//                                         const valoresFiltro = filtro[nombreFiltro];
-
-//                                         if (nombreFiltro === "complementos") {
-//                                             return(
-//                                                 <div className='products-page-filter' key={index}>
-//                                                     <p className='filter-title uppercase'>Complementos</p>
-//                                                     <ul className='products-page-filter-list'>
-//                                                         {valoresFiltro.map((item, i) => (
-//                                                             <li key={i}>
-//                                                                 <Link 
-//                                                                     to={item.ruta} 
-//                                                                     className={location.pathname === item.ruta ? "products-page-filter-list-link active" : "products-page-filter-list-link"}
-//                                                                 >
-//                                                                     <p>{item.complementos}</p>
-//                                                                 </Link>
-//                                                             </li>
-//                                                         ))}
-//                                                     </ul>
-//                                                 </div>
-//                                             );
-//                                         }
-
-//                                         return(
-//                                             <div className='products-page-filter' key={index}>
-//                                                 <p className='filter-title uppercase'>{nombreFiltro}</p>
-//                                                 <ul className='products-page-filter-list'>
-//                                                     {valoresFiltro.map((valor, i) => (
-//                                                         <li key={i}>
-//                                                             <button 
-//                                                                 type='button' 
-//                                                                 className={isFiltroActivo(nombreFiltro, valor) ? "active" : ""} 
-//                                                                 onClick={() => toggleFiltro(nombreFiltro, valor)}
-//                                                             >
-//                                                                 <p>{valor}</p>
-//                                                             </button>
-//                                                         </li>
-//                                                     ))}
-//                                                 </ul>
-//                                             </div>
-//                                         );
-//                                     })}
-
-//                                     {queryParams.toString() && (
-//                                         <button 
-//                                             type="button" 
-//                                             className="button-link button-link-2" 
-//                                             onClick={limpiarFiltros}
-//                                         >
-//                                             <span className="material-icons">delete</span>
-//                                             <p className="button-link-text">Limpiar filtros</p>
-//                                         </button>
-//                                     )}
-//                                 </div>
-//                             </div>
-//                         </div>
-//                     </div>
-
-//                     <div className='products-page-right'>
-//                         <FiltrosTop 
-//                             setOrden={setOrden} 
-//                             orden={orden} 
-//                             productosCount={productosOrdenados.length}
-//                             totalProductos={productos.length}
-//                         />
-
-//                         <div className='products-page-products-container'>
-//                             {loading ? (
-//                                 <div className="loading-products d-flex-center-center d-flex-column gap-10">
-//                                     <div className="spinner"></div>
-//                                     <p>Cargando complementos...</p>
-//                                 </div>
-//                             ) : (
-//                                 <ul className="products-page-products">
-//                                     {productosOrdenados.length === 0 ? (
-//                                         <div className="no-products">
-//                                             <p>No se encontraron complementos con los filtros seleccionados.</p>
-//                                             {queryParams.toString() && (
-//                                                 <button 
-//                                                     type="button" 
-//                                                     className="button-link" 
-//                                                     onClick={limpiarFiltros}
-//                                                 >
-//                                                     Limpiar filtros
-//                                                 </button>
-//                                             )}
-//                                         </div>
-//                                     ) : (
-//                                         productosOrdenados.map(producto => (
-//                                             <Producto 
-//                                                 key={producto.sku} 
-//                                                 producto={producto} 
-//                                                 truncate={(str, maxLength) => str?.length > maxLength ? str.slice(0, maxLength - 3) + "..." : str}
-//                                             />
-//                                         ))
-//                                     )}
-//                                 </ul>
-//                             )}
-//                         </div>
-//                     </div>
-//                 </div>
-//             </main>
-//         </>
-//     );
-// }
-
-// export default Complementos;
-
 import { useEffect, useState, useMemo, useRef } from 'react';
 import { Helmet } from 'react-helmet';
 import { useParams, useLocation, useNavigate, Link } from 'react-router-dom';
@@ -426,24 +61,22 @@ function Complementos() {
         };
     }, []);
 
-    // Determinar la estructura basada en la ruta actual
     const determinarEstructura = () => {
         const path = location.pathname;
         
         if (path.includes('/bases/')) {
-            return { tipo: 'bases', niveles: 4 }; // /bases/tamaño/marca/tipo
+            return { tipo: 'bases', niveles: 4 };
         } else if (path.includes('/cama-perro/')) {
-            return { tipo: 'cama-perro', niveles: 3 }; // /cama-perro/tamaño/marca
+            return { tipo: 'cama-perro', niveles: 3 };
         } else if (path.includes('/puff/')) {
-            return { tipo: 'puff', niveles: 3 }; // /puff/estilo/marca
+            return { tipo: 'puff', niveles: 3 };
         } else if (path.includes('/veladores/')) {
-            return { tipo: 'veladores', niveles: 2 }; // /veladores/marca
+            return { tipo: 'veladores', niveles: 2 };
         }
         
         return { tipo: 'general', niveles: 0 };
     };
 
-    // Determinar si estamos en una página de producto
     const esPaginaProducto = () => {
         const path = location.pathname;
         const partes = path.split('/').filter(Boolean);
@@ -451,28 +84,21 @@ function Complementos() {
         return !isNaN(ultimaParte);
     };
 
-    // Obtener la ruta exacta para filtrar archivos
     const obtenerRutaExacta = () => {
         const estructura = determinarEstructura();
         const path = location.pathname;
         const partes = path.split('/').filter(Boolean);
-        
-        // Remover "productos" del inicio
         const partesRelevantes = partes.slice(1);
-        
-        console.log('🔍 [Complementos] Partes relevantes de la ruta:', partesRelevantes);
-        
+    
         return partesRelevantes.join('/');
     };
 
-    // Redirigir a PaginaProducto si estamos en el último nivel
     useEffect(() => {
         if (esPaginaProducto()) {
             navigate(location.pathname, { replace: true });
         }
     }, [location.pathname, navigate]);
 
-    // Cargar productos - solo si NO es página de producto
     useEffect(() => {
         if (esPaginaProducto()) {
             return;
@@ -485,39 +111,25 @@ function Complementos() {
                 const manifestData = await manifestResponse.json();
                 const archivos = manifestData.files || [];
 
-                // Filtrar solo archivos de complementos
                 let archivosProductos = archivos.filter(url =>
                     url.startsWith('/assets/json/categorias/complementos/')
                 );
 
-                console.log('🔍 [Complementos] Total archivos de complementos:', archivosProductos.length);
-
-                // Obtener la ruta exacta actual
                 const rutaActual = obtenerRutaExacta();
-                console.log('🔍 [Complementos] Ruta actual para filtrar:', rutaActual);
 
-                // Filtrar archivos basado en la ruta exacta
                 if (rutaActual) {
                     archivosProductos = archivosProductos.filter(url => {
-                        // Convertir la URL del archivo a una ruta comparable
-                        // Ejemplo: "/assets/json/categorias/complementos/bases/queen/kamas/americanas.json"
-                        // → "complementos/bases/queen/kamas/americanas"
-                        const rutaArchivo = url
-                            .replace('/assets/json/categorias/', '')
-                            .replace('.json', '');
-                        
+                        const rutaArchivo = url.replace('/assets/json/categorias/', '').replace('.json', '');
+
                         console.log('🔍 [Complementos] Comparando:', {
                             rutaArchivo,
                             rutaActual,
                             coincide: rutaArchivo.startsWith(rutaActual)
                         });
 
-                        // Solo incluir archivos que empiecen con la ruta actual
                         return rutaArchivo.startsWith(rutaActual);
                     });
                 }
-
-                console.log('🔍 [Complementos] Archivos después del filtrado:', archivosProductos);
 
                 const productosPromesas = archivosProductos.map(async (url) => {
                     try {
@@ -535,7 +147,6 @@ function Complementos() {
                 const productosPorArchivo = await Promise.all(productosPromesas);
                 const todosProductos = productosPorArchivo.flat();
 
-                console.log('🔍 [Complementos] Total de productos cargados:', todosProductos.length);
                 setProductos(todosProductos);
             } catch (error) {
                 console.error("Error cargando productos de complementos:", error);
@@ -642,7 +253,7 @@ function Complementos() {
     return(
         <>
             <Helmet>
-                <title>Complementos | Homesleep</title>
+                <title>Complementos | Dormihogar</title>
             </Helmet>
 
             <main className='products-page-main d-flex-column gap-20'>
@@ -653,7 +264,7 @@ function Complementos() {
                         <div className='products-page-filters-container-global'>
                             <div className='d-flex-column gap-20'>
                                 <div className='d-flex-column padding-bottom-20 border-bottom-2-solid-component'>
-                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Homesleep</p>
+                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Dormihogar</p>
                                     <button type='button' className='filters-button-close margin-left' onClick={closeFilters}>
                                         <span className="material-icons color-color-1">close</span>
                                     </button>

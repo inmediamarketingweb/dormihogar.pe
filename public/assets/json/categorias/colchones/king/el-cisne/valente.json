@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "King",
             "marca": "el cisne",
-            "subcategoria": "valente",
+            "modelo": "valente",
             "ruta": "/productos/colchones/king/el-cisne/valente/",
             "nombre": "COLCHÓN EL CISNE VALENTE KING",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/valente/",
@@ -12,46 +13,30 @@
             "precioVenta": 1399,
             "stock": 14,
             "sku": "H1349N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Valente",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Valente",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "728 pocket",
-                    "tela": "Pique",
-                    "tipo-de-uso": "un solo lado",
-                    "tipo-de-resorte": "Pocket",
-                    "marco": "Espuma con flexible de poliuretano de alta densidad.",
-                    "capas": "1 lámina de espuma de 2'' de alta densidad y espuma de 3/4''",
-                    "sensación": "intermedia",
-                    "garantía": "10 años"
-                }
-            ]
+            "regalos":["2 almohadas viscoelásticas", "1 protector de colchón"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Valente combina 723 resortes Pocket que se adaptan a cada movimiento, brindando independencia de descanso y soporte preciso. Su espuma Zebra de 2 1/' a 24 kg/m³, junto con una capa adicional de espuma de 20 kg/m³, ofrece una sensación intermedia, perfecta para quienes buscan equilibrio entre suavidad y firmeza.",
+        "La tela Pique proporciona frescura y resistencia, mientras que su diseño de un solo lado garantiza practicidad y larga duración. Su grosor de 34 cm y el marco de espuma de alta densidad refuerzan la estructura y mejoran la estabilidad.",
+        "Con capas de espuma de alta densidad y una sólida fabricación, el Valente está diseñado para ofrecer comodidad prolongada, respaldado por 10 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "modelo-de-colchón": "valente",
+            "resortes": "723 pocket",
+            "espuma": "zebra 2 1/4' a 24kg/mg",
+            "densidad-de-espuma": "20kg/m",
+            "tela": "Pique",
+            "tipo-de-uso": "un solo lado",
+            "tipo-de-resorte": "Pocket",
+            "grosor": "34cm",
+            "marco": "Espuma con flexible de poliuretano de alta densidad.",
+            "capas": "1 lámina de espuma de 2'' de alta densidad y espuma de 3/4''",
+            "sensación": "intermedia",
+            "garantía": "10 años"
         }
     ]
 }

@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "king",
             "marca": "kamas",
-            "subcategoria": "nesie",
+            "modelo": "nesie",
             "ruta": "/productos/colchones/king/kamas/nesie/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE KING",
             "fotos": "/assets/imagenes/productos/colchones/kamas/nesie/",
@@ -12,59 +13,35 @@
             "precioVenta": 1149,
             "stock": 99,
             "sku": "H1144N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Nesie",
-                    "tamaño": "King",
-                    "línea-de-colchón": "Hotelero",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/nesie/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/nesie/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/nesie/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11154N10" },
+                { "nombre": "2 plazas", "sku": "H1124N10" },
+                { "nombre": "Queen", "sku": "H1134N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Nesie",
-                    "tamaño": "King",
-                    "línea-de-colchón": "Hotelero",
-                    "nivel-de-confort": "Firme",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "19 filas en forma vertical",
-                    "tela": "Tela jacquard",
-                    "sistema": "clásico",
-                    "refuerzos": "centrales y laterales",
-                    "densidad-de-la-espuma": "20kg/m3",
-                    "grosor": "30cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "95kg. por persona",
-                    "garantía": "6 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Nesie, de línea hotelera, ofrece un descanso muy firme gracias a su sistema de resortes bonell distribuidos en 19 filas verticales y reforzados tanto al centro como en los laterales. Incluye espuma de 20 kg/m³, tela jacquard de alta resistencia y un sistema clásico pensado para uso intensivo. Con 30 cm de grosor, estructura de uso por ambos lados y soporte de 95 kg por persona, es una opción sólida y duradera para ambientes de alto tránsito. Cuenta además con 6 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Nesie",
+            "tamaño": "King",
+            "línea-de-colchón": "Hotelero",
+            "nivel-de-confort": "Muy firme",
+            "resortes": "bonell",
+            "filas-de-resortes": "19 filas en forma vertical",
+            "tela": "Tela jacquard",
+            "sistema": "clásico",
+            "refuerzos": "centrales y laterales",
+            "densidad-de-la-espuma": "20kg/m3",
+            "grosor": "30cm",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "95kg. por persona",
+            "garantía": "6 años"
         }
     ]
 }

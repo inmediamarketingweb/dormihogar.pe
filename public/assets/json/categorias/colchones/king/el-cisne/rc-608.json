@@ -2,9 +2,10 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "King",
             "marca": "el cisne",
-            "subcategoria": "rc-608",
-            "ruta": "/productos/colchones/el-cisne/rc-608/king/",
+            "modelo": "rc-608",
+            "ruta": "/productos/colchones/king/el-cisne/rc-608/",
             "nombre": "COLCHÓN EL CISNE RC-608 KING",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/rc-608/",
             "precioRegular": 1899,
@@ -12,53 +13,27 @@
             "precioVenta": 849,
             "stock": 14,
             "sku": "H1345N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "RC - 608",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/el-cisne/rc-608/queen/"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "RC - 608",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "608 continuos",
-                    "tela": "Pique",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "tipo-de-uso": "un solo lado",
-                    "tipo-de-resorte": "Pocket",
-                    "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
-                    "alto": "31 cm.",
-                    "sensación": "intermedia",
-                    "garantía": "4 años"
-                }
-            ]
+            "regalos":["2 almohadas"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Este colchón está diseñado para ofrecer un descanso estable y confiable gracias a sus 608 resortes continuos ACC, que proporcionan un soporte uniforme y mayor durabilidad. Su capa de espuma de poliuretano de 1 1/2' (18 kg/m³) distribuye mejor el peso y aporta una sensación cómoda al dormir.",
+        "La tela superior Pique brinda frescura y suavidad, mientras que la espuma adicional de 16 kg/m³ mejora el confort general del colchón. El marco de espuma flexible refuerza la estructura, evita deformaciones y prolonga su vida útil.",
+        "La banda de tela Pique añade estilo y durabilidad, complementada por una altura de 31 cm, que ofrece fácil acceso y una apariencia más elegante.",
+        "Respaldado por 4 años de garantía, este colchón es una excelente opción para quienes buscan soporte, comodidad y diseño en un solo producto."
+    ],
+    "ficha":[
+        {
+            "resortes": "608 continuos",
+            "tela": "Pique",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "tipo-de-uso": "un solo lado",
+            "tipo-de-resorte": "Pocket",
+            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+            "alto": "31 cm.",
+            "sensación": "intermedia",
+            "garantía": "4 años"
         }
     ]
 }

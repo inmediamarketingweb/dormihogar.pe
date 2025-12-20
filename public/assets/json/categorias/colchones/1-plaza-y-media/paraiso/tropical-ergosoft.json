@@ -1,46 +1,40 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "1 plaza y media",
             "marca": "paraiso",
-            "subcategoria": "tropical ergosoft",
+            "modelo": "tropical ergosoft",
             "ruta": "/productos/colchones/1-plaza-y-media/paraiso/tropical-ergosoft/",
-            "nombre": "COLCHÓN PARAISO TROPICAL ERGOSOFT 1 PLAZA Y MEDIA",
+            "nombre": "COLCHÓN PARAISO 1 PLAZA Y MEDIA TROPICAL ERGOSOFT",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/tropical-ergosoft/",
             "precioRegular": 1468,
             "precioNormal": 955,
-            "precioVenta": 379,
+            "precioVenta": 449,
             "stock": 14,
             "sku": "H121524N10",
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Tropical ergosoft",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Tropical ergosoft",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Cosisoft"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Tejido de punto",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "tipo-de-resorte": "Cosisoft",
-                    "marco": "zebra 25",
-                    "sistema": "one side",
-                    "sensación": "intermedia",
-                    "garantía": "6 años"
-                }
-            ]
+            "regalos": [ "1 almohada", "1 protector de colchón" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Disfruta del equilibrio perfecto con el colchón Tropical ErgoSoft. Ofrece una sensación intermedia ideal, combinando adaptabilidad y soporte. Su núcleo con resortes Cosisoft se ajusta a tu cuerpo, proporcionando confort y reduciendo las molestias por movimiento.",
+        "Está cubierto por un fresco tejido de punto con un tratamiento especializado antihongos, antibacterias y antiácaros, que asegura un ambiente de descanso más limpio y saludable. Esta construcción se refuerza con un marco perimetral Zebra 25 para mayor estabilidad y durabilidad.",
+        "Diseñado para tu comodidad, su sistema One Side no necesita volteo. Descansa con la tranquilidad de una garantía de 6 años."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Tropical ergosoft",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Cosisoft",
+            "tela": "Tejido de punto",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "marco": "zebra 25",
+            "sistema": "one side",
+            "sensación": "intermedia",
+            "garantía": "6 años"
         }
     ]
 }

@@ -1,0 +1,62 @@
+{
+    "americano":[
+        {
+            "madera": "Pino americano seco al horno.",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "tapizado": "En tela de algodón",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
+    "americano-con-cajones":[
+        {
+            "madera": "Pino americano seco al horno.",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "cajones": "melamina 18mm",
+            "rieles": "telescópicos pesados",
+            "tapizado": "En tela de algodón",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
+    "europeo":[
+        {
+            "madera": "Pino americano seco al horno",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "tapizado": "En tela de algodón",
+            "bordes": "En espuma zebra de alta densidad",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
+    "europeo-con-cajones":[
+        {
+            "madera": "Pino americano seco al horno",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "cajones": "melamina 18mm",
+            "rieles": "telescópicos pesados",
+            "tapizado": "En tela de algodón",
+            "bordes": "En espuma zebra de alta densidad",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
+    "cabecera":[
+        {
+            "madera": "Pino americano secado al horno",
+            "espuma": "zebra de alta densidad",
+            "láminas": "MDF de 3mm.",
+            "tapizado": "En tela de algodón",
+            "tratamiento": "Hipoalergénico",
+            "garantía": "2 años"
+        }
+    ]
+}

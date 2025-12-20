@@ -32,14 +32,14 @@ function WhatsApp({ producto, quantity = 1 }) {
             `_*S/.${producto.precioVenta}*_\n\n` +
             `Cantidad: ${quantity}\n\n` +
             `SKU: ${producto.sku}\n` +
-            `https://homesleep.pe${producto.ruta}`;
+            `https://dormihogar.pe${producto.ruta}`;
 
         return `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensaje)}`;
     };
 
     return (
         <a href={getWhatsAppLink()} className="product-page-whatsapp active" target="_blank" rel="noopener noreferrer">
-            <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" alt="WhatsApp | Homesleep" />
+            <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" alt="WhatsApp | Dormihogar" />
             <p>Continuar</p>
         </a>
     );

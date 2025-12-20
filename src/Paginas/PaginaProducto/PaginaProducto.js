@@ -628,17 +628,17 @@ function PaginaProducto(){
         "@type": "Product",
         "name": producto.nombre,
         "image": [
-            `https://homesleep.pe${producto.fotos}1.jpg`
+            `https://dormihogar.pe${producto.fotos}1.jpg`
         ],
         "description": producto["resumen-del-producto"]?.map(d => Object.values(d)[0]).join(' – '),
         "sku": producto.sku,
         "brand": {
             "@type": "Brand",
-            "name": "Homesleep"
+            "name": "Dormihogar"
         },
         "offers": {
             "@type": "Offer",
-            "url": `https://homesleep.pe${producto.ruta}`,
+            "url": `https://dormihogar.pe${producto.ruta}`,
             "priceCurrency": "PEN",
             "price": producto.precioVenta,
             "priceValidUntil": "2025-12-31",

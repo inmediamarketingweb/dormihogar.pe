@@ -1,6 +1,5 @@
 .product-page-sku{
     width: auto;
-    margin-right: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,14 +17,14 @@
 }
 
 .product-page-sku::before{
-    content: 'Copiar SKU';
-    width: 64px;
-    height: 100%;
+    content: 'Copiar';
+    width: auto;
+    height: auto;
     position: absolute;
-    left: calc(100% + 5px);
-    top: 0;
-    border-radius: 4px;
-    padding: 0 8px;
+    left: 0;
+    top: calc(100% + 5px);
+    border-radius: 0 50px 50px 50px;
+    padding: 4px 8px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -34,7 +33,7 @@
     color: var(--white) !important;
     font-size: 11px !important;
     transition: var(--t-200ms-linear);
-    z-index: 0;
+    z-index: 1;
 
     opacity: 0;
     pointer-events: none !important;
@@ -61,18 +60,23 @@
 
 .copied{
     width: auto;
-    padding: 5px;
+    height: auto;
     position: absolute;
-    left: calc(100% + 5px);
-    top: 0;
-    border-radius: 4px;
-    background: #1fd14c!important;
-    transition: var(--t-200ms-linear);
+    left: 0;
+    top: calc(100% + 5px);
+    border-radius: 0 50px 50px 50px;
+    padding: 4px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--whatsapp);
+    background: var(--whatsapp)!important;
     color: var(--white) !important;
     font-size: 11px !important;
-    opacity: 0;
-    z-index: 1;
+    transition: var(--t-200ms-linear);
+    z-index: 2;
 
+    opacity: 0;
     pointer-events: none !important;
     user-select: none !important;
 }
@@ -95,4 +99,10 @@
     height: 2px;
     background: rgba(0 0 0 / 0.25);
     border-radius: 10px;
+}
+
+@media screen and (max-width: 600px){
+    .product-page-top-info{
+        display: none !important;
+    }
 }

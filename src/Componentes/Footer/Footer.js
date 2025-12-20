@@ -3,7 +3,7 @@ import './Footer.css';
 function Footer(){
     return(
         <>
-            <a href='https://wa.link/2mkdn4' target='_blank' rel="noopener noreferrer" className='whatsapp-button'>
+            <a href='https://wa.link/6yvsrx' target='_blank' rel="noopener noreferrer" className='whatsapp-button'>
                 <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" alt="icono de whatsapp"/>
             </a>
 

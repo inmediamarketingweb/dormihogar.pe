@@ -7,18 +7,9 @@
     gap: 10px;
     padding: 0 20px;
     border-radius: 4px;
-    background: #555555;
-    position: relative;
-    pointer-events: none;
-    user-select: none;
-    overflow: hidden;
-}
-
-.product-page-whatsapp.active{
     background: var(--whatsapp);
-    cursor: pointer;
-    pointer-events: unset;
-    user-select: unset;
+    position: relative;
+    overflow: hidden;
 }
 
 .product-page-whatsapp.active::before{
@@ -55,8 +46,6 @@
     z-index: 2;
 }
 
-/**/
-
 .whatsapp-message{
     padding: 10px;
     background: rgb(220, 20, 60, 0.05);
@@ -85,10 +74,18 @@
     color: crimson;
 }
 
-/**/
+@media screen and (max-width: 800px){
+    .whatsapp-message::before{
+        right: 76px;
+    }
+}
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px){
     .whatsapp-message::before{
         right: 92px;
+    }
+
+    .product-page-whatsapp{
+        height: 60px;
     }
 }

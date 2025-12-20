@@ -6,13 +6,14 @@ import NoProducto from '../../Paginas/NoProducto/NoProducto';
 import SpinnerLoading from '../../Componentes/SpinnerLoading/SpinnerLoading';
 import Jerarquia from './Componentes/Jerarquia/Jerarquia';
 import Sku from './Componentes/Sku/Sku';
+import Compartir from './Componentes/Compartir/Compartir';
 import Imagenes from './Componentes/Imagenes/Imagenes';
 import Regalos from './Componentes/Regalos/Regalos';
 import Resumen from './Componentes/Resumen/Resumen';
 import Medidas from './Componentes/Medidas/Medidas';
 import Beneficios from './Componentes/Beneficios/Beneficios';
-import Envios from './Componentes/Envios/Envios';
-import TiposDeEnvio from './Componentes/TiposDeEnvio/TiposDeEnvio';
+import Colores from './Componentes/Colores/Colores';
+import Cantidad from './Componentes/Cantidad/Cantidad';
 import WhatsApp from './Componentes/WhatsApp/WhatsApp';
 import Descripcion from './Componentes/Descripcion/Descripcion';
 
@@ -20,22 +21,279 @@ import './PaginaProducto.css';
 
 const MasProductos = lazy(() => import('./Componentes/MasProductos/MasProductos'));
 
-function normalizePathWithTrailingSlash(p = "") {
+function normalizePathWithTrailingSlash(p = ""){
     if (!p) return "/";
     return p.endsWith("/") ? p : p + "/";
 }
 
+async function obtenerDescripcionColchonDesdeNombre(nombreProductoCompleto, tamañoProductoPrincipal = null){
+    const extraerNombreColchon = (nombreCompleto) => {
+        const partes = nombreCompleto.split('+');
+
+        if (partes.length >= 2) {
+            const parteColchon = partes[1].trim();
+
+            if (parteColchon.toLowerCase().includes('colchón')) {
+                const regex = /COLCHÓN\s+(.+)/i;
+                const match = parteColchon.match(regex);
+                
+                if (match && match[1]) {
+                    return `COLCHÓN ${match[1].trim()}`;
+                }
+                
+                return parteColchon;
+            }
+        }
+
+        return null;
+    };
+
+    const extraerTamañoDelNombreProducto = (nombreCompleto) => {
+        const nombreLower = nombreCompleto.toLowerCase();
+
+        if (/\bking\b/i.test(nombreLower)) {
+            return 'king';
+        }
+        else if (/\bqueen\b/i.test(nombreLower)) {
+            return 'queen';
+        }
+        else if (/\b2\s*plazas\b/i.test(nombreLower)) {
+            return '2-plazas';
+        }
+        else if (/\b1\s*plaza\s*y\s*media\b/i.test(nombreLower)) {
+            return '1-plaza-y-media';
+        }
+        else if (/\b1\s*plaza\b/i.test(nombreLower)) {
+            return '1-plaza';
+        }
+        else if (/\b4\s*plazas\b/i.test(nombreLower)) {
+            return '4-plazas';
+        }
+
+        return null;
+    };
+
+    const convertirNombreARuta = (nombreColchon, tamañoPrincipal) => {
+        if (!nombreColchon) return null;
+
+        let nombreNormalizado = nombreColchon.replace(/COLCHÓN\s*/i, '').trim().toLowerCase();
+        let tamaño = tamañoPrincipal;
+
+        if (!tamaño) {
+            if (/\b4\s*plazas\b/i.test(nombreNormalizado)) {
+                tamaño = '4-plazas';
+                nombreNormalizado = nombreNormalizado.replace(/\b4\s*plazas\b/i, '').trim();
+            }
+            else if (/\bking\b/i.test(nombreNormalizado)) {
+                tamaño = 'king';
+                nombreNormalizado = nombreNormalizado.replace(/\bking\b/i, '').trim();
+            }
+            else if (/\bqueen\b/i.test(nombreNormalizado)) {
+                tamaño = 'queen';
+                nombreNormalizado = nombreNormalizado.replace(/\bqueen\b/i, '').trim();
+            }
+            else if (/\b2\s*plazas\b/i.test(nombreNormalizado)) {
+                tamaño = '2-plazas';
+                nombreNormalizado = nombreNormalizado.replace(/\b2\s*plazas\b/i, '').trim();
+            }
+        }
+
+        if (!tamaño) {
+            return null;
+        }
+
+        let marca = 'el-cisne';
+
+        if (/\bkamas\b/i.test(nombreNormalizado)) {
+            marca = 'kamas';
+            nombreNormalizado = nombreNormalizado.replace(/\bkamas\b/i, '').trim();
+        } else if (/\bparaiso\b/i.test(nombreNormalizado)) {
+            marca = 'paraiso';
+            nombreNormalizado = nombreNormalizado.replace(/\bparaiso\b/i, '').trim();
+        } else if (/\bkomfort\b/i.test(nombreNormalizado)) {
+            marca = 'komfort';
+            nombreNormalizado = nombreNormalizado.replace(/\bkomfort\b/i, '').trim();
+        } else if (/\bel\s*cisne\b/i.test(nombreNormalizado)) {
+            marca = 'el-cisne';
+            nombreNormalizado = nombreNormalizado.replace(/\bel\s*cisne\b/i, '').trim();
+        }
+
+        let modelo = nombreNormalizado.trim().replace(/\s+/g, '-').replace(/[^a-z0-9-]/gi, '').toLowerCase().replace(/^-+|-+$/g, '');
+
+        if (!modelo) {
+            return null;
+        }
+
+        const rutaFinal = `/assets/json/categorias/colchones/${tamaño}/${marca}/${modelo}.json`;
+
+        return rutaFinal;
+    };
+
+    try {
+        const nombreColchon = extraerNombreColchon(nombreProductoCompleto);
+
+        if (!nombreColchon) {
+            return null;
+        }
+
+        let tamañoParaBuscar = tamañoProductoPrincipal;
+        if (!tamañoParaBuscar) {
+            tamañoParaBuscar = extraerTamañoDelNombreProducto(nombreProductoCompleto);
+        }
+
+        const rutaColchon = convertirNombreARuta(nombreColchon, tamañoParaBuscar);
+
+        if (!rutaColchon) {
+            return null;
+        }
+
+        try {
+            const respuesta = await fetch(rutaColchon);
+
+            if (!respuesta.ok) {
+                return null;
+            }
+
+            const contentType = respuesta.headers.get('content-type');
+            if (!contentType || !contentType.includes('application/json')) {
+                return null;
+            }
+
+            const datosColchon = await respuesta.json();
+            let productoColchon = null;
+            let regalosColchon = [];
+            let fichaColchon = [];
+            let mensajesColchon = [];
+
+            if (Array.isArray(datosColchon.productos) && datosColchon.productos.length > 0) {
+                productoColchon = datosColchon.productos[0];
+                
+                if (productoColchon && Array.isArray(productoColchon.regalos)) {
+                    regalosColchon = productoColchon.regalos;
+                }
+            }
+
+            if (Array.isArray(datosColchon.ficha)) {
+                fichaColchon = datosColchon.ficha;
+            }
+
+            if (Array.isArray(datosColchon.mensajes)) {
+                mensajesColchon = datosColchon.mensajes;
+            }
+
+            return {
+                ficha: fichaColchon,
+                mensajes: mensajesColchon,
+                producto: productoColchon,
+                regalos: regalosColchon
+            };
+
+        } catch (fetchError) {
+            return null;
+        }
+        
+    } catch (error) {
+        return null;
+    }
+}
+
+async function obtenerDescripcionTipoDormitorio(nombreProductoCompleto) {
+    try {
+        const nombreLower = nombreProductoCompleto.toLowerCase();
+        const rutaDescripciones = '/assets/json/descripciones.json';
+        const respuesta = await fetch(rutaDescripciones);
+
+        if (!respuesta.ok) {
+            return null;
+        }
+
+        const todasDescripciones = await respuesta.json();
+        let tipoDescripcion = null;
+
+        if (nombreLower.includes('americano')) {
+            const contieneCajones = nombreLower.includes('cajones') || nombreLower.includes('cajón');
+            tipoDescripcion = contieneCajones ? 'americano-con-cajones' : 'americano';
+        }
+        else if (nombreLower.includes('europeo')) {
+            const contieneCajones = nombreLower.includes('cajones') || nombreLower.includes('cajón');
+            tipoDescripcion = contieneCajones ? 'europeo-con-cajones' : 'europeo';
+        }
+
+        if (!tipoDescripcion) {
+            return null;
+        }
+
+        const descripcion = todasDescripciones[tipoDescripcion];
+
+        if (!descripcion) {
+            return null;
+        }
+
+        const fichaFormateada = Array.isArray(descripcion) ? descripcion : [descripcion];
+
+        return {
+            ficha: fichaFormateada,
+            tipo: tipoDescripcion
+        };
+        
+    } catch (error) {
+        return null;
+    }
+}
+
+async function obtenerDescripcionCabecera(nombreProductoCompleto) {
+    try {
+        const nombreLower = nombreProductoCompleto.toLowerCase();
+
+        if (!nombreLower.includes('cabecera')) {
+            return null;
+        }
+
+        const rutaDescripciones = '/assets/json/descripciones.json';
+        const respuesta = await fetch(rutaDescripciones);
+
+        if (!respuesta.ok) {
+            return null;
+        }
+
+        const todasDescripciones = await respuesta.json();
+        const tipoDescripcion = 'cabecera';
+        const descripcion = todasDescripciones[tipoDescripcion];
+
+        if (!descripcion) {
+            return null;
+        }
+
+        const fichaFormateada = Array.isArray(descripcion) ? descripcion : [descripcion];
+
+        return {
+            ficha: fichaFormateada
+        };
+
+    } catch (error) {
+        return null;
+    }
+}
+
 function PaginaProducto(){
-    const [shippingInfo, setShippingInfo] = useState(null);
-    const [shippingOptions, setShippingOptions] = useState([]);
-    const [selectedShipping, setSelectedShipping] = useState({ tipo: null, precio: null });
     const location = useLocation();
-    const [productoData, setProductoData] = useState({ producto: null, imagenes: [], error: false, loading: true});
-    const [selectedColor, setSelectedColor] = useState(null);
-    const [quantity, setQuantity] = useState(1);
-    const [userName, setUserName] = useState(typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : '');
+    const [productoData, setProductoData] = useState({ 
+        producto: null, 
+        imagenes: [], 
+        descripciones: [],
+        mensajes: [],
+        error: false, 
+        loading: true
+    });
     const [isCategoryFallback, setIsCategoryFallback] = useState(false);
     const [categoryProducts, setCategoryProducts] = useState([]);
+    const [descripcionColchon, setDescripcionColchon] = useState(null);
+    const [descripcionTipoDormitorio, setDescripcionTipoDormitorio] = useState(null);
+    const [descripcionCabecera, setDescripcionCabecera] = useState(null);
+    const [cargandoColchon, setCargandoColchon] = useState(false);
+    const [cargandoTipoDormitorio, setCargandoTipoDormitorio] = useState(false);
+    const [cargandoCabecera, setCargandoCabecera] = useState(false);
+    const [cantidad, setCantidad] = useState(1);
 
     useEffect(() => {
         let cancelled = false;
@@ -44,6 +302,9 @@ function PaginaProducto(){
             setProductoData(prev => ({ ...prev, loading: true, error: false }));
             setIsCategoryFallback(false);
             setCategoryProducts([]);
+            setDescripcionColchon(null);
+            setDescripcionTipoDormitorio(null);
+            setDescripcionCabecera(null);
 
             const path = normalizePathWithTrailingSlash(location.pathname);
 
@@ -51,43 +312,52 @@ function PaginaProducto(){
                 let filesList = [];
                 try{
                     const manifestRes = await fetch('/assets/json/manifest.json');
-                    if (manifestRes.ok) {
+                    if (manifestRes.ok){
                         const manifestJson = await manifestRes.json();
                         if (Array.isArray(manifestJson)) filesList = manifestJson;
                         else if (Array.isArray(manifestJson.files)) filesList = manifestJson.files;
-                        else if (typeof manifestJson === 'object' && manifestJson !== null && manifestJson[path]) {
+                        else if (typeof manifestJson === 'object' && manifestJson !== null && manifestJson[path]){
                             const productFilePath = manifestJson[path];
                             const resp = await fetch(productFilePath);
-                            if (resp.ok) {
+                            if (resp.ok){
                                 const pd = await resp.json();
-                                if (!cancelled) {
-                                    setProductoData({ producto: pd, imagenes: [], error: false, loading: false });
+                                if (!cancelled){
+                                    setProductoData({ 
+                                        producto: pd, 
+                                        imagenes: [], 
+                                        descripciones: pd.descripciones || [],
+                                        mensajes: pd.mensajes || [],
+                                        error: false, 
+                                        loading: false 
+                                    });
                                     cargarImagenesOptimizadas(pd.fotos);
                                     return;
                                 }
                             }
                         }
                     }
-                } catch (errIndex) { }
+                } catch (errIndex){ }
 
-            if (filesList.length === 0) {
-                try{
-                    const manifestRes2 = await fetch('/assets/json/manifest.json');
-                    if (manifestRes2.ok) {
-                        const manifestJson2 = await manifestRes2.json();
-                        if (Array.isArray(manifestJson2)) filesList = manifestJson2;
-                        else if (Array.isArray(manifestJson2.files)) filesList = manifestJson2.files;
-                    }
-                } catch (e) { }
-            }
+                if (filesList.length === 0){
+                    try{
+                        const manifestRes2 = await fetch('/assets/json/manifest.json');
+                        if (manifestRes2.ok){
+                            const manifestJson2 = await manifestRes2.json();
+                            if (Array.isArray(manifestJson2)) filesList = manifestJson2;
+                            else if (Array.isArray(manifestJson2.files)) filesList = manifestJson2.files;
+                        }
+                    } catch (e){ }
+                }
 
                 const parts = path.split('/').filter(Boolean);
                 const category = parts[1] || parts[0] || '';
                 let candidates = filesList.filter(f => f.includes(`/categorias/${category}/`));
                 if (candidates.length === 0) candidates = filesList;
-
                 let productoEncontrado = null;
-                for (const filePath of candidates) {
+                let descripcionesEncontradas = [];
+                let mensajesEncontrados = [];
+
+                for(const filePath of candidates){
                     try {
                         const r = await fetch(filePath);
                         if (!r.ok) continue;
@@ -97,26 +367,46 @@ function PaginaProducto(){
                             const pr = String(p.ruta || "").trim();
                             return normalizePathWithTrailingSlash(pr) === path;
                         });
-                        if (found) {
+                        if (found){
                             productoEncontrado = found;
+                            descripcionesEncontradas = json.descripciones || [];
+                            mensajesEncontrados = json.mensajes || [];
                             break;
                         }
-                    } catch (e) { continue; }
+                    } catch (e){ continue; }
                 }
 
-                if (productoEncontrado) {
-                    if (!cancelled) {
-                        setProductoData(prev => ({ ...prev, producto: productoEncontrado, loading: false, error: false }));
+                if (productoEncontrado){
+                    if (!cancelled){
+                        setProductoData(prev => ({ 
+                            ...prev, 
+                            producto: productoEncontrado, 
+                            descripciones: descripcionesEncontradas,
+                            mensajes: mensajesEncontrados,
+                            loading: false, 
+                            error: false 
+                        }));
                         cargarImagenesOptimizadas(productoEncontrado.fotos);
+
+                        if (productoEncontrado.nombre) {
+                            const nombre = productoEncontrado.nombre;
+                            
+                            if (nombre.includes('+')) {
+                                cargarDescripcionColchon(nombre, productoEncontrado);
+                            }
+                            
+                            cargarDescripcionTipoDormitorio(nombre);
+                            cargarDescripcionCabecera(nombre);
+                        }
                     }
                     return;
                 }
 
                 const idMatch = path.match(/\/(\d+)\/$/);
 
-                if (idMatch) {
+                if (idMatch){
                     const idStr = idMatch[1];
-                    for (const filePath of candidates) {
+                    for(const filePath of candidates){
                         try{
                             const r = await fetch(filePath);
                             if (!r.ok) continue;
@@ -126,18 +416,38 @@ function PaginaProducto(){
                                 const pr = normalizePathWithTrailingSlash(String(p.ruta || ""));
                                 return pr.endsWith(`/${idStr}/`);
                             });
-                            if (foundById) {
+                            if (foundById){
                                 productoEncontrado = foundById;
+                                descripcionesEncontradas = json.descripciones || [];
+                                mensajesEncontrados = json.mensajes || [];
                                 break;
                             }
-                        } catch (e) { continue; }
+                        } catch (e){ continue; }
                     }
                 }
 
-                if (productoEncontrado) {
-                    if (!cancelled) {
-                        setProductoData(prev => ({ ...prev, producto: productoEncontrado, loading: false, error: false }));
+                if (productoEncontrado){
+                    if (!cancelled){
+                        setProductoData(prev => ({ 
+                            ...prev, 
+                            producto: productoEncontrado, 
+                            descripciones: descripcionesEncontradas,
+                            mensajes: mensajesEncontrados,
+                            loading: false, 
+                            error: false 
+                        }));
                         cargarImagenesOptimizadas(productoEncontrado.fotos);
+
+                        if (productoEncontrado.nombre) {
+                            const nombre = productoEncontrado.nombre;
+
+                            if (nombre.includes('+')) {
+                                cargarDescripcionColchon(nombre, productoEncontrado);
+                            }
+
+                            cargarDescripcionTipoDormitorio(nombre);
+                            cargarDescripcionCabecera(nombre);
+                        }
                     }
                     return;
                 }
@@ -145,13 +455,13 @@ function PaginaProducto(){
                 const rel = path.replace(/^\/productos\//, '').replace(/\/$/, '');
                 const categoryJsonPath = `/assets/json/categorias/${rel}.json`;
 
-                if (filesList.includes(categoryJsonPath)) {
+                if (filesList.includes(categoryJsonPath)){
                     try {
                         const catRes = await fetch(categoryJsonPath);
-                        if (catRes.ok) {
+                        if (catRes.ok){
                             const catJson = await catRes.json();
-                            if (Array.isArray(catJson.productos) && catJson.productos.length > 0) {
-                                if (!cancelled) {
+                            if (Array.isArray(catJson.productos) && catJson.productos.length > 0){
+                                if (!cancelled){
                                     setIsCategoryFallback(true);
                                     setCategoryProducts(catJson.productos);
                                     setProductoData(prev => ({ ...prev, loading: false, producto: null, error: false }));
@@ -159,15 +469,14 @@ function PaginaProducto(){
                                 return;
                             }
                         }
-                    } catch (e) {
+                    } catch (e){
                     }
                 }
 
-                if (!cancelled) {
+                if (!cancelled){
                     setProductoData(prev => ({ ...prev, error: true, loading: false }));
                 }
-            } catch (error) {
-                console.error("Error al buscar el producto:", error);
+            } catch (error){
                 if (!cancelled) setProductoData(prev => ({ ...prev, error: true, loading: false }));
             }
         };
@@ -186,7 +495,7 @@ function PaginaProducto(){
             (async () => {
                 const primeraImagen = await cargarImagen(1, 'webp') || await cargarImagen(1, 'jpg') || await cargarImagen(1, 'png');
 
-                if (primeraImagen) {
+                if (primeraImagen){
                     setProductoData(prev => ({
                         ...prev,
                         imagenes: [primeraImagen]
@@ -198,8 +507,8 @@ function PaginaProducto(){
                 const promesas = [];
                 const formatos = ['webp', 'jpg'];
 
-                for (let index = 2; index <= 5; index++) {
-                    for (const formato of formatos) {
+                for(let index = 2; index <= 5; index++){
+                    for(const formato of formatos){
                         promesas.push(cargarImagen(index, formato));
                     }
                 }
@@ -212,6 +521,72 @@ function PaginaProducto(){
                     imagenes: [...prev.imagenes, ...nuevasImagenes]
                 }));
             }, 100);
+        };
+
+        const cargarDescripcionColchon = async (nombreProducto, productoPrincipal) => {
+            if (!nombreProducto || cancelled) return;
+            
+            setCargandoColchon(true);
+            try {
+                let tamañoProducto = null;
+                if (productoPrincipal && productoPrincipal.tamaño) {
+                    tamañoProducto = productoPrincipal.tamaño.toLowerCase().replace(/\s+/g, '-');
+                } else {}
+                
+                const descripcion = await obtenerDescripcionColchonDesdeNombre(nombreProducto, tamañoProducto);
+
+                if (!cancelled) {
+                    setDescripcionColchon(descripcion);
+                }
+            } catch (error) {
+                if (!cancelled) {
+                    setDescripcionColchon(null);
+                }
+            } finally {
+                if (!cancelled) {
+                    setCargandoColchon(false);
+                }
+            }
+        };
+
+        const cargarDescripcionTipoDormitorio = async (nombreProducto) => {
+            if (!nombreProducto || cancelled) return;
+            
+            setCargandoTipoDormitorio(true);
+            try {
+                const descripcion = await obtenerDescripcionTipoDormitorio(nombreProducto);
+                if (!cancelled) {
+                    setDescripcionTipoDormitorio(descripcion);
+                }
+            } catch (error) {
+                if (!cancelled) {
+                    setDescripcionTipoDormitorio(null);
+                }
+            } finally {
+                if (!cancelled) {
+                    setCargandoTipoDormitorio(false);
+                }
+            }
+        };
+
+        const cargarDescripcionCabecera = async (nombreProducto) => {
+            if (!nombreProducto || cancelled) return;
+            
+            setCargandoCabecera(true);
+            try {
+                const descripcion = await obtenerDescripcionCabecera(nombreProducto);
+                if (!cancelled) {
+                    setDescripcionCabecera(descripcion);
+                }
+            } catch (error) {
+                if (!cancelled) {
+                    setDescripcionCabecera(null);
+                }
+            } finally {
+                if (!cancelled) {
+                    setCargandoCabecera(false);
+                }
+            }
         };
 
         fetchProducto();
@@ -227,87 +602,46 @@ function PaginaProducto(){
         }
     }, [productoData.producto]);
 
-    useEffect(() => {
-        if (typeof window === 'undefined') return;
-
-        const handleStorageChange = () => {
-            const storedName = localStorage.getItem('nombre') || '';
-            setUserName(storedName);
-        };
-        window.addEventListener('storage', handleStorageChange);
-        return () => window.removeEventListener('storage', handleStorageChange);
-    }, []);
-
     if (isCategoryFallback){
-        return (
-            <>
-                <Helmet>
-                    <title>404 | Domrihogar</title>
-                </Helmet>
-
-                <main className="main-category">
-                    <div className="block-container">
-                        <section className="block-content">
-                            <div className="">
-                                <div className="category-page-left">
-                                    <ul className="category-page-products d-flex-column">
-                                        {categoryProducts.map((producto, idx) => (
-                                            <a href={producto.ruta} key={producto.sku || idx}>
-                                                <p>{producto.nombre}</p>
-                                            </a>
-                                        ))}
-                                    </ul>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </main>
-            </>
-        );
-    }
-
-    if (productoData.error) {
         return(
             <NoProducto/>
         );
     }
 
-    if (productoData.loading || !productoData.producto) {
+    if (productoData.error){
+        return(
+            <NoProducto/>
+        );
+    }
+
+    if (productoData.loading || !productoData.producto){
         return(
             <SpinnerLoading/>
         );
     }
 
-    const { producto, imagenes } = productoData;
-
-    const handleContinuarClick = (e) => {
-        if(!selectedShipping.tipo){
-            e.preventDefault();
-        }
-    };
-
-    const handleRemove = () => { if (quantity > 0) setQuantity(quantity - 1); };
-    const handleAdd = () => { if (quantity < 10) setQuantity(quantity + 1); };
+    const { producto, imagenes, descripciones, mensajes } = productoData;
+    const descuento = Math.round(((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal);
 
     const productSchema = {
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": producto.nombre,
         "image": [
-            `https://dormihogar.pe${producto.fotos}1.jpg`
+            `https://homesleep.pe${producto.fotos}1.jpg`
         ],
         "description": producto["resumen-del-producto"]?.map(d => Object.values(d)[0]).join(' – '),
         "sku": producto.sku,
         "brand": {
             "@type": "Brand",
-            "name": "dormihogar"
+            "name": "Homesleep"
         },
         "offers": {
             "@type": "Offer",
-            "url": `https://dormihogar.pe${producto.ruta}`,
+            "url": `https://homesleep.pe${producto.ruta}`,
             "priceCurrency": "PEN",
             "price": producto.precioVenta,
-            "priceValidUntil": "2035-12-31",
+            "priceValidUntil": "2025-12-31",
             "itemCondition": "https://schema.org/NewCondition",
             "availability": producto.stock > 0 ? "https://schema.org/InStock" : "https://schema.org/OutOfStock"
         }
@@ -318,138 +652,145 @@ function PaginaProducto(){
             <Helmet>
                 <title>{producto.nombre}</title>
                 <meta name="description" content={producto.nombre}/>
-                <link rel="preload" as="image" href={`https://dormihogar.pe${producto.fotos}1.jpg`} />
-                <meta property="og:image" content={`https://dormihogar.pe${producto.fotos}1.jpg`}/>
+                <link rel="preload" as="image" href={`https://homesleep.pe${producto.fotos}1.jpg`} />
+                <meta property="og:image" content={`https://homesleep.pe${producto.fotos}1.jpg`}/>
                 <meta property="og:title" content={producto.nombre}/>
                 <meta property="og:site_name" content={producto.nombre}/>
                 <meta property="og:description" content={producto.nombre}/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content={`https://dormihogar.pe${producto.ruta}`}/>
+                <meta property="og:url" content={`https://homesleep.pe${producto.ruta}`}/>
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 
-            <main>
+            <main className='page-main-product-page'>
                 <div className='block-container product-page-block-container'>
                     <section className='block-content product-page-block-content'>
-                        <Jerarquia producto={producto} />
-
                         <div className='product-page-container'>
-                            <div className='product-page-target product-page-target-1'>
-                                <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} />
+                            <div className='product-page-target product-page-target-1 gap-20'>
+                                <Jerarquia producto={producto} />
+
+                                <div className='visible-on-mobile-no-desktop'>
+                                    <p className='product-page-category color-color-1'>{producto.categoria}</p>
+                                    <h1 className='product-page-name'>{producto.nombre}</h1>
+                                </div>
+
+                                <Imagenes imagenes={imagenes} producto={producto}/>
+
+                                <Beneficios/>
+
+                                <div className='visible-on-desktop-no-mobile'>
+                                    <Descripcion producto={producto} descripciones={descripciones} 
+                                        mensajes={mensajes} descripcionColchon={descripcionColchon}
+                                        descripcionTipoDormitorio={descripcionTipoDormitorio}
+                                        descripcionCabecera={descripcionCabecera} cargandoColchon={cargandoColchon}
+                                        cargandoTipoDormitorio={cargandoTipoDormitorio} cargandoCabecera={cargandoCabecera}
+                                    />
+                                </div>
                             </div>
 
                             <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
                                 <div className='product-page-top-info'>
-                                    <p className='product-page-category'>{producto.categoria}</p>
-                                    <h1 className='product-page-name'>{producto.nombre}</h1>
-                                    <Sku producto={producto} />
-                                </div>
-
-                                <div className='d-grid-2-1fr gap-20'>
-                                    <div className='d-flex-column gap-20'>
-                                        <div className='page-product-prices'>
-                                            <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
-                                            <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
-                                        </div>
-
-                                        <Regalos producto={producto} />
-
-                                        <div className='d-flex gap-20'>
-                                            <Resumen producto={producto} />
-                                            <Medidas producto={producto} />
-                                        </div>
-
-                                        <div className='d-flex-column'>
-                                            <div className='d-flex-start gap-5'>
-                                                <span className='color-red'>*</span>
-                                                <p className='text font-14'>Realizamos envios inmediatos a provincia</p>
-                                            </div>
-                                            <div className='d-flex-start gap-5'>
-                                                <span className='color-red'>*</span>
-                                                <p className='text font-14'>Entregas el mismo día para Lima y Callao</p>
-                                            </div>
-                                        </div>
-
-                                        <Beneficios/>
+                                    <div className='visible-on-desktop-no-mobile'>
+                                        <p className='product-page-category color-color-1'>{producto.categoria}</p>
+                                        <h1 className='product-page-name'>{producto.nombre}</h1>
                                     </div>
 
-                                    <div className='d-flex-column gap-20'>
-                                        <Envios producto={producto} onConfirm={(data) => {
-                                            setShippingInfo(data); 
-                                            setShippingOptions(data.shippingOptions);
-
-                                            if (data.shippingOptions.length === 1) {
-                                                setSelectedShipping({
-                                                    tipo: data.shippingOptions[0].tipo,
-                                                    precio: data.shippingOptions[0].precio
-                                                });
-                                            }
-                                        }}/>
-
-                                        <TiposDeEnvio shippingOptions={shippingOptions} 
-                                            provincia={shippingInfo?.locationData?.provincia || ''} 
-                                            distrito={shippingInfo?.locationData?.distrito || ''} 
-                                            hasAgency={shippingInfo?.hasAgency} 
-                                            selectedTipo={selectedShipping.tipo} 
-                                            onSelect={(tipo, precio) => setSelectedShipping({ tipo, precio })} 
-                                        />
-
-                                        <div className='product-page-user-name-container d-flex-column gap-5'>
-                                            <p className='text'><b className='color-red'>*</b> Nombres</p>
-                                            <input type='text' placeholder='Nombres' className='product-page-user-name' value={userName}
-                                                onChange={(e) => {
-                                                    setUserName(e.target.value);
-                                                    localStorage.setItem('nombre', e.target.value);
-                                                }} 
-                                            />
+                                    <div className='visible-on-desktop-no-mobile'>
+                                        <div className='d-flex-center-left gap-10 margin-right'>
+                                            <Sku producto={producto}/>
+                                            <Compartir/>
                                         </div>
+                                    </div>
+                                </div>
 
-                                        <div className='d-flex-column gap-5'>
-                                            <p className='title text'>Detalles:</p>
+                                <div>
+                                    <div className='d-flex-column gap-20'>
+                                        <div className='d-grid-2-1fr gap-10'>
+                                            <div className='d-flex-column gap-20-to-10'>
+                                                <div className='visible-on-mobile-no-desktop'>
+                                                    <div className='page-product-prices'>
+                                                        <div className='d-flex-center-left gap-5'>
+                                                            <p className='page-product-normal-price'>S/.{producto.precioNormal}</p>
+                                                            <span className="product-page-discount">-{descuento}%</span>
+                                                        </div>
 
-                                            {!selectedColor ? (
-                                                <p className='d-flex gap-5'><b className='color-red'>*</b>Sin variación de color</p>
-                                            ) : (
-                                                <div className='d-flex-column gap-5'>
-                                                    <p className='bold color-black d-flex gap-5'><b className='color-red'>*</b>Color seleccionado:</p>
-                                                    <div className='d-flex-center-left gap-5'>
-                                                        <span className='first-uppercase'>{selectedColor.color}</span>
-                                                        <img width={26} height={18} src={selectedColor.img} alt={selectedColor.color} loading="lazy" style={{ borderRadius: '10%' }} />
+                                                        <p className='page-product-sale-price'>S/.{producto.precioVenta}</p>
                                                     </div>
                                                 </div>
-                                            )}
-                                        </div>
 
-                                        <div className='d-flex-center-center gap-10'>
-                                            <div className='d-flex-column gap-10'>
-                                                <div className='quantity'>
-                                                    <button type="button" onClick={handleRemove} disabled={quantity <= 1} >
-                                                        <span className="material-icons">remove</span>
-                                                    </button>
-                                                    <div className="quantity-input">{quantity}</div>
-                                                    <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
-                                                        <span className="material-icons">add</span>
-                                                    </button>
+                                                <Resumen producto={producto}/>
+
+                                                <div className='visible-on-desktop-no-mobile'>
+                                                    <div className='d-flex-column gap-10'>
+                                                        {producto.categoria.toLowerCase() !== "colchones" && (
+                                                            <Colores colorName={producto.nombre.split('-').pop().trim() || "Seleccionar color"}/>
+                                                        )}
+
+                                                        <Regalos producto={producto} descripcionColchon={descripcionColchon}/>
+                                                    </div>
                                                 </div>
                                             </div>
 
-                                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick}/>
-                                        </div>
+                                            <div className='d-flex-column gap-20-to-10'>
+                                                <div className='visible-on-desktop-no-mobile'>
+                                                    <div className='page-product-prices'>
+                                                        <div className='d-flex-center-left gap-5'>
+                                                            <p className='page-product-normal-price'>S/.{producto.precioNormal}</p>
+                                                            <span className="product-page-discount">-{descuento}%</span>
+                                                        </div>
 
-                                        <div className='whatsapp-message d-flex d-flex-column gap-5'>
-                                            <span className="material-icons">info</span>
-                                            <p>La información solicitada se utilizará para agilizar el proceso de compra.</p>
+                                                        <p className='page-product-sale-price'>S/.{producto.precioVenta}</p>
+                                                    </div>
+                                                </div>
+
+                                                <div className='visible-on-mobile-no-desktop'>
+                                                    <div className='d-flex-column gap-10'>
+                                                        <div className='d-flex d-flex-wrap gap-10'>
+                                                            <Regalos producto={producto} descripcionColchon={descripcionColchon}/>
+
+                                                            {producto.categoria.toLowerCase() !== "colchones" && (
+                                                                <Colores colorName={producto.nombre.split('-').pop().trim() || "Seleccionar color"}/>
+                                                            )}
+                                                        </div>
+
+                                                        <Medidas producto={producto}/>
+                                                    </div>
+                                                </div>
+
+                                                <div className='visible-on-desktop-no-mobile'>
+                                                    <div className='button-continue-container'>
+                                                        <Cantidad onChange={setCantidad}/>
+                                                        <WhatsApp producto={producto} quantity={cantidad}/>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div className='visible-on-mobile-no-desktop'>
+                                                <Descripcion producto={producto} descripciones={descripciones} 
+                                                    mensajes={mensajes} descripcionColchon={descripcionColchon}
+                                                    descripcionTipoDormitorio={descripcionTipoDormitorio}
+                                                    descripcionCabecera={descripcionCabecera} cargandoColchon={cargandoColchon}
+                                                    cargandoTipoDormitorio={cargandoTipoDormitorio} cargandoCabecera={cargandoCabecera}
+                                                />
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-                        <Descripcion producto={producto}/>
                     </section>
                 </div>
 
-                <Suspense fallback={<div className="loading-mas-productos">Cargando productos relacionados...</div>}>
+                <div className='visible-on-mobile-no-desktop'>
+                    <div className='button-continue-container'>
+                        <Cantidad onChange={setCantidad}/>
+                        <WhatsApp producto={producto} quantity={cantidad}/>
+                    </div>
+                </div>
+
+                <Suspense fallback={
+                    <div className="loading-mas-productos">Cargando productos relacionados...</div>
+                }>
                     <MasProductos categoriaActual={producto.categoria}/>
                 </Suspense>
             </main>
@@ -458,4 +799,3 @@ function PaginaProducto(){
 }
 
 export default PaginaProducto;
-

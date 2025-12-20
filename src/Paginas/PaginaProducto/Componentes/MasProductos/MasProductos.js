@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
+
 import './MasProductos.css';
+
 import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
 
 export default function MasProductos({ categoriaActual }) {
@@ -23,47 +25,38 @@ export default function MasProductos({ categoriaActual }) {
 
                 const basePath = window.location.origin;
                 const manifestUrl = `${basePath}/assets/json/manifest.json`;
-                
                 const manifestRes = await fetch(manifestUrl, { signal });
-                
-                if (!manifestRes.ok) {
-                    throw new Error(`Error ${manifestRes.status} al cargar manifest`);
-                }
-                
-                const manifestText = await manifestRes.text();
-                
-                if (manifestText.startsWith('<!DOCTYPE') || manifestText.startsWith('<html')) {
-                    throw new Error('El servidor devolvió HTML en lugar de manifest JSON');
-                }
-                
-                const manifest = JSON.parse(manifestText);
+                const contentType = manifestRes.headers.get('content-type') || '';
 
+                if (!contentType.includes('application/json')) {
+                    const textResponse = await manifestRes.text();
+                    if (textResponse.startsWith('<!DOCTYPE')) {
+                        throw new Error('El servidor devolvió una página HTML en lugar de JSON. Verifique la ruta del manifest.');
+                    }
+                    throw new Error(`Tipo de contenido inválido: ${contentType}`);
+                }
+
+                const manifest = await manifestRes.json();
+                
                 const allData = await Promise.all(
                     manifest.files.map(async (filePath) => {
-                        try {
-                            const fullUrl = filePath.startsWith('http') 
-                                ? filePath 
-                                : `${basePath}${filePath.startsWith('/') ? '' : '/'}${filePath}`;
+                        const fullUrl = filePath.startsWith('http') 
+                            ? filePath 
+                            : `${basePath}${filePath.startsWith('/') ? '' : '/'}${filePath}`;
                             
-                            const res = await fetch(fullUrl, { signal });
-                            
-                            if (!res.ok) {
-                                console.error(`Error ${res.status} en: ${fullUrl}`);
-                                return { productos: [] };
-                            }
-                            
-                            const textData = await res.text();
-                            
-                            if (textData.startsWith('<!DOCTYPE') || textData.startsWith('<html')) {
+                        const res = await fetch(fullUrl, { signal });
+                        
+                        const resContentType = res.headers.get('content-type') || '';
+                        if (!resContentType.includes('application/json')) {
+                            const text = await res.text();
+                            if (text.startsWith('<!DOCTYPE')) {
                                 console.error(`Archivo devuelve HTML: ${fullUrl}`);
                                 return { productos: [] };
                             }
-                            
-                            return JSON.parse(textData);
-                        } catch (fileError) {
-                            console.error(`Error procesando archivo ${filePath}:`, fileError);
-                            return { productos: [] };
+                            throw new Error(`Tipo de contenido inválido para ${fullUrl}: ${resContentType}`);
                         }
+
+                        return res.json();
                     })
                 );
 
@@ -84,7 +77,7 @@ export default function MasProductos({ categoriaActual }) {
                     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
                 }
 
-                setProducts(shuffled.slice(0, 10));
+                setProducts(shuffled.slice(0, 15));
             } catch (err) {
                 if (err.name !== 'AbortError') {
                     console.error('Error al cargar productos:', err);
@@ -111,15 +104,15 @@ export default function MasProductos({ categoriaActual }) {
     const truncate = (str, maxLength) => 
         str?.length <= maxLength ? str : str?.slice(0, maxLength) + '...';
 
-    if(loading){
-        return(
+    if (loading) {
+        return (
             <div className='d-flex'>
                 <p className='text'>Cargando más productos...</p>
             </div>
         );
     }
 
-    if (error) {
+    if(error){
         return(
             <div className='d-flex-column align-items-center gap-10'>
                 <p className='text-error'>{error}</p>
@@ -132,7 +125,7 @@ export default function MasProductos({ categoriaActual }) {
     }
 
     if (products.length === 0) {
-        return(
+        return (
             <div className='d-flex-column align-items-center gap-10'>
                 <p className='text'>No se encontraron productos en esta categoría</p>
                 <button onClick={handleRefresh} className='button-link button-link-2'>
@@ -146,16 +139,14 @@ export default function MasProductos({ categoriaActual }) {
     return(
         <div className='block-container'>
             <div className='block-content'>
-                <div className='block-title-container'>
-                    <h4 className='block-title'>Más productos</h4>
-                </div>
-
                 <div className='d-flex-column gap-20'>
                     <div className="product-page-more-products-container">
                         <nav className="product-page-more-products-content">
                             <ul className='d-grid-5-3-2fr gap-10'>
                                 {products.map((producto) => (
-                                    <Producto producto={producto} truncate={truncate} />
+                                    <li key={producto.sku} className='d-flex-column'>
+                                        <Producto producto={producto} truncate={truncate} />
+                                    </li>
                                 ))}
                             </ul>
                         </nav>

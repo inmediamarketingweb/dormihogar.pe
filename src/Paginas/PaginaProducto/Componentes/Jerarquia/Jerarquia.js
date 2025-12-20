@@ -1,7 +1,7 @@
 import './Jerarquia.css';
 
 function Jerarquia({ producto }){
-    const breadcrumbKeys = ['categoria', 'marca', 'subcategoria', 'linea', 'tamaño', 'modelo'];
+    const breadcrumbKeys = ['categoria', 'tamaño', 'marca', 'modelo', 'línea'];
     const crumbs = [];
     let cumulativePath = '';
 
@@ -12,15 +12,15 @@ function Jerarquia({ producto }){
         }
     });
 
-    if(producto.nombre && producto.ruta){
-        crumbs.push({ key: 'nombre', label: producto.nombre, path: `/productos/${producto.ruta}`});
+    if(producto.sku && producto.ruta){
+        crumbs.push({ key: 'sku', label: producto.sku, path: `/productos/${producto.ruta}`});
     }
 
     return(
         <div className="product-page-direction">
             <ul className='d-flex-center-left gap-5 d-flex-wrap'>
                 <li>
-                    <a href="/" className='d-flex'>
+                    <a href={`/productos/${producto.categoria}/`} className='d-flex'>
                         <span className="material-icons">home</span>
                     </a>
                 </li>

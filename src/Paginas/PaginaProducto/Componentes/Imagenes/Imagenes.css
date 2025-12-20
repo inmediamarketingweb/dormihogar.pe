@@ -1,28 +1,50 @@
+.image-discount{
+    position: absolute;
+    left: 112px;
+    top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 25px;
+    background: var(--color-1);
+    color: var(--white);
+    z-index: 35;
+}
+
+.product-page-image-component{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+}
+
 .product-page-images-container{
     width: 100%;
     overflow: hidden;
     touch-action: pan-y;
+    position: relative;
 }
 
-.product-page-discount{
+.tipo-de-envio{
     position: absolute;
-    left: 20px;
-    top: 20px;
-    background: var(--color-1);
-    color: var(--white);
-    padding: 5px 10px;
-    border-radius: 24px;
-    font-weight: bold;
-    z-index: 1;
+    left: 10px;
+    top: 53px;
+    z-index: 10;
 }
 
-.product-page-brand{
-    position: absolute;
-    left: 0;
-    bottom: 110px;
-    color: var(--text);
-    text-transform: uppercase;
+.tipo-de-envio p{
     font-weight: bold;
+}
+
+.tipo-de-envio.gratis{
+    color: var(--gratis);
+}
+
+.tipo-de-envio.envío-preferente{
+    color: var(--preferente);
+}
+
+.tipo-de-envio.envío-aplicado{
+    color: var(--aplicado);
 }
 
 .product-page-images-content{
@@ -71,9 +93,12 @@
 
 .zoom-wrapper img{
     margin: auto;
-    display: block;
+    display: flex;
+    width: 100%;
+    height: 100%;
     aspect-ratio: 1/1;
     border-radius: 6px;
+    object-fit: cover;
 }
 
 .zoom-lens{
@@ -84,44 +109,39 @@
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
-    background-size: 350%;
+    background-size: 150%;
 }
 
 .product-page-images-button{
     position: absolute;
     top: 50%;
     translate: 0 -50%;
-    width: 48px;
-    height: 48px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(235 235 235 / 0.75);
-    border-radius: 4px;
     transition: var(--t-200ms-linear);
 }
 
 .product-page-images-button-1{
-    left: 20px;
+    left: 0;
 }
 
 .product-page-images-button-2{
-    right: 20px;
+    right: 0;
 }
 
 .product-page-images-button span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    font-size: 50px;
     color: var(--color-1);
     transition: var(--t-200ms-linear);
 }
 
-.product-page-images-button:hover span{
-    color: var(--color-1);
-}
-
 .product-page-images-miniatures-container{
-    position: absolute;
-    left: 0;
-    bottom: 0;
     width: 100%;
     background: var(--white);
     overflow-x: auto;
@@ -133,8 +153,8 @@
 
 .product-page-images-miniatures{
     display: flex;
-    gap: 4px;
-    margin-top: 10px;
+    flex-direction: column;
+    gap: 5px;
 }
 
 .product-page-images-miniatures li{
@@ -143,28 +163,14 @@
     display: flex;
     cursor: pointer;
     position: relative;
-}
-
-.product-page-images-miniatures li::before{
-    content: '';
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    translate: -50% 0;
-    background: var(--color-1);
+    border: 1px solid gray;
     border-radius: 4px;
-    width: 50%;
-    height: 3px;
-    transition: var(--t-200ms-linear);
-    opacity: 0;
+    padding: 5px;
+    overflow: hidden;
 }
 
-.product-page-images-miniatures li:hover::before{
-    opacity: 0.6;
-}
-
-.product-page-images-miniatures li.active::before{
-    opacity: 1;
+.product-page-images-miniatures li.active{
+    border: 1px solid crimson;
 }
 
 .product-page-images-miniatures li img{
@@ -172,7 +178,24 @@
     border-radius: 4px;
 }
 
+.product-images-share-button{
+    position: absolute;
+    left: 10px;
+    top: 54px;
+    z-index: 1;
+}
+
 @media screen and (max-width: 600px){
+    .image-discount{
+        left: 10px;
+        top: 10px;
+    }
+
+    .product-page-image-component{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
     .product-page-images-button-1{
         left: 10px;
     }
@@ -183,5 +206,14 @@
 
     .product-page-images > li > img{
         width: 80%;
+    }
+
+    .zoom-lens{
+        background-size: 200%;
+    }
+
+    .product-page-images-miniatures{
+        display: flex;
+        flex-direction: row;
     }
 }

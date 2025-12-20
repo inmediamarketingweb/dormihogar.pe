@@ -9,6 +9,7 @@
     border: 1px solid rgba(0 0 0 / 0.1);
     transition: var(--t-200ms-linear);
     border-radius: 3px;
+    cursor: pointer;
 }
 
 .product-page-sizes li a:hover{
@@ -18,6 +19,7 @@
 
 .product-page-sizes li a p{
     color: var(--text);
+    transition: var(--t-200ms-linear);
     font-size: 13px;
 }
 

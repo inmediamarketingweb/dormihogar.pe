@@ -1,21 +1,24 @@
 import { useState, useEffect } from 'react';
 
-import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
-import Colores from '../Colores/Colores';
-
 import './Imagenes.css';
 
-function Imagenes({ imagenes, producto, onSelectColor }){
+import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
+import Compartir from '../Compartir/Compartir';
+
+function Imagenes({ imagenes, producto }){
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isDragging, setIsDragging] = useState(false);
     const [dragStartX, setDragStartX] = useState(0);
-
     const [zoomActive, setZoomActive] = useState(false);
     const [zoomPos, setZoomPos] = useState({ x: 0, y: 0 });
-
+    const tipoEnvio = producto["tipo-de-envio"];
+    const tipoEnvioLower = tipoEnvio.toLowerCase();
+    const textoEnvio = tipoEnvioLower === 'gratis' ? 'Envío gratis' : tipoEnvio;
+    const claseEnvio = tipoEnvioLower.replace(/\s+/g, '-');
     const navigateTo = (idx) => {
         if (idx >= 0 && idx < imagenes.length) setCurrentIndex(idx);
     };
+
     const handlePrev = () => navigateTo((currentIndex - 1 + imagenes.length) % imagenes.length);
     const handleNext = () => navigateTo((currentIndex + 1) % imagenes.length);
 
@@ -54,46 +57,55 @@ function Imagenes({ imagenes, producto, onSelectColor }){
 
     return(
         <div className={`position-relative ${producto.stock === 0 ? 'sin-stock' : ''}`}>
-            <span className="product-page-discount">-{descuento}%</span>
-
             <div className='sin-stock-message'>Agotado</div>
 
-            <div className="product-page-images-container">
-                <div className="product-page-images-content" onMouseDown={handleMouseDown} onMouseUp={handleMouseUp} onMouseLeave={(e) => { handleMouseUp(e) }}>
-                    <ul className="product-page-images" style={{ transform: `translateX(-${currentIndex * 100}%)` }}>
-                        {imagenes.map((src, i) => (
-                            <li key={i}>
-                                <div className="zoom-wrapper" onMouseEnter={handleMouseEnter} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
-                                    <img width={isSmallScreen ? 280 : 540} height={isSmallScreen ? 280 : 540} src={src} alt={producto.nombre}/>
-                                    {zoomActive && i === currentIndex && (
-                                        <div className="zoom-lens" style={{ backgroundImage: `url(${src})`, backgroundPosition: `${zoomPos.x}% ${zoomPos.y}%`}}/>
-                                    )}
-                                </div>
+            <span className='image-discount'>-{descuento}%</span>
+
+            <div className='product-page-image-component'>
+                <div className="product-page-images-miniatures-container">
+                    <ul className="product-page-images-miniatures">
+                        {imagenes.map((img, i) => (
+                            <li key={i} className={i === currentIndex ? 'active' : ''} onClick={() => navigateTo(i)}>
+                                <LazyImage width={isSmallScreen ? 74 : 80} height={isSmallScreen ? 74 : 80} src={img} alt={producto.nombre}/>
                             </li>
                         ))}
                     </ul>
                 </div>
 
-                <button className="product-page-images-button product-page-images-button-1" onClick={handlePrev}>
-                    <span className="material-icons">chevron_left</span>
-                </button>
+                <div className="product-page-images-container">
+                    <div className={`tipo-de-envio ${claseEnvio} d-flex-center-center gap-5`}>
+                        <span className="material-symbols-outlined">delivery_truck_speed</span>
+                        <p>{textoEnvio}</p>
+                    </div>
 
-                <button className="product-page-images-button product-page-images-button-2" onClick={handleNext}>
-                    <span className="material-icons">chevron_right</span>
-                </button>
+                    <div className="product-page-images-content" onMouseDown={handleMouseDown} onMouseUp={handleMouseUp} onMouseLeave={(e) => { handleMouseUp(e) }}>
+                        <ul className="product-page-images" style={{ transform: `translateX(-${currentIndex * 100}%)` }}>
+                            {imagenes.map((src, i) => (
+                                <li key={i}>
+                                    <div className="zoom-wrapper" onMouseEnter={handleMouseEnter} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
+                                        <img width={isSmallScreen ? 385 : 680} height={isSmallScreen ? 385 : 680} src={src} alt={producto.nombre}/>
+                                        {zoomActive && i === currentIndex && (
+                                            <div className="zoom-lens" style={{ backgroundImage: `url(${src})`, backgroundPosition: `${zoomPos.x}% ${zoomPos.y}%`}}/>
+                                        )}
+                                    </div>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+
+                    <button className="product-page-images-button product-page-images-button-1" onClick={handlePrev}>
+                        <span className="material-icons">chevron_left</span>
+                    </button>
+
+                    <button className="product-page-images-button product-page-images-button-2" onClick={handleNext}>
+                        <span className="material-icons">chevron_right</span>
+                    </button>
+                </div>
             </div>
 
-            <div className="product-page-images-miniatures-container">
-                <ul className="product-page-images-miniatures">
-                    {imagenes.map((img, i) => (
-                        <li key={i} className={i === currentIndex ? 'active' : ''} onClick={() => navigateTo(i)}>
-                            <LazyImage width={isSmallScreen ? 54 : 80} height={isSmallScreen ? 54 : 80} src={img} alt={producto.nombre}/>
-                        </li>
-                    ))}
-                </ul>
+            <div className='visible-on-mobile-no-desktop product-images-share-button'>
+                <Compartir/>
             </div>
-
-            {producto.colores && <Colores producto={producto} onSelectColor={onSelectColor} />}
         </div>
     );
 }

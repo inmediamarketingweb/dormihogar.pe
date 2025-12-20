@@ -1,0 +1,63 @@
+.share-widget{
+    position: relative;
+    display: inline-block;
+}
+
+.share-button{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 5px 10px;
+    border: 1px solid rgba(0 0 0 / 0.1);
+    background: #F2F2F2;
+    transition: var(--t-200ms-linear);
+    border-radius: 3px;
+    position: relative;
+}
+
+.share-button p{
+    font-size: 12px;
+}
+
+.share-button span{
+    font-size: 18px;
+}
+
+.share-menu{
+    position: absolute;
+    left: 0;
+    top: calc(100% + 10px);
+    width: calc(100% + 100px);
+    background: var(--white);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    z-index: 1000;
+}
+
+.share-option{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border: none;
+    background: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.share-option:hover{
+    background-color: #f0f0f0;
+}
+
+.whatsapp { color: #25D366; }
+.facebook { color: #3b5998; }
+.twitter { color: #1DA1F2; }
+.linkedin { color: #0077b5; }
+.copy { color: #6c757d; }

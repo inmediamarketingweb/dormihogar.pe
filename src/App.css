@@ -420,6 +420,22 @@ button{
     position: relative;
 }
 
+.italic{
+    font-style: italic;
+}
+
+.visible-on-desktop-no-mobile{
+    display: unset;
+}
+
+.visible-on-mobile-no-desktop{
+    display: none;
+}
+
+.rotate-270deg{
+    rotate: 270deg;
+}
+
 @media screen and (max-width: 600px){
     *{
         cursor: none !important;
@@ -428,6 +444,14 @@ button{
     main{
         width: 100%;
         margin-top: 168px;
+    }
+
+    .visible-on-desktop-no-mobile{
+        display: none;
+    }
+
+    .visible-on-mobile-no-desktop{
+        display: unset;
     }
 
     .block-title{

@@ -51,7 +51,7 @@ function TiposDeEnvio({ shippingOptions, selectedTipo, onSelect, provincia, dist
 
                 <div className={`tipos-de-envios-ask-content${isAskOpen ? ' active' : ''}`}>
                     <div className='d-flex-center-between'>
-                        <p className='title'>📦 Tipos de envío - Dormihogar</p>
+                        <p className='title'>📦 Tipos de envío - Homesleep</p>
                         <span className="material-icons tipos-de-envios-ask-close" onClick={() => setIsAskOpen(false)}>close</span>
                     </div>
 

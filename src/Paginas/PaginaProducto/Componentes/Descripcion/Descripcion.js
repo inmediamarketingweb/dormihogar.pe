@@ -1,122 +1,222 @@
+import { useState } from 'react';
 import './Descripcion.css';
 
-function Descripcion({ producto }){
-    const formatKey = (key) => key.replace(/-/g, ' ');
+function Descripcion({
+    descripcionColchon = null,
+    descripcionTipoDormitorio = null,
+    descripcionCabecera = null,
+    cargandoColchon = false,
+    cargandoTipoDormitorio = false,
+    cargandoCabecera = false 
+}) {
+    const [expandedSections, setExpandedSections] = useState({
+        tipoDormitorio: false,
+        colchon: false,
+        cabecera: false
+    });
 
-    if (producto?.descripcion){
-        return(
-            <div className='d-grid-2-1fr gap-20'>
-                <div className='d-flex-column w-100'>
-                    <div className='w-100 product-details d-flex-column gap-20 margin-bottom'>
-                        <h4 className='title'>Detalles del producto:</h4>
-                        <ul>
-                            <li>
-                                <div>
-                                    <strong>SKU:</strong>
-                                </div>
-                                <div>
-                                    <p className='text'>{producto.sku}</p>
-                                </div>
-                            </li>
-                            {producto['detalles-del-producto'] && producto['detalles-del-producto'].map(
-                                (detalle, index) => Object.entries(detalle).map(([key, value]) => (
-                                    <li key={`${index}-${key}`}>
-                                        <div>
-                                            <strong>{formatKey(key)}:</strong>
-                                        </div>
-                                        <div>
-                                            <p className='text'>{value}</p>
-                                        </div>
-                                    </li>
-                                ))
-                            )}
-                        </ul>
+    const toggleSection = (section) => {
+        setExpandedSections(prev => ({
+            ...prev,
+            [section]: !prev[section]
+        }));
+    };
+
+    const getButtonClasses = (section) => {
+        return expandedSections[section] 
+            ? 'description-top-button-container active'
+            : 'description-top-button-container';
+    };
+
+    const getContentClasses = (section) => {
+        return expandedSections[section]
+            ? 'description-content active'
+            : 'description-content';
+    };
+
+    const renderSeccionTipoDormitorio = () => {
+        if (!descripcionTipoDormitorio && !cargandoTipoDormitorio) return null;
+        
+        return (
+            <div className="descripcion-seccion">
+                {cargandoTipoDormitorio ? (
+                    <div className="cargando-tipo-dormitorio">
+                        <p>Cargando especificaciones del dormitorio...</p>
                     </div>
-                </div>
+                ) : (
+                    <>
+                        {descripcionTipoDormitorio?.ficha && Array.isArray(descripcionTipoDormitorio.ficha) && (
+                            <div className="d-flex-column gap-5">
+                                <p className="sub-title color-color-1 uppercase">Box tarima</p>
 
-                <div className='d-flex-column gap-20'>
-                    <h4 className='title'>Descripción del producto:</h4>
-                    <ul className='descripcion-list descripcion-list-1'>
-                        {producto.descripcion.map(
-                            (item, index) => Object.entries(item).map(([key, value]) => (
-                                <li key={`${index}-${key}`}>
-                                    <div>
-                                        <strong>{formatKey(key)}:</strong>
-                                    </div>
-                                    <div>
-                                        <p className='text'>{value}</p>
-                                    </div>
-                                </li>
-                            ))
-                        )}
-                    </ul>
-                </div>
-            </div>
-        );
-    }
+                                <button className={getButtonClasses('tipoDormitorio')} onClick={() => toggleSection('tipoDormitorio')}>
+                                    <p className="sub-title color-color-1 uppercase">Box tarima</p>
+                                    <span className="material-symbols-outlined">
+                                        {expandedSections.tipoDormitorio ? 'keyboard_arrow_up' : 'keyboard_arrow_down'}
+                                    </span>
+                                </button>
 
-    else if (producto?.descripciones) {
-        return(
-            <div className='d-grid-1-3fr gap-20'>
-                <div className='d-flex w-100'>
-                    <div className='product-details w-100 d-flex-column gap-20 margin-bottom'>
-                        <h4 className='title'>Detalles del producto:</h4>
-                        <ul>
-                            <li>
-                                <div>
-                                    <strong>SKU:</strong>
-                                </div>
-                                <div>
-                                    <p className='text'>{producto.sku}</p>
-                                </div>
-                            </li>
-                            {producto['detalles-del-producto'] && producto['detalles-del-producto'].map((detalle, index) =>
-                                Object.entries(detalle).map(([key, value]) => (
-                                    <li key={`${index}-${key}`}>
-                                        <div>
-                                            <strong>{formatKey(key)}:</strong>
-                                        </div>
-                                        <div>
-                                            <p className='text'>{value}</p>
-                                        </div>
-                                    </li>
-                                ))
-                            )}
-                        </ul>
-                    </div>
-                </div>
-
-                <div className='product-descripcion'>
-                    <div className='d-flex-column gap-20'>
-                        <h4 className='title description-title'>Descripción del producto:</h4>
-                        <div className='d-flex d-flex-wrap gap-10'>
-                            {producto.descripciones.map((grupo, index) => (
-                                <div className='d-flex-column gap-10 card-flex-3' key={index}>
-                                    <p className='title'>{grupo.titulo}:</p>
-                                    <ul className='descripcion-list descripcion-list-1'>
-                                        {grupo.descripcion.map(
-                                            (item, idx) => Object.entries(item).map(([key, value]) => (
-                                                <li key={`${idx}-${key}`}>
-                                                    <div>
-                                                        <strong>{formatKey(key)}:</strong>
-                                                    </div>
-                                                    <div>
-                                                        <p className='text'>{value}</p>
-                                                    </div>
-                                                </li>
-                                            ))
-                                        )}
+                                <div className={getContentClasses('tipoDormitorio')}>
+                                    <ul className="product-details">
+                                        {descripcionTipoDormitorio.ficha.map((item, index) => {
+                                            if (typeof item === 'object' && item !== null) {
+                                                return Object.entries(item).map(([key, value], subIndex) => (
+                                                    <li key={`${index}-${subIndex}`}>
+                                                        <div>
+                                                            <strong>{key.charAt(0).toUpperCase() + key.slice(1)}:</strong>
+                                                        </div>
+                                                        <span className="valor-ficha">{value}</span>
+                                                    </li>
+                                                ));
+                                            }
+                                            return null;
+                                        })}
                                     </ul>
                                 </div>
-                            ))}
-                        </div>
+                            </div>
+                        )}
+                    </>
+                )}
+            </div>
+        );
+    };
+
+    const renderSeccionCabecera = () => {
+        if (!descripcionCabecera && !cargandoCabecera) return null;
+
+        return (
+            <div className="descripcion-seccion">
+                {cargandoCabecera ? (
+                    <div className="cargando-cabecera">
+                        <p>Cargando especificaciones de la cabecera...</p>
                     </div>
+                ) : (
+                    <>
+                        {descripcionCabecera?.ficha && Array.isArray(descripcionCabecera.ficha) && (
+                            <div className="d-flex-column gap-5">
+                                <p className="sub-title color-color-1 uppercase">Cabecera</p>
+
+                                <button className={getButtonClasses('cabecera')} onClick={() => toggleSection('cabecera')}>
+                                    <p className="sub-title color-color-1 uppercase">Cabecera</p>
+                                    <span className="material-symbols-outlined">
+                                        {expandedSections.cabecera ? 'keyboard_arrow_up' : 'keyboard_arrow_down'}
+                                    </span>
+                                </button>
+
+                                <div className={getContentClasses('cabecera')}>
+                                    <div className="product-details">
+                                        {descripcionCabecera.ficha.map((item, index) => {
+                                            if (typeof item === 'object' && item !== null) {
+                                                return Object.entries(item).map(([key, value], subIndex) => (
+                                                    <ul key={`${index}-${subIndex}`}>
+                                                        <li>
+                                                            <div>
+                                                                <strong>{key.charAt(0).toUpperCase() + key.slice(1)}:</strong>
+                                                            </div>
+                                                            <div>
+                                                                <p>{value}</p>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                ));
+                                            }
+                                            return null;
+                                        })}
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+                    </>
+                )}
+            </div>
+        );
+    };
+
+    const renderSeccionColchon = () => {
+        if (!descripcionColchon && !cargandoColchon) return null;
+        
+        return(
+            <div className="descripcion-seccion">
+                {cargandoColchon ? (
+                    <div className="cargando-colchon">
+                        <p>Cargando detalles del colchón...</p>
+                    </div>
+                ) : (
+                    <>
+                        {descripcionColchon?.ficha?.length > 0 && (
+                            <div className="d-flex-column gap-5">
+                                <p className='sub-title uppercase color-color-1'>Colchón</p>
+
+                                <button className={getButtonClasses('colchon')} onClick={() => toggleSection('colchon')}>
+                                    <p className="sub-title color-color-1 uppercase">Colchón</p>
+                                    <span className="material-symbols-outlined">
+                                        {expandedSections.colchon ? 'keyboard_arrow_up' : 'keyboard_arrow_down'}
+                                    </span>
+                                </button>
+
+                                <div className={getContentClasses('colchon')}>
+                                    <div className="product-details">
+                                        {descripcionColchon.ficha.map((item, index) => (
+                                            <ul key={index}>
+                                                {Object.entries(item).map(([key, value]) => (
+                                                    <li key={key}>
+                                                        <div>
+                                                            <strong>{key.replace(/-/g, ' ')}:</strong>
+                                                        </div>
+                                                        <div>
+                                                            <p>{value}</p>
+                                                        </div>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        ))}
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+                    </>
+                )}
+            </div>
+        );
+    };
+
+    const renderMensajesColchon = () => {
+        if (!descripcionColchon?.mensajes || !Array.isArray(descripcionColchon.mensajes) || descripcionColchon.mensajes.length === 0) {
+            return null;
+        }
+
+        return (
+            <div className="mensajes-colchon-container d-flex-column gap-10">
+                <div className="contenido-mensajes">
+                    {descripcionColchon.mensajes.map((mensaje, index) => (
+                        <div key={index} className="mensaje-colchon">
+                            <p>{mensaje}</p>
+                        </div>
+                    ))}
                 </div>
             </div>
         );
-    }
+    };
 
-    return null;
+    const tieneDescripcion = descripcionTipoDormitorio || descripcionCabecera || descripcionColchon;
+
+    if (!tieneDescripcion) return null;
+
+    return(
+        <div className="product-page-description w-100 d-flex-column gap-20-to-10">
+            <div className="d-flex-column gap-10">
+                <p className="block-title uppercase color-color-1 margin-right">Descripción del producto</p>
+
+                {renderMensajesColchon()}
+            </div>
+
+            <div className='d-flex-column gap-20-to-10'>
+                {renderSeccionTipoDormitorio()}
+                {renderSeccionColchon()}
+                {renderSeccionCabecera()}
+            </div>
+        </div>
+    );
 }
 
 export default Descripcion;

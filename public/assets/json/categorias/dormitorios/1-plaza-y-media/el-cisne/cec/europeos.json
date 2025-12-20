@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "CEC",
+            "línea": "Europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/cec/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO 1 PLAZA Y MEDIA KAMAS / EL CISNE + COLCHÓN CEC + CABECERA PEDESTAL CAPITONEADO 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/cec/europeos/americanas/capitoneado-1/1/",
+            "precioRegular": 2099,
+            "precioNormal": 1599,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H33315213N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "cec",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "CEC",
+            "línea": "Europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/cec/europeos/2/",
+            "nombre": "DORMITORIO EUROPEO 1 PLAZA Y MEDIA KAMAS / EL CISNE + COLCHÓN CEC + CABECERA AÉREA CORONA - PLOMO AZULADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/cec/europeos/coronas/princesa/1/",
+            "precioRegular": 2049,
+            "precioNormal": 1549,
+            "precioVenta": 949,
+            "stock": 9,
+            "sku": "H33315215N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "cec",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

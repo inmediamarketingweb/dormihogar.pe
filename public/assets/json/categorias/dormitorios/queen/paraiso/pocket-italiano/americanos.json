@@ -1,0 +1,1603 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/1/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CAPITONEADO - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/2/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CAPITONEADO - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/2/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/3/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CAPITONEADO - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/capitoneado-1/3/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/4/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CUADROS 1 - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/cuadros-1/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/4/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/5/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CUADROS 2 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/cuadros-2/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/5/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/6/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA LINEAL 1 - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-1/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/6/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/7/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA RECTANGULAR 1 - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/rectangular-1/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/7/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 1"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/8/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA LINEAL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/lineal-2/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/8/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/9/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA PANAL - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/panal/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/9/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Panal"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/10/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CLÁSICA 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/clasicas/clasica-1/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2299,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "H32232262N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/10/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/11/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CLÁSICA 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/clasicas/clasica-2/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2299,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "H32232262N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/11/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/12/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA EGYPT - TEJIDO ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/egypt/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/12/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/13/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA RECTANGULAR 1 - CUERO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/rectangular-1/2/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/13/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 1"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/14/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA RECTANGULAR 2 - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/rectangular-2/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/14/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/15/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA LINEAL 3 - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-3/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/15/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/16/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-3/2/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/16/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/17/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA LINEAL 4 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/americanas/lineal-4/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232263N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/17/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/18/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA EGYPT - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/egypt/2/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/18/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/19/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CHAN CHAN - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/chan-chan/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/19/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan chan"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/20/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA EXPLORER - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/explorer/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/20/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Explorer"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/21/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA EXPLORER - ACERO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/explorer/2/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/21/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Explorer"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/22/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA GRID - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/grid/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/22/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/23/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA OBSIDIAN - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/obsidian/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/23/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Obsidian"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/24/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA REPTILIAN - AZUL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/reptilian/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/24/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/25/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA REPTILIAN - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/reptilian/2/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/25/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/26/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA REPTILIAN - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/reptilian/3/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/26/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/27/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA ROBLO - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/bloques/roblo/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232266N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/27/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/28/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA NAZCA LINE - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/con-marco/nazca-line/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232264N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/28/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nazca line"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/29/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CON MARCO CUADROS 2 - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/con-marco/cuadros-2/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232264N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/29/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/pocket-italiano/americanos/30/",
+            "nombre": "DORMITORIO QUEEN KAMAS / PARAISO + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AÉREA CORONA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-italiano/americanos/coronas/otros-modelos/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2199,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "H32232265N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/paraiso/pocket-italiano/americanos/30/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket italiano",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "láminas": "MDF de 3mm.",
+                    "patas": "Cromadas",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
+                {
+                    "resortes": "754 resortes pocket",
+                    "espuma": "zebra 1 pulgada y media 18kg/mg",
+                    "grosor": "30cm.",
+                    "banda": "tela en punto",
+                    "soporte": "90kg por persona",
+                    "garantía": "5 años"
+                }
+             ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

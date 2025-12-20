@@ -2,64 +2,39 @@
     "productos":[
         {
             "categoria": "colchones",
-            "tamaño": "king",
+            "tamaño": "2 plazas",
             "marca": "komfort",
             "modelo": "spahir",
             "ruta": "/productos/colchones/2-plazas/komfort/saphir/",
             "nombre": "COLCHÓN KOMFORT POCKET SAPHIR 2 PLAZAS",
-            "fotos": "/assets/imagenes/productos/colchones/komfort/pocket-saphir/",
+            "fotos": "/assets/imagenes/productos/colchones/komfort/saphir/",
             "precioRegular": 1319,
             "precioNormal": 999,
             "precioVenta": 599,
             "stock": 14,
             "sku": "H1421N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
+            "tamaños-disponibles": [
+                { "nombre": "queen", "sku": "H1431N10" },
+                { "nombre": "king", "sku": "H1441N10" }
             ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Komfort",
-                    "modelo-de-colchón": "Saphir",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/komfort/saphir/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/komfort/saphir/"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Komfort",
-                    "modelo-de-colchón": "Saphir",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "494 resortes pocket",
-                    "marco": "de espuma de poliuretano",
-                    "soporte": "23kg/m3",
-                    "tela": "tejido en punto"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Komfort Saphir ofrece un confort intermedio gracias a su sistema de 494 resortes pocket, que brindan soporte individual y reducen la transferencia de movimiento. Incluye marco de espuma de poliuretano, espuma de 23 kg/m³ y está acabado con tela de tejido en punto, fresca y resistente. Ideal para quienes buscan firmeza equilibrada con buen soporte ortopédico."
+    ],
+    "ficha":[
+        {
+            "marca": "Komfort",
+            "modelo-de-colchón": "Saphir",
+            "nivel-de-confort": "Intermedio",
+            "línea-de-colchón": "ortopédico",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "494 resortes pocket",
+            "marco": "de espuma de poliuretano",
+            "soporte": "23kg/m3",
+            "tela": "tejido en punto"
         }
     ]
 }

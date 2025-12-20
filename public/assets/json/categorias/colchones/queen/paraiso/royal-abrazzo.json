@@ -1,68 +1,45 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "Queen",
             "marca": "paraiso",
-            "subcategoria": "royal abrazzo",
+            "modelo": "royal abrazzo",
             "ruta": "/productos/colchones/queen/paraiso/royal-abrazzo/",
-            "nombre": "COLCHÓN PARAISO ROYAL ABRAZZO QUEEN",
+            "nombre": "COLCHÓN PARAISO QUEEN ROYAL ABRAZZO",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-abrazzo/",
             "precioRegular": 2019,
             "precioNormal": 1789,
-            "precioVenta": 1499,
+            "precioVenta": 1449,
             "stock": 14,
             "sku": "H1231N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Muy suave"
-                }
-            ],
+            "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón"],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-abrazzo/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-abrazzo/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/paraiso/royal-abrazzo/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H12151N10" },
+                { "nombre": "2 plazas", "sku": "H1221N10" },
+                { "nombre": "King", "sku": "H1241N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Muy suave",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica con diseño 3D",
-                    "espuma": "Viscoelástica D70",
-                    "capas": "Capas de Zebras 35 HR y 35 HD",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Olvídate de los sueños. El colchón Royal Abrazzo no es para descansar; es el centro de operaciones. En tamaño Queen, su sensación muy suave es en realidad un campo de absorción de impactos, mientras que su núcleo de resortes Pocket actúa como una plataforma de estabilización para períodos prolongados de espera.",
+        "La capa de espuma Viscoelástica D70 no alivia la presión, la distribuye para camuflar perfiles. Las capas de Zebra 35 HR y 35 HD no son para confort, son blindaje estructural de máxima densidad para soportar equipamiento. La tela con diseño 3D no ventila, rompe el contorno visual.",
+        "Es el mejor de la marca Paraíso por una razón: su garantía de 10 años no cubre sueños, cubre misiones. No es un colchón. Es tu próxima posición estratégica."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal abrazzo",
+            "tamaño": "Queen",
+            "nivel-de-confort": "Muy suave",
+            "resortes": "Pocket",
+            "tratamiento": "Antihongos, antibacterias y antiacaros",
+            "tela": "Tejido de punto higroscópica con diseño 3D",
+            "espuma": "Viscoelástica D70",
+            "capas": "Capas de Zebras 35 HR y 35 HD",
+            "garantía": "10 años"
         }
     ]
 }

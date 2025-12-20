@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "2 plazas",
             "marca": "kamas",
-            "subcategoria": "konig",
+            "modelo": "konig",
             "ruta": "/productos/colchones/2-plazas/kamas/konig/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
@@ -12,57 +13,34 @@
             "precioVenta": 999,
             "stock": 99,
             "sku": "H11211N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Konig",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "regalos":["1 almohada"],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/konig/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/konig/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/konig/"
-                }
+                {"nombre": "1 plaza y media", "sku": "H111511N10"},
+                {"nombre": "Queen", "sku": "H11311N10"},
+                {"nombre": "King", "sku": "H11411N10"}
             ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Konig",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "16 filas",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "25kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "marco": "Refuerzo de marco sellado",
-                    "soporte-de-peso": "100kg. por persona",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "Este colchón está diseñado para ofrecer un descanso superior gracias a su estructura de 16 filas de resortes, que brindan un soporte firme, estable y uniforme en toda la superficie. Su espuma de 25 kg/m³ aporta mayor densidad y durabilidad, garantizando una sensación cómoda y resistente incluso con el uso diario.",
+        "La superficie en algodón tejido en punto proporciona suavidad, frescura y ventilación natural, ideal para noches más agradables. Además, su diseño de uso por ambos lados permite prolongar su vida útil y mantener el colchón en óptimas condiciones por más tiempo.",
+        "El marco sellado reforzado añade estabilidad y firmeza en los bordes, mientras que su capacidad de soportar hasta 110 kg por persona lo convierte en una opción confiable para quienes buscan calidad superior. Todo esto respaldado por una garantía de 10 años."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "ramat",
+            "resortes": "bonell",
+            "filas-de-resortes": "16 filas",
+            "nivel-de-confort": "extra ortopédico",
+            "línea-de-colchón": "Muy firme",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-la-espuma": "25kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "marco": "Refuerzo de marco sellado",
+            "soporte-de-peso": "110kg. por persona",
+            "garantía": "10 años"
         }
     ]
 }

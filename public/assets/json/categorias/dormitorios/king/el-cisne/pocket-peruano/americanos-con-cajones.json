@@ -1,0 +1,43 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "pocket",
+            "línea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / EL CISNE CON 2 CAJONES + COLCHÓN POCKET PERUANO + CABECERA AÉREA CAPITONEADO - LILA FANDANGO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-peruano/americanos-con-cajones/americanas/capitoneado-2/1/",
+            "precioRegular": 3099,
+            "precioNormal": 2499,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "H32241283N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/dormitorios/queen/paraiso/pocket/americanos-con-cajones/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos con cajones",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

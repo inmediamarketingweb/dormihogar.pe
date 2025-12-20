@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "2 plazas",
             "marca": "el cisne",
-            "subcategoria": "presence",
+            "modelo": "presence",
             "ruta": "/productos/colchones/2-plazas/el-cisne/presence/",
             "nombre": "COLCHÓN EL CISNE PRESENCE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/presence/",
@@ -12,43 +13,26 @@
             "precioVenta": 899,
             "stock": 14,
             "sku": "H134N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Presence",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Presence",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "255 bicónicos",
-                    "tela": "Pique",
-                    "marco": "Espuma con densidad 16kg/m3",
-                    "capas": "2 láminas de poliuretano de alta densidad y 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3",
-                    "sensación": "intermedia",
-                    "garantía": "3 años"
-                }
-            ]
+            "regalos":["2 almohadas"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Presence de El Cisne combina calidad, confort y durabilidad en un diseño moderno y elegante. Su imponente grosor de 37 cm y su cuidadosa composición interna lo convierten en una excelente opción para quienes buscan un descanso renovador con una sensación equilibrada.",
+        "En su interior, cuenta con 255 resortes bicónicos ACC, un sistema que brinda un soporte estable, resistente y uniforme, ideal para mantener una postura correcta durante el descanso. Este soporte se complementa con capas de poliuretano de alta densidad, además de láminas de espuma de poliuretano de 1 1/4'' a 16 kg/m³, que aportan mayor firmeza, suavidad y adaptabilidad al cuerpo.",
+        "La cubierta en tela Tricot, suave y resistente, mejora la ventilación del colchón, aporta frescura y genera una experiencia de descanso más confortable. Su marco de espuma de alta densidad añade estabilidad adicional y prolonga la vida útil del colchón, brindándote un producto confiable respaldado con 3 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "El Cisne",
+            "modelo-de-colchón": "Presence",
+            "resortes": "255 resortes bicónicos ACC",
+            "tela": "tricot",
+            "marco": "Espuma con densidad 16kg/m3",
+            "grosor": "37cm",
+            "capas": "2 láminas de poliuretano de alta densidad y 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3",
+            "sensación": "intermedia",
+            "garantía": "3 años"
         }
     ]
 }

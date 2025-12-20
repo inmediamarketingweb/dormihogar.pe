@@ -3,7 +3,7 @@
         {
             "categoria": "dormitorios",
             "marca": "kamas",
-            "linea": "americanos",
+            "línea": "americanos",
             "tamaño": "queen",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/queen/kamas/safynnte/americanos/1/",
@@ -41,7 +41,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Safynnte",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
@@ -97,7 +97,7 @@
         {
             "categoria": "dormitorios",
             "marca": "kamas",
-            "linea": "americanos",
+            "línea": "americanos",
             "tamaño": "queen",
             "modelo": "safynnte",
             "ruta": "/productos/dormitorios/queen/kamas/safynnte/americanos/2/",
@@ -135,7 +135,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Safynnte",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }

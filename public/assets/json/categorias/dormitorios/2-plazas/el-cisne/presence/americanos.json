@@ -1,0 +1,159 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El Cisne",
+            "modelo": "presence",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/presence/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE + COLCHÓN EL CISNE PRESENCE + CABECERA AÉREA CAPITONEADO 1 - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/presence/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H3322243N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "presence",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El Cisne",
+            "modelo": "presence",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/presence/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE + COLCHÓN EL CISNE PRESENCE + CABECERA AÉREA CAPITONEADO 1 - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/presence/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H3322243N1",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "presence",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El Cisne",
+            "modelo": "presence",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/presence/americanos/3/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE + COLCHÓN EL CISNE PRESENCE + CABECERA PEDESTAL MAJESTAD - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/presence/americanos/coronas/majestad/1/",
+            "precioRegular": 2299,
+            "precioNormal": 1999,
+            "precioVenta": 1289,
+            "stock": 9,
+            "sku": "H3322245N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "presence",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El Cisne",
+            "modelo": "presence",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/presence/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE + COLCHÓN EL CISNE PRESENCE + CABECERA AÉREA PRINCESA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/presence/americanos/coronas/princesa/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1359,
+            "precioVenta": 1169,
+            "stock": 9,
+            "sku": "H3222545N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "presence",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El Cisne",
+            "modelo": "presence",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/presence/americanos/5/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE + COLCHÓN EL CISNE PRESENCE + CABECERA PEDESTAL PRINCESA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/presence/americanos/coronas/princesa/2/",
+            "precioRegular": 1899,
+            "precioNormal": 1359,
+            "precioVenta": 1189,
+            "stock": 9,
+            "sku": "H3222545N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "presence",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        }
+    ]
+}

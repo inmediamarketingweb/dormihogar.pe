@@ -1,72 +1,48 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "Queen",
             "marca": "paraiso",
-            "subcategoria": "pocket star",
+            "modelo": "pocket star",
             "ruta": "/productos/colchones/queen/paraiso/pocket-star/",
-            "nombre": "COLCHÓN PARAISO POCKET STAR QUEEN",
+            "nombre": "COLCHÓN PARAISO QUEEN POCKET STAR",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/pocket-star/",
             "precioRegular": 1999,
             "precioNormal": 1222,
-            "precioVenta": 729,
+            "precioVenta": 599,
             "stock": 14,
             "sku": "H12314N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Pocket star",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/pocket-star/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/pocket-star/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/paraiso/pocket-star/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H121514N10" },
+                { "nombre": "2 plazas", "sku": "H12214N10" },
+                { "nombre": "King", "sku": "H12414N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Pocket star",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Tejido de punto",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "tipo-de-resorte": "Pocket",
-                    "pillow-top": "extra acolchado",
-                    "marco": "zebra 25",
-                    "sistema": "one side",
-                    "sensación": "intermedia",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Pocket Star en tamaño Queen redefine el descanso en pareja. Su sensación intermedia de lujo combina un soporte personalizado con una suavidad superior. Su núcleo de resortes Pocket independientes se adapta individualmente a cada cuerpo, aislando por completo el movimiento para noches de sueño ininterrumpido.",
+        "La experiencia es ultra confortable gracias a su topper Pillow-Top extra acolchado, que añade una capa de suavidad profunda. Está cubierto por un fresco tejido de punto con protección antihongos, antibacterias y antiácaros, cuidando tu espacio de descanso.",
+        "Su robusta estructura con marco Zebra 25 asegura durabilidad y estabilidad. El práctico diseño One Side te libera del mantenimiento.",
+        "Invierte en noches de absoluta tranquilidad, respaldadas por una garantía de 10 años. La estrella del descanso compartido."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Pocket star",
+            "tamaño": "Queen",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Pocket",
+            "tela": "Tejido de punto",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "pillow-top": "extra acolchado",
+            "marco": "zebra 25",
+            "sistema": "one side",
+            "sensación": "intermedia",
+            "garantía": "10 años"
         }
     ]
 }

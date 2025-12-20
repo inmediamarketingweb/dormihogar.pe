@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "king",
             "marca": "kamas",
-            "subcategoria": "norole",
+            "modelo": "norole",
             "ruta": "/productos/colchones/king/kamas/norole/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE KING",
             "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
@@ -12,61 +13,36 @@
             "precioVenta": 1399,
             "stock": 99,
             "sku": "H1149N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Norole",
-                    "tamaño": "King",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/norole/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/norole/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/norole/"
-                }
+                { "nombre": "1 plaza y media", "ruta": "H11159N10"},
+                { "nombre": "2 plazas", "ruta": "H1129N10"},
+                { "nombre": "Queen", "ruta": "H1139N10"}
             ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Norole",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "20 filas",
-                    "material-de-resorte": "Acero templado",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "23kg/m3",
-                    "tipo-de-uso": "Un solo lado",
-                    "incorpora": "Sistema one size",
-                    "refuerzos": "Centrales",
-                    "marco": "Marco de espuma",
-                    "grosor": "40cm.",
-                    "soporte-de-peso": "110kg. por persona",
-                    "garantía": "7 años"
-                }
-            ]
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Norole pertenece a la línea Extra Ortopédica, diseñado para ofrecer un descanso muy firme y de alta durabilidad. Incorpora resortes bonell en 20 filas de acero templado, reforzados al centro para mayor estabilidad. Su espuma de 23 kg/m³, junto con la tela de algodón tejido en punto, brindan soporte uniforme y confort. Con un grosor de 40 cm, sistema one size, marco de espuma y uso de un solo lado, soporta hasta 110 kg por persona. Incluye 7 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Norole",
+            "línea-de-colchón": "Extra ortopédico",
+            "nivel-de-confort": "Muy firme",
+            "resortes": "Bonell",
+            "filas-de-resortes": "20 filas",
+            "material-de-resorte": "Acero templado",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-la-espuma": "23kg/m3",
+            "tipo-de-uso": "Un solo lado",
+            "incorpora": "Sistema one size",
+            "refuerzos": "Centrales",
+            "marco": "Marco de espuma",
+            "grosor": "40cm.",
+            "soporte-de-peso": "110kg. por persona",
+            "garantía": "7 años"
         }
     ]
 }

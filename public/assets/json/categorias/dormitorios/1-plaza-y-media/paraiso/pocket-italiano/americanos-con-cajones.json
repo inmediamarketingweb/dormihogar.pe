@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA XTRATO + SABANERA - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos-con-cajones/bloques/xtrato/1/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 1099,
+            "stock": 9,
+            "sku": "H322151266N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xtrato"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA CON 4 CAJONES + COLCHÓN PARAISO POCKET ITALIANO + CABECERA PEDESTAL CAPITONEADO - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 2299,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "H322151263N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

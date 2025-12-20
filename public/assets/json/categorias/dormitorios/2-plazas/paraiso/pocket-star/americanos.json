@@ -3,7 +3,7 @@
         {
             "categoria": "dormitorios",
             "marca": "Kamas - Paraiso",
-            "linea": "americanos",
+            "línea": "Americanos",
             "tamaño": "2 plazas",
             "modelo": "pocket star",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/1/",
@@ -45,7 +45,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket star",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
@@ -98,7 +98,7 @@
         {
             "categoria": "dormitorios",
             "marca": "Kamas - Paraiso",
-            "linea": "americanos",
+            "línea": "Americanos",
             "tamaño": "2 plazas",
             "modelo": "pocket star",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/2/",
@@ -140,7 +140,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket star",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
@@ -193,7 +193,7 @@
         {
             "categoria": "dormitorios",
             "marca": "Kamas - Paraiso",
-            "linea": "americanos",
+            "línea": "Americanos",
             "tamaño": "2 plazas",
             "modelo": "pocket star",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/3/",
@@ -288,7 +288,7 @@
         {
             "categoria": "dormitorios",
             "marca": "Kamas - Paraiso",
-            "linea": "americanos",
+            "línea": "Americanos",
             "tamaño": "2 plazas",
             "modelo": "pocket star",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/4/",
@@ -383,7 +383,7 @@
         {
             "categoria": "dormitorios",
             "marca": "Kamas - Paraiso",
-            "linea": "americanos",
+            "línea": "Americanos",
             "tamaño": "2 plazas",
             "modelo": "pocket star",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/5/",
@@ -425,7 +425,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket star",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
@@ -478,7 +478,7 @@
         {
             "categoria": "dormitorios",
             "marca": "Kamas - Paraiso",
-            "linea": "americanos",
+            "línea": "Americanos",
             "tamaño": "2 plazas",
             "modelo": "pocket star",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-star/americanos/6/",
@@ -520,7 +520,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket star",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado"
                 }

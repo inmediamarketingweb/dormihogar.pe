@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plazas y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "presence",
+            "línea": "Americanos con cajones",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/presence/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / EL CISNE CON 2 CAJONES + COLCHÓN PRESENCE + CABECERA AÉREA CLASICA 2 - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/presence/americanos-con-cajones/clasicas/clasica-1/1/",
+            "precioRegular": 2139,
+            "precioNormal": 1629,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H33215142N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "1 plazas y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "presence",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ]
+        }
+    ]
+}

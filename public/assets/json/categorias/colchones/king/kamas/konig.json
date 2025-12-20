@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "king",
             "marca": "kamas",
-            "subcategoria": "konig",
+            "modelo": "konig",
             "ruta": "/productos/colchones/king/kamas/konig/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG KING",
             "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
@@ -12,61 +13,37 @@
             "precioVenta": 1699,
             "stock": 99,
             "sku": "H11411N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Konig",
-                    "tamaño": "King",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/konig/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/konig/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/konig/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H111511N10" },
+                { "nombre": "2 plazas", "sku": "H11211N10" },
+                { "nombre": "Queen", "sku": "H11311N10" }
             ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Konig",
-                    "tamaño": "King",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "20 filas",
-                    "material-de-resorte": "Acero templado",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "25kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "incorpora": "Sistema PT",
-                    "refuerzos": "Centrales",
-                    "marco": "Marco de espuma",
-                    "grosor": "44cm.",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Konig, de línea extra ortopédica, brinda un soporte muy firme gracias a su estructura de resortes bonell de acero templado distribuidos en 20 filas y reforzados al centro. Integra espuma de 25 kg/m³, marco de espuma y el sistema PT, garantizando estabilidad y durabilidad. Su tela de algodón tejido en punto, 44 cm de grosor y uso por ambos lados ofrecen mayor vida útil. Con un soporte de 130 kg por persona y 10 años de garantía, es ideal para quienes buscan firmeza superior y resistencia máxima."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Konig",
+            "tamaño": "King",
+            "línea-de-colchón": "Extra ortopédico",
+            "nivel-de-confort": "Muy firme",
+            "resortes": "Bonell",
+            "filas-de-resortes": "20",
+            "material-de-resorte": "Acero templado",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-la-espuma": "25kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "incorpora": "Sistema PT",
+            "refuerzos": "Centrales",
+            "marco": "Marco de espuma",
+            "grosor": "44cm.",
+            "soporte-de-peso": "130kg. por persona",
+            "garantía": "10 años"
         }
     ]
 }

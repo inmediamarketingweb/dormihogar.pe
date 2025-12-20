@@ -1,104 +1,447 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
-            "marca": "Kamas - El Cisne",
-            "linea": "americanos",
-            "tamaño": "queen",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
             "modelo": "pocket plus",
-            "ruta": "/productos/dormitorios/el-cisne/queen/pocket-plus/americanos/1/",
-            "nombre": "DORMITORIO KAMAS AMERICANO QUEEN + COLCHÓN EL CISNE POCKET PLUS + CABECERA KAMAS AEREA CAPITONEADA - GRIS",
-            "fotos": "/assets/imagenes/productos/dormitorios/el-cisne/americanos/king/pocket-plus/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
-            "precioRegular": 2099,
-            "precioNormal": 2699,
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/1/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN AMERICANO + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA CAPITONEADA - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
             "precioVenta": 1899,
-            "stock": 10,
-            "sku": "H3323233N10",
+            "stock": 9,
+            "sku": "H33232113N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - El Cisne",
-                    "línea": "Americano",
-                    "tamaño": "queen",
-                    "modelo-colchón": "Pocket plus",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
             "tamaños-disponibles":[
                 {
                     "nombre": "King",
-                    "ruta": "/productos/dormitorios/el-cisne/americanos/king/pocket-plus/34/"
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/1/"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americano",
-                    "tamaño": "queen",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket plus",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/2/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
             ],
-            "descripciones":[
+            "tamaños-disponibles":[
                 {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/2/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/3/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/capitoneado-1/3/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 },
                 {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "396 bicónicos",
-                            "tela": "Pique",
-                            "tratamiento": "Antihongos, antibacterias y antiácaros",
-                            "tipo-de-uso": "un solo lado",
-                            "tipo-de-resorte": "Pocket",
-                            "marco": "Espuma con densidad 20kg/m3",
-                            "capas": "2 láminas fibra no tejida de 300gr. 2 láminas espuma de poliuretano de 1 1/2 con 18kg/m3 y 2 láminas de poliuretano de 1 1/4 con 16kg/m3",
-                            "sensación": "intermedia",
-                            "garantía": "4 años"
-                        }
-                    ]
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 },
                 {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/4/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA CUADROS 1 - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/cuadros-1/1/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/4/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/5/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA CUADROS 1 - ROSADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/cuadros-1/2/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/5/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/6/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA CUADROS 1 - ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/cuadros-1/3/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/6/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/7/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA CUADROS 1 - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/cuadros-1/4/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/7/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/8/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA LINEAL 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/lineal-1/1/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/8/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "Queen",
+            "marca": "Kamas / Cisne",
+            "modelo": "pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/9/",
+            "nombre": "DORMITORIO KAMAS / CISNE QUEEN + COLCHÓN CISNE POCKET PLUS + CABECERA AÉREA RECTANGULAR 1 - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/rectangular-1/1/",
+            "precioRegular": 3299,
+            "precioNormal": 2849,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "H33232113N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/9/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "americanos",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket plus",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 1"
                 }
             ]
         }

@@ -1,71 +1,51 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "Queen",
             "marca": "kamas",
-            "subcategoria": "yurmale",
+            "modelo": "yurmale",
             "ruta": "/productos/colchones/queen/kamas/yurmale/",
-            "nombre": "COLCHÓN KAMAS YURMALE QUEEN",
+            "nombre": "COLCHÓN KAMAS QUEEN YURMALE",
             "fotos": "/assets/imagenes/productos/colchones/kamas/yurmale/",
             "precioRegular": 3199,
             "precioNormal": 2249,
             "precioVenta": 1749,
             "stock": 99,
             "sku": "H11312N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Yurmale",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Extra ortopedico",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/yurmale/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/yurmale/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/yurmale/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H111512N10" },
+                { "nombre": "2 plazas", "sku": "H11212N10" },
+                { "nombre": "King", "sku": "H11412N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Yurmale",
-                    "tamaño": "Queen",
-                    "línea-de-colchón": "Extra ortopedico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "600 resortes pocket",
-                    "tela": "Tela algodón tejido en punto",
-                    "sistema": "One size",
-                    "refuerzos": "Centrales",
-                    "densidad-de-la-espuma": "25kg/m3",
-                    "marco": "De espuma",
-                    "grosor": "44cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "130kg. por persona",
-                    "garantía": "12 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Yurmale es el mejor modelo de toda la marca Kamas, creado para quienes necesitan máximo soporte, firmeza y resistencia superior. Forma parte de la línea extra ortopédica y ofrece una sensación muy firme, ideal para personas de contextura grande o que requieren un descanso altamente estable y seguro.",
+        "Incorpora 700 resortes Pocket, que trabajan de manera independiente para adaptarse al cuerpo y mantener una correcta alineación de la columna, reduciendo los puntos de presión. Su espuma de alta densidad de 25 kg/m³, junto a los refuerzos centrales y el marco de espuma, garantiza una estructura robusta, durable y de alto rendimiento.",
+        "Está revestido con tela de algodón tejido en punto, fresca y confortable al contacto. Su imponente grosor de 44 cm, el uso por ambos lados, la capacidad de soportar hasta 130 kg por persona y su garantía de 12 años confirman al Yurmale como la opción premium y más avanzada de Kamas, pensada para quienes buscan el máximo nivel en descanso ortopédico."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Yurmale",
+            "tamaño": "Queen",
+            "línea-de-colchón": "Extra ortopédico",
+            "nivel-de-confort": "Muy firme",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "700",
+            "tela": "Tela algodón tejido en punto",
+            "sistema": "One size",
+            "refuerzos": "Centrales",
+            "densidad-de-la-espuma": "25kg/m3",
+            "marco": "De espuma",
+            "grosor": "44cm",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "130kg. por persona",
+            "garantía": "12 años"
         }
     ]
 }

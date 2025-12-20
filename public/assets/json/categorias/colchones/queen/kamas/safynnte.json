@@ -1,70 +1,51 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "Queen",
             "marca": "kamas",
-            "subcategoria": "safynnte",
+            "modelo": "safynnte",
             "ruta": "/productos/colchones/queen/kamas/safynnte/",
-            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE QUEEN",
+            "nombre": "COLCHÓN KAMAS QUEEN SUPER ORTOPÉDICO SAFYNNTE",
             "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
             "precioRegular": 1290,
             "precioNormal": 999,
             "precioVenta": 699,
             "stock": 99,
             "sku": "H1136N10",
-            "regalos":{
-                "texto": "2 almohadas",
-                "foto": "/assets/imagenes/productos/almohadas.webp"
-            },
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Safynnte",
-                    "tamaño": "Queen",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Super ortopédico"
-                }
-            ],
+            "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/safynnte/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/safynnte/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/safynnte/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H11156N10" },
+                { "nombre": "2 plazas", "sku": "H1126N10" },
+                { "nombre": "King", "sku": "H1146N10" }
             ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Safynnte",
-                    "tamaño": "Queen",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Super ortopédico",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "16 filas",
-                    "material-de-resortes": "Acero templado",
-                    "tela": "Drill",
-                    "densidad-de-espuma": "18kg/m3",
-                    "tipo-de-uso": "Un solo lado",
-                    "incorpora": "Sistema one size",
-                    "refuerzos": "Centrales",
-                    "marco": "De espuma",
-                    "grosor": "30cm.",
-                    "soporte-de-peso": "85kg. por persona",
-                    "garantía": "4 años"
-                }
-            ]
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "El colchón Kamas Safynnte está diseñado para quienes buscan un descanso firme y seguro, destacando por su nivel de confort súper ortopédico, ideal para mantener una correcta alineación de la columna. Pertenece a la línea intermedia de la marca Kamas y combina resistencia, soporte y durabilidad.",
+        "Cuenta con resortes Bonell fabricados en acero templado, organizados en 16 filas, que proporcionan una estructura sólida y estable. Su interior incorpora espuma de 18 kg/m³ y refuerzos centrales, ayudando a distribuir el peso de manera uniforme y reduciendo puntos de presión.",
+        "Está revestido con tela Drill, reconocida por su alta resistencia al uso diario. Además, incluye Sistema One Size, marco de espuma y diseño de uso por un solo lado, lo que facilita su mantenimiento. Con un grosor de 30 cm, soporta hasta 85 kg por persona y cuenta con 4 años de garantía, siendo una opción confiable para quienes priorizan soporte ortopédico y firmeza."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Safynnte",
+            "línea-de-colchón": "Intermedio",
+            "nivel-de-confort": "Súper ortopédico",
+            "resortes": "Bonell",
+            "filas-de-resortes": "16 filas",
+            "material-de-resortes": "Acero templado",
+            "tela": "Drill",
+            "densidad-de-espuma": "18kg/m3",
+            "tipo-de-uso": "Un solo lado",
+            "incorpora": "Sistema one size",
+            "refuerzos": "Centrales",
+            "marco": "De espuma",
+            "grosor": "30cm.",
+            "soporte-de-peso": "85kg. por persona",
+            "garantía": "4 años"
         }
     ]
 }

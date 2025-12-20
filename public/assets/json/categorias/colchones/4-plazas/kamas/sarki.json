@@ -1,0 +1,52 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "tamaño": "4 plazas",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "ruta": "/productos/colchones/4-plazas/kamas/sarki/",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI KING",
+            "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/",
+            "precioRegular": 1329,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 99,
+            "sku": "H1143N10",
+            "regalos":[ "4 almohadas" ],
+            "tamaños-disponibles":[
+                { "nombre": "1 plaza y media", "sku": "H11153N10" },
+                { "nombre": "2 plazas", "sku": "H1123N10" },
+                { "nombre": "Queen", "sku": "H1133N10" },
+                { "nombre": "King", "sku": "H1143N10" }
+            ],
+            "tipo-de-envio": "Gratis"
+        }
+    ],
+    "mensajes":[
+        "El colchón KAMAS Sarki King forma parte de la línea Ortopédica de la marca y está diseñado para brindar un descanso confortable, firme y estable. Incorpora un sistema de 21 filas de resortes Bonell de acero templado, que aseguran un soporte uniforme, resistencia estructural y una correcta alineación del cuerpo durante el descanso.",
+        "Su estructura se complementa con espuma de 20 kg/m³, refuerzos centrales y un marco sellado, lo que mejora la durabilidad y evita deformaciones con el uso continuo. La superficie en algodón tejido en punto aporta suavidad, frescura y una sensación agradable al contacto, mientras que su diseño de uso por ambos lados prolonga la vida útil del colchón.",
+        "Con 31 cm de grosor y una capacidad de soporte de hasta 80 kg por persona, el Sarki King es una opción confiable para quienes buscan un colchón ortopédico equilibrado y resistente.",
+        "Además, KAMAS es la única marca en el mercado peruano que ofrece dormitorios de hasta 4 plazas, consolidándose como un referente en soluciones de descanso de gran formato. El modelo cuenta con 3 años de garantía, respaldo de su calidad y fabricación."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Sarki",
+            "tamaño": "King",
+            "línea-de-colchón": "Ortopédico",
+            "nivel-de-confort": "Confortable",
+            "resortes": "Bonell",
+            "filas-de-resortes": "21 filas",
+            "material-de-resorte": "Acero templado",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-espuma": "20kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "refuerzos": "Centrales",
+            "marco": "Sellado",
+            "grosor": "31cm.",
+            "soporte-de-peso": "80kg. por persona",
+            "garantía": "3 años"
+        }
+    ]
+}

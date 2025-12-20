@@ -1,0 +1,135 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "medallon ergosoft",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/medallon-ergosoft/europeos/1/",
+            "nombre": "DORMITORIO 2 PLAZAS EUROPEO KAMAS / PARAISO + COLCHÓN PARAISO MEDALLON ERGOSOFT + CABECERA PEDESTAL CAPITONEADO 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/medallon-ergosoft/europeos/americanas/capitoneado-1/1/",
+            "precioRegular": 2199,
+            "precioNormal": 1699,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "H32322103N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/medallon-ergosoft/europeos/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "europeos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "medallon ergosoft",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "medallon ergosoft",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/medallon-ergosoft/europeos/2/",
+            "nombre": "DORMITORIO 2 PLAZAS EUROPEO KAMAS / PARAISO + COLCHÓN PARAISO MEDALLON ERGOSOFT + CABECERA PEDESTAL CAPITONEADO 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/medallon-ergosoft/europeos/coronas/princesa/1/",
+            "precioRegular": 2249,
+            "precioNormal": 1749,
+            "precioVenta": 1199,
+            "stock": 9,
+            "sku": "H32322105N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/medallon-ergosoft/europeos/2/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "europeos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "medallon ergosoft",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "espuma": "zebra D18",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "Cromadas o de madera",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
+                {
+                    "resortes": "cosisoft",
+                    "tela-superior": "jacquard",
+                    "banda": "mesh",
+                    "tipo-de-uso": "un solo lado",
+                    "marco": "de espuma zebra 25",
+                    "nivel-de-confort": "intermedio",
+                    "sensación": "intermedio",
+                    "garantía": "7 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "De manera",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

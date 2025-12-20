@@ -494,7 +494,7 @@
             "precioNormal": 3399, 
             "precioVenta": 2899,
             "stock": 9,
-            "sku": "D3224236N23",
+            "sku": "D3224236N27",
             "regalos": [ "1 puff" ],
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
@@ -622,7 +622,7 @@
             "precioNormal": 3399, 
             "precioVenta": 3099,
             "stock": 9,
-            "sku": "D3224236N26",
+            "sku": "D3224236N28",
             "regalos": [ "1 puff" ],
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
@@ -639,38 +639,6 @@
                     "modelo-de-cabecera": "Lineal"
                 }
             ]
-        },
-        {
-            "id": 21,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "Royal balanzze",
-            "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-balanzze/americanos/21/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS + COLCHÓN PARAISO ROYAL BALANZZE + CABECERA PEDESTAL CAPITONEADO 1 + 4 CAJONES - PLOMO OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-balanzze/americanos/coronas/capitoneado-1/1/",
-            "precioRegular": 4999,
-            "precioNormal": 3399, 
-            "precioVenta": 3299,
-            "stock": 9,
-            "sku": "D3224133N10",
-            "regalos": [ "1 puff" ],
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "royal balanzze",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ]
-        }                                                                                                                                                                                 
+        }                                                                                                                                                                               
     ]
 }

@@ -1,9 +1,11 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño":"1 plaza y media",
             "marca": "paraiso",
-            "subcategoria": "majestic",
+            "modelo": "majestic",
             "ruta": "/productos/colchones/1-plaza-y-media/paraiso/majestic/",
             "nombre": "COLCHÓN PARAISO MAJESTIC 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/majestic/",
@@ -12,41 +14,25 @@
             "precioVenta": 260,
             "stock": 14,
             "sku": "H121525N10",
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Majestic",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/majestic/"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Majestic",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Poliseda",
-                    "tipo-de-resorte": "Bonell",
-                    "capas": "2 zebra 18",
-                    "marco": "zebra 16",
-                    "sistema": "double side",
-                    "sensación": "intermedia",
-                    "garantía": "3 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "¡Conquista la noche con el colchón Majestic de Paraiso, donde el lujo y el soporte se unen en una experiencia de descanso sublime. Diseñado para quienes no renuncian a nada, este colchón ofrece un nivel de confort intermedio que proporciona el equilibrio perfecto entre la suavidad acogedora y la firmeza necesaria para un descanso profundamente reparador.",
+        "Su corazón late con el clásico y confiable sistema de resortes Bonell, garantizando una estructura sólida, una óptima ventilación y una durabilidad excepcional. Este soporte se potencia con dos capas y un marco reforzado de alta densidad Zebra, creando una base de resistencia que mantiene su forma y prestaciones intactas con el paso del tiempo. La superficie te recibe con la lujosa sensación de la Poliseda, una tela suave como la seda y fresca al tacto que eleva el placer de cada noche. Además, su innovador diseño Double Side te permite rotarlo y utilizar ambas caras, multiplicando su vida útil y ofreciéndote una inversión inteligente a largo plazo. Duerme con la absoluta tranquilidad que brinda una garantía de 3 años."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Majestic",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Bonell",
+            "tela": "Poliseda",
+            "capas": "2 zebra 18",
+            "marco": "zebra 16",
+            "sistema": "double side",
+            "sensación": "intermedia",
+            "garantía": "3 años"
         }
     ]
 }

@@ -2,9 +2,10 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "2 plazas",
             "marca": "el cisne",
-            "subcategoria": "rc-418",
-            "ruta": "/productos/colchones/el-cisne/rc-418/2-plazas/",
+            "modelo": "rc-418",
+            "ruta": "/productos/colchones/2-plazas/el-cisne/rc-418/",
             "nombre": "COLCHÓN EL CISNE RC-418 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/rc-418/",
             "precioRegular": 1099,
@@ -12,46 +13,27 @@
             "precioVenta": 499,
             "stock": 14,
             "sku": "H133N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "RC-418",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "RC-418",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "418 continuos",
-                    "tela": "Pique",
-                    "tipo-de-uso": "un solo lado",
-                    "tipo-de-resorte": "Pocket",
-                    "marco": "De espuma flexible de poliuretano a 16kg/m3",
-                    "capas": "2 láminas de espuma de poliuretano de 16kg/m3",
-                    "sensación": "intermedia",
-                    "garantía": "4 años"
-                }
-            ]
+            "regalos":["2 almohadas"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El RC-418 de El Cisne combina comodidad y durabilidad gracias a sus 418 resortes continuos ACC, que brindan un soporte firme y estable durante toda la noche.",
+        "Sus capas de espuma de poliuretano de 16 kg/m³ ofrecen una sensación intermedia ideal para quienes buscan equilibrio entre suavidad y firmeza.",
+        "Con tela Pique fresca y resistente, diseño de uso por un solo lado y un marco de espuma reforzada, este colchón asegura estabilidad y larga vida útil. Además, está respaldado por 4 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca":"el cisne",
+            "modelo-de-colchón": "RC-418",
+            "resortes": "418 continuos ACC",
+            "tela": "Pique",
+            "tipo-de-uso": "un solo lado",
+            "tipo-de-resorte": "Pocket",
+            "marco": "De espuma flexible de poliuretano a 16kg/m3",
+            "capas": "2 láminas de espuma de poliuretano de 16kg/m3",
+            "sensación": "intermedia",
+            "garantía": "4 años"
         }
     ]
 }

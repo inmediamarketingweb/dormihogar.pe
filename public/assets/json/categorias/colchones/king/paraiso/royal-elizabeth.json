@@ -1,70 +1,44 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "King",
             "marca": "paraiso",
-            "subcategoria": "royal elizabeth",
+            "modelo": "royal elizabeth",
             "ruta": "/productos/colchones/king/paraiso/royal-elizabeth/",
-            "nombre": "COLCHÓN PARAISO ROYAL ELIZABETH KING",
+            "nombre": "COLCHÓN KING PARAISO ROYAL ELIZABETH",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-elizabeth/",
             "precioRegular": 3199,
             "precioNormal": 2559,
-            "precioVenta": 1199,
+            "precioVenta": 1149,
             "stock": 14,
             "sku": "H1249N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal elizabeth",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
+            "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-elizabeth/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-elizabeth/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/paraiso/royal-elizabeth/"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal elizabeth",
-                        "tamaño": "king",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "Pocket",
-                    "tela": "Tejido de punto higroscópica",
-                    "sistema": "one side",
-                    "marco": "zebra 30 HD",
-                    "espuma": "Viscoelástica D70",
-                    "capas": "3 de Zebra D20",
-                    "garantía": "10 años"
-                }
+                { "nombre": "1 plaza y media", "sku": "H12159N10" },
+                { "nombre": "2 plazas", "sku": "H1229N10" },
+                { "nombre": "Queen", "sku": "H1239N10" }
             ]
+        }
+    ],
+    "mensajes":[
+        "El colchón Paraíso Royal Elizabeth ofrece un equilibrio ideal entre soporte y confort intermedio, pensado para quienes buscan descanso estable con una sensación agradable y adaptable. Su sistema de resortes Pocket funciona de manera independiente, brindando mejor adaptación al cuerpo y reduciendo la transferencia de movimiento.",
+        "Incorpora espuma viscoelástica D70, que se amolda a la silueta del cuerpo para aliviar puntos de presión y mejorar la calidad del descanso. Las capas de Zebra D20 y el marco Zebra 30 HD refuerzan la estructura del colchón, aportando firmeza, estabilidad y mayor durabilidad.",
+        "Está recubierto con tela de tejido en punto higroscópica, que ayuda a absorber la humedad y mantener una sensación fresca durante la noche. Su sistema One Side facilita el uso y mantenimiento diario, mientras que la garantía de 10 años respalda la calidad y confiabilidad del colchón Paraíso Royal Elizabeth."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal elizabeth",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Pocket",
+            "tela": "Tejido de punto higroscópica",
+            "sistema": "one side",
+            "marco": "zebra 30 HD",
+            "espuma": "Viscoelástica D70",
+            "capas": "3 de Zebra D20",
+            "garantía": "10 años"
         }
     ]
 }

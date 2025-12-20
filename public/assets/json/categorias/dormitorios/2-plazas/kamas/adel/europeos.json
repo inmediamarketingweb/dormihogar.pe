@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/2-plazas/kamas/adel/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO KAMAS 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA EMPERATRIZ CAPITONEADO 1 - ROSA PASTEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/europeos/americanas/capitoneado-1/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1959,
+            "precioVenta": 939,
+            "stock": 9,
+            "sku": "H3132213N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "europeos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

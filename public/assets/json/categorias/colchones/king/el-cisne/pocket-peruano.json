@@ -1,0 +1,43 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "tamaño": "king",
+            "marca": "el cisne",
+            "modelo": "pocket peruano",
+            "ruta": "/productos/colchones/king/el-cisne/pocket-peruano/",
+            "nombre": "COLCHÓN EL CISNE POCKET PERUANO",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/pocket-peruano/",
+            "precioRegular": 1999,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 14,
+            "sku": "H13413N10",
+            "regalos":[ "3 almohadas" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Descubre el equilibrio perfecto entre firmeza y comodidad con el colchón Pocket Peruano King de El Cisne, diseñado para quienes buscan un descanso profundo, saludable y duradero. Su sistema de 702 resortes pocket independientes se adapta milimétricamente a cada punto del cuerpo, reduciendo los puntos de presión y evitando que los movimientos de tu pareja interrumpan tu sueño.",
+        "Fabricado en la prestigiosa línea ortopédica, este colchón brinda un soporte ideal para cuidar la columna y mantener una postura correcta durante toda la noche. Su sensación intermedia lo convierte en la opción perfecta para quienes desean un descanso equilibrado: ni muy firme, ni muy suave.",
+        "La superficie está cubierta con tela Pique de alta resistencia, tratada con antihongos, antibacterias y antiácaros, garantizando un entorno limpio y seguro para dormir. Además, gracias a su diseño de uso por ambos lados, el colchón tiene una mayor vida útil y mantiene su forma por más tiempo.",
+        "El marco de espuma de densidad 18 kg/m³ refuerza los bordes y mejora la estabilidad, mientras que su fabricación de calidad peruana asegura un producto confiable, respaldado con 4 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "El Cisne",
+            "modelo-de-colchón": "Pocket peruano",
+            "tamaño": "King",
+            "línea": "ortopédico",
+            "nivel-de-confort": "Intermedio",
+            "tipo-de-resortes": "Pocket",
+            "resortes": "702 resortes pocket",
+            "tela": "Pique",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "tipo-de-uso": "ambos lados",
+            "marco": "Espuma con densidad 18kg/m3",
+            "sensación": "intermedia",
+            "garantía": "4 años"
+        }
+    ]
+}

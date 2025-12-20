@@ -1,0 +1,43 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "queen",
+            "marca": "el cisne",
+            "modelo": "pocket peruano",
+            "ruta": "/productos/colchones/queen/el-cisne/pocket-peruano/",
+            "nombre": "COLCHÓN EL CISNE QUEEN POCKET PERUANO",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/pocket-peruano/",
+            "precioRegular": 1999,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 14,
+            "sku": "H13413N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Cisne Pocket Peruano en tamaño Queen es un colchón ortopédico diseñado para brindar un descanso equilibrado y saludable, con una sensación intermedia ideal para el uso diario.",
+        "Incorpora 559 resortes Pocket, que trabajan de forma independiente para adaptarse al cuerpo, reducir los movimientos y mantener una correcta alineación de la columna. Su estructura permite un soporte estable sin perder comodidad.",
+        "Está recubierto con tela Piqué, resistente y fresca, además de contar con tratamiento antihongos, antibacterias y antiácaros, lo que garantiza mayor higiene y durabilidad. El marco de espuma de 18 kg/m³ refuerza los bordes y ayuda a conservar la forma del colchón con el paso del tiempo.",
+        "Gracias a su uso por ambos lados, este modelo ofrece mayor vida útil. El El Cisne Pocket Peruano es una excelente opción para quienes buscan un colchón ortopédico, cómodo y confiable, respaldado por una garantía de 4 años."
+    ],
+    "ficha":[
+        {
+            "marca": "El Cisne",
+            "modelo-de-colchón": "Pocket peruano",
+            "línea": "ortopédico",
+            "nivel-de-confort": "Intermedio",
+            "tipo-de-resortes": "Pocket",
+            "resortes": "559 resortes pocket",
+            "tela": "Pique",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "tipo-de-uso": "ambos lados",
+            "marco": "Espuma con densidad 18kg/m3",
+            "sensación": "intermedia",
+            "garantía": "4 años"
+        }
+    ]
+}

@@ -3,8 +3,9 @@
         {
             "categoria": "colchones",
             "marca": "kamas",
-            "subcategoria": "der prinz",
-            "ruta": "/productos/colchones/kamas/der-prinz/2-plazas/",
+            "tamaño": "2 plazas",
+            "modelo": "der prinz",
+            "ruta": "/productos/colchones/2-plazas/kamas/der-prinz/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/",
             "precioRegular": 920,
@@ -12,57 +13,34 @@
             "precioVenta": 499,
             "stock": 31,
             "sku": "H1127N10",
-            "incluye":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Der Prinz",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Super ortopédico",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
+            "regalos":["1 almohada"],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/der-prinz/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/der-prinz/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/der-prinz/"
-                }
+                {"nombre": "1 plaza y media", "sku": "H11157N10"},
+                {"nombre": "Queen", "sku": "H1137N10"},
+                {"nombre": "King", "sku": "H1147N10"}
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Der Prinz",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Super ortopédico",
-                    "nivel-de-confort": "Muy confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "15 filas",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "20kg/m3",
-                    "tipo-de-uso": "Un solo lado",
-                    "marco": "Refuerzo de marco sellado",
-                    "soporte-de-peso": "80kg. por persona",
-                    "garantía": "6 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Der Prinz ofrece un descanso firme y confiable gracias a su estructura de 15 filas de resortes, diseñada para brindar estabilidad y un soporte uniforme durante toda la noche. Su espuma de 20 kg/m³ aporta mayor firmeza y durabilidad, convirtiéndolo en una excelente opción para quienes buscan un colchón resistente y de larga vida útil.",
+        "La superficie en algodón tejido en punto ofrece suavidad, frescura y una sensación agradable al dormir. Su diseño de uso por un solo lado facilita el mantenimiento, mientras que el marco sellado reforzado mejora la estabilidad estructural del colchón.",
+        "Con capacidad de soporte de hasta 80 kg por persona y una garantía de 6 años, el Der Prinz combina calidad, confort y resistencia en un solo producto."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Der Prinz",
+            "resortes": "bonell",
+            "nivel-de-confort": "Muy confortable",
+            "línea-de-colchón": "Súper ortopédico",
+            "filas-de-resortes": "15 filas",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-la-espuma": "20kg/m3",
+            "tipo-de-uso": "Un solo lado",
+            "marco": "Refuerzo de marco sellado",
+            "soporte-de-peso": "80kg. por persona",
+            "garantía": "6 años"
         }
     ]
 }

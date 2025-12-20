@@ -1,31 +1,21 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
             "linea": "americanos",
-            "tamaño": "2-plazas",
-            "modelo": "pocket-italiano",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/1/",
-            "nombre": "DORMITORIO KAMAS AMERICANO 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA GRID - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA GRID - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/grid/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 1999,
             "precioVenta": 1049,
             "stock": 9,
-            "sku": "D32222266N10",
+            "sku": "H32222266N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
             "resumen-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
@@ -35,99 +25,27 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "modelo-de-cabecera": "Grid"
                 }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "2 Plazas",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Pocket Italiano",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Grid"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "05 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
             "linea": "americanos",
-            "tamaño": "2-plazas",
-            "modelo": "pocket-italiano",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/2/",
-            "nombre": "DORMITORIO KAMAS AMERICANO 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA OLIMPIC - TEJIDO CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA OLIMPIC - TEJIDO CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/olimpic/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 1999,
             "precioVenta": 1049,
             "stock": 9,
-            "sku": "D32222266N11",
+            "sku": "H32222266N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "2 Plazas",
-                    "modelo-colchón": "Pocket italiano",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Olimpic"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "2 Plazas",
                     "cajones": "No",
@@ -138,85 +56,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "05 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 3,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
             "linea": "americanos",
-            "tamaño": "2-plazas",
-            "modelo": "pocket-italiano",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/3/",
-            "nombre": "DORMITORIO KAMAS AMERICANO 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA OLIMPIC - DURAZNO PALO ROSA",
+            "nombre": "DORMITORIO AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA OLIMPIC - DURAZNO PALO ROSA",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/olimpic/2/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 1999,
             "precioVenta": 1049,
             "stock": 9,
-            "sku": "D32222266N12",
+            "sku": "H32222266N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "2 Plazas",
-                    "modelo-colchón": "Pocket italiano",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Olimpic"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "2 Plazas",
                     "cajones": "No",
@@ -227,85 +87,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "05 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 4,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
             "linea": "americanos",
-            "tamaño": "2-plazas",
-            "modelo": "pocket-italiano",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/4/",
-            "nombre": "DORMITORIO KAMAS AMERICANO 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA SIDNEY - TEJIDO NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA SIDNEY - TEJIDO NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/sidney/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 1999,
             "precioVenta": 1049,
             "stock": 9,
-            "sku": "D32222266N13",
+            "sku": "H32222266N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "2 Plazas",
-                    "modelo-colchón": "Pocket italiano",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Sidney"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "2 Plazas",
                     "cajones": "No",
@@ -316,85 +118,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Sidney"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "05 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 5,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
             "linea": "americanos",
-            "tamaño": "2-plazas",
-            "modelo": "pocket-italiano",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/5/",
-            "nombre": "DORMITORIO KAMAS AMERICANO 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA TORTUN - TEJIDO MARFIL",
+            "nombre": "DORMITORIO AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA TORTUN - TEJIDO MARFIL",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/tortun/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 1999,
             "precioVenta": 1049,
             "stock": 9,
-            "sku": "D32222266N14",
+            "sku": "H32222266N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "2 Plazas",
-                    "modelo-colchón": "Pocket italiano",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Tortun"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "2 Plazas",
                     "cajones": "No",
@@ -405,85 +149,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Tortun"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "05 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 6,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
             "linea": "americanos",
-            "tamaño": "2-plazas",
-            "modelo": "pocket-italiano",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/6/",
-            "nombre": "DORMITORIO KAMAS AMERICANO 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA PEDESTAL ROBLO - CHAMPAGNE",
+            "nombre": "DORMITORIO AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA PEDESTAL ROBLO - CHAMPAGNE",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/coronas/majestad/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 1999,
             "precioVenta": 1249,
             "stock": 9,
-            "sku": "D32222266N15",
+            "sku": "H32222266N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "2 Plazas",
-                    "modelo-colchón": "Pocket italiano",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Roblo"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "2 Plazas",
                     "cajones": "No",
@@ -494,85 +180,27 @@
                     "brazos-de-cabecera": "Brazos Curvos",
                     "modelo-de-cabecera": "Roblo"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "05 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
+            "id": 7,
             "categoria": "dormitorios",
-            "marca": "Paraiso",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
             "linea": "americanos",
-            "tamaño": "2-plazas",
-            "modelo": "pocket-italiano",
             "ruta": "/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/7/",
-            "nombre": "DORMITORIO KAMAS AMERICANO 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA LINEAL 1 - CUERO VINO",
+            "nombre": "DORMITORIO AMERICANO KAMAS 2 PLAZAS + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA LINEAL 1 - CUERO VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/americanas/lineal-1/1/",
-            "colores": "si",
             "precioRegular": 2999,
             "precioNormal": 1999,
             "precioVenta": 1049,
             "stock": 9,
-            "sku": "D32222263N16",
+            "sku": "H32222263N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas ",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Americanos",
-                    "tamaño": "2 Plazas",
-                    "modelo-colchón": "Pocket italiano",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 1"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "2 Plazas",
                     "cajones": "No",
@@ -582,44 +210,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 1"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "05 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }

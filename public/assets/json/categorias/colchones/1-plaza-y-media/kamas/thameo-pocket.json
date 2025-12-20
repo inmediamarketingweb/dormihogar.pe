@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "1 plaza y media",
             "marca": "kamas",
-            "subcategoria": "thameo pocket",
+            "modelo": "thameo pocket",
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/thameo-pocket/",
             "nombre": "COLCHÓN KAMAS THAMEO POCKET 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/thameo-pocket/",
@@ -12,59 +13,37 @@
             "precioVenta": 449,
             "stock": 99,
             "sku": "H11158N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Thameo pocket",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Super ortopedico",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
+            "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/thameo-pocket/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/thameo-pocket/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/thameo-pocket/"
-                }
+                { "nombre": "2 plazas", "sku": "H1128N10"},
+                { "nombre": "Queen", "sku": "H1138N10"},
+                { "nombre": "King", "sku": "H1148N10"}
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Thameo pocket",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Super ortopedico",
-                    "nivel-de-confort": "Muy confortable",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "364 resortes pocket",
-                    "tela": "Tejido en punto",
-                    "refuerzos": "centrales",
-                    "densidad-de-la-espuma": "18kg/m3",
-                    "marco": "sellado",
-                    "grosor": "30cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "90kg. por persona",
-                    "garantía": "5 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Thameo Pocket es un colchón súper ortopédico diseñado para brindar un soporte estable con una sensación muy confortable. Cuenta con 364 resortes Pocket, que se adaptan al cuerpo de forma individual para mejorar el descanso y reducir la presión.",
+        "Su estructura incluye tela tejida en punto, refuerzos centrales, espuma de 20 kg/m³ y un marco sellado, logrando un colchón resistente y duradero. Gracias a su diseño de 30 cm de grosor y su uso por ambos lados, ofrece mayor vida útil y soporte de hasta 90 kg por persona.",
+        "Incluye 5 años de garantía, siendo una excelente opción para quienes buscan firmeza, comodidad y calidad superior."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "Thameo pocket",
+            "tamaño": "1 plaza y media",
+            "línea-de-colchón": "Súper ortopedico",
+            "nivel-de-confort": "Muy confortable",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "364 resortes pocket",
+            "tela": "Tejido en punto",
+            "refuerzos": "centrales",
+            "densidad-de-la-espuma": "20kg/m3",
+            "marco": "sellado",
+            "grosor": "30cm",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "90kg. por persona",
+            "garantía": "5 años"
         }
     ]
 }

@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "2 plazas",
             "marca": "el cisne",
-            "subcategoria": "argus",
+            "modelo": "argus",
             "ruta": "/productos/colchones/2-plazas/el-cisne/argus/",
             "nombre": "COLCHÓN EL CISNE ARGUS 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/argus/",
@@ -12,46 +13,28 @@
             "precioVenta": 499,
             "stock": 14,
             "sku": "H132N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Argus",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Argus",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "255 bicónicos",
-                    "tela": "Pique",
-                    "tipo-de-uso": "un solo lado",
-                    "tipo-de-resorte": "Pocket",
-                    "marco": "De espuma flexible de poliuretano a 16kg/m3",
-                    "capas": "2 láminas de espuma de poliuretano de 16kg/m3, 2 láminas de poliuretano de alta densidad, 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3.",
-                    "sensación": "intermedia",
-                    "garantía": "3 años"
-                }
-            ]
+            "regalos":["2 almohadas"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Argus de El Cisne está diseñado para ofrecerte un descanso equilibrado, combinando una sensación intermedia con materiales de calidad que garantizan confort, durabilidad y una excelente relación precio–beneficio.",
+        "Su estructura interna incorpora 231 resortes bicónicos, un sistema clásico y resistente que proporciona un soporte uniforme en toda la superficie del colchón. Esta base se complementa con múltiples capas de espuma de poliuretano —incluyendo láminas de alta densidad— que mejoran la firmeza, la adaptabilidad y la estabilidad en cada movimiento.",
+        "La cubierta en tela Pique aporta frescura, resistencia y una textura agradable al tacto, ideal para un descanso reparador. Además, su diseño de uso por un solo lado permite un mantenimiento más sencillo sin comprometer su durabilidad, gracias a su marco reforzado de espuma flexible de poliuretano de 16 kg/m³."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "modelo-de-colchón": "Argus",
+            "resortes": "231 bicónicos",
+            "tela": "Pique",
+            "tipo-de-uso": "un solo lado",
+            "tipo-de-resorte": "Pocket",
+            "grosor": "21cm",
+            "marco": "De espuma flexible de poliuretano a 16kg/m3",
+            "capas": "2 láminas de espuma de poliuretano de 16kg/m3, 2 láminas de poliuretano de alta densidad, 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3.",
+            "sensación": "intermedia",
+            "garantía": "3 años"
         }
     ]
 }

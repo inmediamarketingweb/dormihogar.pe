@@ -1,72 +1,48 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "Queen",
             "marca": "paraiso",
-            "subcategoria": "royal dynasty",
+            "modelo": "royal dynasty",
             "ruta": "/productos/colchones/queen/paraiso/royal-dynasty/",
-            "nombre": "COLCHÓN PARAISO ROYAL DYNASTY QUEEN",
+            "nombre": "COLCHÓN PARAISO QUEEN ROYAL DYNASTY",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-dynasty/",
             "precioRegular": 3119,
             "precioNormal": 2465,
-            "precioVenta": 1349,
+            "precioVenta": 1159,
             "stock": 14,
             "sku": "H1237N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal dynasty",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
+            "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-dynasty/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/royal-dynasty/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/paraiso/royal-dynasty/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H1237N10" },
+                { "nombre": "2 plazas", "sku": "H1237N10" },
+                { "nombre": "King", "sku": "H1237N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal dynasty",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "Pocket",
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica",
-                    "top": "euro top acolchado superior",
-                    "técnología": "Memory foam D55",
-                    "marco": "zebra 30 HD",
-                    "espuma": "perfilada D20",
-                    "capas": "2 de Zebra 30 HR",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Royal Dynasty define el confort perfecto en tamaño Queen. Ofrece una sensación intermedia que balancea suavidad adaptativa y soporte firme. Su núcleo de resortes Pocket brinda sostén personalizado y aislamiento total del movimiento.",
+        "Su Euro Top superior con Memory Foam D55 se adapta a tu cuerpo, mientras la espuma perfilada D20 asegura frescura. La estructura con 2 capas Zebra 30 HR y marco Zebra 30 HD garantiza durabilidad.",
+        "Envuelto en tela higroscópica con protección antihongos y antibacterias, su diseño One Side ofrece comodidad. Respaldado por una garantía de 10 años, es el trono de tu descanso."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal dynasty",
+            "tamaño": "Queen",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Pocket",
+            "tratamiento": "Antihongos, antibacterias y antiacaros",
+            "tela": "Tejido de punto higroscópica",
+            "top": "euro top acolchado superior",
+            "técnología": "Memory foam D55",
+            "marco": "zebra 30 HD",
+            "espuma": "perfilada D20",
+            "capas": "2 de Zebra 30 HR",
+            "garantía": "10 años"
         }
     ]
 }

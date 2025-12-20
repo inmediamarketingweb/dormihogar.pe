@@ -1,0 +1,217 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA GRID - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/grid/1/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 959,
+            "stock": 9,
+            "sku": "H322152266N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "modelo-colchón": "Pocket italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA OLIMPIC - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/olimpic/1/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 959,
+            "stock": 9,
+            "sku": "H322152266N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos/3/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA OLIMPIC - DURAZNO PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/olimpic/2/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 959,
+            "stock": 9,
+            "sku": "H322152266N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA SIDNEY - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/sidney/1/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 959,
+            "stock": 9,
+            "sku": "H322152266N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos/5/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/bloques/tortun/1/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 959,
+            "stock": 9,
+            "sku": "H322152266N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos/6/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA PEDESTAL ROBLO - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/coronas/majestad/1/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 1249,
+            "stock": 9,
+            "sku": "H322152266N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos Curvos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Paraiso",
+            "modelo": "pocket italiano",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/pocket-italiano/americanos/7/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN PARAISO POCKET ITALIANO + CABECERA AEREA LINEAL 1 - CUERO VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/pocket-italiano/americanos/americanas/lineal-1/1/",
+            "precioRegular": 2999,
+            "precioNormal": 1999,
+            "precioVenta": 959,
+            "stock": 9,
+            "sku": "H322152263N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "CEC",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/cec/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / EL CISNE + COLCHÓN CEC + CABECERA AÉREA CAPITONEADO 1 - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/cec/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1399,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H33215213N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "cec",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "CEC",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/cec/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / EL CISNE + COLCHÓN CEC + CABECERA AÉREA CAPITONEADO 1 - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/cec/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 1899,
+            "precioNormal": 1399,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H33215213N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "cec",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "CEC",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/cec/americanos/3/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / EL CISNE + COLCHÓN CEC + CABECERA AÉREA PEDESTAL CORONA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/cec/americanos/coronas/princesa/1/",
+            "precioRegular": 2049,
+            "precioNormal": 1549,
+            "precioVenta": 849,
+            "stock": 9,
+            "sku": "H33215215N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "cec",
+                    "tipo-de-cabecera": "pedestla",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "CEC",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/cec/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / EL CISNE + COLCHÓN CEC + CABECERA AÉREA PEDESTAL CORONA - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/cec/americanos/coronas/princesa/2/",
+            "precioRegular": 2049,
+            "precioNormal": 1549,
+            "precioVenta": 849,
+            "stock": 9,
+            "sku": "H33215215N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "cec",
+                    "tipo-de-cabecera": "pedestla",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + El Cisne",
+            "modelo": "CEC",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/el-cisne/cec/americanos/5/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / EL CISNE + COLCHÓN CEC + CABECERA AÉREA PRINCESA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/cec/americanos/coronas/princesa/3/",
+            "precioRegular": 1899,
+            "precioNormal": 1399,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H33215213N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "cec",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

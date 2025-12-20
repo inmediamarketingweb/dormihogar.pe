@@ -1,64 +1,46 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "queen",
             "marca": "el cisne",
-            "subcategoria": "rc-608",
+            "modelo": "rc-608",
             "ruta": "/productos/colchones/queen/el-cisne/rc-608/",
-            "nombre": "COLCHÓN EL CISNE RC-608 QUEEN",
+            "nombre": "COLCHÓN QUEEN EL CISNE RC-608",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/rc-608/",
             "precioRegular": 1329,
             "precioNormal": 1099,
             "precioVenta": 699,
             "stock": 14,
             "sku": "H1335N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "RC - 608",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/el-cisne/rc-608/king/"
-                }
+                { "nombre": "2 plazas", "sku": "H1325N10" },
+                { "nombre": "King", "sku": "H1345N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "RC - 608",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "608 continuos",
-                    "tela": "Pique",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "tipo-de-uso": "un solo lado",
-                    "tipo-de-resorte": "Pocket",
-                    "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
-                    "alto": "31 cm.",
-                    "sensación": "intermedia",
-                    "garantía": "4 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón El Cisne RC-608 ofrece un confort intermedio ideal para un descanso equilibrado entre soporte y suavidad. Incorpora 608 resortes Pocket continuos, que trabajan de forma independiente para adaptarse al cuerpo y reducir la transferencia de movimiento, favoreciendo un sueño más reparador.",
+        "Cuenta con espuma de poliuretano de 1 1/2” y densidad de 18 kg/m³, que brinda una acogida cómoda y una correcta distribución del peso. Su tela Piqué, junto con el tratamiento antihongos, antibacterias y antiácaros, ayuda a mantener un entorno de descanso más higiénico y fresco.",
+        "Diseñado para uso de un solo lado, con un alto de 31 cm, el El Cisne RC-608 combina durabilidad, confort y estabilidad. Su sensación intermedia y 4 años de garantía lo convierten en una opción confiable para el descanso diario."
+    ],
+    "ficha":[
+        {
+            "marca": "El Cisne",
+            "modelo-de-colchón": "RC - 608",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "608 continuos",
+            "tela": "Pique",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "tipo-de-uso": "un solo lado",
+            "espuma": "Poliuretano 1 1/2', 18 Kg/m3",
+            "alto": "31 cm.",
+            "sensación": "intermedia",
+            "garantía": "4 años"
         }
     ]
 }

@@ -1,65 +1,46 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
-            "tamaño": "king",
+            "tamaño": "queen",
             "marca": "komfort",
             "modelo": "spahir",
             "ruta": "/productos/colchones/queen/komfort/saphir/",
-            "nombre": "COLCHÓN KOMFORT POCKET SAPHIR QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/komfort/pocket-saphir/",
+            "nombre": "COLCHÓN KOMFORT QUEEN POCKET SAPHIR",
+            "fotos": "/assets/imagenes/productos/colchones/komfort/saphir/",
             "precioRegular": 1489,
             "precioNormal": 1319,
             "precioVenta": 749,
             "stock": 14,
             "sku": "H1431N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Komfort",
-                    "modelo-de-colchón": "Saphir",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/komfort/saphir/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/komfort/saphir/"
-                }
+                { "nombre": "2 plazas", "sku": "H1421N10" },
+                { "nombre": "King", "sku": "H1441N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Komfort",
-                    "modelo-de-colchón": "Saphir",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "600 resortes pocket",
-                    "marco": "de espuma de poliuretano",
-                    "soporte": "23kg/m3",
-                    "tela": "tejido en punto"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Komfort Saphir es un colchón diseñado para quienes buscan un equilibrio perfecto entre comodidad, soporte y ergonomía, ofreciendo una sensación de descanso intermedia, ideal para el uso diario y para diferentes tipos de durmientes.",
+        "Cuenta con 600 resortes Pocket, que funcionan de manera independiente para adaptarse al cuerpo, reducir la transferencia de movimiento y mantener una correcta alineación de la columna. Su sistema de espuma Zebra de 1 1/2” con densidad 23 kg/m³, de tacto suave y ergonómico, brinda una acogida confortable sin perder estabilidad ni soporte estructural.",
+        "El colchón está recubierto con tela tejida en punto, tanto en la superficie como en la banda lateral, lo que aporta mayor suavidad, frescura y una mejor ventilación durante el descanso. Su marco de espuma flexible refuerza los bordes y ayuda a conservar la forma del colchón con el paso del tiempo.",
+        "Con un grosor de 31 cm y un soporte equilibrado de 23 kg/m³, el Komfort Saphir es una excelente opción para quienes buscan un descanso cómodo, estable y duradero, combinando tecnología Pocket con materiales de calidad y un diseño pensado en el confort diario."
+    ],
+    "ficha":[
+        {
+            "marca": "Komfort",
+            "modelo-de-colchón": "Saphir",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "pocket",
+            "cantidad-de-resortes": "600",
+            "espuma": "zebra 1 1/2' 23kg/m suave y ergonomico",
+            "banda": "tela en punto",
+            "grosor": "31cm",
+            "marco": "de espuma de flexible",
+            "soporte": "23kg/m3",
+            "tela": "tejido en punto"
         }
     ]
 }

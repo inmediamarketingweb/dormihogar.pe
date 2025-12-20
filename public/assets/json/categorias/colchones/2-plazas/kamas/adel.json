@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "2 plazas",
             "marca": "kamas",
-            "subcategoria": "adel",
+            "modelo": "adel",
             "ruta": "/productos/colchones/2-plazas/kamas/adel/",
             "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/kamas/adel/",
@@ -12,48 +13,28 @@
             "precioVenta": 249,
             "stock": 99,
             "sku": "H1121N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "modelo-de-colchón": "Adel",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Semi ortopédico",
-                    "nivel-de-confort": "Confortable"
-                }
-            ],
+            "regalos":["1 almohada"],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/kamas/adel/"
-                }
+                {"nombre": "1 plaza y media", "sku": "H1121N10"}
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "modelo-de-colchón": "Adel",
-                    "tamaño": "2 plazas",
-                    "línea-de-colchón": "Semi ortopédico",
-                    "nivel-de-confort": "Confortable",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "12 filas en forma vertical",
-                    "tela": "Tricop",
-                    "densidad-de-la-espuma": "16kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "65kg. por persona",
-                    "garantía": "1 año"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El Kamas Adel es un colchón práctico y funcional, ideal para quienes buscan una opción económica sin sacrificar comodidad. Su sistema de resortes Bonell con 12 filas verticales brinda un soporte estable, perfecto para un descanso ligero y uniforme.",
+        "Incluye espuma de 16 kg/m³ y está cubierto con tela Tricop, conocida por su frescura y resistencia. Además, su diseño de uso por ambos lados prolonga la vida útil del colchón y facilita su mantenimiento. Soporta hasta 65 kg por persona y cuenta con 1 año de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "adel",
+            "resortes": "bonell",
+            "filas-de-resortes": "12 filas en forma vertical",
+            "tela": "Tricop",
+            "densidad-de-la-espuma": "16kg/m3",
+            "tipo-de-uso": "Ambos lados",
+            "soporte-de-peso": "65kg. por persona",
+            "garantía": "1 año"
         }
     ]
 }

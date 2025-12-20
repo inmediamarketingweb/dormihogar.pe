@@ -1,52 +1,40 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño":"2 plazas",
             "marca": "paraiso",
-            "subcategoria": "majestic",
+            "modelo": "majestic",
             "ruta": "/productos/colchones/2-plazas/paraiso/majestic/",
-            "nombre": "COLCHÓN PARAISO MAJESTIC 2 PLAZAS",
+            "nombre": "COLCHÓN PARAISO 2 PLAZAS MAJESTIC",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/majestic/",
             "precioRegular": 999,
             "precioNormal": 699,
             "precioVenta": 300,
             "stock": 14,
             "sku": "H12225N10",
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Majestic",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/majestic/"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Majestic",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Poliseda",
-                    "tipo-de-resorte": "Bonell",
-                    "capas": "2 zebra 18",
-                    "marco": "zebra 16",
-                    "sistema": "double side",
-                    "sensación": "intermedia",
-                    "garantía": "3 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Majestic ofrece el equilibrio perfecto para compartir. Con una sensación intermedia, combina un soporte firme y un confort clásico. Su núcleo con resortes Bonell asegura una estructura sólida, bien ventilada y de larga vida útil.",
+        "Su construcción incluye 2 capas y un marco Zebra para una mayor resistencia. La experiencia se vuelve lujosa al tacto gracias a su suave y fresca cubierta de tela Poliseda.",
+        "Diseñado para un uso prolongado, su práctico sistema Double Side te permite girarlo y aprovechar ambas caras, renovando su sensación. Un descanso elegante y confiable, con garantía de 3 años."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Majestic",
+            "tamaño": "2 plazas",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Bonell",
+            "tela": "Poliseda",
+            "capas": "2 zebra 18",
+            "marco": "zebra 16",
+            "sistema": "double side",
+            "sensación": "intermedia",
+            "garantía": "3 años"
         }
     ]
 }

@@ -1,73 +1,50 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "2 plazas",
             "marca": "paraiso",
-            "subcategoria": "royal cloud",
+            "modelo": "royal cloud",
             "ruta": "/productos/colchones/2-plazas/paraiso/royal-cloud/",
-            "nombre": "COLCHÓN PARAISO ROYAL CLOUD 2 PLAZAS",
+            "nombre": "COLCHÓN PARAISO 2 PLAZAS ROYAL CLOUD",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-cloud/",
             "precioRegular": 2999,
             "precioNormal": 2286,
-            "precioVenta": 1189,
+            "precioVenta": 1029,
             "stock": 14,
             "sku": "H12222N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada viscoelástica",
-                    "foto": "/assets/imagenes/productos/almohada-viscoelastica.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal cloud",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Muy suave"
-                }
-            ],
+            "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/royal-cloud/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/paraiso/royal-cloud/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/paraiso/royal-cloud/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H121522N10" },
+                { "nombre": "Queen", "sku": "H12322N10" },
+                { "nombre": "King", "sku": "H12422N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal cloud",
-                    "tamaño": "2 plazas",
-                    "nivel-de-confort": "Muy suave",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "Pocket slim",
-                    "tratamiento": "Antihongos, antibacterias y antiacaros",
-                    "tela": "Tejido de punto higroscópica que absorbe la humedad",
-                    "top": "euro top acolchado superior",
-                    "técnología": "Memory foarm D55",
-                    "marco": "zebra 30 HD",
-                    "sistema": "one side",
-                    "espuma": "Viscoelástica D70",
-                    "capas": "2 de Zebra 30 HR",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Royal Cloud lleva la suavidad al nivel más alto. Diseñado para un descanso compartido en una sensación muy suave y envolvente, su núcleo con resortes Pocket Slim independientes ofrece un soporte preciso y un aislamiento perfecto del movimiento.",
+        "La experiencia de lujo comienza en su superficie: un Euro Top acolchado superior combina la adaptabilidad del Memory Foam D55 y el alivio de la espuma Viscoelástica D70 para un confort que moldea y libera tensiones.",
+        "Esta suavidad suprema se apoya en una estructura de gran firmeza: 2 capas Zebra 30 HR y un marco Zebra 30 HD de alta densidad. Todo está cubierto por una tela de punto higroscópica que absorbe la humedad, con protección antihongos, antibacterias y antiácaros.",
+        "Su diseño One Side ofrece comodidad sin mantenimiento. Una promesa de descanso sublime, respaldada por una garantía de 10 años."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal cloud",
+            "tamaño": "2 plazas",
+            "nivel-de-confort": "Muy suave",
+            "resortes": "Pocket slim",
+            "tratamiento": "Antihongos, antibacterias y antiacaros",
+            "tela": "Tejido de punto higroscópica que absorbe la humedad",
+            "top": "euro top acolchado superior",
+            "técnología": "Memory foarm D55",
+            "marco": "zebra 30 HD",
+            "sistema": "one side",
+            "espuma": "Viscoelástica D70",
+            "capas": "2 de Zebra 30 HR",
+            "garantía": "10 años"
         }
     ]
 }

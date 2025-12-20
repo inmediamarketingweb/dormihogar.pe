@@ -1,0 +1,227 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "eden plus",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/1/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / PARAISO + COLCHÓN PARAISO EDEN PLUS + CABECERA PEDESTAL LUNAR - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/coronas/lunar/1/",
+            "precioRegular": 2099,
+            "precioNormal": 1619,
+            "precioVenta": 1039,
+            "stock": 9,
+            "sku": "H3222285N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/eden-plus/americanos/1/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "eden plus",
+                    "resortes": "bonell",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lunar"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "eden plus",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/2/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / PARAISO + COLCHÓN PARAISO EDEN PLUS + CABECERA PEDESTAL LUNAR - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/coronas/lunar/2/",
+            "precioRegular": 2099,
+            "precioNormal": 1619,
+            "precioVenta": 1039,
+            "stock": 9,
+            "sku": "H3222285N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/eden-plus/americanos/2/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "eden plus",
+                    "resortes": "bonell",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lunar"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "eden plus",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/3/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / PARAISO + COLCHÓN PARAISO EDEN PLUS + CABECERA PEDESTAL LUNAR - ROSADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/coronas/lunar/3/",
+            "precioRegular": 2099,
+            "precioNormal": 1619,
+            "precioVenta": 1039,
+            "stock": 9,
+            "sku": "H3222285N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/eden-plus/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "eden plus",
+                    "resortes": "bonell",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lunar"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Paraiso",
+            "modelo": "eden plus",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/4/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / PARAISO + COLCHÓN PARAISO EDEN PLUS + CABECERA PEDESTAL LUNAR - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/paraiso/eden-plus/americanos/coronas/lunar/4/",
+            "precioRegular": 2099,
+            "precioNormal": 1619,
+            "precioVenta": 1039,
+            "stock": 9,
+            "sku": "H3222285N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/paraiso/eden-plus/americanos/4/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "eden plus",
+                    "resortes": "bonell",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lunar"
+                }
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "Cromadas o de madera",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
+                {
+                    "resortes": "231 bicónicos",
+                    "tela-superior": "pique",
+                    "espuma": "poliuretano de 1 1/2'",
+                    "soporte": "60kg por persona",
+                    "tipo-de-uso": "ambos lados",
+                    "marco": "de espuma de poliuretano",
+                    "banda": "tela tricop",
+                    "nivel-de-confort": "intermedio",
+                    "grosor": "21 cm",
+                    "sensación": "intermedia",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
+                {
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "De manera",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

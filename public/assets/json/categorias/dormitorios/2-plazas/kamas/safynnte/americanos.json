@@ -1,20 +1,20 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
-            "marca": "kamas",
-            "linea": "americanos",
             "tamaño": "2 plazas",
+            "marca": "kamas",
             "modelo": "safynnte",
-            "ruta": "/productos/dormitorios/2-plazas/safynnte/americanos/1/",
-            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/safynnte/americanos/pedestales/emperatriz/1/", 
-            "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1219,
-            "precioVenta": 949,
-            "stock": 13,
-            "sku": "H322243N10",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/kamas/safynnte/americanos/1/",
+            "nombre": "DORMITORIO KAMAS 2 PLAZAS + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA PEDESTAL CAPITONEADO 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/safynnte/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "H3122243N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -22,71 +22,67 @@
                     "foto": "/assets/imagenes/productos/almohada.webp"
                 }
             ],
-            "resumen-del-producto":[
+            "tamaños-disponibles":[
                 {
-                    "marca": "Kamas",
-                    "línea": "Americanos",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Safynnte",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/safynnte/americanos/1/"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americanos",
+                    "línea": "americanos",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Safynnte",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
                 }
-            ],
-            "descripciones":[
+            ]
+        }
+    ],
+    "descripciones":[
+        {
+            "titulo": "Cama box tarima",
+            "descripcion":[
                 {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
+                    "madera": "Pino americano seco al horno.",
+                    "refuerzos": "centrales y laterales.",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "Cromadas o de madera",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Colchón",
+            "descripcion":[
                 {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "14 filas",
-                            "tela": "Drill",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "75kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
+                    "resortes": "14 filas",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "75kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        },
+        {
+            "titulo": "Cabecera",
+            "descripcion":[
                 {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "madera": "Pino americano seco al horno.",
+                    "espuma": "Zebra de alta densidad",
+                    "láminas": "MDF de 3mm.",
+                    "tela": "Piel de potro",
+                    "patas": "De manera",
+                    "botones": "clásicos o acrílicos",
+                    "garantía": "2 años"
                 }
             ]
         }

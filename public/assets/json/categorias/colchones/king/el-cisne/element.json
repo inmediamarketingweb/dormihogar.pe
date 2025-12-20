@@ -3,58 +3,39 @@
         {
             "id": 1,
             "categoria": "colchones",
+            "tamaño": "King",
             "marca": "el cisne",
-            "subcategoria": "element",
+            "modelo": "element",
             "ruta": "/productos/colchones/king/el-cisne/element/",
             "nombre": "COLCHÓN EL CISNE ELEMENT KING",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/element/",
-            "precioRegular": 2599,
-            "precioNormal": 2389,
-            "precioVenta": 1699,
+            "precioRegular": 3399,
+            "precioNormal": 2789,
+            "precioVenta": 1899,
             "stock": 14,
             "sku": "H13410N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas viscoelásticas",
-                    "foto": "/assets/imagenes/productos/2-almohadas-viscoelasticas.jpg"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Element",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El Cisne",
-                    "modelo-de-colchón": "Element",
-                    "tamaño": "King",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Pocket"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "780 pocket",
-                    "tela": "Pique",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "tipo-de-uso": "un solo lado",
-                    "tipo-de-resorte": "Pocket",
-                    "marco": "Espuma con densidad 20kg/m3",
-                    "capas": "Poliuretano 1 1/4' a 16kg/m3, 1 1/2' a 30kg/m3 y prensado 1 pulgada de espesor.",
-                    "alto": "31 cm.",
-                    "sensación": "intermedia",
-                    "garantía": "4 años"
-                }
-            ]
+            "regalos":["2 almohadas viscoelásticas", "1 protector de colchón"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Este colchón ofrece un descanso superior gracias a sus 780 resortes pocket, que trabajan de manera independiente para brindar un soporte preciso, reducir los puntos de presión y minimizar la transferencia de movimiento. Su sensación intermedia logra un equilibrio ideal entre suavidad y firmeza.",
+        "Su estructura combina capas de poliuretano de distintas densidades —incluyendo espuma de 16 kg/m³, 30 kg/m³ y prensado de 1” de espesor— que aportan estabilidad, durabilidad y una comodidad envolvente. El marco de espuma de 20 kg/m³ refuerza los bordes y mejora la vida útil del colchón.",
+        "La cubierta en tela Pique es fresca, resistente y cuenta con tratamiento antihongos, antibacterias y antiácaros, garantizando un entorno más higiénico para dormir. Con diseño de uso por un solo lado y un elegante alto de 31 cm, ofrece estética, comodidad y practicidad.",
+        "Respaldo con 10 años de garantía, es una opción confiable para quienes buscan calidad y confort avanzado."
+    ],
+    "ficha":[
+        {
+            "resortes": "780 pocket",
+            "tela": "Pique",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "tipo-de-uso": "un solo lado",
+            "tipo-de-resorte": "Pocket",
+            "marco": "Espuma con densidad 20kg/m3",
+            "capas": "Poliuretano 1 1/4' a 16kg/m3, 1 1/2' a 30kg/m3 y prensado 1 pulgada de espesor.",
+            "alto": "31 cm.",
+            "sensación": "intermedia",
+            "garantía": "10 años"
         }
     ]
 }

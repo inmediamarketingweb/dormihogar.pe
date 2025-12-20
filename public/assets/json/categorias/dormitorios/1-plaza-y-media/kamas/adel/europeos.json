@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO CAPITONEADO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA EMPERATRIZ CAPITONEADO 1 - ROSA PASTEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/europeos/americanas/capitoneado-1/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1959,
+            "precioVenta": 939,
+            "stock": 9,
+            "sku": "H31315213N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "europeos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 1 - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/americanas/lineal-1/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H34215213N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 3 - IVORY",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/americanas/lineal-3/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H34215213N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA MOKI - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/moki/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H342152136N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }
+    ]
+}

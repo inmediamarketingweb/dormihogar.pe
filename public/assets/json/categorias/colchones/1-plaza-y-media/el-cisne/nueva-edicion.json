@@ -1,55 +1,37 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
-            "marca": "el cisne",
             "tamaño": "1 plaza y media",
-            "subcategoria": "presence",
+            "marca": "el cisne",
+            "modelo": "nueva edicion",
             "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/nueva-edicion/",
-            "nombre": "COLCHÓN EL CISNE NUEVA EDIDICIÓN 1 PLAZA Y MEDIA",
+            "nombre": "COLCHÓN EL CISNE NUEVA EDICIÓN 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/nueva-edicion/",
             "precioRegular": 1999,
             "precioNormal": 999,
             "precioVenta": 699,
             "stock": 10,
             "sku": "H13151N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "El cisne",
-                    "modelo-de-colchón": "Nueva edición",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "El cisne",
-                    "modelo-de-colchón": "Nueva edición",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Intermedio"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "255 bicónicos",
-                    "tela": "Pique",
-                    "marco": "Espuma con densidad 16kg/m3",
-                    "capas": "2 láminas de poliuretano de alta densidad y 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3",
-                    "sensación": "intermedia",
-                    "garantía": "3 años"
-                }
-            ]
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón El Cisne está diseñado para ofrecer un descanso intermedio y equilibrado, ideal para quienes buscan confort con buen soporte. Cuenta con 255 resortes bicónicos, que brindan estabilidad, resistencia y una correcta distribución del peso durante el descanso.",
+        "Su estructura incorpora un marco de espuma de 16 kg/m³, que refuerza los bordes y mejora la durabilidad del colchón. En su interior, combina 2 láminas de poliuretano de alta densidad junto con 2 láminas de espuma de poliuretano de 1 1/4” a 16 kg/m³, aportando comodidad progresiva y una sensación agradable al acostarse.",
+        "La tela Piqué le da un acabado fresco y resistente, manteniendo una buena ventilación. Gracias a su sensación intermedia, este colchón es una excelente opción para el uso diario, respaldado por una garantía de 3 años, que asegura su calidad y confiabilidad."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "resortes": "255 bicónicos",
+            "tela": "Pique",
+            "marco": "Espuma con densidad 16kg/m3",
+            "capas": "2 láminas de poliuretano de alta densidad y 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3",
+            "sensación": "intermedia",
+            "garantía": "3 años"
         }
     ]
 }

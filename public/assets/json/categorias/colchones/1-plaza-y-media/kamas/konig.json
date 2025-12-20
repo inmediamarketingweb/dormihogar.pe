@@ -1,9 +1,11 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
+            "tamaño": "1 plaza y media",
             "marca": "kamas",
-            "subcategoria": "konig",
+            "modelo": "konig",
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/konig/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
@@ -12,57 +14,34 @@
             "precioVenta": 899,
             "stock": 99,
             "sku": "H111511N10",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Konig",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
+            "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/kamas/konig/"
-                },
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/kamas/konig/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/kamas/konig/"
-                }
+                {"nombre": "2 plazas", "sku": "H11211N10"},
+                {"nombre": "Queen", "sku": "H11311N10"},
+                {"nombre": "King", "sku": "H11411N10"}
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo-de-colchón": "Konig",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopédico",
-                    "nivel-de-confort": "Muy firme",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "12 filas",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-la-espuma": "25kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "marco": "Refuerzo de marco sellado",
-                    "soporte-de-peso": "100kg. por persona",
-                    "garantía": "10 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón KAMAS Konig pertenece a la línea Extra Ortopédica y está diseñado para quienes buscan un descanso muy firme, con alto nivel de soporte y durabilidad. Su sistema de resortes Bonell en 12 filas proporciona una base sólida y estable, ideal para mantener una correcta alineación de la columna.",
+        "Cuenta con espuma de alta densidad de 25 kg/m³, que refuerza la estructura interna y garantiza mayor resistencia al uso continuo. El refuerzo de marco sellado aporta firmeza en los bordes y prolonga la vida útil del colchón, mientras que su diseño de uso por ambos lados permite un desgaste uniforme.",
+        "La superficie está recubierta con tela de algodón tejido en punto, suave, fresca y resistente. El KAMAS Konig es una excelente opción para personas que requieren un colchón firme y confiable, con capacidad de soportar hasta 100 kg por persona y una sólida garantía de 10 años, reflejo de su calidad superior."
+    ],
+    "ficha":[
+        {
+            "marca": "kamas",
+            "modelo-de-colchón": "konig",
+            "línea-de-colchón": "Extra ortopédico",
+            "nivel-de-confort": "Muy firme",
+            "filas-de-resortes": "12 filas",
+            "tela": "Algodón tejido en punto",
+            "densidad-de-la-espuma": "25kg/m3",
+            "resortes": "Bonell",
+            "tipo-de-uso": "Ambos lados",
+            "marco": "Refuerzo de marco sellado",
+            "soporte-de-peso": "100kg. por persona",
+            "garantía": "10 años"
         }
     ]
 }

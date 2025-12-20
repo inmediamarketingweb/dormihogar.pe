@@ -1,51 +1,20 @@
 {
     "productos":[
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/1/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CUADROS 1 - COBALTO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CUADROS 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/americanas/cuadros-1/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224293N10",
+            "sku": "H3224293N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -59,92 +28,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/2/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CUADROS 2 - ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CUADROS 2 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/americanas/cuadros-2/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224293N11",
+            "sku": "H3224293N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -158,92 +58,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/3/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CUADROS 2 - IVORY",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CUADROS 2 - IVORY",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/americanas/cuadros-2/2/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224293N12",
+            "sku": "H3224293N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -257,92 +88,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/4/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL 1 - VERDE CERCETA",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL 1 - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/americanas/lineal-1/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224293N13",
+            "sku": "H3224293N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -356,92 +118,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/5/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL 1 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL 1 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/americanas/lineal-1/2/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224293N14",
+            "sku": "H3224293N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -455,92 +148,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/6/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA RECTANGULAR - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA RECTANGULAR - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/americanas/rectangular-1/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224293N15",
+            "sku": "H3224293N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Rectangular 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -554,92 +178,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Rectangular 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/7/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL HORIZONTAL - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL HORIZONTAL - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/lineal horizontal/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224296N10",
+            "sku": "H3224296N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal Horizontal 1"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -653,92 +208,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal Horizontal 1"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/8/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA MESHLOCK - GRIS",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA MESHLOCK - GRIS",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/meshlock/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224296N11",
+            "sku": "H3224296N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Meshlock"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -752,92 +238,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Meshlock"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/9/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA PISSAC - IVORY",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA PISSAC - IVORY",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/pissac/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224296N12",
+            "sku": "H3224296N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Pissac"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -851,92 +268,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Pissac"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/9/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA V - MORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA V - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/viena/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "D3224296N12",
+            "sku": "H3224296N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "V"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -950,92 +298,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "V"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/10/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CON MARCO - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CON MARCO - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/con-marco/otros-modelos/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2349,
             "stock": 9,
-            "sku": "D3224294N10",
+            "sku": "H3224294N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -1049,92 +328,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/11/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CORONA - PLOMO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CORONA - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/coronas/otros-modelos/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2399,
             "stock": 9,
-            "sku": "D3224295N10",
+            "sku": "H3224295N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -1148,92 +358,23 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/11/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CORONA VESSO- TURQUESA ÓPALO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CORONA VESSO- TURQUESA ÓPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/coronas/vesso/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2549,
             "stock": 9,
-            "sku": "D3224295N11",
+            "sku": "H3224295N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -1247,92 +388,23 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
-        {   
+        {
             "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
             "tamaño": "king",
+            "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/12/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA PEDESTAL EMPERATRIZ- MORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA PEDESTAL EMPERATRIZ- MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/pedestales/emperatriz/1/",
-            "colores": "si",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2399,
             "stock": 9,
-            "sku": "D3224293N16",
+            "sku": "H3224293N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 protector",
-                    "foto": "/assets/imagenes/productos/protector.jpg"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/moro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "modelo-colchón": "Royal Elizabeth",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/paraiso/americanos/queen/Pocket-star/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
@@ -1345,44 +417,6 @@
                     "diseño-de-cabecera": "Pedestal",
                     "brazos-de-cabecera": "Brazos Rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "tratamiento": "Antihongos, antibacterias y antiacaros",
-                            "tela": "Tejido de punto higroscópica con diseño 3D",
-                            "espuma": "Viscoelástica D70",
-                            "capas": "De espuma zebra 35 HR y 35 HD",
-                            "garantía": "10 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }

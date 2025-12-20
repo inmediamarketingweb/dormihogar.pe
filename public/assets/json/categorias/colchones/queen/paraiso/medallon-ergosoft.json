@@ -1,66 +1,49 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "colchones",
             "marca": "paraiso",
-            "subcategoria": "medallon ergosoft",
+            "modelo": "medallon ergosoft",
             "ruta": "/productos/colchones/queen/paraiso/medallon-ergosoft/",
-            "nombre": "COLCHÓN PARAISO MEDALLON ERGOSOFT QUEEN",
+            "nombre": "COLCHÓN PARAISO QUEEN MEDALLON ERGOSOFT",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon-ergosoft/",
             "precioRegular": 1499,
             "precioNormal": 939,
-            "precioVenta": 519,
+            "precioVenta": 479,
             "stock": 14,
             "sku": "H12310N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Medallon ergosoft",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Cosisoft"
-                }
-            ],
+            "regalos":[ "2 almohadas", "1 protector de colchón"],
             "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/paraiso/medallon-ergosoft/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/paraiso/medallon-ergosoft/"
-                }
+                { "nombre": "1 plaza y media", "sku": "H121510N10" },
+                { "nombre": "2 plazas", "sku": "H12210N10" },
+                { "nombre": "king", "sku": "H12410N10" }
             ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Medallon ergosoft",
-                    "tamaño": "Queen",
-                    "nivel-de-confort": "Intermedio",
-                    "tipo-de-resorte": "Cosisoft"
-                }
-            ],
-            "descripcion":[
-                {
-                    "tela": "Jacquard",
-                    "tratamiento": "Antihongos, antibacterias y antiácaros",
-                    "banda": "mesh",
-                    "acabado": "vaporizado",
-                    "tipo-de-resorte": "Cosisoft",
-                    "ergosoft": "acolchado superior",
-                    "marco": "zebra 25",
-                    "sistema": "one side",
-                    "sensación": "intermedia",
-                    "garantía": "7 años"
-                }
-            ]
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Medallón ErgoSoft en tamaño Queen es el núcleo del confort adaptativo. Ofrece una sensación intermedia que equilibra soporte y suavidad. Su núcleo de resortes Cosisoft brinda un ajuste ergonómico y reduce la transferencia de movimiento para un descanso ininterrumpido.",
+        "La experiencia se eleva con su exclusivo acolchado superior ErgoSoft, que moldea las curvas del cuerpo para aliviar la presión. Está envuelto en una elegante tela Jacquard que, gracias a su acabado vaporizado, incorpora protección antihongos, antibacterias y antiácaros para un sueño más saludable.",
+        "Su robusta estructura con marco Zebra 25 y banda perimetral Mesh asegura máxima estabilidad y ventilación. El práctico diseño One Side ofrece comodidad sin volteos.",
+        "Descansa con la seguridad de una garantía de 7 años. La pieza central para tu bienestar."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Medallon ergosoft",
+            "tamaño": "Queen",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Cosisoft",
+            "tela": "Jacquard",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "banda": "mesh",
+            "acabado": "vaporizado",
+            "ergosoft": "acolchado superior",
+            "marco": "zebra 25",
+            "sistema": "one side",
+            "sensación": "intermedia",
+            "garantía": "7 años"
         }
     ]
 }

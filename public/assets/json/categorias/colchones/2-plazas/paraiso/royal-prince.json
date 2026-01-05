@@ -10,9 +10,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-prince/",
             "precioRegular": 2199,
             "precioNormal": 1731,
-            "precioVenta": 779,
+            "precioVenta": 999,
             "stock": 14,
-            "sku": "H12223N10",
+            "sku": "D12223N10",
             "regalos":[ "1 almohada viscoelástica", "1 protector de colchón"],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H121523N10" },

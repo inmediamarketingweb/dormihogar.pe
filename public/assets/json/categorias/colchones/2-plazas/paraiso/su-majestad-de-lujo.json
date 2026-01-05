@@ -11,9 +11,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/su-majestad-de-lujo/",
             "precioRegular": 1099,
             "precioNormal": 715,
-            "precioVenta": 429,
+            "precioVenta": 499,
             "stock": 14,
-            "sku": "H12217N10",
+            "sku": "D12217N10",
             "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H121517N10" },

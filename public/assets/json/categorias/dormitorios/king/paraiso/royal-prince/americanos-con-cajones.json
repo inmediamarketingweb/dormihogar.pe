@@ -1,0 +1,68 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos-con-cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-prince/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL CAPITONEADO - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2579,
+            "stock": 9,
+            "sku": "D32241233N10",
+            "regalos": [ "1 puff", "2 almohadas", "3 cojines" ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Emperatriz",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos-con-cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-prince/americanos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos-con-cajones/bloques/moki/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2349,
+            "stock": 9,
+            "sku": "D32242233N17",
+            "regalos": [ "1 puff", "2 almohadas", "3 cojines" ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con Patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }
+    ]
+}

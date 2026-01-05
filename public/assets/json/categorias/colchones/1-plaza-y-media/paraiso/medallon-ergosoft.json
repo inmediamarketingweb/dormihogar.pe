@@ -10,9 +10,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/medallon-ergosoft/",
             "precioRegular": 999,
             "precioNormal": 559,
-            "precioVenta": 319,
+            "precioVenta": 469,
             "stock": 14,
-            "sku": "H121510N10",
+            "sku": "D121510N10",
             "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
                 { "nombre": "2 plazas", "sku": "H12210N10" },

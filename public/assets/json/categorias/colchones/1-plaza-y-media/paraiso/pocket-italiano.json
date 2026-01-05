@@ -11,9 +11,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/pocket-italiano/",
             "precioRegular": 2419,
             "precioNormal": 1806,
-            "precioVenta": 849,
+            "precioVenta": 549,
             "stock": 14,
-            "sku": "H121526N10",
+            "sku": "D121526N10",
             "regalos":[ "1 almohada", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "2 plazas", "sku": "H12226N10"},

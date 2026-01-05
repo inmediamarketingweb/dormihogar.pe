@@ -10,9 +10,9 @@
             "fotos": "/assets/imagenes/productos/colchones/kamas/sarki/",
             "precioRegular": 1329,
             "precioNormal": 1099,
-            "precioVenta": 799,
+            "precioVenta": 1299,
             "stock": 99,
-            "sku": "H1143N10",
+            "sku": "D1143N10",
             "regalos":[ "4 almohadas" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H11153N10" },

@@ -11,9 +11,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-cloud/",
             "precioRegular": 2999,
             "precioNormal": 2286,
-            "precioVenta": 1029,
+            "precioVenta": 1319,
             "stock": 14,
-            "sku": "H12222N10",
+            "sku": "D12222N10",
             "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H121522N10" },

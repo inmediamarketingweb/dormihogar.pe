@@ -12,7 +12,7 @@
             "precioNormal": 1199,
             "precioVenta": 899,
             "stock": 14,
-            "sku": "H1441N10",
+            "sku": "D1441N10",
             "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "2 plazas", "sku": "H1421N10" },

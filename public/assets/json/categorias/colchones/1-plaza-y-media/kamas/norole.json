@@ -12,7 +12,7 @@
             "precioNormal": 1199,
             "precioVenta": 699,
             "stock": 99,
-            "sku": "H11159N10",
+            "sku": "D11159N10",
             "regalos":["1 almohada"],
             "tamaños-disponibles":[
                 { "nombre": "2 plazas", "ruta": "H1129N10" },

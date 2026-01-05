@@ -11,9 +11,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/super-star-negro/",
             "precioRegular": 1299,
             "precioNormal": 887,
-            "precioVenta": 479,
+            "precioVenta": 679,
             "stock": 14,
-            "sku": "H12219N10",
+            "sku": "D12219N10",
             "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H121519N10" },

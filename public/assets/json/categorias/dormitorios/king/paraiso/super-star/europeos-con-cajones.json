@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "europeos con cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA PEDESTAL CAPITONEADO 1 + 2 CAJONES - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2449,
+            "stock": 9,
+            "sku": "D32341183N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "europeos con cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA PEDESTAL CAPITONEADO 1 + 2 CAJONES - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/americanas/capitoneado-1/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2449,
+            "stock": 9,
+            "sku": "D32341183N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "europeos con cajones",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        }
+    ]
+}

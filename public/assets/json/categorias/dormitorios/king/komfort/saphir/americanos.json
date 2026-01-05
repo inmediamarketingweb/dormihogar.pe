@@ -8,13 +8,13 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/1/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA CUADROS 2 - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/americanas/cuadros-2/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 4 - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/americanas/lineal-4/1/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424213N10",
+            "sku": "D3424213N10",
             "tipo-de-envio": "Gratis",
             "regalos":[ "1 puff" ],
             "detalles-del-producto":[
@@ -29,7 +29,7 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
+                    "modelo-de-cabecera": "Lineal 4"
                 }
             ]
         },
@@ -41,14 +41,15 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/2/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA RECTANGULAR 2 - ANTIFLUIDO PLOMO OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/americanas/rectangular-2/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA CHAN CHAN - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/chanchan/1/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424213N11",
+            "sku": "D3424216N10",
             "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - komfort",
@@ -61,7 +62,7 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Rectangular 2"
+                    "modelo-de-cabecera": "Chan Chan"
                 }
             ]
         },
@@ -73,13 +74,13 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/3/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA EGYPT - VINO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/egypt/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA EGYP - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/egyp/1/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424216N10",
+            "sku": "D3424216N11",
             "tipo-de-envio": "Gratis",
             "regalos":[ "1 puff" ],
             "detalles-del-producto":[
@@ -92,9 +93,9 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Egypt"
+                    "modelo-de-cabecera": "Egyp"
                 }
             ]
         },
@@ -106,13 +107,13 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/4/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA EXPLORER - ACERO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/explorer/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA EGYP - TEJIDO ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/egyp/2/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424216N11",
+            "sku": "D3424216N12",
             "tipo-de-envio": "Gratis",
             "regalos":[ "1 puff" ],
             "detalles-del-producto":[
@@ -125,9 +126,9 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Explorer"
+                    "modelo-de-cabecera": "Egyp"
                 }
             ]
         },
@@ -139,13 +140,13 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/5/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA NILO - ANTIFLUIDO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/nilo/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA EGYP + BAUL KING- ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/egyp/3/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3424216N12",
+            "sku": "D3424216N13",
             "tipo-de-envio": "Gratis",
             "regalos":[ "1 puff" ],
             "detalles-del-producto":[
@@ -158,9 +159,9 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Nilo"
+                    "modelo-de-cabecera": "Egyp"
                 }
             ]
         },
@@ -172,15 +173,15 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/6/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA OLIMPIC - TEJIDO TABACO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/olimpic/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA EGYP 4",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/egyp-4/1/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424216N13",
-            "regalos":[ "1 puff" ],
+            "sku": "D3424216N14",
             "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - komfort",
@@ -191,9 +192,9 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Olimpic"
+                    "modelo-de-cabecera": "Egyp 4"
                 }
             ]
         },
@@ -205,15 +206,15 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/7/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA BLOQUES - CUERO NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/otros-modelos/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA GAVIOTA - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/gaviota/1/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424216N14",
+            "sku": "D3424216N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[ "3 cojines", "1 puff" ],
+            "regalos":[ "1 puff" ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - komfort",
@@ -224,9 +225,9 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Otro modelos"
+                    "modelo-de-cabecera": "Gaviota"
                 }
             ]
         },
@@ -238,13 +239,13 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/8/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA REPTILIAN - CUERO NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/reptilian/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA GAVIOTA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/gaviota/2/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424216N15",
+            "sku": "D3424216N16",
             "tipo-de-envio": "Gratis",
             "regalos":[ "1 puff" ],
             "detalles-del-producto":[
@@ -257,9 +258,9 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Reptilian"
+                    "modelo-de-cabecera": "Gaviota"
                 }
             ]
         },
@@ -271,46 +272,13 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/9/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA SYDNEY - TEJIDO CHOCOLATE NEW",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/sydney/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA NILO - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/nilo/1/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424216N16",
-            "tipo-de-envio": "Gratis",
-            "regalos":[ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas - komfort",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Saphir",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Sydney"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Kamas / komfort",
-            "modelo": "saphir",
-            "línea": "americanos",
-            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/10/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA TORTUN - TEJIDO CHAMPAGNE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/tortun/1/",
-            "precioRegular": 2999,
-            "precioNormal": 2449,
-            "precioVenta": 1649,
-            "stock": 9,
-            "sku": "H3424216N17",
+            "sku": "D3424216N17",
             "tipo-de-envio": "Gratis",
             "regalos":[ "1 puff" ],
             "detalles-del-producto":[
@@ -323,9 +291,42 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Tortun"
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/10/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA OLIMPIC - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/olimpic/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
                 }
             ]
         },
@@ -337,14 +338,15 @@
             "modelo": "saphir",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/11/",
-            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA VIENA - CUERO NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/aereas-con-patas/bloques/viena/1/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA OLIMPIC - TEJIDO CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/olimpic/2/",
             "precioRegular": 2999,
             "precioNormal": 2449,
-            "precioVenta": 1649,
+            "precioVenta": 1699,
             "stock": 9,
-            "sku": "H3424216N18",
+            "sku": "D3424216N19",
             "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - komfort",
@@ -355,9 +357,504 @@
                     "modelo-de-colchón": "Saphir",
                     "resortes": "Pocket",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Viena"
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA OLIMPIC - TEJIDO BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/olimpic/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA PANNAL - DURAZNO CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/pannal/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Pannal"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA REPTILIAN - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/reptilian/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA ROBLO - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/roblo/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA ROMBOI - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/romboi/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/17/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA SIDNEY - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/sidney/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/18/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA SPIDER - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/spider/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N26",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/19/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA STARIS - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/staris/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/20/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/tortun/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N28",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/21/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/tortun/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/22/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA TORTUN - TEJIDO CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/tortun/2/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/23/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA VIENNA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/vienna/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N31",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/24/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA WELO - POTRO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/welo/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N32",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/25/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA XPLORER - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/bloques/xplorer/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424216N33",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas / komfort",
+            "modelo": "saphir",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/komfort/saphir/americanos/26/",
+            "nombre": "DORMITORIO AMERICANO KING KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA PEDESTAL MODELO LINEAL - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/komfort/saphir/americanos/coronas/otros-modelos/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2449,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "D3424215N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - komfort",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Saphir",
+                    "resortes": "Pocket",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
                 }
             ]
         }

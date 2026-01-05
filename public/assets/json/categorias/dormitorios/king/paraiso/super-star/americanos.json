@@ -13,7 +13,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242183N10",
+            "sku": "D32242183N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -43,7 +43,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242183N11",
+            "sku": "D32242183N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -73,7 +73,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242183N12",
+            "sku": "D32242183N12",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -103,7 +103,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242183N13",
+            "sku": "D32242183N13",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -133,7 +133,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242183N14",
+            "sku": "D32242183N14",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -163,7 +163,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242186N10",
+            "sku": "D32242186N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -193,7 +193,7 @@
             "precioNormal": 3399,
             "precioVenta": 1899,
             "stock": 9,
-            "sku": "H32242186N11",
+            "sku": "D32242186N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -223,7 +223,7 @@
             "precioNormal": 3399,
             "precioVenta": 1899,
             "stock": 9,
-            "sku": "H32242186N12",
+            "sku": "D32242186N12",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -253,7 +253,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242186N13",
+            "sku": "D32242186N13",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -283,7 +283,7 @@
             "precioNormal": 3399,
             "precioVenta": 1899,
             "stock": 9,
-            "sku": "H32242184N10",
+            "sku": "D32242184N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -313,7 +313,7 @@
             "precioNormal": 3399,
             "precioVenta": 1799,
             "stock": 9,
-            "sku": "H32242185N10",
+            "sku": "D32242185N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -326,6 +326,786 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA LINEAL 4 - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/americanas/lineal-4/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242183N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA CORONA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/coronas/otros-modelos/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242185N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA CHANCHAN - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/chanchan/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan Chan"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA EGYPT + BAUL KING - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/egypt/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D32242186N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA EGYPT - TEJIDO ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/egypt/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/17/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA EGYPT - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/egypt/3/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/18/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA EXPLORER - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/explorer/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N18",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Explorer"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/19/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA GAVIOTA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/gaviota/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/20/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA GAVIOTA - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/gaviota/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/21/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA NILO - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/nilo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N21",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/22/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA OLIMPIC - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/olimpic/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/23/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA OLIMPIC - TEJIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/olimpic/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N23",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/24",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA OLIMPIC - TEJIDO CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/olimpic/3/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N24",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/25",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA REPTILIAN - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/reptilian/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N25",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/26",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA ROBLO - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/roblo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N26",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/27",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA ROMBOI - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/romboi/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N27",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/28",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA SPIDER - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/spider/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N28",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/29",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/tortun/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N29",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/30",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA TORTUN - TEJIDO CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/tortun/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N30",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/31",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA VIENA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/viena/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N31",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Viena"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/32",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA SIDNEY - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/sidney/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N32",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/33",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA EGYPT 4",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/egypt-4/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N33",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/34",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA PANNAL - DURAZNO CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/pannal/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N34",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Pannal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/35",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA WUELO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/bloques/wuelo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242186N35",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/36/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA PEDESTAL VESSO - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/coronas/vesso/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D32242185N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Vesso",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Super star",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos/37/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA PEDESTAL SEA HORSE - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos/coronas/sea-horse/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D32242185N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Sea Horse",
+                    "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
             ]

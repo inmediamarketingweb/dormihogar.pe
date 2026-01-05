@@ -10,10 +10,10 @@
             "nombre": "COLCHÓN PARAISO 1 PLAZA Y MEDIA EDEN PLUS",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/eden-plus/",
             "precioRegular": 999,
-            "precioNormal": 367,
-            "precioVenta": 239,
+            "precioNormal": 567,
+            "precioVenta": 369,
             "stock": 14,
-            "sku": "H12158N10",
+            "sku": "D12158N10",
             "tipo-de-envio": "Envío aplicado"
         }
     ],

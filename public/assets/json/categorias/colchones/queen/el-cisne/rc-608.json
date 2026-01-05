@@ -13,7 +13,7 @@
             "precioNormal": 1099,
             "precioVenta": 699,
             "stock": 14,
-            "sku": "H1335N10",
+            "sku": "D1335N10",
             "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "2 plazas", "sku": "H1325N10" },

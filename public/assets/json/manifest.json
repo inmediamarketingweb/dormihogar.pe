@@ -342,6 +342,9 @@
         "/assets/json/categorias/dormitorios/king/paraiso/su-majestad-de-lujo/europeos-con-cajones.json",
 
         "/assets/json/categorias/dormitorios/king/paraiso/super-star/americanos.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star/europeos.json",
+        "/assets/json/categorias/dormitorios/king/paraiso/super-star/europeos-con-cajones.json",
 
         "/assets/json/categorias/dormitorios/king/paraiso/super-star-negro/americanos.json",
         "/assets/json/categorias/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones.json",
@@ -354,6 +357,9 @@
         "/assets/json/categorias/dormitorios/king/paraiso/pocket-star/europeos-con-cajones.json",
 
         "/assets/json/categorias/dormitorios/king/paraiso/royal-prince/americanos.json",
+
+        "/assets/json/categorias/dormitorios/king/paraiso/royal-prince/americanos-con-cajones.json",
+        
         "/assets/json/categorias/dormitorios/king/paraiso/royal-prince/europeos.json",
         "/assets/json/categorias/dormitorios/king/paraiso/royal-prince/europeos-con-cajones.json",
 
@@ -378,6 +384,7 @@
 
 
         "/assets/json/categorias/dormitorios/king/komfort/saphir/americanos.json",
+        "/assets/json/categorias/dormitorios/king/komfort/saphir/americanos-con-cajones.json",
 
 
 

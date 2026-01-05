@@ -11,9 +11,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-elizabeth/",
             "precioRegular": 1999,
             "precioNormal": 1776,
-            "precioVenta": 799,
+            "precioVenta": 1099,
             "stock": 14,
-            "sku": "H1229N10",
+            "sku": "D1229N10",
             "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H12159N10" },

@@ -1,9 +1,10 @@
 {
     "productos":[
         {   
+            "id": 1,
             "categoria": "dormitorios",
             "tamaño": "king",
-            "marca": "Kamas + Paraiso",
+            "marca": "Paraiso",
             "modelo": "Royal Prince",
             "linea": "europeos con cajones",
             "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/1/",
@@ -13,7 +14,7 @@
             "precioNormal": 3899,
             "precioVenta": 2779,
             "stock": 9,
-            "sku": "H32341153N10",
+            "sku": "D32341153N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -31,9 +32,10 @@
             ]
         },
         {   
+            "id": 2,
             "categoria": "dormitorios",
             "tamaño": "king",
-            "marca": "Kamas + Paraiso",
+            "marca": "Paraiso",
             "modelo": "Royal Prince",
             "linea": "europeos con cajones",
             "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/2/",
@@ -43,7 +45,7 @@
             "precioNormal": 3899,
             "precioVenta": 2779,
             "stock": 9,
-            "sku": "H32341153N11",
+            "sku": "D32341153N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {

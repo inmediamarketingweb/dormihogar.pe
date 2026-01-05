@@ -10,9 +10,9 @@
             "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-dynasty/",
             "precioRegular": 2539,
             "precioNormal": 2100,
-            "precioVenta": 989,
+            "precioVenta": 1139,
             "stock": 14,
-            "sku": "H1227N10",
+            "sku": "D1227N10",
             "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H12157N10" },

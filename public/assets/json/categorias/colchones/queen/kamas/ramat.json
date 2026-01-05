@@ -13,7 +13,7 @@
             "precioNormal": 1499,
             "precioVenta": 999,
             "stock": 99,
-            "sku": "H1135N10",
+            "sku": "D1135N10",
             "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "H11155N10" },

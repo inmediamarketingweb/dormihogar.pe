@@ -66,6 +66,9 @@
         "/assets/json/categorias/colchones/king/kamas/konig.json",
         "/assets/json/categorias/colchones/king/kamas/yurmale.json",
 
+        "/assets/json/categorias/colchones/4-plazas/kamas/sarki.json",
+        "/assets/json/categorias/colchones/4-plazas/kamas/der-prinz.json",
+
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/eden-plus.json",
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/majestic.json",
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/medallon-ergosoft.json",
@@ -87,6 +90,7 @@
         "/assets/json/categorias/colchones/2-plazas/paraiso/pocket-italiano.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/pocket-star.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/royal-abrazzo.json",
+        "/assets/json/categorias/colchones/2-plazas/paraiso/royal-balanzze.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/royal-cloud.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/royal-dynasty.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/royal-elizabeth.json",
@@ -97,6 +101,7 @@
 
         "/assets/json/categorias/colchones/queen/paraiso/medallon-ergosoft.json",
         "/assets/json/categorias/colchones/queen/paraiso/royal-abrazzo.json",
+        "/assets/json/categorias/colchones/queen/paraiso/royal-balanzze.json",
         "/assets/json/categorias/colchones/queen/paraiso/royal-cloud.json",
         "/assets/json/categorias/colchones/queen/paraiso/pocket-italiano.json",
         "/assets/json/categorias/colchones/queen/paraiso/royal-dynasty.json",
@@ -284,6 +289,7 @@
 
 
         "/assets/json/categorias/dormitorios/4-plazas/kamas/sarki/americanos.json",
+        "/assets/json/categorias/dormitorios/4-plazas/kamas/der-prinz/americanos.json",
 
 
 

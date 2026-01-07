@@ -19,6 +19,10 @@
                     "ruta": "/productos/dormitorios/king/"
                 },
                 {
+                    "tamaño": "4 plazas",
+                    "ruta": "/productos/dormitorios/4-plazas/"
+                },
+                {
                     "tamaño": "Ver todos",
                     "ruta": "/productos/dormitorios/"
                 }
@@ -36,7 +40,7 @@
         {
             "modelos":[
                 {
-                    "el-cisne":["Cisne CEC", "Argus", "RC-418", "Presence pillow", "RC-608", "Argus pocket", "Iconio", "Dynamic", "Valente", "Element"]
+                    "el-cisne":["Cisne CEC", "Argus", "RC-418", "Presence pillow", "RC-608", "Argus pocket", "Iconio", "Dynamic", "Valente", "Element", "Pocket Peruano"]
                 },
                 {
                     "kamas":["Adel", "Rucay", "Sarki", "Safynnte", "Der prinz", "Thameo pocket", "Ramat", "Nesie", "Norole", "Thaleo pocket", "Konig", "Yurmale"]

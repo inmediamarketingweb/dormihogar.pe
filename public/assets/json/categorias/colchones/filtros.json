@@ -23,6 +23,10 @@
                     "ruta": "/productos/colchones/king/"
                 },
                 {
+                    "tamaño": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/"
+                },
+                {
                     "tamaño": "Ver todos",
                     "ruta": "/productos/colchones/"
                 }

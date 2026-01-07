@@ -3,32 +3,32 @@
         {
             "id": 1,
             "categoria": "dormitorios",
-            "tamaño": "king",
+            "tamaño": "4 plazas",
             "marca": "kamas",
-            "modelo": "sarki",
+            "modelo": "der prinz",
             "línea": "americanos",
-            "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/1/",
-            "nombre": "DORMITORIO KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/1/",
-            "precioRegular": 2999,
-            "precioNormal": 2499,
-            "precioVenta": 1599,
+            "ruta": "/productos/dormitorios/4-plazas/kamas/der-prinz/americanos/1/",
+            "nombre": "DORMITORIO KAMAS 4 PLAZAS + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CUADROS 2 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/der-prinz/americanos/americanas/cuadros-2/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3499,
+            "precioVenta": 2699,
             "stock": 9,
-            "sku": "H3124233N10",
+            "sku": "D3125253N10",
             "tipo-de-envio": "Gratis",
             "regalos":[ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
                     "línea": "americanos",
-                    "tamaño": "King",
+                    "tamaño": "4 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
+                    "modelo-de-colchón": "der Prinz",
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneado 1"
+                    "modelo-de-cabecera": "Cuadros 2"
                 }
             ]
         }

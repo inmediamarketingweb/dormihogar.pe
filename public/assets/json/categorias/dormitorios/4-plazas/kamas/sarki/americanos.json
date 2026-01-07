@@ -14,7 +14,7 @@
             "precioNormal": 3199,
             "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3125233N10",
+            "sku": "D3125233N10",
             "tipo-de-envio": "Gratis",
             "regalos": [ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
@@ -46,7 +46,7 @@
             "precioNormal": 3199,
             "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3125233N11",
+            "sku": "D3125233N11",
             "tipo-de-envio": "Gratis",
             "regalos": [ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
@@ -78,7 +78,7 @@
             "precioNormal": 3199,
             "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3125233N12",
+            "sku": "D3125233N12",
             "tipo-de-envio": "Gratis",
             "regalos": [ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
@@ -110,7 +110,7 @@
             "precioNormal": 3199,
             "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3125233N13",
+            "sku": "D3125233N13",
             "tipo-de-envio": "Gratis",
             "regalos": [ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
@@ -142,7 +142,7 @@
             "precioNormal": 3199,
             "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3125233N14",
+            "sku": "D3125233N14",
             "tipo-de-envio": "Gratis",
             "regalos": [ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
@@ -174,7 +174,7 @@
             "precioNormal": 3199,
             "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3125233N15",
+            "sku": "D3125233N15",
             "tipo-de-envio": "Gratis",
             "regalos": [ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
@@ -206,7 +206,7 @@
             "precioNormal": 3199,
             "precioVenta": 2099,
             "stock": 9,
-            "sku": "H3125233N16",
+            "sku": "D3125233N16",
             "tipo-de-envio": "Gratis",
             "regalos": [ "4 cojines", "2 puff" ],
             "detalles-del-producto":[
@@ -221,6 +221,134 @@
                     "diseño-de-cabecera": "americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "4 plazas",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/kamas/sarki/americanos/8/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MOKI - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/americanos/bloques/moki/1/",
+            "precioRegular": 4399,
+            "precioNormal": 3199,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D3125236N10",
+            "tipo-de-envio": "Gratis",
+            "regalos": [ "4 cojines", "2 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "4 plazas",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/kamas/sarki/americanos/9/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/americanos/bloques/tortun/1/",
+            "precioRegular": 4399,
+            "precioNormal": 3199,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D3125236N11",
+            "tipo-de-envio": "Gratis",
+            "regalos": [ "4 cojines", "2 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "dormitorios",
+            "tamaño": "4 plazas",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/kamas/sarki/americanos/10/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO - DURAZNO HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 4399,
+            "precioNormal": 3199,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D3125234N10",
+            "tipo-de-envio": "Gratis",
+            "regalos": [ "4 cojines", "2 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "dormitorios",
+            "tamaño": "4 plazas",
+            "marca": "kamas",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/kamas/sarki/americanos/11/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/americanos/bloques/meshlock/1/",
+            "precioRegular": 4399,
+            "precioNormal": 3199,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "D3125236N12",
+            "tipo-de-envio": "Gratis",
+            "regalos": [ "4 cojines", "2 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
                 }
             ]
         }

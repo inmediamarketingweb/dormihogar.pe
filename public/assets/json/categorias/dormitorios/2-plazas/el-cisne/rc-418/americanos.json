@@ -1,0 +1,421 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA CAPITONEADO 1 - LILA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1299,
+            "precioVenta": 949,
+            "stock": 9,
+            "sku": "D33222123N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA CAPITONEADO 1 - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 3599,
+            "precioNormal": 1299,
+            "precioVenta": 949,
+            "stock": 9,
+            "sku": "D33222123N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/3/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA LINEAL 1 - CUERO VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/americanas/lineal-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1299,
+            "precioVenta": 949,
+            "stock": 9,
+            "sku": "D33222123N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA XTRATO + SABANERA - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/bloques/xtrato/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1349,
+            "stock": 9,
+            "sku": "D33222126N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Xtrato"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/5/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA GRID - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/bloques/grid/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "D33222126N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/6/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA OLIMPIC - TEJIDO CHOCOLATE ",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/bloques/olimpic/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "D33222126N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/7/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA OLIMPIC - FUCSIA ",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/bloques/olimpic/2/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "D33222126N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/8/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA SYDNEY - TEJIDO NEGRO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/bloques/sydney/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "D33222126N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Sydney"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/9/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/bloques/tortun/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "D33222126N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/10/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA CORONA ROBLO - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/coronas/otros-modelos/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1349,
+            "stock": 9,
+            "sku": "D33222125N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos Curvos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/11/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA CORONA CUADROS - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/coronas/princesa/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1349,
+            "stock": 9,
+            "sku": "D33222125N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Princesa",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Cuadros"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA CORONA CAPITONEADO - TABACO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/coronas/princesa/2/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1099,
+            "stock": 9,
+            "sku": "D33222125N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "bloques",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA CORONA CAPITONEADO - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos/coronas/princesa/3/",
+            "precioRegular": 3599,
+            "precioNormal": 1799,
+            "precioVenta": 1349,
+            "stock": 9,
+            "sku": "D33222125N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Princesa",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}
+

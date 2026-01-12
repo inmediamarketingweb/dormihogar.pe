@@ -1,0 +1,37 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "europeos con cajones",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA EMPERATRIZ CAPITONEADO 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/europeos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1699,
+            "precioVenta": 1349,
+            "stock": 9,
+            "sku": "D33321123N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Europeos con cajones",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Emperatriz",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}
+

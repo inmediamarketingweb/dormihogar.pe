@@ -206,6 +206,12 @@
         "/assets/json/categorias/dormitorios/2-plazas/el-cisne/presence/americanos.json",
         "/assets/json/categorias/dormitorios/2-plazas/el-cisne/presence/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/2-plazas/el-cisne/presence/europeos.json",
+        
+        "/assets/json/categorias/dormitorios/2-plazas/el-cisne/rc-418/americanos.json",
+        "/assets/json/categorias/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/2-plazas/el-cisne/rc-418/europeos.json",
+        "/assets/json/categorias/dormitorios/2-plazas/el-cisne/rc-418/europeos-con-cajones.json",
+        
 
 
 
@@ -262,6 +268,7 @@
         "/assets/json/categorias/dormitorios/queen/el-cisne/valente/americanos.json",
 
         "/assets/json/categorias/dormitorios/queen/el-cisne/rc-456/americanos.json",
+        "/assets/json/categorias/dormitorios/queen/el-cisne/rc-456/americanos-con-cajones.json",
     
 
 

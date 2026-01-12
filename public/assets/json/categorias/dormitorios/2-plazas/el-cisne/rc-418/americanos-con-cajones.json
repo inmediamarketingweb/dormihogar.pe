@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA EMPERATRIZ CAPITONEADO 1 - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1699,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "D33231103N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Emperatriz",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + El cisne",
+            "modelo": "RC-418",
+            "línea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA CLASICA 1 - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/clasicas/clasica-1/1/",
+            "precioRegular": 3599,
+            "precioNormal": 1699,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "D33231102N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":["3 cojines", "1 puff"],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El cisne",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "rc-418",
+                    "tipo-de-cabecera": "Aerea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ]
+        }
+    ]
+}
+

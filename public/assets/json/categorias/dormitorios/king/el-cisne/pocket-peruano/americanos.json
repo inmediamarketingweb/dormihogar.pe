@@ -49,12 +49,6 @@
             "stock": 9,
             "sku": "H33242286N10",
             "tipo-de-envio": "Gratis",
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/queen/paraiso/pocket/americanos/2/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",

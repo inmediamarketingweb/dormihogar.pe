@@ -9,8 +9,10 @@ import Categorias from '../Componentes/Categorias/Categorias';
 import FiltrosTop from '../Componentes/FiltrosTop/FiltrosTop';
 import { Producto } from '../../../Componentes/Plantillas/Producto/Producto';
 
+const baseURL = process.env.PUBLIC_URL || '';
+
 const normalizarTexto = (texto) => {
-    return texto.toLowerCase().normalize("NFD").replace(/\s+/g, "-");
+    return texto.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^\w-]/g, '');
 };
 
 const filtroKeyMap = {
@@ -24,6 +26,18 @@ const filtroKeyMap = {
     "brazos-de-cabecera": "brazos-de-cabecera"
 };
 
+const fetchWithTimeout = (url, timeout = 8000) => {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeout);
+    
+    return fetch(url, { signal: controller.signal })
+        .finally(() => clearTimeout(timeoutId));
+};
+
+const normalizarRutaArchivo = (ruta) => {
+    return ruta.replace(/\s+/g, '-').replace(/--+/g, '-').trim();
+};
+
 function Dormitorios() {
     const { sub1, sub2, sub3, sub4, sub5 } = useParams();
     const location = useLocation();
@@ -34,6 +48,7 @@ function Dormitorios() {
     const [orden, setOrden] = useState("ultimo");
     const [envioGratisActivo, setEnvioGratisActivo] = useState(false);
     const [isFiltersOpen, setIsFiltersOpen] = useState(false);
+    const [errorCarga, setErrorCarga] = useState(null);
     const filtersPanelRef = useRef(null);
     const queryParams = useMemo(() => new URLSearchParams(location.search), [location.search]);
 
@@ -63,12 +78,9 @@ function Dormitorios() {
     const mapaMarcasModelos = {
         "el-cisne": "el-cisne",
         "kamas---el-cisne": "el-cisne",
-        
         "kamas": "kamas",
-        
         "paraiso": "paraiso",
         "kamas---paraiso": "paraiso",
-        
         "komfort": "komfort",
         "kamas---komfort": "komfort",
         "komfort---kamas": "komfort"
@@ -77,12 +89,9 @@ function Dormitorios() {
     const mapaEquivalenciasMarcas = {
         "el-cisne": ["el-cisne", "kamas---el-cisne"],
         "kamas---el-cisne": ["el-cisne", "kamas---el-cisne"],
-        
         "kamas": ["kamas"],
-        
         "paraiso": ["paraiso", "kamas---paraiso"],
         "kamas---paraiso": ["paraiso", "kamas---paraiso"],
-        
         "komfort": ["komfort", "kamas---komfort", "komfort---kamas"],
         "kamas---komfort": ["komfort", "kamas---komfort", "komfort---kamas"],
         "komfort---kamas": ["komfort", "kamas---komfort", "komfort---kamas"]
@@ -101,14 +110,23 @@ function Dormitorios() {
         const cargarProductosDormitorios = async () => {
             try {
                 setLoading(true);
-                const manifestResponse = await fetch('/assets/json/manifest.json');
+                setErrorCarga(null);
+
+                const manifestUrl = `${baseURL}/assets/json/manifest.json`;                
+                const manifestResponse = await fetchWithTimeout(manifestUrl);
+
+                if (!manifestResponse.ok) {
+                    throw new Error(`Error HTTP ${manifestResponse.status} al cargar manifest.json`);
+                }
+
                 const manifestData = await manifestResponse.json();
-                const archivos = manifestData.files || [];
-
-                let archivosProductos = archivos.filter(url =>
-                    url.startsWith('/assets/json/categorias/dormitorios/')
-                );
-
+                
+                if (!manifestData.files || !Array.isArray(manifestData.files)) {
+                    throw new Error("Estructura de manifest.json inválida");
+                }
+                
+                let archivosProductos = manifestData.files.filter(url => url.startsWith('/assets/json/categorias/dormitorios/'));
+                
                 if (sub1) {
                     archivosProductos = archivosProductos.filter(
                         url => url.includes(`/dormitorios/${sub1}/`)
@@ -133,13 +151,44 @@ function Dormitorios() {
                     );
                 }
 
-                const productosPromesas = archivosProductos.map(async (url) => {
+                const archivosVerificados = [];
+
+                for (const url of archivosProductos) {
+                    const normalizadaUrl = normalizarRutaArchivo(url);
+                    const fullUrl = `${baseURL}${normalizadaUrl}`;
+
                     try {
-                        const response = await fetch(url);
+                        const headResponse = await fetch(fullUrl, { method: 'HEAD' });
+                        if (headResponse.ok) {
+                            archivosVerificados.push(normalizadaUrl);
+                        } else {
+                            console.warn(`Archivo no encontrado: ${fullUrl} (${headResponse.status})`);
+                        }
+                    } catch (error) {
+                        console.warn(`Error verificando archivo ${fullUrl}:`, error.message);
+                    }
+                }
+
+                const productosPromesas = archivosVerificados.map(async (url, index) => {
+                    await new Promise(resolve => setTimeout(resolve, index * 50));
+
+                    try {
+                        const fullUrl = `${baseURL}${url}`;
+                        const response = await fetchWithTimeout(fullUrl);
+
+                        if (!response.ok) {
+                            console.warn(`Error ${response.status} al cargar ${url}`);
+                            return [];
+                        }
+
                         const data = await response.json();
                         return data.productos || [];
                     } catch (error) {
-                        console.error(`Error cargando ${url}:`, error);
+                        if (error.name === 'AbortError') {
+                            console.warn(`Timeout al cargar ${url}`);
+                        } else {
+                            console.error(`Error cargando ${url}:`, error.message);
+                        }
                         return [];
                     }
                 });
@@ -149,7 +198,8 @@ function Dormitorios() {
 
                 setProductos(todosProductos);
             } catch (error) {
-                console.error("Error cargando productos:", error);
+                console.error("Error crítico cargando productos:", error);
+                setErrorCarga(error.message);
             } finally {
                 setLoading(false);
             }
@@ -163,7 +213,13 @@ function Dormitorios() {
 
         const cargarFiltros = async () => {
             try {
-                const response = await fetch('/assets/json/categorias/dormitorios/filtros.json');
+                const url = `${baseURL}/assets/json/categorias/dormitorios/filtros.json`;
+                const response = await fetchWithTimeout(url);
+
+                if (!response.ok) {
+                    throw new Error(`Error HTTP ${response.status} al cargar filtros.json`);
+                }
+
                 const data = await response.json();
                 setFiltros(data.filtros || []);
             } catch (error) {
@@ -184,7 +240,7 @@ function Dormitorios() {
             if (nombreFiltro === "modelos" && marcaSeleccionada) {
                 const marcaNormalizada = normalizarTexto(marcaSeleccionada);
                 const grupoModelos = mapaMarcasModelos[marcaNormalizada];
-                
+
                 if (grupoModelos) {
                     const modelosFiltrados = valoresFiltro.filter(grupo => {
                         const nombreGrupo = Object.keys(grupo)[0];
@@ -196,7 +252,7 @@ function Dormitorios() {
                         return { [nombreFiltro]: modelosFiltrados };
                     }
                 }
-                
+
                 return filtro;
             }
 
@@ -224,7 +280,7 @@ function Dormitorios() {
 
                 const normalizadoFiltro = normalizarTexto(valorFiltro);
                 const detalles = producto["detalles-del-producto"] || [];
-                
+
                 const cumpleFiltro = detalles.some(detalle => {
                     const valorProducto = detalle[claveJson];
                     if (!valorProducto) return false;
@@ -258,7 +314,6 @@ function Dormitorios() {
     const toggleFiltro = (nombreFiltro, valor) => {
         const normalizadoValor = normalizarTexto(valor);
         const newParams = new URLSearchParams(location.search);
-        
         const valorActual = newParams.get(nombreFiltro);
 
         if (valorActual === normalizadoValor) {
@@ -277,6 +332,10 @@ function Dormitorios() {
 
     const limpiarFiltros = () => {
         navigate(location.pathname, { replace: true });
+    };
+
+    const reintentarCarga = () => {
+        window.location.reload();
     };
 
     if (sub5) {
@@ -398,15 +457,27 @@ function Dormitorios() {
                     </div>
 
                     <div className='products-page-right'>
-                        <FiltrosTop setOrden={setOrden} orden={orden} 
-                            toggleFiltro={toggleFiltro} isFiltroActivo={isFiltroActivo}
-                            setIsFiltersOpen={setIsFiltersOpen} 
-                            isFiltersOpen={isFiltersOpen} productosCount={productosOrdenados.length}
+                        <FiltrosTop setOrden={setOrden} orden={orden} toggleFiltro={toggleFiltro} isFiltroActivo={isFiltroActivo}
+                            setIsFiltersOpen={setIsFiltersOpen} isFiltersOpen={isFiltersOpen} productosCount={productosOrdenados.length}
                             totalProductos={productos.length}
                         />
 
                         <div className='products-page-products-container'>
-                            {loading ? (
+                            {errorCarga ? (
+                                <div className="error-carga d-flex-center-center d-flex-column gap-20">
+                                    <div className="error-icon">
+                                        <span className="material-icons" style={{ fontSize: '48px', color: '#ff6b6b' }}>error</span>
+                                    </div>
+                                    <div className="d-flex-column gap-10 align-center">
+                                        <p className='text-bold color-color-1'>Error cargando productos</p>
+                                        <p className='text'>{errorCarga}</p>
+                                    </div>
+                                    <button type="button" className="button-primary" onClick={reintentarCarga}>
+                                        <span className="material-icons">refresh</span>
+                                        <p>Reintentar</p>
+                                    </button>
+                                </div>
+                            ) : loading ? (
                                 <div className="loading-products d-flex-center-center d-flex-column gap-10">
                                     <div className="spinner"></div>
                                     <p>Cargando productos...</p>
@@ -420,7 +491,7 @@ function Dormitorios() {
 
                                                 {queryParams.toString() && (
                                                     <button type="button" className="margin-right button-link button-link-2" onClick={limpiarFiltros}>
-                                                        <span class="material-icons">delete</span>
+                                                        <span className="material-icons">delete</span>
                                                         <p className='button-link-text'>Limpiar filtros</p>
                                                     </button>
                                                 )}

@@ -17,12 +17,6 @@
             "sku": "H32241283N10",
             "tipo-de-envio": "Gratis",
             "regalos":[ "3 cojines", "1 puff" ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "Queen",
-                    "ruta": "/productos/dormitorios/queen/paraiso/pocket/americanos-con-cajones/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",

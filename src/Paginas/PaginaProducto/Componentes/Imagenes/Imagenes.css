@@ -191,6 +191,11 @@
         top: 10px;
     }
 
+    .tipo-de-envio{
+        left: 10px;
+        top: 94px;
+    }
+
     .product-page-image-component{
         display: flex;
         flex-direction: column-reverse;

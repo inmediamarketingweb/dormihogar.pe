@@ -4,20 +4,7 @@ import { useEffect, useState } from "react";
 import './Regalos.css';
 
 function Regalos({ producto, descripcionColchon = null }) {
-    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     const [regalosConFotos, setRegalosConFotos] = useState([]);
-
-    useEffect(() => {
-        const handleResize = () => {
-            setIsSmallScreen(window.innerWidth < 600);
-        };
-
-        window.addEventListener('resize', handleResize);
-
-        return () => {
-            window.removeEventListener('resize', handleResize);
-        };
-    }, []);
 
     useEffect(() => {
         const extractColorFromName = () => {
@@ -153,16 +140,20 @@ function Regalos({ producto, descripcionColchon = null }) {
                     try {
                         const texto = typeof item === 'string' ? item.trim() : (item?.texto ?? "").toString().trim();
                         const foto = await buscarImagenRegalo(texto);
+                        const claseRegalo = normalizarNombreRegaloLiteral(texto);
 
                         return {
                             texto,
                             foto,
+                            claseRegalo,
                             esDelColchon: regalosDelColchon.includes(item)
                         };
                     } catch (error) {
+                        const texto = typeof item === "string" ? item : JSON.stringify(item);
                         return {
-                            texto: typeof item === "string" ? item : JSON.stringify(item),
+                            texto,
                             foto: null,
+                            claseRegalo: normalizarNombreRegaloLiteral(texto),
                             esDelColchon: regalosDelColchon.includes(item)
                         };
                     }
@@ -187,13 +178,9 @@ function Regalos({ producto, descripcionColchon = null }) {
 
             <ul>
                 {regalosConFotos.map((item) => (
-                    <li key={uuidv4()} className="d-flex gap-5 align-items-center">
+                    <li key={uuidv4()} className={`d-flex gap-5 align-items-center regalo-item ${item.claseRegalo}`}>
                         {item.foto ? (
-                            <img
-                                loading="lazy"
-                                src={item.foto}
-                                alt={item.texto}
-                                className="gift-image"
+                            <img loading="lazy" src={item.foto} alt={item.texto} className="gift-image" 
                                 onError={(e) => {
                                     e.target.style.display = 'none';
                                     const placeholder = e.target.parentElement.querySelector('.gift-placeholder');

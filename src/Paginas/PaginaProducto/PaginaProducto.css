@@ -15,7 +15,7 @@
 .product-page-container{
     width: 100%;
     display: grid;
-    grid-template-columns: 740px 1fr;
+    grid-template-columns: 700px 1fr;
     gap: 20px;
     position: relative;
 }

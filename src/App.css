@@ -13,13 +13,34 @@
     --color-1: crimson;
     --color-2: #FF0000;
 
+    --white: #FFFFFF;
+    --gray: #434343;
+    --black: #000000;
+
+    --text: #333333;
+    --f-size-small: 14px;
+
+    --container-mx-width: 2000px;
+    --content-mx-width: 1600px;
+
+    --t-100ms-linear: all 100ms linear;
+    --t-200ms-linear: all 200ms linear;
+    --t-300ms-linear: all 300ms linear;
+    --t-400ms-linear: all 400ms linear;
+
+    --kamas-1: #AD3362;
+
     --header: #FFFFFF;
 
     --body: #FFFFFF;
 
-    --white: #FFFFFF;
-    --gray: #434343;
-    --black: #000000;
+    --component: #E9E9E9;
+
+    --gratis: #0AC40A;
+    --preferente: blue;
+    --aplicado: orange;
+    --express: orangered;
+    --directo: crimson;
 
     --whatsapp: #25D366;
 
@@ -42,27 +63,37 @@
 }
 
 body{
+    width: 100vw;
     background: var(--body);
+    color: var(--text);
 }
 
 body::-webkit-scrollbar{
-    width: 8px;
-    background: rgba(0 0 0 / 0.075);
+    width: 6px;
+    display: none;
 }
 
 body::-webkit-scrollbar-thumb{
-    background: var(--color-2);
-    cursor: pointer;
+    background: var(--color-1);
+}
+
+body::selection{
+    background: var(--color-1);
+    color: var(--white);
 }
 
 main{
     width: 100%;
-    margin-top: 160px;
+    margin-top: 130px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .block-container{
     width: 100%;
-    padding: 20px;
+    padding: 0 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,7 +109,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     grid-column: 1/-1;
 }
 
@@ -87,6 +118,7 @@ main{
     font-weight: bold;
     font-size: 28px;
     color: #333333;
+    letter-spacing: -2px;
 }
 
 .block-title-buttons{
@@ -106,6 +138,10 @@ main{
     border-radius: 25px;
     color: var(--white);
     background: var(--color-1);
+}
+
+.border-bottom-2-solid-component{
+    border-bottom: 2px solid var(--component);
 }
 
 fieldset{
@@ -160,29 +196,52 @@ button{
     color: var(--color-1) !important;
 }
 
+.color-gray-4{
+    color: #444444;
+}
+
+.bg-component{
+    background: var(--component);
+}
+
+.border-r-6{
+    border-radius: 6px;
+}
+
 .text{
     color: var(--text);
     transition: var(--t-200ms-linear);
 }
 
-.cursive{
-    font-style: italic;
-}
-
 .title{
-    font-size: 19px;
+    font-size: 17px;
     font-weight: bold;
 }
 
-.first-uppercase{
-    display: inline-block;
+.underline{
+    text-decoration: underline;
+}
+
+.sub-title{
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+.uppercase{
+    text-transform: uppercase !important;
+}
+
+.font-bold{
+    font-weight: bold !important;
 }
 
 .first-uppercase::first-letter{
     text-transform: uppercase;
 }
 
-/**/
+.lowercase{
+    text-transform: lowercase !important;
+}
 
 .d-flex{
     display: flex;
@@ -228,7 +287,12 @@ button{
 }
 
 .w-100{
-    width: 100% !important;
+    width: 100%;
+}
+
+.d-grid-1-1{
+    display: grid;
+    grid-column: 1/-1;
 }
 
 .d-grid-2-1fr{
@@ -236,7 +300,27 @@ button{
     grid-template-columns: repeat(2, 1fr);
 }
 
+.d-grid-3-1fr{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.d-grid-3-auto-1fr{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
+
+.d-grid-1-2fr{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
 .d-grid-auto-1fr{
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.d-grid-auto-1fr-block{
     display: grid;
     grid-template-columns: auto 1fr;
 }
@@ -274,7 +358,7 @@ button{
 }
 
 .margin-left{
-    margin-left: auto;
+    margin-left: auto !important;
 }
 
 .margin-right{
@@ -285,14 +369,37 @@ button{
     margin-top: auto;
 }
 
+.margin-top-20{
+    margin-top: 20px;
+}
+
 .margin-bottom{
     margin-bottom: auto;
+}
+
+.margin-bottom-5{
+    margin-bottom: 5px !important;
+}
+
+.margin-bottom-10{
+    margin-bottom: 10px !important;
+}
+
+.padding-10{
+    padding: 10px !important;
+}
+
+.padding-20-to-0{
+    padding: 20px !important;
+}
+
+.padding-bottom-20{
+    padding-bottom: 20px;
 }
 
 .padding-right-20-to-0{
     padding-right: 20px;
 }
-
 
 .gap-5{
     gap: 5px;
@@ -306,8 +413,24 @@ button{
     gap: 20px;
 }
 
+.gap-20-to-10{
+    gap: 20px;
+}
+
+.padding-10-0{
+    padding: 10px 0;
+}
+
 .text-center{
     text-align: center;
+}
+
+.text-left{
+    text-align: left !important;
+}
+
+.h-100{
+    height: 100% !important;
 }
 
 .button-link{
@@ -354,16 +477,6 @@ button{
     color: var(--white);
 }
 
-/**/
-
-.button-link-2 img{
-    width: 24px;
-    height: auto;
-    aspect-ratio: 1/1;
-}
-
-/**/
-
 .button-link-3{
     width: auto;
     height: 48px;
@@ -377,6 +490,123 @@ button{
 
 .button-link-3 .button-link-text{
     color: var(--text);
+}
+
+.brand-link{
+    padding: 3px 6px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand-link p{
+    font-size: 14px;
+}
+
+.el-cisne-button-link{
+    background: var(--black);
+    border: 1px solid var(--black);
+}
+
+.el-cisne-button-link p{
+    color: gold;
+}
+
+.kamas-button-link{
+    background: #AD3362;
+    border: 1px solid #AD3362;
+}
+
+.kamas-button-link p{
+    color: var(--white);
+}
+
+.paraiso-button-link{
+    border: 1px solid crimson;
+    background: crimson;
+}
+
+.paraiso-button-link p{
+    color: var(--white);
+}
+
+.komfort-button-link{
+    border: 1px solid var(--black);
+    background: var(--white);
+}
+
+.komfort-button-link p{
+    display: inline-block;
+    color: var(--black);
+}
+
+.komfort-button-link p::first-letter{
+    color: crimson;
+}
+
+.button-1{
+    width: auto;
+    padding: 5px 10px;
+    border: 1px solid rgba(0 0 0 / 0.1);
+    transition: var(--t-200ms-linear);
+    background: rgba(0 0 0 / 0.05);
+    border-radius: 4px;
+}
+
+.button-1 p,
+.button-1 span{
+    transition: var(--t-200ms-linear) !important;
+}
+
+.button-1:hover,
+.button-1.active{
+    background: var(--color-1);
+}
+
+.button-1:hover p,
+.button-1:hover span,
+.button-1.active p,
+.button-1.active span{
+    color: var(--white) !important;
+}
+
+.product-card{
+    width: 100%;
+    /* max-width: 280px !important; */
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0 0 0 / 0.2);
+    background: var(--white);
+    border-radius: 6px;
+    overflow: hidden;
+    transition: var(--t-200ms-linear);
+}
+
+.product-card:hover{
+    border: 1px solid var(--color-1);
+}
+
+.product-card.agotado:hover{
+    border: 1px solid #FF0000;
+}
+
+.product-card-agotado{
+    background: #FF0000;
+}
+
+.product-card-agotado span{
+    color: var(--white);
+}
+
+.product-card-name{
+    transition: var(--t-200ms-linear);
+    color: var(--text);
+    font-size: 14px;
+}
+
+.product-card:hover .product-card-content .product-card-name{
+    color: var(--black);
 }
 
 .message{
@@ -408,7 +638,7 @@ button{
 
 .message-note{
     border: 1px solid green;
-    background: rgba(144 238 144 / 0.1);
+    background: rgba(37 214 76 / 0.1);
     border-radius: 4px;
 }
 
@@ -436,14 +666,20 @@ button{
     rotate: 270deg;
 }
 
+@media screen and (max-width: 800px){
+    .d-grid-5-3-2fr{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media screen and (max-width: 600px){
     *{
         cursor: none !important;
+        font-size: 19px;
     }
 
-    main{
-        width: 100%;
-        margin-top: 168px;
+    body::-webkit-scrollbar{
+        display: unset;
     }
 
     .visible-on-desktop-no-mobile{
@@ -454,6 +690,14 @@ button{
         display: unset;
     }
 
+    main{
+        margin-top: 110px;
+    }
+
+    .block-container{
+        padding: 0 10px;
+    }
+
     .block-title{
         margin-right: auto;
         text-align: left !important;
@@ -462,16 +706,28 @@ button{
     .d-grid-2-1fr,
     .d-grid-3-2-1fr,
     .d-grid-auto-1fr,
-    .d-grid-1-3fr{
-        grid-template-columns: 1fr;
+    .d-grid-1-3fr,
+    .d-grid-3-1fr,
+    .d-grid-3-auto-1fr{
+        grid-template-columns: 1fr !important;
     }
 
+    .d-grid-1-2fr,
     .d-grid-5-3-2fr{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .gap-20-to-10{
+        gap: 10px;
+    }
+
     .padding-right-20-to-0{
         padding-right: 0;
+    }
+
+    .padding-20-to-0{
+        padding: 0 !important;
+        padding: 0 0 0 0 !important;
     }
 }

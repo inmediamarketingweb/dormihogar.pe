@@ -184,7 +184,7 @@ function Productos() {
                                         {productosPagina.length === 0 ? (
                                             <div className='d-grid-1-1'>
                                                 <div className="d-flex-column gap-10">
-                                                    <p className='text'>No se encontraron productos.</p>
+                                                    <p className='text'>No se encontraron productos</p>
                                                 </div>
                                             </div>
                                         ) : (

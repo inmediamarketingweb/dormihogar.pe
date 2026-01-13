@@ -55,6 +55,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
     padding: 5px;
     font-size: 10px;
     color: var(--white);
@@ -69,14 +70,27 @@
     opacity: 1;
 }
 
-.product-page-gifts ul li:nth-child(1) p{
-    width: 60px;
+[class*="1-puff"] p,
+[class*="2-puff"] p {
+    width: 40px;
 }
 
-.product-page-gifts ul li:nth-child(2) p{
-    width: 76px;
+[class*="3-cojines"] p,
+[class*="4-cojines"] p{
+    width: 56px;
 }
 
-.product-page-gifts ul li:nth-child(3) p{
-    width: 48px;
+[class*="1-almohada"] p {
+    width: 72px;
+}
+
+[class*="2-almohadas"] p,
+[class*="3-almohadas"] p,
+[class*="4-almohadas"] p{
+    width: 74px;
+}
+
+[class*="2-almohadas-viscoelasticas"] p,
+[class*="1-protector-de-colchon"] p{
+    width: 80px;
 }

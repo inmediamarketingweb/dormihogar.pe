@@ -11,6 +11,7 @@ import Imagenes from './Componentes/Imagenes/Imagenes';
 import Regalos from './Componentes/Regalos/Regalos';
 import Resumen from './Componentes/Resumen/Resumen';
 import Medidas from './Componentes/Medidas/Medidas';
+import Envios from './Componentes/Envios/Envios';
 import Beneficios from './Componentes/Beneficios/Beneficios';
 import Colores from './Componentes/Colores/Colores';
 import Cantidad from './Componentes/Cantidad/Cantidad';
@@ -294,6 +295,7 @@ function PaginaProducto(){
     const [cargandoTipoDormitorio, setCargandoTipoDormitorio] = useState(false);
     const [cargandoCabecera, setCargandoCabecera] = useState(false);
     const [cantidad, setCantidad] = useState(1);
+    const [shippingInfo, setShippingInfo] = useState(null);
 
     useEffect(() => {
         let cancelled = false;
@@ -305,6 +307,7 @@ function PaginaProducto(){
             setDescripcionColchon(null);
             setDescripcionTipoDormitorio(null);
             setDescripcionCabecera(null);
+            setShippingInfo(null);
 
             const path = normalizePathWithTrailingSlash(location.pathname);
 
@@ -602,6 +605,23 @@ function PaginaProducto(){
         }
     }, [productoData.producto]);
 
+    const handleEnviosConfirm = (shippingData) => {
+        setShippingInfo(shippingData);
+        console.log('Información de envío seleccionada:', shippingData);
+    };
+
+    const getEnviosComponent = () => {
+        if (!productoData.producto) return null;
+        
+        // Asegurar que el producto tenga la propiedad 'tipo-de-envio'
+        const productoConEnvio = {
+            ...productoData.producto,
+            'tipo-de-envio': productoData.producto['tipo-de-envio'] || 'Gratis'
+        };
+        
+        return <Envios producto={productoConEnvio} onConfirm={handleEnviosConfirm} />;
+    };
+
     if (isCategoryFallback){
         return(
             <NoProducto/>
@@ -634,7 +654,7 @@ function PaginaProducto(){
         "sku": producto.sku,
         "brand": {
             "@type": "Brand",
-            "name": "Dormihogar"
+            "name": "dormihogar"
         },
         "offers": {
             "@type": "Offer",
@@ -652,13 +672,13 @@ function PaginaProducto(){
             <Helmet>
                 <title>{producto.nombre}</title>
                 <meta name="description" content={producto.nombre}/>
-                <link rel="preload" as="image" href={`https://homesleep.pe${producto.fotos}1.jpg`} />
-                <meta property="og:image" content={`https://homesleep.pe${producto.fotos}1.jpg`}/>
+                <link rel="preload" as="image" href={`https://dormihogar.pe${producto.fotos}1.jpg`} />
+                <meta property="og:image" content={`https://dormihogar.pe${producto.fotos}1.jpg`}/>
                 <meta property="og:title" content={producto.nombre}/>
                 <meta property="og:site_name" content={producto.nombre}/>
                 <meta property="og:description" content={producto.nombre}/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content={`https://homesleep.pe${producto.ruta}`}/>
+                <meta property="og:url" content={`https://dormihogar.pe${producto.ruta}`}/>
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 
@@ -705,7 +725,7 @@ function PaginaProducto(){
 
                                 <div>
                                     <div className='d-flex-column gap-20'>
-                                        <div className='d-grid-2-1fr gap-10'>
+                                        <div className='d-grid-3-1fr gap-10'>
                                             <div className='d-flex-column gap-20-to-10'>
                                                 <div className='visible-on-mobile-no-desktop'>
                                                     <div className='page-product-prices'>
@@ -731,15 +751,19 @@ function PaginaProducto(){
                                                 </div>
                                             </div>
 
-                                            <div className='d-flex-column gap-20-to-10'>
-                                                <div className='visible-on-desktop-no-mobile'>
-                                                    <div className='page-product-prices'>
-                                                        <div className='d-flex-center-left gap-5'>
-                                                            <p className='page-product-normal-price'>S/.{producto.precioNormal}</p>
-                                                            <span className="product-page-discount">-{descuento}%</span>
-                                                        </div>
+                                            {getEnviosComponent()}
 
-                                                        <p className='page-product-sale-price'>S/.{producto.precioVenta}</p>
+                                            <div className='d-flex-column gap-20-to-10'>
+                                                <div className='visible-on-desktop-no-mobiles'>
+                                                    <div className='d-flex-column gap-10'>
+                                                        <div className='page-product-prices'>
+                                                            <div className='d-flex-center-left gap-5'>
+                                                                <p className='page-product-normal-price'>S/.{producto.precioNormal}</p>
+                                                                <span className="product-page-discount">-{descuento}%</span>
+                                                            </div>
+
+                                                            <p className='page-product-sale-price'>S/.{producto.precioVenta}</p>
+                                                        </div>
                                                     </div>
                                                 </div>
 
@@ -760,7 +784,7 @@ function PaginaProducto(){
                                                 <div className='visible-on-desktop-no-mobile'>
                                                     <div className='button-continue-container'>
                                                         <Cantidad onChange={setCantidad}/>
-                                                        <WhatsApp producto={producto} quantity={cantidad}/>
+                                                        <WhatsApp producto={producto} quantity={cantidad} shippingInfo={shippingInfo}/>
                                                     </div>
                                                 </div>
                                             </div>
@@ -784,7 +808,7 @@ function PaginaProducto(){
                 <div className='visible-on-mobile-no-desktop'>
                     <div className='button-continue-container'>
                         <Cantidad onChange={setCantidad}/>
-                        <WhatsApp producto={producto} quantity={cantidad}/>
+                        <WhatsApp producto={producto} quantity={cantidad} shippingInfo={shippingInfo}/>
                     </div>
                 </div>
 

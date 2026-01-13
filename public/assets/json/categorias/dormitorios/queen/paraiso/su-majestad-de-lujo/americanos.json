@@ -1,0 +1,1473 @@
+{
+    "productos":[
+        {   
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "americanos",
+            "modelo": "Su majestad de lujo",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/1/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CAPITONEADO 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/capitoneado-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/2/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CAPITONEADO 1 - LILA FANDANGO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/capitoneado-1/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/3/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CUADROS 1 - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/cuadros-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/4/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CUADROS 1 - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/cuadros-1/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/5/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CUADROS 2 - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/cuadros-2/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/6/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CUADROS 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/cuadros-2/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/7/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CUADROS 2 - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/cuadros-2/3/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/8/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CUADROS 2 - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/cuadros-2/4/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/9/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CUADROS 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/cuadros-2/5/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N18",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/10/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA LINEAL 1 - ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/lineal-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/11/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA LINEAL 4 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/lineal-4/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/12/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA LUXURY ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/luxury/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N21",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/13/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA RECTANGULAR 1 - NEGRO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/rectangular-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 1"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/14/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA RECTANGULAR 2 - PLOMO OSCURO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/rectangular-2/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N23",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/15/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA EGYPT - VINO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/egypt/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/16/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA GRID - PLATA ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/grid/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/17/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA LINEAL HORIZONTAL - PLATA ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/linea-horizontal/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal Horizontal"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/18/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA MOSTER - PLATA NEW",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/moster/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moster"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/19/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA NILO - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/nilo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/20/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA OBSIDIAN - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/obsidian/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "D32242176N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Obsidian"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/21/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA OBSIDIAN - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/obsidian/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "D32242176N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Obsidian"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/22/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA PANAL- CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/panal/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Panal"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/23/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA PRESTIGE- ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/prestige/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N18",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Prestige"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/24/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA REPTILIAN - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/reptilian/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/25/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA SIDNEY - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/sidney/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/26/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA TORTUN - MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/tortun/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N21",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/27/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA TORTUN - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/tortun/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/28/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA VIENNA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/vienna/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N23",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/29/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA YACU - CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/yacu/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242176N24",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Yacu"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/30/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CON MARCO CAPITONEADO - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/con-marco/capitoneado-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "D32242174N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con Marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/31/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CORONA LINEAL - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/coronas/otros-modelos/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242175N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/32/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CORONA LINEAL - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/coronas/otros-modelos/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "D32242175N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/33/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA PEDESTAL SEA HORSE - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/pedestales/seahorse/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "D32242173N24",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "SeaHorse"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/34/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA PEDESTAL VESSO - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/pedestales/vesso/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2699,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "D32242173N25",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/35/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA TORTUN - TEJIDO CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/tortun/3/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N39",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/36/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA EGYTP + BAUL KING - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/egypt/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D32242173N26",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/37/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA OLIMPIC - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/olimpic/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N40",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/38/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA OLIMPIC - TEJIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/olimpic/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N28",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/39/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA OLIMPIC - TEJIDO CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/olimpic/3/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N29",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/40/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/moki/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "D32242173N30",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/41/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA GAVIOTA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/gaviota/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N31",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/42/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA CHAN CHAN - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/chanchan/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N32",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan Chan"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/43/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA GAVIOTA - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/gaviota/2/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N33",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/44/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA EGYPT - TEJIDO ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/egypt/3/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N34",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/45/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA ROBLO - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/roblo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N35",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/46/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA XPLORER - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/xplorer/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N36",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xtrato"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/47/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA ROMBOI - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/romboi/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N37",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/48/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA SPIDER - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/spider/1/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N38",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ]
+        },
+        {   
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/49/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AEREA LINEAL 4 - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/americanas/lineal-4/3/",
+            "precioRegular": 4999,
+            "precioNormal": 2199,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "D32242173N27",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        }
+    ]
+}

@@ -4,7 +4,7 @@
             "id": 1,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/1/",
@@ -16,12 +16,6 @@
             "stock": 9,
             "sku": "H33232113N10",
             "tipo-de-envio": "Gratis",
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -41,7 +35,7 @@
             "id": 2,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/2/",
@@ -53,26 +47,6 @@
             "stock": 9,
             "sku": "H33232113N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/2/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -92,7 +66,7 @@
             "id": 3,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/3/",
@@ -104,26 +78,6 @@
             "stock": 9,
             "sku": "H33232113N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/3/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -143,7 +97,7 @@
             "id": 4,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/4/",
@@ -155,26 +109,6 @@
             "stock": 9,
             "sku": "H33232113N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/4/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -194,7 +128,7 @@
             "id": 5,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/5/",
@@ -206,26 +140,6 @@
             "stock": 9,
             "sku": "H33232113N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/5/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -245,7 +159,7 @@
             "id": 6,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/6/",
@@ -257,26 +171,6 @@
             "stock": 9,
             "sku": "H33232113N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/6/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -296,7 +190,7 @@
             "id": 7,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/7/",
@@ -308,26 +202,6 @@
             "stock": 9,
             "sku": "H33232113N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/7/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -347,7 +221,7 @@
             "id": 8,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/8/",
@@ -359,26 +233,6 @@
             "stock": 9,
             "sku": "H33232113N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/8/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
@@ -398,7 +252,7 @@
             "id": 9,
             "categoria": "dormitorios",
             "tamaño": "Queen",
-            "marca": "Kamas / Cisne",
+            "marca": "Kamas + Cisne",
             "modelo": "pocket plus",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/el-cisne/pocket-plus/americanos/9/",
@@ -410,26 +264,6 @@
             "stock": 9,
             "sku": "H33232113N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/9/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",

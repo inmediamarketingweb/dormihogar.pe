@@ -1,0 +1,93 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "Europeos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-elizabeth/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO QUEEN KAMAS + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CAPITONEADO 1 - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/americanas/capitoneados-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2549,
+            "stock": 9,
+            "sku": "H3233293N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos",
+                    "tamaño": "queen",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Americano",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Paraiso",
+            "linea": "Europeos",
+            "modelo": "Royal Elizabeth",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-elizabeth/europeos/2/",
+            "nombre": "DORMITORIO EUROPEO QUEEN KAMAS + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CAPITONEADO 1 - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/americanas/capitoneados-1/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2549,
+            "stock": 9,
+            "sku": "H3233293N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos",
+                    "tamaño": "queen",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Americano",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "Europeos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-elizabeth/europeos/3/",
+            "nombre": "DORMITORIO EUROPEO QUEEN KAMAS + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA PEDESTAL EMPERATRIZ - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/pedestales/emperatriz/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2749,
+            "stock": 9,
+            "sku": "H3233293N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos",
+                    "tamaño": "queen",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Americano",
+                    "diseño-de-cabecera": "Pedestal",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

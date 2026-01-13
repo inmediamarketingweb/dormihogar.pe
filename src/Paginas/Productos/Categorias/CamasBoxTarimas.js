@@ -219,7 +219,6 @@ function CamasBoxTarimas() {
 
     const handlePageChange = (newPage) => {
         setCurrentPage(Math.max(1, Math.min(totalPages, newPage)));
-        // Desplazar hacia arriba cuando se cambia de página
         window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
@@ -258,7 +257,7 @@ function CamasBoxTarimas() {
     return(
         <>
             <Helmet>
-                <title>Camas Box Tarimas | Homesleep</title>
+                <title>Camas Box Tarimas | Dormihogar</title>
             </Helmet>
 
             <main className='products-page-main d-flex-column gap-20'>

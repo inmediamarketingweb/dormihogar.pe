@@ -1,0 +1,94 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "Super star negro",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/super-star-negro/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA AEREA CAPITONEADO 1 + 4 CAJONES - TURQUESA ÓPALO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones/americanas/capitoneados-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3499,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "H32231193N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "Super star negro",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/super-star-negro/americanos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL MAJESTAD + 2 CAJONES - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones/coronas/otros-modelos/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3599,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32231195N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "Super star negro",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/super-star-negro/americanos-con-cajones/3/",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL CAPITONEADO + 4 CAJONES - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones/pedestales/emperatriz/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3099,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32231193N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "americanos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Super star Negro",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

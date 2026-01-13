@@ -1,0 +1,36 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "medallon ergosoft",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/medallon/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN CON 2 CAJONES + COLCHÓN PARAISO MEDALLON + CABECERA AEREA CAPITONEADO 2 - LILA FANDANGO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos-con-cajones/americanas/capitoneados-2/1/",
+            "precioRegular": 3299,
+            "precioNormal": 2699,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "H32231263N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Americanos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Medallon ergosoft",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }                                                                 
+    ]
+}

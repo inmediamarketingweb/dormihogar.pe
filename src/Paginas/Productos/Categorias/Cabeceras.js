@@ -250,7 +250,7 @@ function Cabeceras() {
     return(
         <>
             <Helmet>
-                <title>Cabeceras | Homesleep</title>
+                <title>Cabeceras | Dormihogar</title>
             </Helmet>
 
             <main className='products-page-main d-flex-column gap-20'>

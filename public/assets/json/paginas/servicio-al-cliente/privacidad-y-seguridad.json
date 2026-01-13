@@ -45,7 +45,7 @@
                     "texto": "El número de tu tarjeta de crédito o clave."
                 },
                 {
-                    "texto": "La clave de tu cuenta Homesleep."
+                    "texto": "La clave de tu cuenta Dormihogar."
                 }
             ]
         },
@@ -53,10 +53,10 @@
             "title": "2.- Solicitud de actualizar tus datos o la información de tu cuenta:",
             "lista":[
                 {
-                    "texto": "Nunca te pediremos que actualices tu información en un sitio distinto a www.Homesleep.pe."
+                    "texto": "Nunca te pediremos que actualices tu información en un sitio distinto a www.Dormihogar.pe."
                 },
                 {
-                    "texto": "En caso de concursos o campañas que tengan como fin actualizar nuestras bases de datos, el email que te enviaremos te llevará directamente al home de Homesleep o a su portal de registro alojado en una dirección de www.Homesleep.pe"
+                    "texto": "En caso de concursos o campañas que tengan como fin actualizar nuestras bases de datos, el email que te enviaremos te llevará directamente al home de Dormihogar o a su portal de registro alojado en una dirección de www.Dormihogar.pe"
                 }
             ]
         },
@@ -64,13 +64,13 @@
             "title": "3.- Archivos adjuntos sospechosos en el email:",
             "lista":[
                 {
-                    "texto": "En Productos Homesleep del Peru s.a.c y Corporacion Tairo s.a.c nunca enviaremos archivos adjuntos en sus emails ni tampoco se lo permitirá a negocios asociados, a menos que tú solicites recibir en el correo documentos como, por ejemplo, estados de cuenta."
+                    "texto": "En Productos Dormihogar del Peru s.a.c y Corporacion Tairo s.a.c nunca enviaremos archivos adjuntos en sus emails ni tampoco se lo permitirá a negocios asociados, a menos que tú solicites recibir en el correo documentos como, por ejemplo, estados de cuenta."
                 },
                 {
                     "texto": "Te recomendamos nunca abrir un archivo adjunto de un remitente desconocido."
                 },
                 {
-                    "texto": "Si llegaras a recibir un correo que supuestamente venga de Homesleep y contenga un archivo adjunto, reenvíalo a contactenos@Homesleep.pe."
+                    "texto": "Si llegaras a recibir un correo que supuestamente venga de Dormihogar y contenga un archivo adjunto, reenvíalo a contactenos@Dormihogar.pe."
                 },
                 {
                     "texto": "Si por alguna razón llegaras a abrir el archivo sospechoso adjunto, haz correr tu antivirus de inmediato."
@@ -80,7 +80,7 @@
         {
             "textos":[
                 {
-                    "texto": "Todo correo que Homesleep podemos enviar tienen que contener esta dirección de correo ejemplo@Homesleep.pe, caso no contenta el dominio mencionado pedimos que no abran dicho correo."
+                    "texto": "Todo correo que Dormihogar podemos enviar tienen que contener esta dirección de correo ejemplo@Dormihogar.pe, caso no contenta el dominio mencionado pedimos que no abran dicho correo."
                 }
             ]
         }

@@ -99,7 +99,7 @@ function WhatsApp({ producto, quantity = 1, shippingInfo }) {
             }
         }
         
-        mensaje += `https://homesleep.pe${producto.ruta}`;
+        mensaje += `https://dormihogar.pe${producto.ruta}`;
 
         return `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensaje)}`;
     };

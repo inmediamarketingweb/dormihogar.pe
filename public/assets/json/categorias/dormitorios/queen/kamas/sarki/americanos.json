@@ -8,7 +8,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/1/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -16,26 +16,6 @@
             "stock": 9,
             "sku": "H3123233N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/1/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -59,7 +39,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/2/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -67,26 +47,6 @@
             "stock": 9,
             "sku": "H3123233N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/2/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -110,7 +70,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/3/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA 2 - IVORY",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA 2 - IVORY",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-2/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -118,22 +78,6 @@
             "stock": 9,
             "sku": "H3123233N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/3/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -157,7 +101,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/4/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - IKER MORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - IKER MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-2/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -165,26 +109,6 @@
             "stock": 9,
             "sku": "H3123233N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/4/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -208,7 +132,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/5/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - VERDE LORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -216,26 +140,6 @@
             "stock": 9,
             "sku": "H3123233N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/5/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -259,7 +163,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/6/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 4 - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 4 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-4/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -267,26 +171,6 @@
             "stock": 9,
             "sku": "H3123233N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/6/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -310,7 +194,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/7/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 5 - CHAMPAGNE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 5 - CHAMPAGNE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-5/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -318,18 +202,6 @@
             "stock": 9,
             "sku": "H3123233N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/7/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -353,7 +225,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/8/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA RECTANGULAR 1 - CUERO NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA RECTANGULAR 1 - CUERO NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/rectangular-1/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -361,22 +233,6 @@
             "stock": 9,
             "sku": "H3123233N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/8/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -400,7 +256,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/9/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORAZÓN - TEJIDO PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORAZÓN - TEJIDO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/corazon/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -408,22 +264,6 @@
             "stock": 9,
             "sku": "H3123236N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/9/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -447,7 +287,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/10/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA EGYPT - VINO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA EGYPT - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/egypt/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -455,22 +295,6 @@
             "stock": 9,
             "sku": "H3123236N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/10/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -494,7 +318,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/11/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA GRID - ARENA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA GRID - ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/grid/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -502,22 +326,6 @@
             "stock": 9,
             "sku": "H3123236N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/11/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -541,7 +349,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/12/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 2 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 2 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/lineal-2/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -549,22 +357,6 @@
             "stock": 9,
             "sku": "H3123236N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/12/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -588,7 +380,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/13/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 2 - PLOMO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 2 - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/lineal-2/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -596,22 +388,6 @@
             "stock": 9,
             "sku": "H3123236N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/13/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -635,7 +411,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/14/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA NILO - ANTIFLUIDO PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA NILO - ANTIFLUIDO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/nilo/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -643,22 +419,6 @@
             "stock": 9,
             "sku": "H3123236N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/14/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -682,7 +442,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/15/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA OBSIDIAN - ARENA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA OBSIDIAN - ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/obsidian/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -690,22 +450,6 @@
             "stock": 9,
             "sku": "H3123236N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/15/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -729,7 +473,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/16/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA OLIMPIC - TEJIDO TABACO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA OLIMPIC - TEJIDO TABACO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/olimpic/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -737,22 +481,6 @@
             "stock": 9,
             "sku": "H3123236N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/16/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -776,7 +504,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/17/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PANAL - CAMEL",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PANAL - CAMEL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/panal/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -784,22 +512,6 @@
             "stock": 9,
             "sku": "H3123236N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/17/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -823,7 +535,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/18/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PRESTIGE - CUERO ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PRESTIGE - CUERO ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/prestige/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -831,22 +543,6 @@
             "stock": 9,
             "sku": "H3123236N19",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/18/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -870,7 +566,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/19/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA REPTILIAN - CUERO NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA REPTILIAN - CUERO NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/reptilian/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -878,22 +574,6 @@
             "stock": 9,
             "sku": "H3123236N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/19/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -917,7 +597,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/21/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - TEJIDO ARENA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - TEJIDO ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/tortun/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -925,22 +605,6 @@
             "stock": 9,
             "sku": "H3123236N22",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/21/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -964,7 +628,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/22/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - TEJIDO NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - TEJIDO NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/tortun/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -972,22 +636,6 @@
             "stock": 9,
             "sku": "H3123236N23",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/22/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1011,7 +659,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/23/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU - CUERO CAMEL",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU - CUERO CAMEL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/yacu/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1019,22 +667,6 @@
             "stock": 9,
             "sku": "H3123236N24",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/23/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1058,7 +690,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/24/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU - CUERO NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU - CUERO NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/otros-modelos/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1066,22 +698,6 @@
             "stock": 9,
             "sku": "H3123236N25",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/24/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1105,30 +721,13 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/25/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA 2 - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA 2 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/clasicas/clasica-2/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "H3123232N10",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/25/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1152,7 +751,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/26/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA 2 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA 2 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/clasicas/clasica-2/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1160,22 +759,6 @@
             "stock": 9,
             "sku": "H3123232N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/26/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1199,7 +782,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/27/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA LINEAL 6 - CHAMPAGNE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA LINEAL 6 - CHAMPAGNE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/lineal-6/1/",
             "precioRegular": 3999,
             "precioNormal": 3599,
@@ -1207,22 +790,6 @@
             "stock": 9,
             "sku": "H3123235N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/27/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1246,7 +813,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/28/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/3/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1254,22 +821,6 @@
             "stock": 9,
             "sku": "H3123233N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/28/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1293,7 +844,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/29/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - PLOMO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/4/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1301,22 +852,6 @@
             "stock": 9,
             "sku": "H3123233N19",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/29/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1340,7 +875,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/30/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - DURAZNO AZUL NOCHE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - DURAZNO AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/6/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1348,22 +883,6 @@
             "stock": 9,
             "sku": "H3123233N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/30/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1387,7 +906,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/31/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/capitoneado-1/7/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1395,22 +914,6 @@
             "stock": 9,
             "sku": "H3123233N21",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/31/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1434,7 +937,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/32/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-1/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1442,22 +945,6 @@
             "stock": 9,
             "sku": "H3123233N22",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/32/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1481,7 +968,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/33/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - MORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-1/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1489,22 +976,6 @@
             "stock": 9,
             "sku": "H3123233N23",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/33/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1528,7 +999,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/34/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-1/3/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1536,22 +1007,6 @@
             "stock": 9,
             "sku": "H3123233N24",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/34/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1575,7 +1030,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/35/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - COBALTO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-1/4/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1583,22 +1038,6 @@
             "stock": 9,
             "sku": "H3123233N25",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/35/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1622,7 +1061,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/36/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - ARENA CLARO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - ARENA CLARO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-2/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1630,22 +1069,6 @@
             "stock": 9,
             "sku": "H3123233N26",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/36/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1669,7 +1092,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/37/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-2/3/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1677,22 +1100,6 @@
             "stock": 9,
             "sku": "H3123233N27",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/37/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1716,7 +1123,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/38/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - AZUL NOCHE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-2/4/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1724,22 +1131,6 @@
             "stock": 9,
             "sku": "H3123233N28",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/38/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1763,7 +1154,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/39/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/cuadros-2/6/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1771,22 +1162,6 @@
             "stock": 9,
             "sku": "H3123233N29",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/39/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1810,7 +1185,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/40/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - CENIZO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - CENIZO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1818,22 +1193,6 @@
             "stock": 9,
             "sku": "H3123233N30",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/40/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1857,7 +1216,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/41/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/3/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1865,22 +1224,6 @@
             "stock": 9,
             "sku": "H3123233N31",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/41/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1904,7 +1247,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/42/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - UVA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - UVA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/4/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1912,22 +1255,6 @@
             "stock": 9,
             "sku": "H3123233N32",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/42/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1951,7 +1278,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/43/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/5/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -1959,22 +1286,6 @@
             "stock": 9,
             "sku": "H3123233N33",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/43/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -1998,7 +1309,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/44/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - AZUL",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - AZUL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/6/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2006,22 +1317,6 @@
             "stock": 9,
             "sku": "H3123233N34",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/44/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2045,7 +1340,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/45/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - CAMEL",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - CAMEL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/7/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2053,22 +1348,6 @@
             "stock": 9,
             "sku": "H3123233N35",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/45/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2092,7 +1371,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/46/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - ARENA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 1 - ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-1/8/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2100,22 +1379,6 @@
             "stock": 9,
             "sku": "H3123233N36",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/46/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2139,7 +1402,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/47/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - VERDE LORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-3/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2147,22 +1410,6 @@
             "stock": 9,
             "sku": "H3123233N37",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/47/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2186,7 +1433,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/48/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-3/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2194,22 +1441,6 @@
             "stock": 9,
             "sku": "H3123233N38",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/48/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2233,7 +1464,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/49/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - AZUL",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - AZUL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-3/3/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2241,22 +1472,6 @@
             "stock": 9,
             "sku": "H3123233N49",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/49/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2280,7 +1495,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/50/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-3/4/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2288,22 +1503,6 @@
             "stock": 9,
             "sku": "H3123233N50",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/50/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2327,7 +1526,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/51/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 4 - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 4 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/americanas/lineal-4/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2335,22 +1534,6 @@
             "stock": 9,
             "sku": "H3123233N51",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/51/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2374,7 +1557,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/52/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - COBALTO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/con-marco/capitoneado-1/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2382,22 +1565,6 @@
             "stock": 9,
             "sku": "H3123234N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/52/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2421,7 +1588,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/53/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/con-marco/capitoneado-1/2/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2429,22 +1596,6 @@
             "stock": 9,
             "sku": "H3123234N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/53/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2468,7 +1619,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/54/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - VINO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/con-marco/capitoneado-1/3/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2476,22 +1627,6 @@
             "stock": 9,
             "sku": "H3123234N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/54/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2515,7 +1650,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/55/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADO 1 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/con-marco/capitoneado-1/4/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -2523,22 +1658,6 @@
             "stock": 9,
             "sku": "H3123234N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/55/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2562,7 +1681,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/56/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL 1 - ARENA OSCURO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL 1 - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/coronas/lineal-1/1/",
             "precioRegular": 3099,
             "precioNormal": 2599,
@@ -2570,22 +1689,6 @@
             "stock": 9,
             "sku": "H3123235N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/56/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2609,7 +1712,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/57/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL 1 - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL 1 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/coronas/lineal-1/2/",
             "precioRegular": 3099,
             "precioNormal": 2599,
@@ -2617,22 +1720,6 @@
             "stock": 9,
             "sku": "H3123235N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/57/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2656,7 +1743,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/58/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/1/",
             "precioRegular": 2979,
             "precioNormal": 2479,
@@ -2664,22 +1751,6 @@
             "stock": 9,
             "sku": "H3123233N52",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/58/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2703,7 +1774,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/59/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - AZUL NOCHE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/2/",
             "precioRegular": 2979,
             "precioNormal": 2479,
@@ -2711,22 +1782,6 @@
             "stock": 9,
             "sku": "H3123233N53",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/59/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2750,7 +1805,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/60/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/3/",
             "precioRegular": 2979,
             "precioNormal": 2479,
@@ -2758,22 +1813,6 @@
             "stock": 9,
             "sku": "H3123233N54",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/60/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2797,7 +1836,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/61/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - PLOMO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/4/",
             "precioRegular": 2979,
             "precioNormal": 2479,
@@ -2805,22 +1844,6 @@
             "stock": 9,
             "sku": "H3123233N55",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/61/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2844,7 +1867,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/62/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/5/",
             "precioRegular": 2979,
             "precioNormal": 2479,
@@ -2852,22 +1875,6 @@
             "stock": 9,
             "sku": "H3123233N56",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/62/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2891,7 +1898,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/63/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BRAZOS SEAHORSE - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BRAZOS SEAHORSE - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/6/",
             "precioRegular": 3399,
             "precioNormal": 2899,
@@ -2899,22 +1906,6 @@
             "stock": 9,
             "sku": "H3123233N57",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/63/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2938,7 +1929,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/64/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BRAZOS SEAHORSE - ARENA OSCURO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BRAZOS SEAHORSE - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/7/",
             "precioRegular": 3399,
             "precioNormal": 2899,
@@ -2946,22 +1937,6 @@
             "stock": 9,
             "sku": "H3123233N58",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/64/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -2985,7 +1960,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/65/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BRAZOS SEAHORSE - VERDE LORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BRAZOS SEAHORSE - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/americanas/capitoneado-1/8/",
             "precioRegular": 3399,
             "precioNormal": 2899,
@@ -2993,22 +1968,6 @@
             "stock": 9,
             "sku": "H3123233N59",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/65/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3032,7 +1991,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/66/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - BEIGE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/lunar/1/",
             "precioRegular": 3119,
             "precioNormal": 2619,
@@ -3040,22 +1999,6 @@
             "stock": 9,
             "sku": "H3123235N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/66/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3079,7 +2022,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/67/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - VERDE LORO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/lunar/2/",
             "precioRegular": 3119,
             "precioNormal": 2619,
@@ -3087,22 +2030,6 @@
             "stock": 9,
             "sku": "H3123235N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/67/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3126,7 +2053,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/68/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - PLOMO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/lunar/3/",
             "precioRegular": 3119,
             "precioNormal": 2619,
@@ -3134,22 +2061,6 @@
             "stock": 9,
             "sku": "H3123235N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/68/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3173,7 +2084,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/69/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - AZUL NOCHE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/lunar/4/",
             "precioRegular": 3119,
             "precioNormal": 2619,
@@ -3181,22 +2092,6 @@
             "stock": 9,
             "sku": "H3123235N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/69/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3220,7 +2115,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/70/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/lunar/5/",
             "precioRegular": 3119,
             "precioNormal": 2619,
@@ -3228,22 +2123,6 @@
             "stock": 9,
             "sku": "H3123235N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/70/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3267,7 +2146,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/71/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA - CUERO NEGRO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA - CUERO NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/otros-modelos/1/",
             "precioRegular": 3099,
             "precioNormal": 2299,
@@ -3275,22 +2154,6 @@
             "stock": 9,
             "sku": "H3123235N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/71/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3314,7 +2177,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/72/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - PLATA",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/princesa/1/",
             "precioRegular": 3299,
             "precioNormal": 2799,
@@ -3322,22 +2185,6 @@
             "stock": 9,
             "sku": "H3123235N19",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/72/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3361,7 +2208,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/73/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/princesa/2/",
             "precioRegular": 3299,
             "precioNormal": 2799,
@@ -3369,22 +2216,6 @@
             "stock": 9,
             "sku": "H3123235N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/73/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3408,7 +2239,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/74/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - COBALTO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/princesa/3/",
             "precioRegular": 3299,
             "precioNormal": 2799,
@@ -3416,22 +2247,6 @@
             "stock": 9,
             "sku": "H3123235N21",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/74/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3455,7 +2270,7 @@
             "modelo": "sarki",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/75/",
-            "nombre": "DORMITORIO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO - ROJO",
+            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/pedestales/coronas/vesso/1/",
             "precioRegular": 3499,
             "precioNormal": 2999,
@@ -3463,22 +2278,6 @@
             "stock": 9,
             "sku": "H3123235N22",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/dormitorios/king/kamas/sarki/americanos/75/"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
@@ -3491,52 +2290,6 @@
                     "diseño-de-cabecera": "corona",
                     "brazos-de-cabecera": "brazos curvos",
                     "modelo-de-cabecera": "Vesso"
-                }
-            ]
-        }
-    ],
-    "descripciones":[
-        {
-            "titulo": "Cama box tarima",
-            "descripcion":[
-                {
-                    "madera": "Pino americano seco al horno.",
-                    "refuerzos": "centrales y laterales.",
-                    "láminas": "MDF de 3mm.",
-                    "tela": "Piel de potro",
-                    "patas": "Cromadas o de madera",
-                    "garantía": "2 años"
-                }
-            ]
-        },
-        {
-            "titulo": "Colchón",
-            "descripcion":[
-                {
-                    "resortes": "18 filas",
-                    "material-de-resorte": "Acero templado",
-                    "tela": "Algodón tejido en punto",
-                    "densidad-de-espuma": "18kg/m3",
-                    "tipo-de-uso": "Ambos lados",
-                    "refuerzos": "Centrales",
-                    "marco": "Sellado",
-                    "grosor": "30cm.",
-                    "soporte-de-peso": "80kg. por persona por persona",
-                    "garantía": "3 años"
-                }
-            ]
-        },
-        {
-            "titulo": "Cabecera",
-            "descripcion":[
-                {
-                    "madera": "Pino americano seco al horno.",
-                    "espuma": "Zebra de alta densidad",
-                    "láminas": "MDF de 3mm.",
-                    "tela": "Piel de potro",
-                    "patas": "De manera",
-                    "botones": "clásicos o acrílicos",
-                    "garantía": "2 años"
                 }
             ]
         }

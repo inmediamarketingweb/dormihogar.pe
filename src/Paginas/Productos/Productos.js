@@ -106,7 +106,7 @@ function Productos() {
     return(
         <>
             <Helmet>
-                <title>Productos | Homesleep</title>
+                <title>Productos | Dormihogar</title>
             </Helmet>
 
             <main className='products-page-main d-flex-column gap-20'>
@@ -117,44 +117,44 @@ function Productos() {
                         <div className='products-page-filters-container'>
                             <div className='products-page-filters d-flex-column gap-20'>
                                 <div className='d-flex-column padding-bottom-20 border-bottom-2-solid-component'>
-                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>homesleep</p>
+                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Dormihogar</p>
                                     <p className='uppercase w-100 d-flex'>Las mejores marcas en productos para el descanso</p>
                                 </div>
 
                                 <div className='products-page-categories-container'>
                                     <ul className='products-page-categories-list'>
                                         <li>
-                                            <a href='/colchones/' title='Colchones | Homesleep' className=''>
+                                            <a href='/colchones/' title='Colchones | Dormihogar' className=''>
                                                 <p>Colchones</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/productos/camas-box-tarimas/' title='Camas box tarimas | Homesleep' className=''>
+                                            <a href='/productos/camas-box-tarimas/' title='Camas box tarimas | Dormihogar' className=''>
                                                 <p>Camas box tarimas</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/productos/dormitorios/' title='Dormitorios | Homesleep' className=''>
+                                            <a href='/productos/dormitorios/' title='Dormitorios | Dormihogar' className=''>
                                                 <p>Dormitorios</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/productos/camas-funcionales/' title='Camas funcionales | Homesleep' className=''>
+                                            <a href='/productos/camas-funcionales/' title='Camas funcionales | Dormihogar' className=''>
                                                 <p>Camas funcionales</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/productos/cabeceras/' title='Cabeceras | Homesleep' className=''>
+                                            <a href='/productos/cabeceras/' title='Cabeceras | Dormihogar' className=''>
                                                 <p>Cabeceras</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/productos/sofas/' title='Sofás | Homesleep' className=''>
+                                            <a href='/productos/sofas/' title='Sofás | Dormihogar' className=''>
                                                 <p>Sofás</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/productos/complementos/' title='Complementos | Homesleep' className=''>
+                                            <a href='/productos/complementos/' title='Complementos | Dormihogar' className=''>
                                                 <p>Complementos</p>
                                             </a>
                                         </li>

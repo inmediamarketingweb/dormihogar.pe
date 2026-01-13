@@ -252,7 +252,7 @@ function CamasFuncionales() {
     return(
         <>
             <Helmet>
-                <title>Camas Funcionales | Homesleep</title>
+                <title>Camas Funcionales | Dormihogar</title>
             </Helmet>
 
             <main className='products-page-main d-flex-column gap-20'>
@@ -263,7 +263,7 @@ function CamasFuncionales() {
                         <div className='products-page-filters-container-global'>
                             <div className='d-flex-column gap-20'>
                                 <div className='d-flex-column padding-bottom-20 border-bottom-2-solid-component'>
-                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Homesleep</p>
+                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Dormihogar</p>
                                     <button type='button' className='filters-button-close margin-left' onClick={closeFilters}>
                                         <span className="material-icons color-color-1">close</span>
                                     </button>

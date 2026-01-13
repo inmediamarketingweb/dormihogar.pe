@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "Royal Dynasty",
+            "linea": "Europeos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO QUEEN KAMAS + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA AEREA CAPITONEADO 1 - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/europeos/americanas/capitoneados-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "H3233273N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos",
+                    "tamaño": "queen",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Dynasty",
+                    "tipo-de-cabecera": "Americano",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "marca": "Kamas + Paraiso",
+            "linea": "Europeos",
+            "tamaño": "queen",
+            "modelo": "Royal Dynasty",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO QUEEN KAMAS + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA AEREA CAPITONEADO 1 - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/europeos/americanas/capitoneados-1/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "H3233273N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos",
+                    "tamaño": "queen",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Dynasty",
+                    "tipo-de-cabecera": "Americano",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin Brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "royal abrazzo",
+            "linea": "Europeos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/abrazzo/europeos-con-cajones/1/",
+            "nombre": "DORMITORIO KAMAS EUROPEO QUEEN + COLCHÓN PARAISO ABRAZZO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/europeos-con-cajones/pedestales/emperatriz/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3999,
+            "precioVenta": 3349,
+            "stock": 9,
+            "sku": "H3233113N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "royal abrazzo",
+            "linea": "Europeos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/abrazzo/europeos-con-cajones/2/",
+            "nombre": "DORMITORIO KAMAS EUROPEO QUEEN + COLCHÓN PARAISO ABRAZZO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/europeos-con-cajones/pedestales/emperatriz/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3999,
+            "precioVenta": 3349,
+            "stock": 9,
+            "sku": "H3233113N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "royal abrazzo",
+            "linea": "Europeos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/abrazzo/europeos-con-cajones/3/",
+            "nombre": "DORMITORIO KAMAS EUROPEO QUEEN + COLCHÓN PARAISO ABRAZZO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/europeos-con-cajones/pedestales/emperatriz/3/",
+            "precioRegular": 4999,
+            "precioNormal": 3999,
+            "precioVenta": 3349,
+            "stock": 9,
+            "sku": "H3233113N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "royal abrazzo",
+            "linea": "Europeos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/abrazzo/europeos-con-cajones/4/",
+            "nombre": "DORMITORIO KAMAS EUROPEO QUEEN + COLCHÓN PARAISO ABRAZZO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/europeos-con-cajones/pedestales/emperatriz/4/",
+            "precioRegular": 4999,
+            "precioNormal": 3999,
+            "precioVenta": 3349,
+            "stock": 9,
+            "sku": "H3233113N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "Kamas + Paraiso",
+            "modelo": "royal abrazzo",
+            "linea": "Europeos con cajones",
+            "ruta": "/productos/dormitorios/queen/paraiso/abrazzo/europeos-con-cajones/5/",
+            "nombre": "DORMITORIO KAMAS EUROPEO QUEEN + COLCHÓN PARAISO ABRAZZO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/europeos-con-cajones/pedestales/emperatriz/5/",
+            "precioRegular": 4999,
+            "precioNormal": 3999,
+            "precioVenta": 3349,
+            "stock": 9,
+            "sku": "H3233113N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Paraiso",
+                    "línea": "Europeos con cajones",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Abrazzo",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

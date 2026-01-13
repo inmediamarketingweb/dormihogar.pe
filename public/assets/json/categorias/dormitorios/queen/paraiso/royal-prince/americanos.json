@@ -1,0 +1,484 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/1/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA CUADROS 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/americanas/cuadros-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232153N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/2/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA CUADROS 2 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/americanas/cuadros-2/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232153N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/3/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA CUADROS 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/americanas/cuadros-2/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232153N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/4/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA CUADROS 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/americanas/cuadros-2/3/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232153N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/5/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA LINEAL 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/americanas/lineal-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232153N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/6/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA LINEAL 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/americanas/lineal-1/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232153N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/7/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/americanas/lineal-3/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232153N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/8/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA LINEAL HORIZONTAL - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/bloques/lineal-horizontal/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232156N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal Horizontal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/9/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA MESHLOCK - TURQUESA ÓPALO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/bloques/meshlock/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232156N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/10/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA OBSIDIAN - TURQUESA ÓPALO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/bloques/obsidian/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "H32232156N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/11/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA OBSIDIAN - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/bloques/obsidian/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "H32232156N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA PISSAC - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/bloques/pissac/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232156N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Pissac"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA V - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/bloques/vienna/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "H32232156N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "V"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA CON MARCO CAPITONEADO - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/con-marco/otros-modelos/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "H32232154N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con Marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA CORONA LINEAL - TURQUESA ÓPALO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/coronas/otros-modelos/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2349,
+            "stock": 9,
+            "sku": "H32232155N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "queen",
+            "marca": "kamas + Paraiso",
+            "modelo": "Royal Prince",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/queen/paraiso/royal-prince/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO QUEEN KAMAS + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL VESSO - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/americanos/pedestales/vesso/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2499,
+            "stock": 9,
+            "sku": "H32232155N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas - Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Prince",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        }
+    ]
+}

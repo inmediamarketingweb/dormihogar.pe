@@ -37,14 +37,12 @@ function Complementos() {
     const [isFiltersOpen, setIsFiltersOpen] = useState(false);
     const filtersPanelRef = useRef(null);
     const queryParams = useMemo(() => new URLSearchParams(location.search), [location.search]);
+    const [currentPage, setCurrentPage] = useState(1);
+    const itemsPerPage = 20;
 
-    const closeFilters = () => {
-        setIsFiltersOpen(false);
-    };
+    const closeFilters = () => { setIsFiltersOpen(false); };
 
-    const toggleEnvioGratis = () => {
-        setEnvioGratisActivo(!envioGratisActivo);
-    };
+    const toggleEnvioGratis = () => { setEnvioGratisActivo(!envioGratisActivo); setCurrentPage(1); };
 
     useEffect(() => {
         const handleClickOutside = (event) => {
@@ -89,7 +87,7 @@ function Complementos() {
         const path = location.pathname;
         const partes = path.split('/').filter(Boolean);
         const partesRelevantes = partes.slice(1);
-    
+
         return partesRelevantes.join('/');
     };
 
@@ -119,13 +117,9 @@ function Complementos() {
 
                 if (rutaActual) {
                     archivosProductos = archivosProductos.filter(url => {
-                        const rutaArchivo = url.replace('/assets/json/categorias/', '').replace('.json', '');
-
-                        console.log('🔍 [Complementos] Comparando:', {
-                            rutaArchivo,
-                            rutaActual,
-                            coincide: rutaArchivo.startsWith(rutaActual)
-                        });
+                        const rutaArchivo = url
+                            .replace('/assets/json/categorias/', '')
+                            .replace('.json', '');
 
                         return rutaArchivo.startsWith(rutaActual);
                     });
@@ -136,7 +130,6 @@ function Complementos() {
                         const response = await fetch(url);
                         const data = await response.json();
                         const productosArchivo = data.productos || [];
-                        console.log('🔍 [Complementos] Productos de', url, ':', productosArchivo.length);
                         return productosArchivo;
                     } catch (error) {
                         console.error(`Error cargando ${url}:`, error);
@@ -148,6 +141,7 @@ function Complementos() {
                 const todosProductos = productosPorArchivo.flat();
 
                 setProductos(todosProductos);
+                setCurrentPage(1);
             } catch (error) {
                 console.error("Error cargando productos de complementos:", error);
             } finally {
@@ -181,7 +175,7 @@ function Complementos() {
 
         if (queryParams.entries().length === 0 && !envioGratisActivo) return productos;
 
-        return productos.filter(producto => {
+        const filtrados = productos.filter(producto => {
             if (envioGratisActivo) {
                 if (producto["tipo-de-envio"] !== "Gratis") {
                     return false;
@@ -209,10 +203,12 @@ function Complementos() {
             }
             return true;
         });
+
+        return filtrados;
     }, [productos, queryParams, envioGratisActivo]);
 
     const productosOrdenados = useMemo(() => {
-        return [...productosFiltrados].sort((a, b) => {
+        const ordenados = [...productosFiltrados].sort((a, b) => {
             const precioA = a.precioVenta || 0;
             const precioB = b.precioVenta || 0;
 
@@ -220,12 +216,49 @@ function Complementos() {
             if (orden === "mayor-menor") return precioB - precioA;
             return 0;
         });
+
+        return ordenados;
     }, [productosFiltrados, orden]);
+
+    const totalItems = productosOrdenados.length;
+    const totalPages = Math.ceil(totalItems / itemsPerPage);
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
+    const productosPagina = productosOrdenados.slice(startIndex, endIndex);
+
+    const getVisiblePages = () => {
+        const visiblePages = [];
+        if (totalPages <= 5) {
+            for (let i = 1; i <= totalPages; i++) visiblePages.push(i);
+        } else {
+            if (currentPage <= 3) { 
+                visiblePages.push(1, 2, 3, 4, '...', totalPages); 
+            } else if (currentPage >= totalPages - 2) {
+                visiblePages.push(1, '...', totalPages - 3, totalPages - 2, totalPages - 1, totalPages);
+            } else {
+                visiblePages.push(1, '...', currentPage - 1, currentPage, currentPage + 1, '...', totalPages);
+            }
+        }
+        
+        return visiblePages;
+    };
+
+    const handlePageChange = (newPage) => {
+        setCurrentPage(Math.max(1, Math.min(totalPages, newPage)));
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+
+    const handlePreviousPage = () => {
+        handlePageChange(currentPage - 1);
+    };
+    
+    const handleNextPage = () => {
+        handlePageChange(currentPage + 1);
+    };
 
     const toggleFiltro = (nombreFiltro, valor) => {
         const normalizadoValor = normalizarTexto(valor);
         const newParams = new URLSearchParams(location.search);
-        
         const valorActual = newParams.get(nombreFiltro);
 
         if (valorActual === normalizadoValor) {
@@ -234,6 +267,7 @@ function Complementos() {
             newParams.set(nombreFiltro, normalizadoValor);
         }
 
+        setCurrentPage(1);
         navigate(`${location.pathname}?${newParams.toString()}`, { replace: true });
     };
 
@@ -243,6 +277,7 @@ function Complementos() {
     };
 
     const limpiarFiltros = () => {
+        setCurrentPage(1);
         navigate(location.pathname, { replace: true });
     };
 
@@ -253,7 +288,7 @@ function Complementos() {
     return(
         <>
             <Helmet>
-                <title>Complementos | Dormihogar</title>
+                <title>Complementos | Homesleep</title>
             </Helmet>
 
             <main className='products-page-main d-flex-column gap-20'>
@@ -264,7 +299,7 @@ function Complementos() {
                         <div className='products-page-filters-container-global'>
                             <div className='d-flex-column gap-20'>
                                 <div className='d-flex-column padding-bottom-20 border-bottom-2-solid-component'>
-                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Dormihogar</p>
+                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Homesleep</p>
                                     <button type='button' className='filters-button-close margin-left' onClick={closeFilters}>
                                         <span className="material-icons color-color-1">close</span>
                                     </button>
@@ -337,15 +372,12 @@ function Complementos() {
                     </div>
 
                     <div className='products-page-right'>
-                        <FiltrosTop 
-                            setOrden={setOrden} 
-                            orden={orden} 
-                            toggleFiltro={toggleFiltro} 
-                            isFiltroActivo={isFiltroActivo}
-                            setIsFiltersOpen={setIsFiltersOpen}
-                            isFiltersOpen={isFiltersOpen}
+                        <FiltrosTop setOrden={setOrden} orden={orden} 
+                            toggleFiltro={toggleFiltro} isFiltroActivo={isFiltroActivo}
+                            setIsFiltersOpen={setIsFiltersOpen} isFiltersOpen={isFiltersOpen}
                             productosCount={productosOrdenados.length}
-                            totalProductos={productos.length}
+                            totalProductos={productos.length} currentPage={currentPage}
+                            itemsPerPage={itemsPerPage} startIndex={startIndex} endIndex={endIndex}
                         />
 
                         <div className='products-page-products-container'>
@@ -355,30 +387,60 @@ function Complementos() {
                                     <p>Cargando complementos...</p>
                                 </div>
                             ) : (
-                                <ul className="products-page-products">
-                                    {productosOrdenados.length === 0 ? (
-                                        <div className='d-grid-1-1'>
-                                            <div className="d-flex-column gap-10">
-                                                <p className='text'>No se encontraron complementos con los filtros seleccionados.</p>
+                                <>
+                                    <ul className="products-page-products">
+                                        {productosPagina.length === 0 ? (
+                                            <div className='d-grid-1-1'>
+                                                <div className="d-flex-column gap-10">
+                                                    <p className='text'>No se encontraron complementos con los filtros seleccionados.</p>
 
-                                                {queryParams.toString() && (
-                                                    <button type="button" className="margin-right button-link button-link-2" onClick={limpiarFiltros}>
-                                                        <span className="material-icons">delete</span>
-                                                        <p className='button-link-text'>Limpiar filtros</p>
-                                                    </button>
+                                                    {queryParams.toString() && (
+                                                        <button type="button" className="margin-right button-link button-link-2" onClick={limpiarFiltros}>
+                                                            <span className="material-icons">delete</span>
+                                                            <p className='button-link-text'>Limpiar filtros</p>
+                                                        </button>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        ) : (
+                                            productosPagina.map(producto => (
+                                                <Producto 
+                                                    key={producto.sku} 
+                                                    producto={producto} 
+                                                    truncate={(str, maxLength) => str?.length > maxLength ? str.slice(0, maxLength - 3) + "..." : str}
+                                                />
+                                            ))
+                                        )}
+                                    </ul>
+                                    
+                                    {productosPagina.length > 0 && totalPages > 1 && (
+                                        <div className="pagination-controls d-grid-column-2-3 margin-top-20">
+                                            <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
+                                                <span className="material-icons">chevron_left</span>
+                                            </button>
+
+                                            <div className="d-flex-center-center gap-10">
+                                                {getVisiblePages().map((page, index) => 
+                                                    typeof page === 'number' ? (
+                                                        <button 
+                                                            key={index} 
+                                                            className={`pagination-page ${currentPage === page ? 'active' : ''}`} 
+                                                            onClick={() => handlePageChange(page)}
+                                                        >
+                                                            {page}
+                                                        </button>
+                                                    ) : (
+                                                        <span key={index} className="pagination-ellipsis">...</span>
+                                                    )
                                                 )}
                                             </div>
+
+                                            <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
+                                                <span className="material-icons">chevron_right</span>
+                                            </button>
                                         </div>
-                                    ) : (
-                                        productosOrdenados.map(producto => (
-                                            <Producto 
-                                                key={producto.sku} 
-                                                producto={producto} 
-                                                truncate={(str, maxLength) => str?.length > maxLength ? str.slice(0, maxLength - 3) + "..." : str}
-                                            />
-                                        ))
                                     )}
-                                </ul>
+                                </>
                             )}
                         </div>
                     </div>

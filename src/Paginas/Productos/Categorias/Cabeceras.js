@@ -33,6 +33,8 @@ function Cabeceras() {
     const [isFiltersOpen, setIsFiltersOpen] = useState(false);
     const filtersPanelRef = useRef(null);
     const queryParams = useMemo(() => new URLSearchParams(location.search), [location.search]);
+    const [currentPage, setCurrentPage] = useState(1);
+    const itemsPerPage = 20;
 
     const closeFilters = () => {
         setIsFiltersOpen(false);
@@ -40,6 +42,7 @@ function Cabeceras() {
 
     const toggleEnvioGratis = () => {
         setEnvioGratisActivo(!envioGratisActivo);
+        setCurrentPage(1);
     };
 
     useEffect(() => {
@@ -111,6 +114,7 @@ function Cabeceras() {
                 const todosProductos = productosPorArchivo.flat();
 
                 setProductos(todosProductos);
+                setCurrentPage(1);
             } catch (error) {
                 console.error("Error cargando productos de cabeceras:", error);
             } finally {
@@ -183,6 +187,36 @@ function Cabeceras() {
         });
     }, [productosFiltrados, orden]);
 
+    const totalItems = productosOrdenados.length;
+    const totalPages = Math.ceil(totalItems / itemsPerPage);
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
+    const productosPagina = productosOrdenados.slice(startIndex, endIndex);
+
+    const getVisiblePages = () => {
+        const visiblePages = [];
+        if (totalPages <= 5) {
+            for (let i = 1; i <= totalPages; i++) visiblePages.push(i);
+        } else {
+            if (currentPage <= 3) { 
+                visiblePages.push(1, 2, 3, 4, '...', totalPages); 
+            } else if (currentPage >= totalPages - 2) {
+                visiblePages.push(1, '...', totalPages - 3, totalPages - 2, totalPages - 1, totalPages);
+            } else {
+                visiblePages.push(1, '...', currentPage - 1, currentPage, currentPage + 1, '...', totalPages);
+            }
+        }
+        return visiblePages;
+    };
+
+    const handlePageChange = (newPage) => {
+        setCurrentPage(Math.max(1, Math.min(totalPages, newPage)));
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+
+    const handlePreviousPage = () => handlePageChange(currentPage - 1);
+    const handleNextPage = () => handlePageChange(currentPage + 1);
+
     const toggleFiltro = (nombreFiltro, valor) => {
         const normalizadoValor = normalizarTexto(valor);
         const newParams = new URLSearchParams(location.search);
@@ -195,6 +229,7 @@ function Cabeceras() {
             newParams.set(nombreFiltro, normalizadoValor);
         }
 
+        setCurrentPage(1);
         navigate(`${location.pathname}?${newParams.toString()}`, { replace: true });
     };
 
@@ -204,6 +239,7 @@ function Cabeceras() {
     };
 
     const limpiarFiltros = () => {
+        setCurrentPage(1);
         navigate(location.pathname, { replace: true });
     };
 
@@ -214,7 +250,7 @@ function Cabeceras() {
     return(
         <>
             <Helmet>
-                <title>Cabeceras | Dormihogar</title>
+                <title>Cabeceras | Homesleep</title>
             </Helmet>
 
             <main className='products-page-main d-flex-column gap-20'>
@@ -225,7 +261,7 @@ function Cabeceras() {
                         <div className='products-page-filters-container-global'>
                             <div className='d-flex-column gap-20'>
                                 <div className='d-flex-column padding-bottom-20 border-bottom-2-solid-component'>
-                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Dormihogar</p>
+                                    <p className='block-title color-color-1 uppercase w-100 d-flex'>Homesleep</p>
                                     <button type='button' className='filters-button-close margin-left' onClick={closeFilters}>
                                         <span className="material-icons color-color-1">close</span>
                                     </button>
@@ -305,11 +341,7 @@ function Cabeceras() {
                                                 <ul className='products-page-filter-list'>
                                                     {valoresFiltro.map((valor, i) => (
                                                         <li key={i}>
-                                                            <button 
-                                                                type='button' 
-                                                                className={isFiltroActivo(nombreFiltro, valor) ? "active" : ""} 
-                                                                onClick={() => toggleFiltro(nombreFiltro, valor)}
-                                                            >
+                                                            <button type='button' className={isFiltroActivo(nombreFiltro, valor) ? "active" : ""} onClick={() => toggleFiltro(nombreFiltro, valor)}>
                                                                 <p>{valor}</p>
                                                             </button>
                                                         </li>
@@ -331,15 +363,11 @@ function Cabeceras() {
                     </div>
 
                     <div className='products-page-right'>
-                        <FiltrosTop 
-                            setOrden={setOrden} 
-                            orden={orden} 
-                            toggleFiltro={toggleFiltro} 
-                            isFiltroActivo={isFiltroActivo}
-                            setIsFiltersOpen={setIsFiltersOpen}
-                            isFiltersOpen={isFiltersOpen}
-                            productosCount={productosOrdenados.length}
-                            totalProductos={productos.length}
+                        <FiltrosTop setOrden={setOrden} orden={orden} 
+                            toggleFiltro={toggleFiltro} isFiltroActivo={isFiltroActivo} setIsFiltersOpen={setIsFiltersOpen}
+                            isFiltersOpen={isFiltersOpen} productosCount={productosOrdenados.length}
+                            totalProductos={productos.length} currentPage={currentPage}
+                            itemsPerPage={itemsPerPage} startIndex={startIndex} endIndex={endIndex}
                         />
 
                         <div className='products-page-products-container'>
@@ -349,26 +377,50 @@ function Cabeceras() {
                                     <p>Cargando productos...</p>
                                 </div>
                             ) : (
-                                <ul className="products-page-products">
-                                    {productosOrdenados.length === 0 ? (
-                                        <div className='d-grid-1-1'>
-                                            <div className="d-flex-column gap-10">
-                                                <p className='text'>No se encontraron productos con los filtros seleccionados.</p>
+                                <>
+                                    <ul className="products-page-products">
+                                        {productosPagina.length === 0 ? (
+                                            <div className='d-grid-1-1'>
+                                                <div className="d-flex-column gap-10">
+                                                    <p className='text'>No se encontraron productos con los filtros seleccionados.</p>
 
-                                                {queryParams.toString() && (
-                                                    <button type="button" className="margin-right button-link button-link-2" onClick={limpiarFiltros}>
-                                                        <span className="material-icons">delete</span>
-                                                        <p className='button-link-text'>Limpiar filtros</p>
-                                                    </button>
+                                                    {queryParams.toString() && (
+                                                        <button type="button" className="margin-right button-link button-link-2" onClick={limpiarFiltros}>
+                                                            <span className="material-icons">delete</span>
+                                                            <p className='button-link-text'>Limpiar filtros</p>
+                                                        </button>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        ) : (
+                                            productosPagina.map(producto => (
+                                                <Producto key={producto.sku} producto={producto} />
+                                            ))
+                                        )}
+                                    </ul>
+                                    
+                                    {productosPagina.length > 0 && totalPages > 1 && (
+                                        <div className="pagination-controls d-grid-column-2-3 margin-top-20">
+                                            <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
+                                                <span className="material-icons">chevron_left</span>
+                                            </button>
+
+                                            <div className="d-flex-center-center gap-10">
+                                                {getVisiblePages().map((page, index) => 
+                                                    typeof page === 'number' ? (
+                                                        <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>{page}</button>
+                                                    ) : (
+                                                        <span key={index} className="pagination-ellipsis">...</span>
+                                                    )
                                                 )}
                                             </div>
+
+                                            <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
+                                                <span className="material-icons">chevron_right</span>
+                                            </button>
                                         </div>
-                                    ) : (
-                                        productosOrdenados.map(producto => (
-                                            <Producto key={producto.sku} producto={producto} />
-                                        ))
                                     )}
-                                </ul>
+                                </>
                             )}
                         </div>
                     </div>

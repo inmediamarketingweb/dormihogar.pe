@@ -1,33 +1,68 @@
 import './Resumen.css';
 
-function Resumen({ producto }){
-    const propiedadesRequeridas = [
-        "marca",
-        "tamaño",
-        "modelo-de-colchón", 
-        "resortes",
-        "modelo-de-cabecera"
+function Resumen({ producto, ficha = [] }){
+    const propiedadesProducto = [
+        { clave: "marca", etiqueta: "Marca" },
+        { clave: "tamaño", etiqueta: "Tamaño" },
+        { clave: "modelo-de-colchón", etiqueta: "Modelo de colchón" },
+        { clave: "línea", etiqueta: "Línea" }
     ];
+
+    const propiedadesFichaImportantes = [
+        "garantía",
+        "resortes",
+        "línea-de-colchón",
+        "nivel-de-confort",
+        "sensación"
+    ];
+
+    const obtenerPropiedades = () => {
+        const propiedades = [];
+
+        propiedadesProducto.forEach(prop => {
+            if (producto[prop.clave]) {
+                propiedades.push({
+                    etiqueta: prop.etiqueta,
+                    valor: producto[prop.clave]
+                });
+            }
+        });
+
+        if (ficha.length > 0) {
+            ficha.forEach(seccion => {
+                Object.entries(seccion).forEach(([clave, valor]) => {
+                    if (propiedadesFichaImportantes.includes(clave) && valor) {
+                        propiedades.push({
+                            etiqueta: clave.replace(/-/g, ' ')
+                                .split(' ')
+                                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                                .join(' '),
+                            valor: valor
+                        });
+                    }
+                });
+            });
+        }
+
+        return propiedades.slice(0, 5);
+    };
+
+    const propiedades = obtenerPropiedades();
+
+    if (propiedades.length === 0) {
+        return null;
+    }
 
     return(
         <ul className='product-page-resume'>
-            {producto["detalles-del-producto"] && producto["detalles-del-producto"].map((detalle, index) => (
-                Object.entries(detalle).filter(
-                    ([key, value]) => propiedadesRequeridas.includes(key) && value
-                )
-                .map(([key, value]) => (
-                    <li key={key + index}>
-                        <span className="material-icons">check</span>
-                        <div>
-                            <b className='first-uppercase'>
-                                {
-                                    key.replace(/-/g, ' ').split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
-                                }:
-                            </b>
-                            <p className='text first-uppercase'>{value}</p>
-                        </div>
-                    </li>
-                ))
+            {propiedades.map((prop, index) => (
+                <li key={index}>
+                    <span className="material-icons">check</span>
+                    <div>
+                        <b className='first-uppercase'>{prop.etiqueta}:</b>
+                        <p className='text first-uppercase'>{prop.valor}</p>
+                    </div>
+                </li>
             ))}
         </ul>
     );

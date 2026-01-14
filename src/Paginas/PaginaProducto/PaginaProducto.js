@@ -1,7 +1,6 @@
 import { useState, useEffect, lazy, Suspense } from 'react';
 import { Helmet } from 'react-helmet';
 import { useLocation } from 'react-router-dom';
-
 import NoProducto from '../../Paginas/NoProducto/NoProducto';
 import SpinnerLoading from '../../Componentes/SpinnerLoading/SpinnerLoading';
 import Jerarquia from './Componentes/Jerarquia/Jerarquia';
@@ -281,8 +280,8 @@ function PaginaProducto(){
     const [productoData, setProductoData] = useState({ 
         producto: null, 
         imagenes: [], 
-        descripciones: [],
-        mensajes: [],
+        mensajes: [],        // CAMBIADO: ahora almacenamos mensajes aquí
+        ficha: [],          // CAMBIADO: ahora almacenamos ficha aquí
         error: false, 
         loading: true
     });
@@ -325,15 +324,16 @@ function PaginaProducto(){
                             if (resp.ok){
                                 const pd = await resp.json();
                                 if (!cancelled){
+                                    // ACTUALIZADO: Extraer mensajes y ficha correctamente
                                     setProductoData({ 
-                                        producto: pd, 
+                                        producto: pd.productos?.[0] || pd, 
                                         imagenes: [], 
-                                        descripciones: pd.descripciones || [],
                                         mensajes: pd.mensajes || [],
+                                        ficha: pd.ficha || [],
                                         error: false, 
                                         loading: false 
                                     });
-                                    cargarImagenesOptimizadas(pd.fotos);
+                                    cargarImagenesOptimizadas(pd.productos?.[0]?.fotos || pd.fotos || '');
                                     return;
                                 }
                             }
@@ -357,8 +357,6 @@ function PaginaProducto(){
                 let candidates = filesList.filter(f => f.includes(`/categorias/${category}/`));
                 if (candidates.length === 0) candidates = filesList;
                 let productoEncontrado = null;
-                let descripcionesEncontradas = [];
-                let mensajesEncontrados = [];
 
                 for(const filePath of candidates){
                     try {
@@ -372,37 +370,33 @@ function PaginaProducto(){
                         });
                         if (found){
                             productoEncontrado = found;
-                            descripcionesEncontradas = json.descripciones || [];
-                            mensajesEncontrados = json.mensajes || [];
-                            break;
+                            
+                            if (!cancelled){
+                                // ACTUALIZADO: Pasar mensajes y ficha del JSON completo
+                                setProductoData({ 
+                                    producto: productoEncontrado, 
+                                    imagenes: [], 
+                                    mensajes: json.mensajes || [],
+                                    ficha: json.ficha || [],
+                                    error: false, 
+                                    loading: false 
+                                });
+                                cargarImagenesOptimizadas(productoEncontrado.fotos);
+
+                                if (productoEncontrado.nombre) {
+                                    const nombre = productoEncontrado.nombre;
+                                    
+                                    if (nombre.includes('+')) {
+                                        cargarDescripcionColchon(nombre, productoEncontrado);
+                                    }
+                                    
+                                    cargarDescripcionTipoDormitorio(nombre);
+                                    cargarDescripcionCabecera(nombre);
+                                }
+                            }
+                            return;
                         }
                     } catch (e){ continue; }
-                }
-
-                if (productoEncontrado){
-                    if (!cancelled){
-                        setProductoData(prev => ({ 
-                            ...prev, 
-                            producto: productoEncontrado, 
-                            descripciones: descripcionesEncontradas,
-                            mensajes: mensajesEncontrados,
-                            loading: false, 
-                            error: false 
-                        }));
-                        cargarImagenesOptimizadas(productoEncontrado.fotos);
-
-                        if (productoEncontrado.nombre) {
-                            const nombre = productoEncontrado.nombre;
-                            
-                            if (nombre.includes('+')) {
-                                cargarDescripcionColchon(nombre, productoEncontrado);
-                            }
-                            
-                            cargarDescripcionTipoDormitorio(nombre);
-                            cargarDescripcionCabecera(nombre);
-                        }
-                    }
-                    return;
                 }
 
                 const idMatch = path.match(/\/(\d+)\/$/);
@@ -421,38 +415,34 @@ function PaginaProducto(){
                             });
                             if (foundById){
                                 productoEncontrado = foundById;
-                                descripcionesEncontradas = json.descripciones || [];
-                                mensajesEncontrados = json.mensajes || [];
-                                break;
+                                
+                                if (!cancelled){
+                                    // ACTUALIZADO: Pasar mensajes y ficha del JSON completo
+                                    setProductoData({ 
+                                        producto: productoEncontrado, 
+                                        imagenes: [], 
+                                        mensajes: json.mensajes || [],
+                                        ficha: json.ficha || [],
+                                        error: false, 
+                                        loading: false 
+                                    });
+                                    cargarImagenesOptimizadas(productoEncontrado.fotos);
+
+                                    if (productoEncontrado.nombre) {
+                                        const nombre = productoEncontrado.nombre;
+
+                                        if (nombre.includes('+')) {
+                                            cargarDescripcionColchon(nombre, productoEncontrado);
+                                        }
+
+                                        cargarDescripcionTipoDormitorio(nombre);
+                                        cargarDescripcionCabecera(nombre);
+                                    }
+                                }
+                                return;
                             }
                         } catch (e){ continue; }
                     }
-                }
-
-                if (productoEncontrado){
-                    if (!cancelled){
-                        setProductoData(prev => ({ 
-                            ...prev, 
-                            producto: productoEncontrado, 
-                            descripciones: descripcionesEncontradas,
-                            mensajes: mensajesEncontrados,
-                            loading: false, 
-                            error: false 
-                        }));
-                        cargarImagenesOptimizadas(productoEncontrado.fotos);
-
-                        if (productoEncontrado.nombre) {
-                            const nombre = productoEncontrado.nombre;
-
-                            if (nombre.includes('+')) {
-                                cargarDescripcionColchon(nombre, productoEncontrado);
-                            }
-
-                            cargarDescripcionTipoDormitorio(nombre);
-                            cargarDescripcionCabecera(nombre);
-                        }
-                    }
-                    return;
                 }
 
                 const rel = path.replace(/^\/productos\//, '').replace(/\/$/, '');
@@ -640,7 +630,7 @@ function PaginaProducto(){
         );
     }
 
-    const { producto, imagenes, descripciones, mensajes } = productoData;
+    const { producto, imagenes, mensajes, ficha } = productoData;
     const descuento = Math.round(((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal);
 
     const productSchema = {
@@ -699,11 +689,16 @@ function PaginaProducto(){
                                 <Beneficios/>
 
                                 <div className='visible-on-desktop-no-mobile'>
-                                    <Descripcion producto={producto} descripciones={descripciones} 
-                                        mensajes={mensajes} descripcionColchon={descripcionColchon}
+                                    <Descripcion 
+                                        producto={producto} 
+                                        mensajes={mensajes}        // PASAR mensajes del estado
+                                        ficha={ficha}              // PASAR ficha del estado
+                                        descripcionColchon={descripcionColchon}
                                         descripcionTipoDormitorio={descripcionTipoDormitorio}
-                                        descripcionCabecera={descripcionCabecera} cargandoColchon={cargandoColchon}
-                                        cargandoTipoDormitorio={cargandoTipoDormitorio} cargandoCabecera={cargandoCabecera}
+                                        descripcionCabecera={descripcionCabecera} 
+                                        cargandoColchon={cargandoColchon}
+                                        cargandoTipoDormitorio={cargandoTipoDormitorio} 
+                                        cargandoCabecera={cargandoCabecera}
                                     />
                                 </div>
                             </div>
@@ -738,7 +733,7 @@ function PaginaProducto(){
                                                     </div>
                                                 </div>
 
-                                                <Resumen producto={producto}/>
+                                                <Resumen producto={producto} ficha={ficha} />
 
                                                 <div className='visible-on-desktop-no-mobile'>
                                                     <div className='d-flex-column gap-10'>
@@ -790,11 +785,16 @@ function PaginaProducto(){
                                             </div>
 
                                             <div className='visible-on-mobile-no-desktop'>
-                                                <Descripcion producto={producto} descripciones={descripciones} 
-                                                    mensajes={mensajes} descripcionColchon={descripcionColchon}
+                                                <Descripcion 
+                                                    producto={producto} 
+                                                    mensajes={mensajes}        // PASAR mensajes del estado
+                                                    ficha={ficha}              // PASAR ficha del estado
+                                                    descripcionColchon={descripcionColchon}
                                                     descripcionTipoDormitorio={descripcionTipoDormitorio}
-                                                    descripcionCabecera={descripcionCabecera} cargandoColchon={cargandoColchon}
-                                                    cargandoTipoDormitorio={cargandoTipoDormitorio} cargandoCabecera={cargandoCabecera}
+                                                    descripcionCabecera={descripcionCabecera} 
+                                                    cargandoColchon={cargandoColchon}
+                                                    cargandoTipoDormitorio={cargandoTipoDormitorio} 
+                                                    cargandoCabecera={cargandoCabecera}
                                                 />
                                             </div>
                                         </div>

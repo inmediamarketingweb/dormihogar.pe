@@ -96,8 +96,7 @@ function Colchones() {
                 const productosPromesas = archivosColchones.map(async (url) => {
                     const response = await fetch(url);
                     const data = await response.json();
-                    
-                    // Agregar la ficha técnica a cada producto para facilitar el filtrado
+
                     const productosConFicha = data.productos?.map(producto => ({
                         ...producto,
                         fichaTecnica: data.ficha?.[0] || {} // Tomar el primer objeto de ficha
@@ -158,22 +157,18 @@ function Colchones() {
         });
     }, [filtros, marcaSeleccionada]);
 
-    // FUNCIÓN CLAVE ACTUALIZADA - Corrige el filtrado por ficha técnica
     const productosFiltrados = useMemo(() => {
         if (productos.length === 0) return [];
 
         const filtrados = productos.filter(producto => {
-            // Filtro de envío gratis
             if (envioGratisActivo) {
                 if (producto["tipo-de-envio"] !== "Gratis") {
                     return false;
                 }
             }
 
-            // Si no hay filtros activos, mostrar todos los productos
             if (queryParams.entries().length === 0) return true;
 
-            // Verificar cada filtro activo
             for (let [paramUrl, valorFiltro] of queryParams.entries()) {
                 const claveJson = filtroKeyMap[paramUrl];
                 if (!claveJson) continue;
@@ -181,7 +176,6 @@ function Colchones() {
                 const normalizadoFiltro = normalizarTexto(valorFiltro);
                 let cumpleFiltro = false;
 
-                // PRIMERO: Buscar en las propiedades directas del producto
                 const valorProductoDirecto = producto[claveJson];
                 if (valorProductoDirecto) {
                     const normalizadoProducto = normalizarTexto(valorProductoDirecto.toString());
@@ -190,7 +184,6 @@ function Colchones() {
                     }
                 }
 
-                // SEGUNDO: Si no se cumple en propiedades directas, buscar en la ficha técnica
                 if (!cumpleFiltro && producto.fichaTecnica) {
                     const valorEnFicha = producto.fichaTecnica[claveJson];
                     if (valorEnFicha) {
@@ -201,9 +194,7 @@ function Colchones() {
                     }
                 }
 
-                // TERCERO: Casos especiales (modelo vs modelo-de-colchón)
                 if (!cumpleFiltro && claveJson === "modelo-de-colchón") {
-                    // También verificar la propiedad "modelo" del producto
                     const valorModelo = producto["modelo"];
                     if (valorModelo) {
                         const normalizadoModelo = normalizarTexto(valorModelo.toString());
@@ -213,7 +204,6 @@ function Colchones() {
                     }
                 }
 
-                // CUARTO: Verificar tamaños disponibles para filtros de tamaño
                 if (!cumpleFiltro && claveJson === "tamaño") {
                     const tamañosDisponibles = producto["tamaños-disponibles"] || [];
                     const cumpleEnTamaños = tamañosDisponibles.some(tamaño => {
@@ -226,7 +216,6 @@ function Colchones() {
                     }
                 }
 
-                // Si algún filtro no se cumple, excluir el producto
                 if (!cumpleFiltro) {
                     return false;
                 }

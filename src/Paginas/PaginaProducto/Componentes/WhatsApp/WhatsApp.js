@@ -8,8 +8,8 @@ function WhatsApp({ producto, quantity = 1, shippingInfo }) {
         const horaActual = hora + minutos / 60;
         const diaSemana = ahora.getDay();
         const esFinDeSemana = diaSemana === 0 || diaSemana === 6;
-        const numero1 = "+51901451579";
-        const numero2 = "+51974317647";
+        const numero1 = "+51913154374";
+        const numero2 = "+51933197648";
 
         if (esFinDeSemana) {
             return numero2;

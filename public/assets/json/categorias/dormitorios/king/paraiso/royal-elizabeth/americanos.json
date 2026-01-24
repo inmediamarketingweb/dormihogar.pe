@@ -1,6 +1,7 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -13,7 +14,7 @@
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224293N10",
+            "sku": "D3224293N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -31,6 +32,7 @@
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -43,7 +45,7 @@
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224293N11",
+            "sku": "D3224293N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -61,6 +63,7 @@
             ]
         },
         {
+            "id": 3,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -73,7 +76,7 @@
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224293N12",
+            "sku": "D3224293N12",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -91,6 +94,7 @@
             ]
         },
         {
+            "id": 4,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -103,7 +107,7 @@
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224293N13",
+            "sku": "D3224293N13",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -121,6 +125,7 @@
             ]
         },
         {
+            "id": 5,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -133,7 +138,7 @@
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224293N14",
+            "sku": "D3224293N14",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -151,6 +156,7 @@
             ]
         },
         {
+            "id": 6,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -163,7 +169,7 @@
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224293N15",
+            "sku": "D3224293N15",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -181,19 +187,51 @@
             ]
         },
         {
+            "id": 7,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/7/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL 4 - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/americanas/lineal-4/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224293N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/8/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA LINEAL HORIZONTAL - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/lineal horizontal/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224296N10",
+            "sku": "D3224296N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -211,19 +249,20 @@
             ]
         },
         {
+            "id": 9,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/8/",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/9/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA MESHLOCK - GRIS",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/meshlock/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224296N11",
+            "sku": "D3224296N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -241,19 +280,20 @@
             ]
         },
         {
+            "id": 11,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/9/",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/11/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA PISSAC - IVORY",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/pissac/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224296N12",
+            "sku": "D3224296N12",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -271,19 +311,20 @@
             ]
         },
         {
+            "id": 12,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/9/",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/12/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA V - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/viena/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2249,
             "stock": 9,
-            "sku": "H3224296N13",
+            "sku": "D3224296N13",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -301,19 +342,764 @@
             ]
         },
         {
+            "id": 13,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/10/",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA VIENNA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/vienna/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA NILO - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/nilo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA REPTILIAN - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/reptilian/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA TORTUN - TEJIDO CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/tortun/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/17/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/tortun/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N18",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/18/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA OLIMPIC - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/olimpic/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/19/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA OLIMPIC - TEJIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/olimpic/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/20/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA OLIMPIC - TEJIDO CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/olimpic/3/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N21",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/21/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA GAVIOTA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/gaviota/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/22/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA GAVIOTA - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/gaviota/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N23",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/23/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA EGYPT - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/egypt/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N24",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/24/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA EGYPT - TEJIDO ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/egypt/2/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N25",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/25/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA EGYPT + BAUL KING - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/egypt/3/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2749,
+            "stock": 9,
+            "sku": "D3224296N26",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/26/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CHAN CHAN - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/chanchan/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N27",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chan Chan"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/27/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA ROBLO - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/roblo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N28",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/28/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA EGYPT 3 ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/egypt-3/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N29",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt 3"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/29/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA SIDNEY - TEJIDO CHOCOLATE NEW ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/sidney/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N30",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/30/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA EXPLORER - VINO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/explorer/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N31",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Explorer"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/31/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA STARIS - VINO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/staris/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N32",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/32/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA ROMBOI - DURAZNO PLATA ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/romboi/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N33",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/33/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA SPIDER - ANTIFLUIDO PLOMO ",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/spider/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N34",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/34/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA WELO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/welo/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N35",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Welo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/35/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA PANNAL - DURAZNO CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/panal/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224296N36",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Panal"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/36/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CORONA LINEAL - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/bloques/otros-modelos/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2249,
+            "stock": 9,
+            "sku": "D3224295N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros Modelos"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/37/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CON MARCO - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/con-marco/otros-modelos/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2349,
             "stock": 9,
-            "sku": "H3224294N10",
+            "sku": "D3224294N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -331,19 +1117,20 @@
             ]
         },
         {
+            "id": 38,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/11/",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/38/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CORONA - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/coronas/otros-modelos/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2399,
             "stock": 9,
-            "sku": "H3224295N10",
+            "sku": "D3224295N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -361,19 +1148,20 @@
             ]
         },
         {
+            "id": 39,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/11/",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/39/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA CORONA VESSO- TURQUESA ÓPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/coronas/vesso/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2549,
             "stock": 9,
-            "sku": "H3224295N11",
+            "sku": "D3224295N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -391,19 +1179,20 @@
             ]
         },
         {
+            "id": 40,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Royal Elizabeth",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/12/",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/40/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA PEDESTAL EMPERATRIZ- MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos/pedestales/emperatriz/1/",
             "precioRegular": 4999,
             "precioNormal": 3399,
             "precioVenta": 2399,
             "stock": 9,
-            "sku": "H3224293N16",
+            "sku": "D3224293N17",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {

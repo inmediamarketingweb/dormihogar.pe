@@ -1,6 +1,7 @@
 {
     "productos":[
-        {   
+        {  
+            "id": 1, 
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -29,6 +30,69 @@
                     "modelo-de-cabecera": "Capitoneado"
                 }
             ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA EMPERATRIZ CAPITONEADO 1 + 4 CAJONES- PLOMO OSCURO",
+           "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos-con-cajones/americanas/capitoneado-1/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2649,
+            "stock": 9,
+            "sku": "D3224193N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Royal Elizabeth",
+            "linea": "americanos con cajones",
+            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/americanos-con-cajones/3/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA MOKI + 3 CAJONES - TEJIDO PLOMO RATA",
+           "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/americanos-con-cajones/bloques/moki/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3399,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "D3224196N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Royal Elizabeth",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
         }
+
     ]
 }

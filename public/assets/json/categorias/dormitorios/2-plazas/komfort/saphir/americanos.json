@@ -8,13 +8,13 @@
             "modelo": "saphir",
             "línea": "Americanos",
             "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/1/",
-            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 1 - TEJIDO CHOCOLATE",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 1 - TEJIDO NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/americanas/lineal-1/1/",
             "precioRegular": 2499,
             "precioNormal": 1799,
             "precioVenta": 999,
             "stock": 9,
-            "sku": "H3422213N10",
+            "sku": "D3422213N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -57,7 +57,7 @@
             "precioNormal": 1799,
             "precioVenta": 999,
             "stock": 9,
-            "sku": "H3422213N11",
+            "sku": "D3422213N11",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -98,13 +98,60 @@
             "modelo": "saphir",
             "línea": "Americanos",
             "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/3/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA LINEAL 1 - CUERO VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/americanas/lineal-1/2/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "D3422213N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/2/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/3/",
             "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA MOKI - CAMEL",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/moki/1/",
             "precioRegular": 2499,
             "precioNormal": 1799,
             "precioVenta": 999,
             "stock": 9,
-            "sku": "H34222136N10",
+            "sku": "D3422216N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -127,9 +174,267 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "saphir",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Moki"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/4/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA GRID - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/grid/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "D3422216N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/5/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA OLIMPIC - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/olimpic/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "D3422216N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/6/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA OLIMPIC - DURAZNO PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/olimpic/2/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "D3422216N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/7/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA CORONA ROBLO - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/roblo/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 1099,
+            "stock": 9,
+            "sku": "D3422216N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos Curvos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/8/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA SIDNEY - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/sidney/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "D3422216N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "2 plazas",
+            "marca": "Kamas + Komfort",
+            "modelo": "saphir",
+            "línea": "Americanos",
+            "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos/9/",
+            "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AÉREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos/bloques/tortun/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1799,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "D3422216N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/komfort/saphir/americanos/3/"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - Komfort",
+                    "línea": "Americanos",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "saphir",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
                 }
             ]
         }

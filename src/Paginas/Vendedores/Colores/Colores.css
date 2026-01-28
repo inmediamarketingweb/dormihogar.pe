@@ -1,8 +1,9 @@
 .colors-main{
-    margin-top: 180px !important;
+    margin-top: 160px !important;
 }
 
 .page-colors-container{
+    padding: 20px 0 !important;
     display: grid;
     grid-template-columns: 300px 1fr 280px;
     gap: 20px;
@@ -201,7 +202,12 @@
 }
 
 @media screen and (max-width: 600px){
+    .colors-main{
+        margin-top: 168px !important;
+    }
+
     .page-colors-container{
+        padding: 10px 0px !important;
         grid-template-columns: 1fr;
     }
 

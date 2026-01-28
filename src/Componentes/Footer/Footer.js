@@ -113,16 +113,6 @@ function Footer(){
                                     <p className='title'>Novedades</p>
                                     <ul className='footer-list'>
                                         <li>
-                                            <a href='/ofertas/' title='Ofertas | Dormihogar'>
-                                                <p>Ofertas</p>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href='/ofertas/solo-por-horas/' title='Solo por horas | Dormihogar'>
-                                                <p>Solo por horas</p>
-                                            </a>
-                                        </li>
-                                        <li>
                                             <a href='/novedades/programa-de-influencers/' title='Programa de influencers | Dormihogar'>
                                                 <p>Programa influencers</p>
                                             </a>

@@ -19,11 +19,11 @@ function Center({ onMenuClick, isMenuOpen }) {
 
                 <SearchBar/>
 
-                <a href='/mis-favoritos' title='Mis favoritos' className='margin-left favorites-button'>
+                {/* <a href='/mis-favoritos/' title='Mis favoritos' className='margin-left favorites-button'>
                     <span className="material-icons">favorite</span> 
-                </a>
+                </a> */}
 
-                <a href='tel: +51933197648' className='header-center-call-button' title='Llamar ahora'>
+                <a href='tel: +51933197648' className='margin-left header-center-call-button' title='Llamar ahora'>
                     <span className="material-icons">phone_in_talk</span>
 
                     <div className='d-flex-column'>

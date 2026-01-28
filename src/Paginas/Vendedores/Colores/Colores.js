@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { Helmet } from 'react-helmet';
 import { useLocation, useNavigate } from 'react-router-dom';
 
@@ -13,7 +13,6 @@ function Colores(){
     const navigate = useNavigate();
     const [fabricData, setFabricData] = useState(null);
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
     const [selectedCategory, setSelectedCategory] = useState(null);
     const [selectedFabric, setSelectedFabric] = useState(null);
     const [selectedColor, setSelectedColor] = useState(null);
@@ -46,8 +45,6 @@ function Colores(){
                 const response = await fetch('/assets/json/colores.json');
                 if (!response.ok) throw new Error('Error al cargar datos');
                 setFabricData(await response.json());
-            } catch (err) {
-                setError(err.message);
             } finally {
                 setLoading(false);
             }
@@ -56,7 +53,8 @@ function Colores(){
         fetchData();
     }, []);
 
-    const findColorOrigin = (colorName) => {
+    // Usar useCallback para memorizar la función
+    const findColorOrigin = useCallback((colorName) => {
         if (!fabricData) return { category: null, fabric: null };
 
         for (const category in fabricData.telas[0]) {
@@ -69,7 +67,7 @@ function Colores(){
             }
         }
         return { category: null, fabric: null };
-    };
+    }, [fabricData]); // Dependencia: fabricData
 
     useEffect(() => {
         if (!fabricData) return;
@@ -101,7 +99,7 @@ function Colores(){
                 }
             }
         }
-    }, [selectedCategory, selectedFabric, selectedColor, fabricData, navigate]);
+    }, [selectedCategory, selectedFabric, selectedColor, fabricData, findColorOrigin, navigate]);
 
     useEffect(() => {
         if (selectedColor && fabricData && selectedColor.original){

@@ -169,13 +169,6 @@ function Colores(){
         return [];
     };
 
-    const getCategoryShort = (category) => {
-        for (const obj of fabricData.telas) {
-            if (obj[category]) return obj[category].short || '';
-        }
-        return '';
-    };
-
     const getColorsForFabric = (category, fabricType) => {
         const fabrics = getFabricsForCategory(category);
         const fabric = fabrics.find(f => f.tela === fabricType);
@@ -192,8 +185,6 @@ function Colores(){
                 <div className="d-flex-column gap-10" key={category}>
                     <div className='d-flex-center-left gap-10'>
                         <h2 className='block-title d-flex-center-left color-black-0'>{category}</h2>
-                        <span className='text'>-</span>
-                        <p className='text'>{getCategoryShort(category)}</p>
                     </div>
 
                     {fabrics.map(fabric => {
@@ -227,7 +218,7 @@ function Colores(){
                 <meta name="description" content="Explora nuestra variedad de colores y telas" />
             </Helmet>
 
-            <main>
+            <main className='colors-main'>
                 <div className='block-container'>
                     <section className="block-content">
                         <div className="page-colors-container">
@@ -252,7 +243,7 @@ function Colores(){
                                             {getFabricsForCategory(selectedCategory).map((fabric, index) => (
                                                 <li key={index}>
                                                     <button className={selectedFabric === fabric.tela ? 'page-colors-filters-button active' : 'page-colors-filters-button'} onClick={() => handleFabricSelect(fabric.tela)} >
-                                                    <h3>{fabric.tela}</h3>
+                                                        <h3>{fabric.tela}</h3>
                                                     </button>
                                                 </li>
                                             ))}
@@ -305,32 +296,6 @@ function Colores(){
                                     <div className='d-flex-column gap-10'>
                                         <h3 className='title'>{fabricInfo.nombre}:</h3>
                                         <p className='text'>{fabricInfo.descripcion}</p>
-                                    </div>
-
-                                    <div className='d-flex-column gap-10'>
-                                        <p className='title'>Costos adicionales:</p>
-
-                                        {fabricInfo.costosAdicionales && fabricInfo.costosAdicionales.length > 0 ? (
-                                            <>
-                                                <table className='costos-adicionales' cellSpacing="0">
-                                                    <tbody>
-                                                        <tr>
-                                                            <th><p>Producto</p></th>
-                                                            <th><p>Precio</p></th>
-                                                        </tr>
-                                                        {fabricInfo.costosAdicionales.map((costo, index) => (
-                                                            <tr key={index}>
-                                                                <td><p>{costo.producto}</p></td>
-                                                                <td><p>S/.{costo['costo-adicional']}.00</p></td>
-                                                            </tr>
-                                                        ))}
-                                                    </tbody>
-                                                </table>
-                                                <p className='text font-13'><b className='color-red'>*</b> Sin importar tamaño o modelo</p>
-                                            </>
-                                        ) : (
-                                            <p className='text'>Sin costo adicional</p>
-                                        )}
                                     </div>
 
                                     <a href={`/busqueda?query=${selectedColor ? encodeURIComponent(selectedColor.color) : ''}`} title='Ver productos relacionados' className={`button-link button-link-2 see-ship-products ${selectedColor ? 'active' : ''}`}>

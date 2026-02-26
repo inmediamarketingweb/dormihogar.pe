@@ -1,0 +1,96 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "complementos",
+            "subcategoria": "almohadas",
+            "marca": "Cisne",
+            "modelo": "viscoelasticas",
+            "ruta": "/productos/complementos/almohadas/viscoelasticas/1/",
+            "nombre": "ALMOHADA EL CISNE VISCOELASTICA BLANCA",
+            "fotos": "/assets/imagenes/productos/complementos/almohadas/viscoelasticas/1/",
+            "precioRegular": 150,
+            "precioNormal": 99,
+            "precioVenta": 89,
+            "stock": 14,
+            "sku": "K752N10",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Cisne",
+                    "modelo": "Viscoelasticas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Cisne",
+                    "sub-categoría": "Viscoelasticas"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Almohada",
+                    "descripcion":[
+                        {
+                           "profundidad": "60",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "1",
+                           "ancho": "40",
+                           "alto": "12",
+                           "material": "Espuma",
+                           "garantía": "1 año",
+                           "tipo de tela": "Tela tejido en punto",
+                           "información adicional": "Funda lavable"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "complementos",
+            "subcategoria": "almohadas",
+            "marca": "Cisne",
+            "modelo": "viscoelasticas",
+            "ruta": "/productos/complementos/almohadas/viscoelasticas/2/",
+            "nombre": "SET 2 ALMOHADAS EL CISNE VISCOELASTICAS BLANCAS",
+            "fotos": "/assets/imagenes/productos/complementos/almohadas/viscoelasticas/2/",
+            "precioRegular": 150,
+            "precioNormal": 99,
+            "precioVenta": 149,
+            "stock": 14,
+            "sku": "K752N10",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Cisne",
+                    "modelo": "Viscoelasticas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Cisne",
+                    "sub-categoría": "Viscoelasticas"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Almohada",
+                    "descripcion":[
+                        {
+                           "profundidad": "60",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "40",
+                           "alto": "12",
+                           "material": "Espuma",
+                           "garantía": "1 año",
+                           "tipo de tela": "Tela tejido en punto",
+                           "información adicional": "Funda lavable"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

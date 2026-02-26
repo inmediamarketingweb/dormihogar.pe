@@ -137,6 +137,14 @@ function App(){
                         <Route path="/productos/sofas/:sub1/:sub2/" element={<Sofas />} />
                         <Route path="/productos/sofas/:sub1/" element={<Sofas />} />
 
+                        <Route path="/productos/complementos/almohadas/:tipo/:id" element={<PaginaProducto />} />
+                        <Route path="/productos/complementos/almohadas/:tipo/" element={<Complementos />} />
+                        <Route path="/productos/complementos/almohadas/" element={<Complementos />} />
+
+                        <Route path="/productos/complementos/sabanas-y-cobertores/:tipo/:id" element={<PaginaProducto />} />
+                        <Route path="/productos/complementos/sabanas-y-cobertores/:tipo/" element={<Complementos />} />
+                        <Route path="/productos/complementos/sabanas-y-cobertores/" element={<Complementos />} />
+
                         <Route path="/productos/complementos/bases/:tamaño/:marca/:tipo/" element={<Complementos />} />
                         <Route path="/productos/complementos/bases/:tamaño/:marca/" element={<Complementos />} />
                         <Route path="/productos/complementos/bases/:tamaño/" element={<Complementos />} />

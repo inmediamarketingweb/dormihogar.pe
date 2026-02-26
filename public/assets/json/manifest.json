@@ -459,6 +459,11 @@
 
         "/assets/json/categorias/complementos/puffs/clasicos/kamas.json",
 
+        "/assets/json/categorias/complementos/almohadas/clasicas.json",
+        "/assets/json/categorias/complementos/almohadas/viscoelasticas.json",
+
+        "/assets/json/categorias/complementos/sabanas-y-cobertores/clasicas.json",
+
         "/assets/json/categorias/complementos/veladores/kamas.json"
     ]
 }

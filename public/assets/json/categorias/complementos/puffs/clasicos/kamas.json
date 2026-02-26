@@ -1223,7 +1223,210 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 25,
+            "categoria": "complementos",
+            "subcategoria": "puffs",
+            "marca": "kamas",
+            "modelo": "Espacio",
+            "ruta": "/productos/complementos/puffs/kamas/25/",
+            "nombre": "PUFF ESPACIO - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/25/",
+            "colores": "si",
+            "precioRegular": 129,
+            "precioNormal": 99,
+            "precioVenta": 119,
+            "stock": 14,
+            "sku": "K74N34",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "modelo": "clásico",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "sub-categoría": "Puffs",
+                    "cajones": "No",
+                    "modelo": "Espacio",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Puff espacio",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoria": "complementos",
+            "subcategoria": "puffs",
+            "marca": "kamas",
+            "modelo": "Vintage",
+            "ruta": "/productos/complementos/puffs/kamas/26/",
+            "nombre": "PUFF VINTAGE - POTRO MORO",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/26/",
+            "colores": "si",
+            "precioRegular": 129,
+            "precioNormal": 99,
+            "precioVenta": 149,
+            "stock": 14,
+            "sku": "K74N35",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "modelo": "vintage",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "sub-categoría": "Puffs",
+                    "cajones": "No",
+                    "modelo": "Vintage",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Puff espacio",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "categoria": "complementos",
+            "subcategoria": "puffs",
+            "marca": "kamas",
+            "modelo": "Vintage",
+            "ruta": "/productos/complementos/puffs/kamas/27/",
+            "nombre": "PUFF VINTAGE - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/27/",
+            "colores": "si",
+            "precioRegular": 129,
+            "precioNormal": 99,
+            "precioVenta": 149,
+            "stock": 14,
+            "sku": "K74N35",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "modelo": "vintage",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "sub-categoría": "Puffs",
+                    "cajones": "No",
+                    "modelo": "Vintage",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Puff espacio",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "categoria": "complementos",
+            "subcategoria": "puffs",
+            "marca": "kamas",
+            "modelo": "Circular",
+            "ruta": "/productos/complementos/puffs/kamas/28/",
+            "nombre": "PUFF CIRCULAR - NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/28/",
+            "colores": "si",
+            "precioRegular": 199,
+            "precioNormal": 149,
+            "precioVenta": 99,
+            "stock": 14,
+            "sku": "K74N35",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "modelo": "circular",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "sub-categoría": "Puffs",
+                    "cajones": "No",
+                    "modelo": "Circular",
+                    "alto": 37,
+                    "largo": 27,
+                    "ancho": 37
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Puff espacio",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
         }
-
     ]
 }

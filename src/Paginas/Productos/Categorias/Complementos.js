@@ -70,8 +70,12 @@ function Complementos() {
             return { tipo: 'puff', niveles: 3 };
         } else if (path.includes('/veladores/')) {
             return { tipo: 'veladores', niveles: 2 };
+        } else if (path.includes('/almohadas/')) {
+            return { tipo: 'almohadas', niveles: 2 };
+        } else if (path.includes('/sabanas-y-cobertores/')) {
+            return { tipo: 'sabanas-y-cobertores', niveles: 2 };
         }
-        
+
         return { tipo: 'general', niveles: 0 };
     };
 

@@ -29,6 +29,10 @@
                 {
                     "complementos": "Cama perro",
                     "ruta": "/productos/complementos/cama-perro/"
+                },
+                {
+                    "complementos": "Ver todos",
+                    "ruta": "/productos/complementos/"
                 }
             ]
         }

@@ -25,9 +25,9 @@
                 }
             ],
             "tamaños-disponibles":[
-                { "nombre": "1 plaza y media", "sku": "H111510N10" },
-                { "nombre": "2 plazas", "sku": "H11210N10" },
-                { "nombre": "king", "sku": "H11410N10" }
+                { "nombre": "1 plaza y media", "sku": "D111510N10" },
+                { "nombre": "2 plazas", "sku": "D11210N10" },
+                { "nombre": "king", "sku": "D11410N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

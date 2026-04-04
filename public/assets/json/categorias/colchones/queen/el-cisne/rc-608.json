@@ -16,8 +16,8 @@
             "sku": "D1335N10",
             "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                { "nombre": "2 plazas", "sku": "H1325N10" },
-                { "nombre": "King", "sku": "H1345N10" }
+                { "nombre": "2 plazas", "sku": "D1325N10" },
+                { "nombre": "King", "sku": "D1345N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

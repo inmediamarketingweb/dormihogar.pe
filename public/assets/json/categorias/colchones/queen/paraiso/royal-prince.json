@@ -13,12 +13,12 @@
             "precioNormal": 1953,
             "precioVenta": 1049,
             "stock": 14,
-            "sku": "H12323N10",
+            "sku": "D12323N10",
             "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                { "nombre": "1 plaza y media", "sku": "H121523N10" },
-                { "nombre": "2 plazas", "sku": "H12223N10" },
-                { "nombre": "King", "sku": "H12423N10" }
+                { "nombre": "1 plaza y media", "sku": "D121523N10" },
+                { "nombre": "2 plazas", "sku": "D12223N10" },
+                { "nombre": "King", "sku": "D12423N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

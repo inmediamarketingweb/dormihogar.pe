@@ -15,9 +15,9 @@
             "sku": "D11155N10",
             "regalos":["1 almohada"],
             "tamaños-disponibles":[
-                { "nombre": "2 plazas", "sku": "H1125N10"},
-                { "nombre": "Queen", "sku": "H1135N10"},
-                { "nombre": "King", "sku": "H1145N10"}
+                { "nombre": "2 plazas", "sku": "D1125N10"},
+                { "nombre": "Queen", "sku": "D1135N10"},
+                { "nombre": "King", "sku": "D1145N10"}
             ],
             "tipo-de-envio": "Envío preferente"
         }

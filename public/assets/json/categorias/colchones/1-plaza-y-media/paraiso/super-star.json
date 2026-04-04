@@ -13,12 +13,12 @@
             "precioNormal": 634,
             "precioVenta": 449,
             "stock": 14,
-            "sku": "H121518N10",
+            "sku": "D121518N10",
             "regalos":[ "1 almohada", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                { "nombre": "2 plazas", "sku": "H12218N10" },
-                { "nombre": "Queen", "sku": "H12318N10" },
-                { "nombre": "King", "sku": "H12418N10" }
+                { "nombre": "2 plazas", "sku": "D12218N10" },
+                { "nombre": "Queen", "sku": "D12318N10" },
+                { "nombre": "King", "sku": "D12418N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

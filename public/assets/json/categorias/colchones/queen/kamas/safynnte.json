@@ -16,9 +16,9 @@
             "sku": "D1136N10",
             "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
-                { "nombre": "1 plaza y media", "sku": "H11156N10" },
-                { "nombre": "2 plazas", "sku": "H1126N10" },
-                { "nombre": "King", "sku": "H1146N10" }
+                { "nombre": "1 plaza y media", "sku": "D11156N10" },
+                { "nombre": "2 plazas", "sku": "D1126N10" },
+                { "nombre": "King", "sku": "D1146N10" }
             ],
             "tipo-de-envio": "Gratis"
         }

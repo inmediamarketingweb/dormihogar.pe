@@ -10,11 +10,11 @@
             "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/europeos-con-cajones/1/",
             "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA PEDESTAL CAPITONEADO 1 + 2 CAJONES AL PIE - ROSADO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/europeos-con-cajones/pedestales/emperatriz/1/",
-            "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2499,
+            "precioRegular": 5019,
+            "precioNormal": 3599,
+            "precioVenta": 2599,
             "stock": 9,
-            "sku": "H3234173N10",
+            "sku": "D3234173N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -24,6 +24,7 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Dynasty",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",

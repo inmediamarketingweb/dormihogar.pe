@@ -1,6 +1,7 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -9,11 +10,11 @@
             "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA PEDESTAL CORONA CAPITONEADO 1 + 2 CAJONES - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/americanos-con-cajones/coronas/otros-modelos/1/",
-            "precioRegular": 4999,
-            "precioNormal": 3999,
-            "precioVenta": 2899,
+            "precioRegular": 5099,
+            "precioNormal": 4199,
+            "precioVenta": 3099,
             "stock": 9,
-            "sku": "H3224175N10",
+            "sku": "D3224175N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -23,6 +24,7 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Dynasty",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos curvos",
@@ -31,6 +33,7 @@
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -43,7 +46,7 @@
             "precioNormal": 3999,
             "precioVenta": 2999,
             "stock": 9,
-            "sku": "H3224173N10",
+            "sku": "D3224173N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -53,6 +56,7 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Dynasty",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos curvos",

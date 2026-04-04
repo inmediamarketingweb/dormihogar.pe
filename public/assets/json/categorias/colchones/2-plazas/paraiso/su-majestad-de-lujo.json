@@ -16,9 +16,9 @@
             "sku": "D12217N10",
             "regalos":[ "2 almohadas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                { "nombre": "1 plaza y media", "sku": "H121517N10" },
-                { "nombre": "Queen", "sku": "H12317N10" },
-                { "nombre": "King", "sku": "H12417N10" }
+                { "nombre": "1 plaza y media", "sku": "D121517N10" },
+                { "nombre": "Queen", "sku": "D12317N10" },
+                { "nombre": "King", "sku": "D12417N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

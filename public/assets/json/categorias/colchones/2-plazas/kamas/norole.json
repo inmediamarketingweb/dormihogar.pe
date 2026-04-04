@@ -12,12 +12,12 @@
             "precioNormal": 1299,
             "precioVenta": 849,
             "stock": 99,
-            "sku": "H1129N10",
+            "sku": "D1129N10",
             "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                { "nombre": "1 plaza y media", "sku": "H11159N10" },
-                { "nombre": "Queen", "sku": "H1139N10" },
-                { "nombre": "King", "sku": "H1149N10" }
+                { "nombre": "1 plaza y media", "sku": "D11159N10" },
+                { "nombre": "Queen", "sku": "D1139N10" },
+                { "nombre": "King", "sku": "D1149N10" }
             ],
             "tipo-de-envio": "Gratis"
         }

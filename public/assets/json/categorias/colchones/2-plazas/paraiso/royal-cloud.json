@@ -16,9 +16,9 @@
             "sku": "D12222N10",
             "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                { "nombre": "1 plaza y media", "sku": "H121522N10" },
-                { "nombre": "Queen", "sku": "H12322N10" },
-                { "nombre": "King", "sku": "H12422N10" }
+                { "nombre": "1 plaza y media", "sku": "D121522N10" },
+                { "nombre": "Queen", "sku": "D12322N10" },
+                { "nombre": "King", "sku": "D12422N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

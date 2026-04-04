@@ -1,6 +1,7 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -9,11 +10,11 @@
             "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/europeos/1/",
             "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA AEREA CAPITONEADO 1 - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/europeos/americanas/capitoneados-1/1/",
-            "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2799,
+            "precioRegular": 5199,
+            "precioNormal": 3599,
+            "precioVenta": 2999,
             "stock": 9,
-            "sku": "H3234273N10",
+            "sku": "D3234273N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -23,6 +24,7 @@
                     "cajones": "no",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Dynasty",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Americano",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin Brazos",
@@ -31,6 +33,7 @@
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
             "marca": "Paraiso",
             "linea": "Europeos",
@@ -39,11 +42,11 @@
             "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/europeos/1/",
             "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA AEREA CAPITONEADO 1 - BEIGE CLARO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/europeos/americanas/capitoneados-1/2/",
-            "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2799,
+            "precioRegular": 5199,
+            "precioNormal": 3599,
+            "precioVenta": 2999,
             "stock": 9,
-            "sku": "H3234273N11",
+            "sku": "D3234273N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -53,6 +56,7 @@
                     "cajones": "no",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Dynasty",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Americano",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin Brazos",

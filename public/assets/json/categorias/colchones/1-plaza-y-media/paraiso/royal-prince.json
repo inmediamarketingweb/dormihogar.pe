@@ -13,7 +13,7 @@
             "precioNormal": 1286,
             "precioVenta": 699,
             "stock": 14,
-            "sku": "H121523N10",
+            "sku": "D121523N10",
             "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
             "resumen-del-producto":[
                 {
@@ -24,9 +24,9 @@
                 }
             ],
             "tamaños-disponibles":[
-                { "nombre": "2 plazas", "sku": "H12223N10" },
-                { "nombre": "Queen", "sku": "H12323N10" },
-                { "nombre": "King", "sku": "H12423N10" }
+                { "nombre": "2 plazas", "sku": "D12223N10" },
+                { "nombre": "Queen", "sku": "D12323N10" },
+                { "nombre": "King", "sku": "D12423N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

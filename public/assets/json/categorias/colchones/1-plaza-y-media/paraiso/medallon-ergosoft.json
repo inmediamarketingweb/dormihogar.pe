@@ -15,8 +15,8 @@
             "sku": "D121510N10",
             "regalos":[ "1 almohada" ],
             "tamaños-disponibles":[
-                { "nombre": "2 plazas", "sku": "H12210N10" },
-                { "nombre": "Queen", "sku": "H12310N10" }
+                { "nombre": "2 plazas", "sku": "D12210N10" },
+                { "nombre": "Queen", "sku": "D12310N10" }
             ],
             "tipo-de-envio": "Envío preferente"
         }

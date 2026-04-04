@@ -1,6 +1,7 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -9,11 +10,11 @@
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/1/",
             "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CAPITONEADO 1 - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/americanas/capitoneados-1/1/",
-            "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2549,
+            "precioRegular": 5199,
+            "precioNormal": 3599,
+            "precioVenta": 2749,
             "stock": 9,
-            "sku": "H3234293N10",
+            "sku": "D3234293N10",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -23,6 +24,7 @@
                     "cajones": "no",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Elizabeth",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Americano",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin Brazos",
@@ -31,6 +33,7 @@
             ]
         },
         {
+            "id": 2,
             "categoria": "dormitorios",
             "marca": "Paraiso",
             "linea": "Europeos",
@@ -38,11 +41,11 @@
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/2/",
             "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA AEREA CAPITONEADO 1 - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/americanas/capitoneados-1/2/",
-            "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2549,
+            "precioRegular": 5199,
+            "precioNormal": 3599,
+            "precioVenta": 2749,
             "stock": 9,
-            "sku": "H3234293N11",
+            "sku": "D3234293N11",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -52,6 +55,7 @@
                     "cajones": "no",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Elizabeth",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Americano",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin Brazos",
@@ -60,6 +64,7 @@
             ]
         },
         {
+            "id": 3,
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Paraiso",
@@ -68,11 +73,11 @@
             "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/3/",
             "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA PEDESTAL EMPERATRIZ - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/pedestales/emperatriz/1/",
-            "precioRegular": 4999,
-            "precioNormal": 3399,
-            "precioVenta": 2749,
+            "precioRegular": 5109,
+            "precioNormal": 3599,
+            "precioVenta": 2949,
             "stock": 9,
-            "sku": "H3234293N12",
+            "sku": "D3234293N12",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -82,6 +87,7 @@
                     "cajones": "no",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Elizabeth",
+                    "resortes": "Pocket",
                     "tipo-de-cabecera": "Americano",
                     "diseño-de-cabecera": "Pedestal",
                     "brazos-de-cabecera": "Brazos Rectos",

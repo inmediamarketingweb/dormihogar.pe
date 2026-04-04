@@ -16,9 +16,9 @@
             "sku": "D1249N10",
             "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
             "tamaños-disponibles":[
-                { "nombre": "1 plaza y media", "sku": "H12159N10" },
-                { "nombre": "2 plazas", "sku": "H1229N10" },
-                { "nombre": "Queen", "sku": "H1239N10" }
+                { "nombre": "1 plaza y media", "sku": "D12159N10" },
+                { "nombre": "2 plazas", "sku": "D1229N10" },
+                { "nombre": "Queen", "sku": "D1239N10" }
             ]
         }
     ],

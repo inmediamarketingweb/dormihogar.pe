@@ -1,5 +1,82 @@
-import { useState, useRef, useEffect } from 'react';
+// import { useState, useRef, useEffect } from 'react';
 
+// import './Slider.css';
+
+// function Slider() {
+//     const totalSlides = 6;
+//     const [currentIndex, setCurrentIndex] = useState(0);
+//     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+//     const sliderRef = useRef(null);
+
+//     useEffect(() => {
+//         const handleResize = () => {
+//             setIsSmallScreen(window.innerWidth < 600);
+//         };
+//         window.addEventListener('resize', handleResize);
+//         return () => window.removeEventListener('resize', handleResize);
+//     }, []);
+
+//     useEffect(() => {
+//         const interval = setInterval(() => {
+//             setCurrentIndex((prevIndex) => (prevIndex + 1) % totalSlides);
+//         }, 10000);
+//         return () => clearInterval(interval);
+//     }, [totalSlides]);
+
+//     const goToNextSlide = () => {
+//         setCurrentIndex((prevIndex) => (prevIndex + 1) % totalSlides);
+//     };
+
+//     const goToPrevSlide = () => {
+//         setCurrentIndex((prevIndex) => (prevIndex - 1 + totalSlides) % totalSlides);
+//     };
+
+//     const visibleIndexes = [
+//         (currentIndex - 1 + totalSlides) % totalSlides, currentIndex, (currentIndex + 1) % totalSlides
+//     ];
+
+//     return (
+//         <div className="slider-general-container d-flex-column">
+//             <div className="hero-container">
+//                 <section className="hero">
+//                     <div className="slider-container">
+//                         <ul className="slider" ref={sliderRef} style={{ marginLeft: `-${currentIndex * 100}%` }}>
+//                             {Array.from({ length: totalSlides }).map((_, index) => (
+//                                 <li key={index}>
+//                                     {visibleIndexes.includes(index) && (
+//                                         <a href='/' title=''>
+//                                             <img width={isSmallScreen ? 400 : 2000} height={isSmallScreen ? 180 : 600} {...(index !== 0 ? { loading: "lazy" } : {})} src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.webp`} alt="Dormitorios paraiso, kamas y el cisne | Dormihogar" />
+//                                         </a>
+//                                     )}
+//                                 </li>
+//                             ))}
+//                         </ul>
+//                     </div>
+//                 </section>
+
+//                 <button type="button" className="hero-slider-button hero-slider-button-1" onClick={goToPrevSlide}>
+//                     <span className="material-icons">chevron_left</span>
+//                 </button>
+
+//                 <button type="button" className="hero-slider-button hero-slider-button-2" onClick={goToNextSlide}>
+//                     <span className="material-icons">chevron_right</span>
+//                 </button>
+
+//                 <div className='slider-general-dots'>
+//                     <span className='active'></span>
+//                     <span></span>
+//                     <span></span>
+//                     <span></span>
+//                     <span></span>
+//                 </div>
+//             </div>
+//         </div>
+//     );
+// }
+
+// export default Slider;
+
+import { useState, useRef, useEffect } from 'react';
 import './Slider.css';
 
 function Slider() {
@@ -31,8 +108,14 @@ function Slider() {
         setCurrentIndex((prevIndex) => (prevIndex - 1 + totalSlides) % totalSlides);
     };
 
+    const goToSlide = (index) => {
+        setCurrentIndex(index);
+    };
+
     const visibleIndexes = [
-        (currentIndex - 1 + totalSlides) % totalSlides, currentIndex, (currentIndex + 1) % totalSlides
+        (currentIndex - 1 + totalSlides) % totalSlides, 
+        currentIndex, 
+        (currentIndex + 1) % totalSlides
     ];
 
     return (
@@ -44,7 +127,15 @@ function Slider() {
                             {Array.from({ length: totalSlides }).map((_, index) => (
                                 <li key={index}>
                                     {visibleIndexes.includes(index) && (
-                                        <img width={isSmallScreen ? 400 : 2000} height={isSmallScreen ? 180 : 600} {...(index !== 0 ? { loading: "lazy" } : {})} src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.webp`} alt="Dormitorios paraiso, kamas y el cisne | Dormihogar" />
+                                        <a href='/' title=''>
+                                            <img 
+                                                width={isSmallScreen ? 400 : 2000} 
+                                                height={isSmallScreen ? 180 : 600} 
+                                                {...(index !== 0 ? { loading: "lazy" } : {})} 
+                                                src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.webp`} 
+                                                alt="Dormitorios paraiso, kamas y el cisne | Dormihogar" 
+                                            />
+                                        </a>
                                     )}
                                 </li>
                             ))}
@@ -59,6 +150,16 @@ function Slider() {
                 <button type="button" className="hero-slider-button hero-slider-button-2" onClick={goToNextSlide}>
                     <span className="material-icons">chevron_right</span>
                 </button>
+
+                <div className='slider-general-dots'>
+                    {Array.from({ length: totalSlides }).map((_, index) => (
+                        <span 
+                            key={index}
+                            className={currentIndex === index ? 'active' : ''}
+                            onClick={() => goToSlide(index)}
+                        ></span>
+                    ))}
+                </div>
             </div>
         </div>
     );

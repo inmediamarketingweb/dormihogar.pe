@@ -1,0 +1,19 @@
+{
+    "networks":[
+        {
+            "id": 1,
+            "name": "Facebook",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "name": "Instagram",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "name": "Tik Tok",
+            "link": ""
+        }
+    ]
+}

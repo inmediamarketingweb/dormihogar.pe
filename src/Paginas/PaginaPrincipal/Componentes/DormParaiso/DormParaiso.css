@@ -1,0 +1,51 @@
+.hp-paraiso-products-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.hp-paraiso-products-content{
+    width: 100%;
+    overflow-x: auto;
+}
+
+.hp-paraiso-products-content::-webkit-scrollbar{
+    display: none;
+}
+
+.hp-paraiso-products-content ul{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
+.hp-paraiso-productos-dots{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.hp-paraiso-productos-dots span{
+    display: flex;
+    width: 20px;
+    height: 10px;
+    border-radius: 25px;
+    background: var(--component);
+    transition: var(--t-200ms-linear);
+    cursor: pointer;
+}
+
+.hp-paraiso-productos-dots span.active{
+    width: 50px;
+    background: var(--color-1);
+}
+
+@media screen and (max-width: 600px){
+    .hp-paraiso-products-content ul li{
+        width: 180px;
+        height: 220px;
+    }
+}

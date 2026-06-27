@@ -1,11 +1,12 @@
 import { Helmet } from 'react-helmet';
 
 import Slider from './Componentes/Slider/Slider';
-import Categorias from './Componentes/Categorias/Categorias';
+import DormParaiso from './Componentes/DormParaiso/DormParaiso';
+// import Categorias from './Componentes/Categorias/Categorias';
 // import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
-import Ofertas from './Componentes/Ofertas/Ofertas';
-import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
-import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
+// import Ofertas from './Componentes/Ofertas/Ofertas';
+// import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
+// import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
 
 import './PaginaPrincipal.css';
 
@@ -30,15 +31,31 @@ function PaginaPrincipal(){
             <main>
                 <Slider/>
 
-                <Categorias/>
+                <div className='block-container'>
+                    <section className='block-content'>
+                        <div className='w-100 d-grid-2-1fr gap-10'>
+                            <a className='d-flex w-100 border-r-10 overflow-hidden' href='/' title=''>
+                                <img className='w-100 d-flex' src="https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/slider/slider-1.webp" alt=''/>
+                            </a>
 
-                {/* <UltimasNovedades/> */}
+                            <a className='d-flex w-100 border-r-10 overflow-hidden' href='/' title=''>
+                                <img className='w-100 d-flex' src="https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/slider/slider-2.webp" alt=''/>
+                            </a>
+                        </div>
+                    </section>
+                </div>
+
+                <DormParaiso/>
+
+                {/* <Categorias/>
+
+                <UltimasNovedades/>
                 
                 <Ofertas/>
 
                 <SobreNosotros/>
 
-                <Distribuidores/>
+                <Distribuidores/> */}
             </main>
         </>
     );

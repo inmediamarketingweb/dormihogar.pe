@@ -9,7 +9,7 @@
 .header-top{
     margin: 0 auto;
     width: 100%;
-    max-width: var(--content-mx-width);
+    max-width: var(--content-mx-width-header);
 }
 
 .header-top-left li > p,
@@ -55,6 +55,10 @@
 }
 
 @media screen and (max-width: 600px){
+    .header-top-container{
+        padding: 0 10px;
+    }
+
     .header-top > ul{
         display: none;
     }

@@ -8,44 +8,44 @@ function Categorias(){
             <nav className='product-page-categories'>
                 <ul>
                     <li>
-                        <Link className="product-page-categories-link" to='/productos/colchones/' title='Colchones | Homesleep'>
-                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/colchones.webp' alt='Colchones | Homesleep'/>
+                        <Link className="product-page-categories-link" to='/productos/colchones/' title='Colchones | Dormihogar'>
+                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/colchones.webp' alt='Colchones | Dormihogar'/>
                             <p>Colchones</p>
                         </Link>
                     </li>
                     <li>
-                        <Link className="product-page-categories-link" to='/productos/camas-box-tarimas/' title='Camas box tarimas | Homesleep'>
-                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-box-tarimas.webp' alt='Camas box tarimas | Homesleep'/>
+                        <Link className="product-page-categories-link" to='/productos/camas-box-tarimas/' title='Camas box tarimas | Dormihogar'>
+                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-box-tarimas.webp' alt='Camas box tarimas | Dormihogar'/>
                             <p>Camas box tarimas</p>
                         </Link>
                     </li>
                     <li>
-                        <Link className="product-page-categories-link" to='/productos/dormitorios/' title='Dormitorios | Homesleep'>
-                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/dormitorios.webp' alt='Dormitorios | Homesleep'/>
+                        <Link className="product-page-categories-link" to='/productos/dormitorios/' title='Dormitorios | Dormihogar'>
+                            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00YYlrsgEqbBHeYYarx9Wkl0qEd0_TDA-EuVsEJRlYA&s' alt='Dormitorios | Dormihogar'/>
                             <p>Dormitorios</p>
                         </Link>
                     </li>
                     <li>
-                        <Link className="product-page-categories-link" to='/productos/camas-funcionales/' title='Camas funcionales | Homesleep'>
-                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-funcionales.webp' alt='Camas funcionales | Homesleep'/>
+                        <Link className="product-page-categories-link" to='/productos/camas-funcionales/' title='Camas funcionales | Dormihogar'>
+                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/camas-funcionales.webp' alt='Camas funcionales | Dormihogar'/>
                             <p>Camas funcionales</p>
                         </Link>
                     </li>
                     <li>
-                        <Link className="product-page-categories-link" to='/productos/cabeceras/' title='Cabeceras | Homesleep'>
-                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/cabeceras.webp' alt='Cabeceras | Homesleep'/>
+                        <Link className="product-page-categories-link" to='/productos/cabeceras/' title='Cabeceras | Dormihogar'>
+                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/cabeceras.webp' alt='Cabeceras | Dormihogar'/>
                             <p>Cabeceras</p>
                         </Link>
                     </li>
                     <li>
-                        <Link className="product-page-categories-link" to='/productos/sofas/' title='Sofas | Homesleep'>
-                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/sofas.webp' alt='Sofas | Homesleep'/>
+                        <Link className="product-page-categories-link" to='/productos/sofas/' title='Sofas | Dormihogar'>
+                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/sofas.webp' alt='Sofas | Dormihogar'/>
                             <p>Sofas</p>
                         </Link>
                     </li>
                     <li>
-                        <Link className="product-page-categories-link" to='/productos/complementos/' title='Complementos | Homesleep'>
-                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/complementos.webp' alt='Complementos | Homesleep'/>
+                        <Link className="product-page-categories-link" to='/productos/complementos/' title='Complementos | Dormihogar'>
+                            <img src='https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/categorias/complementos.webp' alt='Complementos | Dormihogar'/>
                             <p>Complementos</p>
                         </Link>
                     </li>

@@ -26,7 +26,7 @@ function Categorias(){
 
                 <ul className='homepage-categories'>
                     <li>
-                        <a href='/productos/colchones/' title='Colchones | Kamas'>
+                        <a href='/productos/colchones/' title='Colchones | Dormihogar'>
                             <div>
                                 <img width={isSmallScreen ? 80 : 160} height={isSmallScreen ? 80 : 160} loading="lazy" src={`/assets/imagenes/paginas/pagina-principal/categorias/${isSmallScreen ? 'thumb/' : ''}1.webp`} alt="Colchones | Kamas" />
                             </div>
@@ -34,7 +34,7 @@ function Categorias(){
                         </a>
                     </li>
                     <li>
-                        <a href='/productos/camas-box-tarimas/' title='Camas box tarimas | Kamas'>
+                        <a href='/productos/camas-box-tarimas/' title='Camas box tarimas | Dormihogar'>
                             <div>
                                 <img width={isSmallScreen ? 80 : 160} height={isSmallScreen ? 80 : 160} loading="lazy" src={`/assets/imagenes/paginas/pagina-principal/categorias/${isSmallScreen ? 'thumb/' : ''}2.webp`} alt="Camas box tarimas | Kamas" />
                             </div>
@@ -42,7 +42,7 @@ function Categorias(){
                         </a>
                     </li>
                     <li>
-                        <a href='/productos/dormitorios/' title='Dormitorios | Kamas'>
+                        <a href='/productos/dormitorios/' title='Dormitorios | Dormihogar'>
                             <div>
                                 <img width={isSmallScreen ? 80 : 160} height={isSmallScreen ? 80 : 160} loading="lazy" src={`/assets/imagenes/paginas/pagina-principal/categorias/${isSmallScreen ? 'thumb/' : ''}3.webp`} alt="Dormitorios | Kamas" />
                             </div>
@@ -50,7 +50,7 @@ function Categorias(){
                         </a>
                     </li>
                     <li>
-                        <a href='/productos/camas-funcionales/' title='Camas funcionales | Kamas'>
+                        <a href='/productos/camas-funcionales/' title='Camas funcionales | Dormihogar'>
                             <div>
                                 <img width={isSmallScreen ? 80 : 160} height={isSmallScreen ? 80 : 160} loading="lazy" src={`/assets/imagenes/paginas/pagina-principal/categorias/${isSmallScreen ? 'thumb/' : ''}4.webp`} alt="Camas funcionales | Kamas" />
                             </div>
@@ -58,7 +58,7 @@ function Categorias(){
                         </a>
                     </li>
                     <li>
-                        <a href='/productos/cabeceras/' title='Cabeceras | Kamas'>
+                        <a href='/productos/cabeceras/' title='Cabeceras | Dormihogar'>
                             <div>
                                 <img width={isSmallScreen ? 80 : 160} height={isSmallScreen ? 80 : 160} loading="lazy" src={`/assets/imagenes/paginas/pagina-principal/categorias/${isSmallScreen ? 'thumb/' : ''}5.webp`} alt="Cabeceras | Kamas" />
                             </div>
@@ -66,7 +66,7 @@ function Categorias(){
                         </a>
                     </li>
                     <li>
-                        <a href='/productos/sofas/' title='Sofás | Kamas'>
+                        <a href='/productos/sofas/' title='Sofás | Dormihogar'>
                             <div>
                                 <img width={isSmallScreen ? 80 : 160} height={isSmallScreen ? 80 : 160} loading="lazy" src={`/assets/imagenes/paginas/pagina-principal/categorias/${isSmallScreen ? 'thumb/' : ''}7.webp`} alt="Sofás | Kamas" />
                             </div>

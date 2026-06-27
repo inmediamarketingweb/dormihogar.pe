@@ -274,6 +274,7 @@
         "/assets/json/categorias/dormitorios/queen/kamas/sarki/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/queen/kamas/sarki/europeos.json",
         "/assets/json/categorias/dormitorios/queen/kamas/sarki/europeos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/queen/kamas/sarki/circulares.json",
 
         "/assets/json/categorias/dormitorios/queen/kamas/der-prinz/americanos.json",
         "/assets/json/categorias/dormitorios/queen/kamas/der-prinz/americanos-con-cajones.json",
@@ -291,11 +292,6 @@
 
 
         "/assets/json/categorias/dormitorios/queen/komfort/saphir/americanos.json",
-
-
-
-        "/assets/json/categorias/dormitorios/4-plazas/kamas/sarki/americanos.json",
-        "/assets/json/categorias/dormitorios/4-plazas/kamas/der-prinz/americanos.json",
 
 
 
@@ -321,6 +317,12 @@
         "/assets/json/categorias/dormitorios/king/kamas/sarki/europeos.json",
         "/assets/json/categorias/dormitorios/king/kamas/sarki/europeos-con-cajones.json",
         "/assets/json/categorias/dormitorios/king/kamas/sarki/premium.json",
+        "/assets/json/categorias/dormitorios/king/kamas/sarki/circulares.json",
+
+        "/assets/json/categorias/dormitorios/4-plazas/kamas/sarki/americanos.json",
+        "/assets/json/categorias/dormitorios/4-plazas/kamas/sarki/circulares.json",
+
+        "/assets/json/categorias/dormitorios/4-plazas/kamas/der-prinz/americanos.json",
 
 
         "/assets/json/categorias/dormitorios/king/kamas/der-prinz/cama-nube.json",

@@ -19,29 +19,57 @@ function SobreNosotros(){
 
     return(
         <div className='block-container block-container-homepage-about-us'>
-            <section className='block-content'>
+            <section className='block-content block-content-homepage-about-us'>
                 <div className='block-title-container'>
-                    <h2 className='block-title'>Dormihogar</h2>
+                    <h2 className='block-title'><b>Dormihogar</b></h2>
+                    <p className='block-title-span'>Las mejores marcas, al mejor precio</p>
                 </div>
 
                 <div className='d-grid-2-1fr gap-10'>
-                    <img src="/assets/imagenes/paginas/nosotros/banner-principal.jpg" className='page-banner-img' alt="Sobre nosotros | Dormihogar"/>
+                    <div className='d-flex w-100 border-r-6 overflow-hidden'>
+                        <img src="/assets/imagenes/paginas/nosotros/banner-principal.jpg" className='w-100 h-100 object-fit-cover' alt="Sobre nosotros | Dormihogar"/>
+                    </div>
 
                     <div className='d-flex-column gap-20'>
-                        <div className='d-flex-column gap-5'>
-                            <p className='title'>Somos Dormihogar</p>
-                            <p className='title'>¡ Cuidamos tu descanso desde hace 14 años !</p>
-                            <p className='text'>En Dormihogar, llevamos más de 14 años siendo parte de los hogares peruanos, ofreciendo las mejores marcas de descanso del país, como Paraíso, Cinse, Kamas, entre otras reconocidas por su calidad y confort.</p>
-                            <p className='text'>Nos apasiona brindarte no solo productos, sino también una experiencia de compra única y confiable.</p>
-                            <p className='text'>Ofrecemos una amplia variedad de colchones, camas, box tarimas, sofás, cabeceras y muebles de dormitorio, con opciones para todos los estilos y necesidades.</p>
-                            <p className='text'>Desde el primer contacto, te acompañamos con el mejor servicio de atención personalizada y asesoría experta, para que elijas lo ideal para tu hogar.</p>
-                            <p className='text'>Gracias a nuestra logística eficiente, realizamos envíos a nivel nacional, asegurando que tu producto llegue en perfectas condiciones y en el menor tiempo posible.</p>
-                            <p className='text'>Miles de familias ya confían en Dormihogar para renovar sus espacios con productos de primera calidad, respaldo garantizado y precios competitivos.</p>
-                            <p className='text'>✨ Con Dormihogar, descansar bien es fácil, rápido y seguro.</p>
+                        <div className='d-flex-column gap-10'>
+                            <p className='block-title text-left'>Más de 15 años creando mejores noches de descanso</p>
+
+                            <p className='text'>En Dormihogar ofrecemos las mejores marcas de descanso, como Paraíso, El Cisne y Kamas, brindando productos de alta calidad para el hogar: colchones, camas, box tarimas, sofás, cabeceras y muebles de dormitorio.</p>
+                            <p className='text'>Nos enfocamos en ofrecer una atención personalizada, asesoría experta y envíos a nivel nacional, garantizando una experiencia de compra segura, rápida y confiable.</p>
+                            <p className='text'>Miles de familias peruanas confían en Dormihogar por nuestra calidad, respaldo y precios competitivos.</p>
                         </div>
 
-                        <a href='/nosotros/' className='button-link button-link-1 margin-left'>
-                            <p className='button-link-text'>Más sobre nosotros</p>
+                        <ul className='homepage-about-us-list'>
+                            <li>
+                                <span class="material-symbols-outlined">social_leaderboard</span>
+                                <p className='text'>Marcas líderes: Paraíso, El Cisne y Kamas</p>
+                            </li>
+                            <li>
+                                <span class="material-symbols-outlined">draw_abstract</span>
+                                <p className='text'>Más de 80 modelos disponibles</p>
+                            </li>
+                            <li>
+                                <span class="material-symbols-outlined">palette</span>
+                                <p className='text'>Más de 100 colores para personalizar tu dormitorio</p>
+                            </li>
+                            <li>
+                                <span class="material-symbols-outlined">local_shipping</span>
+                                <p className='text'>Envíos a todo el Perú</p>
+                            </li>
+                            <li>
+                                <span class="material-symbols-outlined">support_agent</span>
+                                <p className='text'>Atención personalizada</p>
+                            </li>
+                            <li>
+                                <span class="material-symbols-outlined">favorite</span>
+                                <p className='text'>Miles de familias felices</p>
+                            </li>
+                        </ul>
+
+                        <p className='text'>✨ Dormihogar, el descanso que tu hogar merece.</p>
+
+                        <a href='/nosotros/' className='button-link button-link-2 margin-right'>
+                            <p className='button-link-text'>Conoce más sobre nosotros</p>
                             <span className="material-icons">arrow_forward</span>
                         </a>
                     </div>
@@ -50,16 +78,16 @@ function SobreNosotros(){
                 <div className='homepage-about-us-images-container w-100'>
                     <ul className='homepage-about-us-images'>
                         <li>
-                            <img width={isSmallScreen ? 219 : 392} height={isSmallScreen ? 100 : 200} loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}1.webp`} alt=''/>
+                            <img loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}1.webp`} alt=''/>
                         </li>
                         <li>
-                            <img width={isSmallScreen ? 219 : 392} height={isSmallScreen ? 100 : 200} loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}2.webp`} alt=''/>
+                            <img loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}2.webp`} alt=''/>
                         </li>
                         <li>
-                            <img width={isSmallScreen ? 219 : 392} height={isSmallScreen ? 100 : 200} loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}3.webp`} alt=''/>
+                            <img loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}3.webp`} alt=''/>
                         </li>
                         <li>
-                            <img width={isSmallScreen ? 219 : 392} height={isSmallScreen ? 100 : 200} loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}4.webp`} alt=''/>
+                            <img loading="lazy" src={`/assets/imagenes/paginas/nosotros/${isSmallScreen ? 'thumb/' : ''}4.webp`} alt=''/>
                         </li>
                     </ul>
                 </div>

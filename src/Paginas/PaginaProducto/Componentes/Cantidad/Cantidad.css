@@ -1,53 +1,38 @@
 .product-page-quantity{
-    width: auto;
-    height: 52px;
-    border: 1px solid #D9D9D9;
-    border-radius: 3px;
-    overflow: hidden;
-    display: grid;
-    grid-template-columns: auto 1fr;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    /* flex-direction: column; */
+    gap: 10px;
 }
 
 .product-page-quantity > div{
-    width: 100%;
+    width: auto;
+    border: 1px solid var(--component);
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border-radius: 5px;
+    overflow: hidden;
+    gap: 5px;
+}
+
+.product-page-quantity > div span{
+    width: 24px;
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
 }
 
 .product-page-quantity > div button{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 36px;
-    height: 100%;
-    background: var(--component);
-    transition: var(--t-200ms-linear);
-}
-
-.product-page-quantity > div button:hover{
-    background: var(--color-1);
-}
-
-.product-page-quantity > div button,
-.product-page-quantity > div button span{
+    width: 48px;
+    height: auto;
+    aspect-ratio: 1/1;
     color: var(--text);
     transition: var(--t-200ms-linear);
 }
 
-.product-page-quantity > div button:hover,
-.product-page-quantity > div button:hover span{
-    color: var(--white);
-}
-
-.product-page-quantity > span{
-    width: 36px;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 0;
-    outline: 0;
+.product-page-quantity > div button:hover{
+    background: var(--component);
 }

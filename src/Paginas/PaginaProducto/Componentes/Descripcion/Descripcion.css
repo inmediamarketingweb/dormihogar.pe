@@ -1,3 +1,19 @@
+.product-page-description{
+    /* background: orange; */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    border: 1px solid var(--component);
+    border-radius: 6px;
+}
+
+.product-description-title{
+    color: var(--color-1);
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
 .product-details{
     display: flex;
     flex-direction: column;

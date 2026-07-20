@@ -48,6 +48,7 @@ function Compartir(){
             {isOpen && (
                 <div className="share-menu">
                     <button onClick={shareOnWhatsApp} className="share-option whatsapp">
+                        <i class="fa-brands fa-whatsapp"></i>
                         <span className="icon">WhatsApp</span>
                     </button>
                     <button onClick={handleCopy} className="share-option copy">

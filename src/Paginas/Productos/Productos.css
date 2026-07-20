@@ -8,34 +8,97 @@
     width: 100%;
     max-width: var(--content-mx-width);
     display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 20px;
+    grid-template-columns: 260px 1fr;
+    gap: 10px;
 }
 
 .products-page-left{
     display: flex;
-    width: 300px;
+    width: 100%;
     height: 100%;
+
+    border-right: 1px solid var(--component);
+    padding-right: 10px;
+}
+
+.products-page-products-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.products-page-categories-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
 }
 
 .products-page-categories-list{
+    width: 100%;
     display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
+    flex-direction: column;
+}
+
+.products-page-categories-list li{
+    width: 100%;
 }
 
 .products-page-categories-list li a{
+    width: 100%;
+    height: 48px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 2px 5px;
-    border-radius: 3px;
-    background: var(--component);
+    justify-content: space-between;
+    transition: var(--t-200ms-linear);
+    padding-left: 10px;
+    position: relative;
 }
 
-.products-page-categories-list li a p{
+.products-page-categories-list li a::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 100%;
+    height: 2px;
+    display: flex;
+    background: var(--component);
+    transition: var(--t-200ms-linear);
+}
+
+.products-page-categories-list li a::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 5px;
+    height: 100%;
+    display: flex;
+    background: var(--component);
+    transition: var(--t-200ms-linear);
+
+    opacity: 0;
+}
+
+.products-page-categories-list li a:hover::before{
+    opacity: 1;
+}
+
+.products-page-categories-list li:nth-last-child(1) a::after{
+    display: none;
+}
+
+.products-page-categories-list li a p,
+.products-page-categories-list li a span{
     color: var(--text);
-    font-size: 14px;
+    transition: var(--t-200ms-linear);
+    /* font-size: 14px; */
+}
+
+.products-page-categories-list li a:hover p,
+.products-page-categories-list li a:hover span{
+    color: var(--color-1);
 }
 
 .products-page-right{
@@ -52,6 +115,102 @@
     gap: 10px;
 }
 
+/**/
+
+.envio-gratis-button-container{
+    width: 100%;
+    /* border-bottom: 2px solid var(--component); */
+    /* padding-bottom: 20px; */
+    border: 1px solid var(--component);
+    padding: 14px 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.envio-gratis-button{
+    position: relative;
+    display: flex;
+    width: 34px;
+    height: 20px;
+    background: #A9A9A9;
+    transition: var(--t-200ms-linear);
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.envio-gratis-button.active{
+    background: var(--color-1);
+}
+
+.envio-gratis-button > span{
+    position: absolute;
+    left: 2px;
+    top: 50%;
+    translate: 0 -50%;
+    display: flex;
+    width: auto;
+    height: calc(100% - 4px);
+    border-radius: 100%;
+    aspect-ratio: 1/1;
+    background: var(--white);
+    transition: var(--t-200ms-linear);
+}
+
+.envio-gratis-button-container > div.active span{
+    left: calc(100% - 18px);
+}
+
+/**/
+
+.pagination-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pagination-arrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10px; */
+}
+
+.pagination-arrow span{
+    color: var(--color-1);
+    /* font-size: 20px; */
+}
+
+.pagination-arrow p{
+    color: var(--text);
+    font-size: 13px;
+}
+
+.pagination-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+}
+
+.pagination-page{
+    width: 24px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--component);
+    transition: var(--t-200ms-linear);
+    border-radius: 3px;
+}
+
+.pagination-page:hover{
+    border: 1px solid var(--color-1);
+    /* color: var(--color-1); */
+}
+
 @media screen and (max-width: 600px){
     .products-page-main{
         padding: 10px;
@@ -64,5 +223,9 @@
 
     .products-page-products{
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .products-page-right{
+        gap: 10px;
     }
 }

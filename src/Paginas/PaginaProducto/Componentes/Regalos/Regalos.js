@@ -172,8 +172,9 @@ function Regalos({ producto, descripcionColchon = null }) {
 
     return (
         <div className="product-page-gifts w-100 d-flex-column gap-10">
-            <div className="d-flex gap-5">
-                <p className="title uppercase color-color-1">Regalos</p>
+            <div className="d-flex-center-left gap-3">
+                <span class="material-symbols-outlined">redeem</span>
+                <p className="tag-title">Regalos</p>
             </div>
 
             <ul>

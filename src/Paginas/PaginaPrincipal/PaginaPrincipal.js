@@ -2,11 +2,13 @@ import { Helmet } from 'react-helmet';
 
 import Slider from './Componentes/Slider/Slider';
 import DormParaiso from './Componentes/DormParaiso/DormParaiso';
-// import Categorias from './Componentes/Categorias/Categorias';
+import Categorias from './Componentes/Categorias/Categorias';
 // import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
 // import Ofertas from './Componentes/Ofertas/Ofertas';
-// import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
-// import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
+import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
+import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
+import Baules from './Componentes/Baules/Baules';
+import Why from './Componentes/Why/Why';
 
 import './PaginaPrincipal.css';
 
@@ -31,6 +33,8 @@ function PaginaPrincipal(){
             <main>
                 <Slider/>
 
+                <Categorias/>
+
                 <div className='block-container'>
                     <section className='block-content'>
                         <div className='w-100 d-grid-2-1fr gap-10'>
@@ -47,15 +51,18 @@ function PaginaPrincipal(){
 
                 <DormParaiso/>
 
-                {/* <Categorias/>
+                {/* <UltimasNovedades/> */}
 
-                <UltimasNovedades/>
-                
-                <Ofertas/>
+                {/* <Ofertas/> */}
+
+
+                <Distribuidores/>
+
+                <Baules/>
 
                 <SobreNosotros/>
 
-                <Distribuidores/> */}
+                <Why/>
             </main>
         </>
     );

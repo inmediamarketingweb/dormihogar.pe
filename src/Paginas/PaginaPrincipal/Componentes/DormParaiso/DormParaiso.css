@@ -3,11 +3,14 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
+    position: relative;
 }
 
 .hp-paraiso-products-content{
     width: 100%;
     overflow-x: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
 }
 
 .hp-paraiso-products-content::-webkit-scrollbar{
@@ -15,10 +18,24 @@
 }
 
 .hp-paraiso-products-content ul{
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    display: flex;
     gap: 10px;
+    /* width: max-content; */
+    padding: 0;
+    margin: 0;
+}
+
+.hp-paraiso-products-content ul li {
+    scroll-snap-align: start;
+    flex: 0 0 calc(20% - 10px); /* 5 items por página, ajustando el gap */
+    min-width: 0;
+    list-style: none;
+}
+
+@media screen and (max-width: 480px) {
+    .hp-paraiso-products-content ul li {
+        flex: 0 0 calc(100% - 10px); /* 1 item por página en móvil muy pequeño */
+    }
 }
 
 .hp-paraiso-productos-dots{
@@ -43,9 +60,59 @@
     background: var(--color-1);
 }
 
-@media screen and (max-width: 600px){
+.dorm-paraiso-button{
+    position: absolute;
+    top: 50%;
+    translate: 0 -50%;
+    background: var(--component);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    transition: var(--t-200ms-linear);
+    z-index: 10;
+    border: none;
+    cursor: pointer;
+}
+
+.dorm-paraiso-button:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.dorm-paraiso-button-left{
+    left: -58px;
+}
+
+.dorm-paraiso-button-right{
+    right: -58px;
+}
+
+.dorm-paraiso-button:hover:not(:disabled){
+    background: var(--color-1);
+}
+
+.dorm-paraiso-button span{
+    color: var(--text);
+    transition: var(--t-200ms-linear);
+}
+
+.dorm-paraiso-button:hover:not(:disabled) span{
+    color: var(--white);
+}
+
+@media screen and (max-width: 600px) {
     .hp-paraiso-products-content ul li{
-        width: 180px;
-        height: 220px;
+        flex: 0 0 calc(50% - 10px);
+    }
+
+    .dorm-paraiso-button-left{
+        left: 10px;
+    }
+
+    .dorm-paraiso-button-right{
+        right: 10px;
     }
 }

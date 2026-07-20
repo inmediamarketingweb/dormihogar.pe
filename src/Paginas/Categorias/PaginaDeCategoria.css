@@ -1,4 +1,4 @@
-:root{
+/* :root{
     --product-card-images-height: 240px;
 }
 
@@ -31,8 +31,6 @@
 .category-page-right-top{
     display: none;
 }
-
-/**/
 
 .category-page-products{
     width: 100%;
@@ -365,4 +363,4 @@
     .filters-container img{
         display: none;
     }
-}
+} */

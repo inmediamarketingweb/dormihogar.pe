@@ -1,9 +1,10 @@
-import { useEffect, useState } from "react";
-import { v4 as uuidv4 } from "uuid";
+import { useState, useEffect } from "react";
+
+import { Producto } from "../../Componentes/Plantillas/Producto/Producto";
 
 import "./Favoritos.css";
 
-function Favoritos(){
+function Favoritos() {
     const [favoritos, setFavoritos] = useState([]);
 
     useEffect(() => {
@@ -11,25 +12,24 @@ function Favoritos(){
         setFavoritos(favStorage);
     }, []);
 
-    const removeFavorite = (producto) => {
-        const updatedFavorites = favoritos.filter((fav) => fav.sku !== producto.sku);
-        setFavoritos(updatedFavorites);
-        localStorage.setItem("favoritos", JSON.stringify(updatedFavorites));
+    const handleFavoritesUpdate = () => {
+        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || [];
+        setFavoritos(favStorage);
     };
 
-    const truncate = (str, maxLength) => {
-        if (str.length <= maxLength){
-            return str;
-        }
-        return str.slice(0, maxLength) + "...";
-    };
+    useEffect(() => {
+        window.addEventListener('favoritesUpdated', handleFavoritesUpdate);
+        return () => {
+            window.removeEventListener('favoritesUpdated', handleFavoritesUpdate);
+        };
+    }, []);
 
-    return(
+    return (
         <>
             <title>Mis favoritos | Dormihogar</title>
 
             <main>
-                <div className="block-container">
+                <div className="block-container margin-top-10">
                     <section className="block-content">
                         <div className="block-title-container">
                             <h2 className="block-title">Mis favoritos</h2>
@@ -39,27 +39,7 @@ function Favoritos(){
                             {favoritos.length > 0 ? (
                                 <ul className="favorites-products">
                                     {favoritos.map((producto) => (
-                                        <li key={uuidv4()}>
-                                            <div className="product-card">
-                                                <div className="product-card-images">
-                                                    <button type="button" className="remove-favorite" onClick={() => removeFavorite(producto)} title="Eliminar de favoritos">
-                                                        <span class="material-icons">delete</span>
-                                                    </button>
-
-                                                    <a href={producto.ruta}>
-                                                        <img src={`${producto.fotos}/1.jpg`} alt={producto.nombre} />
-                                                    </a>
-                                                </div>
-
-                                                <a href={producto.ruta} className="product-card-content">
-                                                    <h4 className="product-card-name">{truncate(producto.nombre, 51)}</h4>
-                                                    <div className="product-card-prices">
-                                                        <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
-                                                        <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </li>
+                                        <Producto key={producto.sku} producto={producto} />
                                     ))}
                                 </ul>
                             ) : (

@@ -6,8 +6,7 @@
 .hero-container{
     margin: auto;
     width: 100%;
-    height: calc(100vh - 158px);
-    max-height: 450px;
+    height: 450px;
     position: relative;
     overflow: hidden;
 }

@@ -361,9 +361,9 @@ function Descripcion({
     if (!tieneDescripcion) return null;
 
     return(
-        <div className="product-page-description w-100 d-flex-column gap-20-to-10">
+        <div className="product-page-description">
             <div className="d-flex-column gap-10">
-                <p className="block-title uppercase color-color-1 margin-right">Descripción del producto</p>
+                <p className="product-description-title">Descripción del producto</p>
                 {renderMensajesProducto()}
                 {renderMensajesColchon()}
             </div>

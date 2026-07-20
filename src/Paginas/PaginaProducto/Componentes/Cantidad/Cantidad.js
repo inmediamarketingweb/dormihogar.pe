@@ -64,10 +64,11 @@ function Cantidad({ onChange }) {
 
     return(
         <div className='product-page-quantity'>
-            <span>{cantidad}</span>
-            <div className='d-flex-column'>
-                <button type='button' onClick={aumentar} disabled={cantidad === MAX}>+</button>
+            {/* <p className='text'>Cantidad</p> */}
+            <div className='d-flex'>
                 <button type='button' onClick={disminuir} disabled={cantidad === MIN}>-</button>
+                <span>{cantidad}</span>
+                <button type='button' onClick={aumentar} disabled={cantidad === MAX}>+</button>
             </div>
         </div>
     );

@@ -1,0 +1,119 @@
+.why-block-container{
+    padding-bottom: 40px !important;
+}
+
+.why-block-content{
+    display: flex;
+    flex-direction: column;
+    /* gap: 50px; */
+}
+
+.why-list{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+}
+
+.why-list li{
+    padding: 30px 10px;
+    /* background: red; */
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: var(--t-200ms-linear);
+    gap: 10px;
+}
+
+.why-list li:nth-child(1) p.title,
+.why-list li:nth-child(2) p.title,
+.why-list li:nth-child(4) p.title,
+.why-list li:nth-child(6) p.title{
+    max-width: 9ch;
+}
+
+.why-list li:nth-child(3) p.title{
+    max-width: 5ch;
+}
+
+.why-list li:nth-child(5) p.title{
+    max-width: 11ch;
+}
+
+.why-list li:hover{
+    scale: 1.05;
+    border: 1px solid var(--component);
+    background: var(--white);
+}
+
+.why-list li > span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: auto;
+    aspect-ratio: 1/1;
+    background: rgba(0 0 0 / 0.025);
+    transition: var(--t-200ms-linear);
+    border-radius: 100%;
+    color: var(--color-1);
+    font-size: 48px;
+}
+
+.why-list li:hover span{
+    background: transparent;
+}
+
+.why-list li p{
+    text-align: center;
+}
+
+.why-list li p.title{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.why-list li p.title::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -9px;
+    translate: -50% 0;
+    background: var(--color-1);
+    display: flex;
+    width: 40px;
+    height: 2px;
+    border-radius: 10px;
+}
+
+.why-list li p.text{
+    font-size: 13px;
+}
+
+/* .why-list li > div{
+    margin-bottom: 20px;
+} */
+
+.why-list li > div i{
+    font-size: 12px;
+    color: var(--color-1);
+    fill: 1 !important;
+}
+
+@media screen and (max-width: 600px){
+    .why-list{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .why-list li{
+        padding: 20px 10px;
+    }
+
+    .why-list li > span{
+        width: 60px;
+        font-size: 36px;
+    }
+}

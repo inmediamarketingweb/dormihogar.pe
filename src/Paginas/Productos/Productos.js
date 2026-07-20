@@ -21,7 +21,8 @@ function Productos() {
     const [loading, setLoading] = useState(true);
     const [orden, setOrden] = useState("aleatorio");
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 20;
+    const [isFiltersOpen, setIsFiltersOpen] = useState(false); // ← AGREGAR ESTADO
+    const itemsPerPage = 28;
 
     useEffect(() => {
         const cargarProductos = async () => {
@@ -103,6 +104,10 @@ function Productos() {
         setCurrentPage(1);
     };
 
+    // Funciones dummy para filtros (no se usan en Productos.js)
+    const toggleFiltro = () => {};
+    const isFiltroActivo = () => false;
+
     return(
         <>
             <Helmet>
@@ -116,7 +121,7 @@ function Productos() {
                     <div className='products-page-left'>
                         <div className='products-page-filters-container'>
                             <div className='products-page-filters d-flex-column gap-20'>
-                                <div className='d-flex-column padding-bottom-20 border-bottom-2-solid-component'>
+                                <div className='d-flex-column'>
                                     <p className='block-title color-color-1 uppercase w-100 d-flex'>Dormihogar</p>
                                     <p className='uppercase w-100 d-flex'>Las mejores marcas en productos para el descanso</p>
                                 </div>
@@ -124,52 +129,75 @@ function Productos() {
                                 <div className='products-page-categories-container'>
                                     <ul className='products-page-categories-list'>
                                         <li>
-                                            <a href='/colchones/' title='Colchones | Dormihogar' className=''>
+                                            <a href='/productos/colchones/' title='Colchones | Dormihogar' className=''>
                                                 <p>Colchones</p>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='/productos/camas-box-tarimas/' title='Camas box tarimas | Dormihogar' className=''>
                                                 <p>Camas box tarimas</p>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='/productos/dormitorios/' title='Dormitorios | Dormihogar' className=''>
                                                 <p>Dormitorios</p>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='/productos/camas-funcionales/' title='Camas funcionales | Dormihogar' className=''>
                                                 <p>Camas funcionales</p>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='/productos/cabeceras/' title='Cabeceras | Dormihogar' className=''>
                                                 <p>Cabeceras</p>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='/productos/sofas/' title='Sofás | Dormihogar' className=''>
                                                 <p>Sofás</p>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='/productos/complementos/' title='Complementos | Dormihogar' className=''>
                                                 <p>Complementos</p>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
+
+                                <a href='/' title='Agrega un baúl clásico 2 plazas | Dormihogar' className='d-flex w-100 overflow-hidden border-r-6'>
+                                    <img src='https://macrumo.com.pe/wp-content/uploads/2024/05/Paraiso-pocket-italiano.jpg' alt='' className='d-flex w-100' />
+                                </a>
                             </div>
                         </div>
                     </div>
                     
                     <div className='products-page-right'>
-                        <FiltrosTop setOrden={handleOrdenChange} 
-                            orden={orden} productosCount={productosOrdenados.length}
-                            totalProductos={productos.length} currentPage={currentPage}
-                            itemsPerPage={itemsPerPage} startIndex={startIndex}
-                            endIndex={endIndex}
+                        <FiltrosTop 
+                            setOrden={handleOrdenChange} 
+                            orden={orden} 
+                            productosCount={productosOrdenados.length}
+                            totalProductos={productos.length} 
+                            // Props de paginación
+                            currentPage={currentPage}
+                            totalPages={totalPages}
+                            onPageChange={handlePageChange}
+                            onPreviousPage={handlePreviousPage}
+                            onNextPage={handleNextPage}
+                            getVisiblePages={getVisiblePages}
+                            // Props de filtros (necesarias pero no usadas en Productos)
+                            toggleFiltro={toggleFiltro}
+                            isFiltroActivo={isFiltroActivo}
+                            setIsFiltersOpen={setIsFiltersOpen}
+                            isFiltersOpen={isFiltersOpen}
                         />
 
                         <div className='products-page-products-container'>
@@ -195,9 +223,10 @@ function Productos() {
                                     </ul>
                                     
                                     {productosPagina.length > 0 && totalPages > 1 && (
-                                        <div className="pagination-controls d-grid-column-2-3 margin-top-20">
+                                        <div className="pagination-controls">
                                             <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
                                                 <span className="material-icons">chevron_left</span>
+                                                <p>Anterior</p>
                                             </button>
 
                                             <div className="d-flex-center-center gap-10">
@@ -211,6 +240,7 @@ function Productos() {
                                             </div>
 
                                             <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
+                                                <p>Siguiente</p>
                                                 <span className="material-icons">chevron_right</span>
                                             </button>
                                         </div>

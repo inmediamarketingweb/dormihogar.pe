@@ -12,6 +12,10 @@
     overflow: hidden;
 }
 
+.product-card-li:hover{
+    border: 1px solid var(--color-1) !important;
+}
+
 .product-card{
     display: flex;
     flex-direction: column;
@@ -31,15 +35,49 @@
     overflow: hidden;
 }
 
+.product-card-favorite{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    transition: var(--t-200ms-linear);
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.product-card:hover .product-card-favorite,
+.product-card-favorite.active{
+    opacity: 1;
+    pointer-events: unset;
+    user-select: unset;
+}
+
+.product-card-favorite span{
+    /* font-size: 24px; */
+    color: var(--component);
+    transition: var(--t-200ms-linear);
+}
+
+.product-card-favorite:hover span,
+.product-card-favorite.active span{
+    color: var(--color-1);
+}
+
 .product-card-discount{
     position: absolute;
     left: 10px;
     top: 10px;
-    font-size: 14px;
-    background: var(--color-1);
-    color: var(--white);
-    padding: 4px 8px;
-    border-radius: 25px;
+    font-size: 18px;
+    /* background: var(--color-1); */
+    /* color: var(--white); */
+    color: var(--color-1);
+    /* padding: 4px 8px; */
+    /* border-radius: 25px; */
     font-weight: bold;
     z-index: 2;
 }
@@ -68,7 +106,7 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 10px;
     position: relative;
 }
@@ -91,9 +129,35 @@
 
 .product-card-brand{
     text-transform: uppercase;
-    color: var(--color-1);
+    /* color: var(--color-1); */
     font-size: 12px;
     font-weight: bold;
+    color: var(--black);
+}
+
+.product-card-brand.paraiso{
+    color: var(--paraiso);
+}
+
+.product-card-brand.kamas{
+    color: var(--kamas-1);
+}
+
+.product-card-brand.el-cisne{
+    padding: 3px 6px;
+    border-radius: 3px;
+    background: var(--black);
+    font-weight: normal;
+    font-size: 10px;
+    color: gold;
+}
+
+.product-card-brand.komfort{
+    display: inline-block;
+}
+
+.product-card-brand.komfort::first-letter{
+    color: #FF0000;
 }
 
 .product-card-prices{
@@ -116,8 +180,8 @@
 }
 
 .product-card-normal-price{
-    font-size: 17px;
-    color: var(--text);
+    font-size: 14px;
+    color: #999;
 }
 
 .product-card-sale-price{
@@ -142,22 +206,22 @@
 .product-card-tipo-de-envio{
     margin-left: auto;
     display: flex;
-    padding: 3px 6px;
-    border-radius: 3px;
+    padding: 4px 6px;
+    border-radius: 2px;
     z-index: 10;
 }
 
 .product-card-tipo-de-envio span{
-    font-size: 11px;
+    font-size: 10px;
 }
 
 .product-card-tipo-de-envio.envio-gratis{
-    background: #026406;
+    background: #2cc031;
 }
 
 .product-card-tipo-de-envio.envio-gratis span{
     color: var(--white);
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .product-card-tipo-de-envio.envio-preferente{
@@ -251,13 +315,14 @@
 
 .product-card-name{
     font-size: 14px;
+    font-weight: bold;
     transition: var(--t-200ms-linear);
-    color: var(--text);
+    color: #555;
 }
 
-.product-card:hover .product-card-content .product-card-name{
+/* .product-card:hover .product-card-content .product-card-name{
     color: var(--black);
-}
+} */
 
 @media screen and (max-width: 800px){
     .product-card{

@@ -1,5 +1,7 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
+
 import './Imagenes.css';
+
 import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
 import Compartir from '../Compartir/Compartir';
 
@@ -10,6 +12,8 @@ function Imagenes({ imagenes, producto }){
     const [zoomActive, setZoomActive] = useState(false);
     const [zoomPos, setZoomPos] = useState({ x: 0, y: 0 });
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+    const miniaturesContainerRef = useRef(null);
+    const miniaturesListRef = useRef(null);
 
     useEffect(() => {
         const handleResize = () => {
@@ -22,6 +26,33 @@ function Imagenes({ imagenes, producto }){
             window.removeEventListener('resize', handleResize);
         };
     }, []);
+
+    useEffect(() => {
+        scrollToActiveMiniature();
+    }, [currentIndex, isSmallScreen]);
+
+    const scrollToActiveMiniature = () => {
+        const container = miniaturesContainerRef.current;
+        const list = miniaturesListRef.current;
+
+        if (!container || !list || !imagenes.length) return;
+
+        const activeElement = list.children[currentIndex];
+        if (!activeElement) return;
+
+        const containerRect = container.getBoundingClientRect();
+        const activeRect = activeElement.getBoundingClientRect();
+        const scrollLeft = container.scrollLeft;
+        const elementLeft = activeRect.left - containerRect.left + scrollLeft;
+        const elementWidth = activeRect.width;
+        const containerWidth = containerRect.width;
+        const targetScroll = elementLeft - (containerWidth / 2) + (elementWidth / 2);
+
+        container.scrollTo({
+            left: targetScroll,
+            behavior: 'smooth'
+        });
+    };
 
     if (!producto) {
         return <div>Error: Producto no disponible</div>;
@@ -62,11 +93,11 @@ function Imagenes({ imagenes, producto }){
             {descuento > 0 && <span className='image-discount'>-{descuento}%</span>}
 
             <div className='product-page-image-component'>
-                <div className="product-page-images-miniatures-container">
-                    <ul className="product-page-images-miniatures">
+                <div className="product-page-images-miniatures-container" ref={miniaturesContainerRef}>
+                    <ul className="product-page-images-miniatures" ref={miniaturesListRef}>
                         {imagenes.map((img, i) => (
                             <li key={i} className={i === currentIndex ? 'active' : ''} onClick={() => navigateTo(i)}>
-                                <LazyImage width={isSmallScreen ? 74 : 80} height={isSmallScreen ? 74 : 80} src={img} alt={nombreProducto}/>
+                                <LazyImage width={isSmallScreen ? 58 : 80} height={isSmallScreen ? 58 : 80} src={img} alt={nombreProducto}/>
                             </li>
                         ))}
                     </ul>

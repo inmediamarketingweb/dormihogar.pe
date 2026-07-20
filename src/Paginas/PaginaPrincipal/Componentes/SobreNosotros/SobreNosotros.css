@@ -5,12 +5,30 @@
 
 .block-container-homepage-about-us .block-content .d-grid-2-1fr.gap-10{
     grid-column: 1/-1;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .block-container-homepage-about-us .block-content .d-grid-2-1fr.gap-10 video{
     width: 100%;
     height: 100%;
+    border-radius: 10px;
+}
+
+.block-container-homepage-about-us p.block-title{
+    font-weight: bold;
+    font-size: 42px;
+    position: relative;
+}
+
+.block-container-homepage-about-us p.block-title::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 40px;
+    height: 3px;
+    background: var(--color-1);
+    display: flex;
     border-radius: 10px;
 }
 
@@ -31,10 +49,40 @@
 }
 
 .homepage-about-us-images li img{
-    /* width: 100%;
-    height: 200px; */
-    border-radius: 6px;
+    width: 100%;
+    height: 160px;
     object-fit: cover;
+    border-radius: 6px;
+}
+
+.homepage-about-us-list{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.homepage-about-us-list li{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 5px;
+}
+
+.homepage-about-us-list li span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: auto;
+    aspect-ratio: 1/1;
+    border: 1px solid var(--component);
+    font-size: 22px;
+    border-radius: 100%;
+    color: var(--color-1);
+}
+
+.homepage-about-us-list li p{
+    font-size: 13px;
 }
 
 @media screen and (max-width: 600px){
@@ -75,5 +123,9 @@
     }
     .homepage-about-us-images li img{
         height: 100px;
+    }
+
+    .block-container-homepage-about-us p.block-title{
+        font-size: 32px;
     }
 }

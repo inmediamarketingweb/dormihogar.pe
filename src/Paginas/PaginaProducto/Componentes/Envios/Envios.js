@@ -1,35 +1,50 @@
 import { useState, useEffect, useRef } from 'react';
-
+import { useLocation } from '../../../../Hooks/useLocation';
 import './Envios.css';
-
-const initialSelection = {
-    nombres: localStorage.getItem('nombres') || '',
-    departamento: localStorage.getItem('departamento') || '',
-    provincia: localStorage.getItem('provincia') || '',
-    distrito: localStorage.getItem('distrito') || '',
-    agencia: localStorage.getItem('agencia') || '',
-    sede: localStorage.getItem('sede') || ''
-};
 
 const initialCheckboxValues = {
     express: localStorage.getItem('express-selected') === 'true',
     directo: localStorage.getItem('directo-selected') === 'true'
 };
 
-function Envios({ producto, onConfirm }){
+function Envios({ producto, onConfirm }) {
+    const { location, updateLocation } = useLocation();
+    
     const productoConEnvio = producto ? {
         ...producto,
         'tipo-de-envio': producto['tipo-de-envio'] || 'Gratis'
     } : { 'tipo-de-envio': 'Gratis' };
 
     const [costosEnvioData, setCostosEnvioData] = useState(null);
-    const [selected, setSelected] = useState(initialSelection);
-    const [searchTerm, setSearchTerm] = useState('');
-    const [showSearchResults, setShowSearchResults] = useState(false);
+    const [selected, setSelected] = useState({
+        nombres: location.nombres || localStorage.getItem('nombres') || '',
+        departamento: location.departamento || '',
+        provincia: location.provincia || '',
+        distrito: location.distrito || '',
+        agencia: location.agencia || localStorage.getItem('agencia') || '',
+        sede: location.sede || localStorage.getItem('sede') || ''
+    });
+    const [showDepartamentoResults, setShowDepartamentoResults] = useState(false);
+    const [showProvinciaResults, setShowProvinciaResults] = useState(false);
+    const [showDistritoResults, setShowDistritoResults] = useState(false);
+    const [showAgenciaResults, setShowAgenciaResults] = useState(false);
+    const [showSedeResults, setShowSedeResults] = useState(false);
     const [selectedExpress, setSelectedExpress] = useState(initialCheckboxValues.express);
     const [selectedDirecto, setSelectedDirecto] = useState(initialCheckboxValues.directo);
-    const searchInputRef = useRef(null);
+    const [selectedShippingType, setSelectedShippingType] = useState(null);
     const searchResultsRef = useRef(null);
+    
+    // Sincronizar con el hook cuando cambia la ubicación
+    useEffect(() => {
+        setSelected(prev => ({
+            ...prev,
+            departamento: location.departamento || '',
+            provincia: location.provincia || '',
+            distrito: location.distrito || '',
+            nombres: location.nombres || prev.nombres
+        }));
+    }, [location.departamento, location.provincia, location.distrito, location.nombres]);
+
     const departamentoData = costosEnvioData?.departamentos.find(d => d.departamento === selected.departamento);
     const provinciaData = departamentoData?.provincias.find(p => p.provincia === selected.provincia);
     const distritoData = provinciaData?.distritos.find(d => d.distrito === selected.distrito);
@@ -37,11 +52,27 @@ function Envios({ producto, onConfirm }){
     const selectedAgency = agencies.find(a => a.agencia === selected.agencia);
     const provinciaSinAgencia = ['Lima metropolitana', 'Provincia constitucional del Callao'].includes(selected.provincia);
     const noAgencias = agencies.length === 0;
+    
+    // Verificar si el distrito no tiene agencias y limpiar localStorage si es necesario
+    useEffect(() => {
+        if (selected.distrito && noAgencias && !provinciaSinAgencia) {
+            if (selected.agencia || selected.sede) {
+                setSelected(prev => ({
+                    ...prev,
+                    agencia: '',
+                    sede: ''
+                }));
+                localStorage.removeItem('agencia');
+                localStorage.removeItem('sede');
+            }
+        }
+    }, [selected.distrito, noAgencias, provinciaSinAgencia]);
+
     const isComplete = selected.departamento && selected.provincia && selected.distrito && (provinciaSinAgencia || noAgencias || (selected.agencia && selected.sede));
 
     useEffect(() => {
         const fetchData = async () => {
-            try{
+            try {
                 const response = await fetch('/assets/json/costos-de-envio.json');
                 setCostosEnvioData(await response.json());
             } catch (error) {
@@ -51,32 +82,6 @@ function Envios({ producto, onConfirm }){
         fetchData();
     }, []);
 
-    // useEffect(() => {
-    //     if (isComplete) {
-    //         const shippingOptions = calculateShippingOptions();
-    //         const hasExpress = shippingOptions.some(option => option.tipo === "Envío express");
-    //         const hasDirecto = shippingOptions.some(option => option.tipo === "Envío directo");
-
-    //         onConfirm?.({
-    //             distritoData,
-    //             hasAgency: !!selected.agencia,
-    //             shippingOptions,
-    //             selectedAgency: selected.agencia,
-    //             selectedSede: selected.sede,
-    //             selectedExpress: hasExpress ? selectedExpress : false,
-    //             selectedDirecto: hasDirecto ? selectedDirecto : false,
-    //             locationData: {
-    //                 nombres: selected.nombres,
-    //                 departamento: selected.departamento,
-    //                 provincia: selected.provincia,
-    //                 distrito: selected.distrito
-    //             }    
-    //         });
-    //     }
-    // }, [selected, isComplete, selectedExpress, selectedDirecto]);
-
-    // En el useEffect que llama onConfirm en Envios.js, agreguemos más información:
-
     useEffect(() => {
         if (isComplete) {
             const shippingOptions = calculateShippingOptions();
@@ -84,6 +89,11 @@ function Envios({ producto, onConfirm }){
             const hasDirecto = shippingOptions.some(option => option.tipo === "Envío directo");
             const tipoEnvioProducto = productoConEnvio['tipo-de-envio'];
             const productShippingOption = shippingOptions.find(option => option.tipo === tipoEnvioProducto);
+
+            // Si solo hay una opción de envío, seleccionarla automáticamente
+            if (shippingOptions.length === 1 && !selectedShippingType) {
+                setSelectedShippingType(shippingOptions[0].tipo);
+            }
 
             onConfirm?.({
                 distritoData,
@@ -93,9 +103,10 @@ function Envios({ producto, onConfirm }){
                 selectedSede: selected.sede,
                 selectedExpress: hasExpress ? selectedExpress : false,
                 selectedDirecto: hasDirecto ? selectedDirecto : false,
-                productShippingOption: productShippingOption || null, // Agregar esta línea
-                expressOption: shippingOptions.find(option => option.tipo === "Envío express") || null, // Agregar esta línea
-                directoOption: shippingOptions.find(option => option.tipo === "Envío directo") || null, // Agregar esta línea
+                productShippingOption: productShippingOption || null,
+                expressOption: shippingOptions.find(option => option.tipo === "Envío express") || null,
+                directoOption: shippingOptions.find(option => option.tipo === "Envío directo") || null,
+                selectedShippingType: selectedShippingType,
                 locationData: {
                     nombres: selected.nombres,
                     departamento: selected.departamento,
@@ -103,10 +114,10 @@ function Envios({ producto, onConfirm }){
                     distrito: selected.distrito,
                     agencia: selected.agencia,
                     sede: selected.sede
-                }    
+                }
             });
         }
-    }, [selected, isComplete, selectedExpress, selectedDirecto]);
+    }, [selected, isComplete, selectedExpress, selectedDirecto, selectedShippingType]);
 
     useEffect(() => {
         localStorage.setItem('express-selected', selectedExpress);
@@ -116,12 +127,14 @@ function Envios({ producto, onConfirm }){
     useEffect(() => {
         const handleClickOutside = (event) => {
             if (
-                searchInputRef.current && 
-                !searchInputRef.current.contains(event.target) &&
-                searchResultsRef.current && 
+                searchResultsRef.current &&
                 !searchResultsRef.current.contains(event.target)
             ) {
-                setShowSearchResults(false);
+                setShowDepartamentoResults(false);
+                setShowProvinciaResults(false);
+                setShowDistritoResults(false);
+                setShowAgenciaResults(false);
+                setShowSedeResults(false);
             }
         };
 
@@ -135,7 +148,12 @@ function Envios({ producto, onConfirm }){
     const handleInputChange = (key, value) => {
         setSelected(prev => {
             const newSelection = { ...prev, [key]: value };
-            localStorage.setItem(key, value);
+            // Usar updateLocation para departamento, provincia y distrito
+            if (['departamento', 'provincia', 'distrito'].includes(key)) {
+                updateLocation(key, value);
+            } else {
+                localStorage.setItem(key, value);
+            }
             return newSelection;
         });
 
@@ -151,7 +169,8 @@ function Envios({ producto, onConfirm }){
             localStorage.removeItem('distrito');
             localStorage.removeItem('agencia');
             localStorage.removeItem('sede');
-            setSearchTerm(value);
+            setShowDepartamentoResults(false);
+            setSelectedShippingType(null);
         }
 
         if (key === 'provincia') {
@@ -164,16 +183,40 @@ function Envios({ producto, onConfirm }){
             localStorage.removeItem('distrito');
             localStorage.removeItem('agencia');
             localStorage.removeItem('sede');
+            setShowProvinciaResults(false);
+            setSelectedShippingType(null);
         }
 
         if (key === 'distrito') {
-            setSelected(prev => ({
-                ...prev,
-                agencia: '',
-                sede: ''
-            }));
+            setSelected(prev => {
+                const nuevoDistritoData = provinciaData?.distritos.find(d => d.distrito === value);
+                const nuevasAgencias = nuevoDistritoData?.['agencias-recomendadas'] || [];
+                const noAgenciasNuevoDistrito = nuevasAgencias.length === 0;
+                const provinciaSinAgenciaNuevo = ['Lima metropolitana', 'Provincia constitucional del Callao'].includes(selected.provincia);
+                
+                if (noAgenciasNuevoDistrito && !provinciaSinAgenciaNuevo) {
+                    localStorage.removeItem('agencia');
+                    localStorage.removeItem('sede');
+                    return {
+                        ...prev,
+                        distrito: value,
+                        agencia: '',
+                        sede: ''
+                    };
+                }
+                
+                return {
+                    ...prev,
+                    distrito: value,
+                    agencia: '',
+                    sede: ''
+                };
+            });
+            localStorage.setItem('distrito', value);
             localStorage.removeItem('agencia');
             localStorage.removeItem('sede');
+            setShowDistritoResults(false);
+            setSelectedShippingType(null);
         }
 
         if (key === 'agencia') {
@@ -182,12 +225,16 @@ function Envios({ producto, onConfirm }){
                 sede: ''
             }));
             localStorage.removeItem('sede');
+            setShowAgenciaResults(false);
+            setSelectedShippingType(null);
         }
 
-        setShowSearchResults(false);
+        if (key === 'sede') {
+            setShowSedeResults(false);
+            setSelectedShippingType(null);
+        }
     };
 
-    const filteredDepartamentos = costosEnvioData?.departamentos?.filter(departamento => departamento.departamento.toLowerCase().includes(searchTerm.toLowerCase())) || [];
     const provinciasOptions = departamentoData?.provincias?.map(p => p.provincia) || [];
     const distritosOptions = provinciaData?.distritos?.map(d => d.distrito) || [];
     const agenciasOptions = agencies.map(a => a.agencia);
@@ -211,11 +258,11 @@ function Envios({ producto, onConfirm }){
                 productShippingCost = matchTipoEnvio ? (matchTipoEnvio.precio || matchTipoEnvio.costos || 0) : 0;
             } else if (!tieneAgencias) {
                 const tipoCorrespondiente = distritoData['tipos-de-envio']?.find(t => t['tipo-de-envio'] === tipoEnvioProducto);
-                productShippingCost = tipoCorrespondiente 
+                productShippingCost = tipoCorrespondiente
                     ? (tipoCorrespondiente.precio || tipoCorrespondiente.costos || 0)
-                    : tipoEnvioProducto === "Envío preferente" ? 35 
-                    : tipoEnvioProducto === "Envío aplicado" ? 70 
-                    : 0;
+                    : tipoEnvioProducto === "Envío preferente" ? 35
+                        : tipoEnvioProducto === "Envío aplicado" ? 70
+                            : 0;
             }
         }
 
@@ -224,177 +271,389 @@ function Envios({ producto, onConfirm }){
         const shippingOptions = [];
 
         if (productShippingCost !== null) {
-            shippingOptions.push({ 
-                tipo: tipoEnvioProducto, 
-                precio: productShippingCost 
+            shippingOptions.push({
+                tipo: tipoEnvioProducto,
+                precio: productShippingCost
             });
         }
 
         if (envioDirectoObj) {
-            shippingOptions.push({ 
-                tipo: envioDirectoObj['tipo-de-envio'], 
-                precio: envioDirectoObj.precio || envioDirectoObj.costos || 0 
+            shippingOptions.push({
+                tipo: envioDirectoObj['tipo-de-envio'],
+                precio: envioDirectoObj.precio || envioDirectoObj.costos || 0
             });
         }
 
         if (envioExpressObj && tipoEnvioProducto !== "Envío express") {
-            shippingOptions.push({ 
-                tipo: envioExpressObj['tipo-de-envio'], 
-                precio: envioExpressObj.precio || envioExpressObj.costos || 0 
+            shippingOptions.push({
+                tipo: envioExpressObj['tipo-de-envio'],
+                precio: envioExpressObj.precio || envioExpressObj.costos || 0
             });
         }
 
         return shippingOptions;
     };
 
-    // const renderShippingOption = (option, isExpress = false) => {
-    //     const isProductShipping = option.tipo === productoConEnvio['tipo-de-envio'];
-    //     const isSelected = isExpress ? selectedExpress : selectedDirecto;
-    //     const tipoEnvioClassName = option.tipo.toLowerCase().replace(/\s+/g, '-');
-    //     const baseClassName = `${tipoEnvioClassName}`;
+    const renderShippingOptionButton = (option, isSingleOption) => {
+        const tipoEnvio = option.tipo;
+        const isExpress = tipoEnvio === "Envío express";
+        const isDirecto = tipoEnvio === "Envío directo";
+        const isGratis = tipoEnvio === "Gratis";
+        const isPreferente = tipoEnvio === "Envío preferente";
+        const isAplicado = tipoEnvio === "Envío aplicado";
 
-    //     if (isProductShipping) {
-    //         return (
-    //             <div className={`shipping-option ${baseClassName} ${isExpress ? 'express' : ''} product-main-shipping`}>
-    //                 <div className='info'>
-    //                     <p className='tipo-de-envio-name'>{option.tipo}</p>
-    //                     <span>{isExpress ? 'Recíbelo hoy' : option.tipo === "Envío directo" ? 'Entrega directa en tu domicilio' : 'A domicilio o agencia'}</span>
-    //                 </div>
-    //                 <div className='price'>
-    //                     <span>S/.</span>
-    //                     <p>{option.precio}</p>
-    //                 </div>
-    //             </div>
-    //         );
-    //     }
+        let className = 'p-pg-envios-button';
+        let icon = 'house';
+        let title = 'Entrega a domicilio';
+        let subtitle = 'A la puerta de tu casa';
 
-    //     const additionalClassName = isExpress ? 'express' : 'directo';
-    //     const inputId = `${isExpress ? 'express' : 'directo'}-shipping`;
-
-    //     return (
-    //         <label className={`envios-list-checkbox ${baseClassName} ${additionalClassName}`} htmlFor={inputId}>
-    //             <input type="checkbox" 
-    //                 id={inputId} 
-    //                 checked={isSelected} 
-    //                 onChange={(e) => isExpress ? setSelectedExpress(e.target.checked) : setSelectedDirecto(e.target.checked)}
-    //             />
-    //             <div className='info'>
-    //                 <p className='tipo-de-envio-name'>{option.tipo}</p>
-    //                 <span>
-    //                     {isExpress ? 'Recíbelo hoy' : 'Entrega directa en tu domicilio'}
-    //                 </span>
-    //             </div>
-    //             <div className='price'>
-    //                 <span>S/.</span>
-    //                 <p>{option.precio}</p>
-    //             </div>
-    //         </label>
-    //     );
-    // };
-
-    const renderShippingOption = (option, isExpress = false) => {
-        const isProductShipping = option.tipo === productoConEnvio['tipo-de-envio'];
-        const isSelected = isExpress ? selectedExpress : selectedDirecto;
-        const tipoEnvioClassName = option.tipo.toLowerCase().replace(/\s+/g, '-');
-        const baseClassName = `${tipoEnvioClassName}`;
-        const activeClass = isSelected ? 'active' : '';
-
-        if (isProductShipping) {
-            return (
-                <div className={`shipping-option ${baseClassName} ${isExpress ? 'express' : ''} product-main-shipping ${activeClass}`}>
-                    <div className='info'>
-                        <p className='tipo-de-envio-name'>{option.tipo}</p>
-                        <span>{isExpress ? 'Recíbelo hoy' : option.tipo === "Envío directo" ? 'Entrega directa en tu domicilio' : 'A domicilio o agencia'}</span>
-                    </div>
-                    <div className='price'>
-                        <span>S/.</span>
-                        <p>{option.precio}</p>
-                    </div>
-                </div>
-            );
+        if (isGratis) {
+            className += ' gratis';
+            icon = 'house';
+            title = 'Entrega a domicilio';
+            subtitle = 'A la puerta de tu casa';
+        } else if (isPreferente) {
+            className += ' envio-preferente';
+            icon = 'house';
+            title = 'Entrega a domicilio';
+            subtitle = 'A la puerta de tu casa';
+        } else if (isAplicado) {
+            className += ' envio-aplicado';
+            icon = 'house';
+            title = 'Entrega a domicilio';
+            subtitle = 'A la puerta de tu casa';
+        } else if (isExpress) {
+            className += ' envio-express';
+            icon = 'delivery_truck_speed';
+            title = 'Entrega express';
+            subtitle = 'Elige el día y la hora';
+        } else if (isDirecto) {
+            className += ' envio-directo';
+            icon = 'pin_road';
+            title = 'Despacho directo';
+            subtitle = 'A provincia sin agencias';
         }
 
-        const additionalClassName = isExpress ? 'express' : 'directo';
-        const inputId = `${isExpress ? 'express' : 'directo'}-shipping`;
+        // Si es una sola opción, debe estar seleccionada siempre
+        const isSelected = isSingleOption ? true : selectedShippingType === tipoEnvio;
 
         return (
-            <label className={`envios-list-checkbox ${baseClassName} ${additionalClassName} ${activeClass}`} htmlFor={inputId}>
-                <input type="checkbox" 
-                    id={inputId} 
-                    checked={isSelected} 
-                    onChange={(e) => isExpress ? setSelectedExpress(e.target.checked) : setSelectedDirecto(e.target.checked)}
+            <button
+                key={tipoEnvio}
+                type="button"
+                className={`${className} ${isSelected ? 'active' : ''}`}
+                onClick={() => {
+                    if (!isSingleOption) {
+                        setSelectedShippingType(tipoEnvio);
+                        if (isExpress) {
+                            setSelectedExpress(!selectedExpress);
+                        } else if (isDirecto) {
+                            setSelectedDirecto(!selectedDirecto);
+                        }
+                    }
+                }}
+            >
+                <input
+                    type="radio"
+                    checked={isSelected}
+                    readOnly
                 />
-                <div className='info'>
-                    <p className='tipo-de-envio-name'>{option.tipo}</p>
-                    <span>
-                        {isExpress ? 'Recíbelo hoy' : 'Entrega directa en tu domicilio'}
-                    </span>
+
+                <span className="material-symbols-outlined">{icon}</span>
+
+                {!isGratis && !isPreferente && !isAplicado && (
+                    <b className="tag">{tipoEnvio.replace('Envío ', '')}</b>
+                )}
+
+                {isGratis && (
+                    <b className="tag">Gratis</b>
+                )}
+
+                {isPreferente && (
+                    <b className="tag">Preferente</b>
+                )}
+
+                {isAplicado && (
+                    <b className="tag">Aplicado</b>
+                )}
+
+                <div className="p-pg-envios-data">
+                    <div>
+                        <p className="title text">{title}</p>
+                        <p className="text">{subtitle}</p>
+                    </div>
+
+                    {option.precio > 0 && (
+                        <p className="pryce">S/.{option.precio}</p>
+                    )}
                 </div>
-                <div className='price'>
-                    <span>S/.</span>
-                    <p>{option.precio}</p>
-                </div>
-            </label>
+            </button>
         );
     };
 
     const getShippingMessage = () => {
         const tipoEnvioProducto = productoConEnvio['tipo-de-envio'];
-        const isGratis = tipoEnvioProducto === "Gratis";
-        const isPreferente = tipoEnvioProducto === "Envío preferente";
-        const isAplicado = tipoEnvioProducto === "Envío aplicado";
-        const tieneAgencias = agencies.length > 0;
-        const isLimaMetropolitana = selected.departamento === "Lima" && selected.provincia === "Lima metropolitana";
-        const isCallao = selected.departamento === "Callao" && selected.provincia === "Provincia constitucional del Callao";
-        const isSantaRosaDeQuives = selected.distrito?.toLowerCase() === "santa rosa de quives";
-        const isDespachoGratisADomicilio = isLimaMetropolitana || isCallao || isSantaRosaDeQuives;
-
         const shippingOptions = calculateShippingOptions();
-
-        if (shippingOptions.length === 0) {
-            return null;
-        }
-
         const productShippingOption = shippingOptions.find(option => option.tipo === tipoEnvioProducto);
-        const expressOption = shippingOptions.find(option => option.tipo === "Envío express");
-        const directoOption = shippingOptions.find(option => option.tipo === "Envío directo");
+        
+        if (shippingOptions.length === 0) return null;
 
-        if (isGratis) {
-            if (isDespachoGratisADomicilio) {
-                return (
-                    <>
-                        <p className='product-page-envio-gratis'>🎉 Despacho gratis a domicilio</p>
-                        <div className="additional-shipping-options">
-                            {expressOption && renderShippingOption(expressOption, true)}
-                            {directoOption && renderShippingOption(directoOption)}
-                        </div>
-                    </>
-                );
-            } else {
-                return(
-                    <>
-                        <p className='product-page-envio-gratis'>Embalaje y traslado a la agencia gratis</p>
-                        <div className="additional-shipping-options">
-                            {expressOption && renderShippingOption(expressOption, true)}
-                            {directoOption && renderShippingOption(directoOption)}
-                        </div>
-                    </>
-                );
-            }
-        } else if (isPreferente || isAplicado) {
-            return(
-                <>
-                    <div className="product-main-shipping-container">
-                        {productShippingOption && renderShippingOption(productShippingOption)}
-                    </div>
-                    <div className="additional-shipping-options">
-                        {expressOption && renderShippingOption(expressOption, true)}
-                        {directoOption && renderShippingOption(directoOption)}
-                    </div>
-                </>
+        // Verificar si el distrito tiene agencias Y despacho directo
+        const tieneAgencias = agencies.length > 0;
+        const tieneDespachoDirecto = distritoData?.['tipos-de-envio']?.some(t => t['tipo-de-envio'] === "Envío directo");
+        const tieneAmbasOpciones = tieneAgencias && tieneDespachoDirecto;
+
+        // ===== CASO ESPECIAL: DISTRITO CON AMBAS OPCIONES (AGENCIA + DIRECTO) =====
+        if (tieneAmbasOpciones && selected.agencia && selected.sede) {
+            // Buscar el envío preferente/aplicado de la agencia seleccionada
+            const agenciaSeleccionada = agencies.find(a => a.agencia === selected.agencia);
+            const sedeSeleccionada = agenciaSeleccionada?.sedes.find(s => s.sede === selected.sede);
+            const envioPorAgencia = sedeSeleccionada?.['tipos-de-envio']?.find(t => t['tipo-de-envio'] === tipoEnvioProducto);
+            
+            // Buscar el envío directo del distrito
+            const envioDirecto = distritoData['tipos-de-envio']?.find(t => t['tipo-de-envio'] === "Envío directo");
+
+            // Crear las opciones para mostrarlas juntas
+            const opciones = [
+                {
+                    tipo: tipoEnvioProducto,
+                    className: tipoEnvioProducto === "Gratis" ? 'gratis' :
+                               tipoEnvioProducto === "Envío preferente" ? 'envio-preferente' :
+                               tipoEnvioProducto === "Envío aplicado" ? 'envio-aplicado' :
+                               tipoEnvioProducto === "Envío express" ? 'envio-express' : 'envio-directo',
+                    nombre: tipoEnvioProducto === "Gratis" ? 'Gratis hasta la agencia' :
+                            tipoEnvioProducto === "Envío preferente" ? 'Preferente hasta la agencia' :
+                            tipoEnvioProducto === "Envío aplicado" ? 'Aplicado hasta la agencia' :
+                            tipoEnvioProducto === "Envío express" ? 'Express' : tipoEnvioProducto,
+                    icon: tipoEnvioProducto === "Envío express" ? 'delivery_truck_speed' : 'local_shipping',
+                    precio: envioPorAgencia?.precio || 0,
+                    title: 'Envío por agencia',
+                    subtitle: 'Embalaje y traslado',
+                    tipoReal: tipoEnvioProducto
+                },
+                {
+                    tipo: "Envío directo",
+                    className: 'envio-directo',
+                    nombre: 'Directo',
+                    icon: 'pin_road',
+                    precio: envioDirecto?.precio || 0,
+                    title: 'Despacho directo',
+                    subtitle: 'A provincia sin agencias',
+                    tipoReal: 'Envío directo'
+                }
+            ];
+
+            // Si solo hay una opción válida
+            const opcionesValidas = opciones.filter(opt => opt.precio !== undefined);
+            const isSingleOption = opcionesValidas.length === 1;
+
+            return (
+                <div className="p-pg-envios-message">
+                    {opciones.map((opcion, index) => {
+                        const isSelected = isSingleOption ? true : selectedShippingType === opcion.tipoReal;
+                        
+                        return (
+                            <button 
+                                key={index}
+                                type='button' 
+                                className={`p-pg-envios-button ${opcion.className} ${isSelected ? 'active' : ''}`}
+                                onClick={() => {
+                                    if (!isSingleOption) {
+                                        setSelectedShippingType(opcion.tipoReal);
+                                    }
+                                }}
+                            >
+                                <input type='radio' checked={isSelected} readOnly />
+                                <span className="material-symbols-outlined">{opcion.icon}</span>
+                                <b className='tag'>{opcion.nombre}</b>
+                                <div className='p-pg-envios-data'>
+                                    <div>
+                                        <p className='title text'>{opcion.title}</p>
+                                        <p className='text'>{opcion.subtitle}</p>
+                                    </div>
+                                    {opcion.precio > 0 && (
+                                        <p className='pryce'>S/.{opcion.precio}</p>
+                                    )}
+                                </div>
+                            </button>
+                        );
+                    })}
+                </div>
             );
         }
-        return null;
+
+        // ===== PARA DISTRITOS CON DESPACHO DIRECTO (SIN AGENCIAS) =====
+        const noAgencias = agencies.length === 0;
+        const isDespachoDirecto = noAgencias && !provinciaSinAgencia;
+
+        if (isDespachoDirecto && productShippingOption) {
+            let tipoMostrado = '';
+            let claseCSS = '';
+            
+            if (tipoEnvioProducto === "Gratis") {
+                tipoMostrado = 'Gratis hasta la agencia';
+                claseCSS = 'gratis';
+            } else if (tipoEnvioProducto === "Envío preferente") {
+                tipoMostrado = 'Preferente hasta la agencia';
+                claseCSS = 'envio-preferente';
+            } else if (tipoEnvioProducto === "Envío aplicado") {
+                tipoMostrado = 'Aplicado hasta la agencia';
+                claseCSS = 'envio-aplicado';
+            } else {
+                tipoMostrado = tipoEnvioProducto.replace('Envío ', '');
+                claseCSS = tipoEnvioProducto === "Envío express" ? 'envio-express' : 'envio-directo';
+            }
+
+            // Solo una opción, debe estar seleccionada
+            if (!selectedShippingType) {
+                setSelectedShippingType(tipoEnvioProducto);
+            }
+
+            return (
+                <button type='button' className={`p-pg-envios-button ${claseCSS} active`}>
+                    <input type='radio' checked readOnly />
+                    <span className="material-symbols-outlined">
+                        {tipoEnvioProducto === "Envío express" ? 'delivery_truck_speed' : 'local_shipping'}
+                    </span>
+                    <b className='tag'>{tipoMostrado}</b>
+                    <div className='p-pg-envios-data'>
+                        <div>
+                            <p className='title text'>Envío por agencia</p>
+                            <p className='text'>Embalaje gratis {tipoEnvioProducto === "Gratis" ? 'gratis' : ''}</p>
+                        </div>
+                        {productShippingOption.precio > 0 && (
+                            <p className='pryce'>S/.{productShippingOption.precio}</p>
+                        )}
+                    </div>
+                </button>
+            );
+        }
+
+        // ===== PARA DISTRITOS CON AGENCIAS (SIN DESPACHO DIRECTO) =====
+        // Verificar cuántas opciones de envío hay disponibles
+        const opcionesDisponibles = shippingOptions.filter(opt => opt.precio !== undefined);
+        const isSingleOption = opcionesDisponibles.length === 1;
+
+        if (tipoEnvioProducto === "Gratis" && productShippingOption) {
+            const isLimaMetropolitana = selected.departamento === "Lima" && selected.provincia === "Lima metropolitana";
+            const isCallao = selected.departamento === "Callao" && selected.provincia === "Provincia constitucional del Callao";
+            const isSantaRosaDeQuives = selected.distrito?.toLowerCase() === "santa rosa de quives";
+            const isDespachoGratisADomicilio = isLimaMetropolitana || isCallao || isSantaRosaDeQuives;
+
+            if (isDespachoGratisADomicilio) {
+                if (!selectedShippingType) {
+                    setSelectedShippingType(tipoEnvioProducto);
+                }
+                // Solo una opción, seleccionada por defecto
+                return (
+                    <button type='button' className='p-pg-envios-button gratis active'>
+                        <input type='radio' checked readOnly />
+                        <span className="material-symbols-outlined">house</span>
+                        <b className='tag'>Gratis</b>
+                        <div className='p-pg-envios-data'>
+                            <div>
+                                <p className='title text'>Entrega a domicilio</p>
+                                <p className='text'>A la puerta de tu casa</p>
+                            </div>
+                        </div>
+                    </button>
+                );
+            } else if (selected.agencia && selected.sede) {
+                if (!selectedShippingType) {
+                    setSelectedShippingType(tipoEnvioProducto);
+                }
+                // Solo una opción, seleccionada por defecto
+                return (
+                    <button type='button' className='p-pg-envios-button gratis active'>
+                        <input type='radio' checked readOnly />
+                        <span className="material-symbols-outlined">local_shipping</span>
+                        <b className='tag'>Gratis hasta la agencia</b>
+                        <div className='p-pg-envios-data'>
+                            <div>
+                                <p className='title text'>Envío por agencia</p>
+                                <p className='text'>Embalaje y traslado gratis</p>
+                            </div>
+                        </div>
+                    </button>
+                );
+            }
+        }
+
+        // ===== PARA PREFERENTE Y APLICADO CON AGENCIAS (SIN DIRECTO) =====
+        if ((tipoEnvioProducto === "Envío preferente" || tipoEnvioProducto === "Envío aplicado") && productShippingOption) {
+            const esPreferente = tipoEnvioProducto === "Envío preferente";
+            const claseCSS = esPreferente ? 'envio-preferente' : 'envio-aplicado';
+            const tagTexto = esPreferente ? 'Preferente' : 'Aplicado';
+            let textoAdicional = 'A la puerta de tu casa';
+            let icono = 'house';
+
+            if (selected.agencia && selected.sede) {
+                textoAdicional = 'Embalaje y traslado';
+                icono = 'local_shipping';
+            }
+
+            if (!selectedShippingType) {
+                setSelectedShippingType(tipoEnvioProducto);
+            }
+
+            // Solo una opción, seleccionada por defecto
+            return (
+                <button type='button' className={`p-pg-envios-button ${claseCSS} active`}>
+                    <input type='radio' checked readOnly />
+                    <span className="material-symbols-outlined">{icono}</span>
+                    <b className='tag'>{tagTexto}</b>
+                    <div className='p-pg-envios-data'>
+                        <div>
+                            <p className='title text'>Entrega a domicilio</p>
+                            <p className='text'>{textoAdicional}</p>
+                        </div>
+                        <p className='pryce'>S/.{productShippingOption.precio}</p>
+                    </div>
+                </button>
+            );
+        }
+
+        // ===== PARA EXPRESS Y DIRECTO =====
+        if (productShippingOption) {
+            const isExpress = tipoEnvioProducto === "Envío express";
+            const isDirecto = tipoEnvioProducto === "Envío directo";
+            const claseCSS = isExpress ? 'envio-express' : 'envio-directo';
+            const icono = isExpress ? 'delivery_truck_speed' : 'pin_road';
+            const titulo = isExpress ? 'Entrega express' : 'Despacho directo';
+            const subtitulo = isExpress ? 'Elige el día y la hora' : 'A provincia sin agencias';
+
+            if (!selectedShippingType) {
+                setSelectedShippingType(tipoEnvioProducto);
+            }
+
+            // Solo una opción, seleccionada por defecto
+            return (
+                <button type='button' className={`p-pg-envios-button ${claseCSS} active`}>
+                    <input type='radio' checked readOnly />
+                    <span className="material-symbols-outlined">{icono}</span>
+                    <b className='tag'>{isExpress ? 'Express' : 'Directo'}</b>
+                    <div className='p-pg-envios-data'>
+                        <div>
+                            <p className='title text'>{titulo}</p>
+                            <p className='text'>{subtitulo}</p>
+                        </div>
+                        {productShippingOption.precio > 0 && (
+                            <p className='pryce'>S/.{productShippingOption.precio}</p>
+                        )}
+                    </div>
+                </button>
+            );
+        }
+
+        // Fallback: mostrar todas las opciones disponibles con la lógica de selección
+        const opciones = shippingOptions.filter(opt => opt.precio !== undefined);
+        const esUnaSolaOpcion = opciones.length === 1;
+
+        return (
+            <div className="p-pg-envios-message">
+                {opciones.map(option => renderShippingOptionButton(option, esUnaSolaOpcion))}
+            </div>
+        );
     };
 
     const handleEditLocation = () => {
@@ -406,12 +665,16 @@ function Envios({ producto, onConfirm }){
             agencia: '',
             sede: ''
         }));
-        setSearchTerm('');
         localStorage.removeItem('departamento');
         localStorage.removeItem('provincia');
         localStorage.removeItem('distrito');
         localStorage.removeItem('agencia');
         localStorage.removeItem('sede');
+        setSelectedShippingType(null);
+        // Limpiar también en el hook
+        updateLocation('departamento', '');
+        updateLocation('provincia', '');
+        updateLocation('distrito', '');
     };
 
     const shippingOptions = calculateShippingOptions();
@@ -422,91 +685,54 @@ function Envios({ producto, onConfirm }){
         return null;
     }
 
-    return(
-        <div className="product-page-envios">
-            <p className='title uppercase color-color-1 margin-bottom-5 d-flex-center-left'>Datos de envío</p>
-
-            <div className='product-page-envios-name'>
-                <span className="material-icons">person</span>
-                <p>Nombres</p>
-                <input type="text" placeholder="Ingresa tus nombres" value={selected.nombres} onChange={(e) => handleInputChange('nombres', e.target.value)}/>
+    return (
+        <div className="p-pg-envios">
+            <div className="d-flex-center-left gap-3">
+                <span className="material-symbols-outlined">location_on</span>
+                <p className="tag-title tag-title-1">Opciones de entrega</p>
             </div>
 
-            {(selected.departamento || selected.provincia || selected.distrito) && (
-                <ul className="location-summary">
-                    {selected.departamento && (
-                        <li>
-                            <span className="material-symbols-outlined">check_small</span>
-                            <div>
-                                <p className='text'>Departamento:</p>
-                                <b>{selected.departamento}</b>
-                            </div>
-                        </li>
-                    )}
-                    {selected.provincia && (
-                        <li>
-                            <span className="material-symbols-outlined">check_small</span>
-                            <div>
-                                <p className='text'>Provincia:</p>
-                                <b>{selected.provincia}</b>
-                            </div>
-                        </li>
-                    )}
-                    {selected.distrito && (
-                        <li>
-                            <span className="material-symbols-outlined">check_small</span>
-                            <div>
-                                <p className='text'>Distrito:</p>
-                                <b>{selected.distrito}</b>
-                            </div>
-                        </li>
-                    )}
-                    {selected.agencia && (
-                        <li>
-                            <span className="material-symbols-outlined">check_small</span>
-                            <div>
-                                <p className='text'>Agencia:</p>
-                                <b>{selected.agencia}</b>
-                            </div>
-                        </li>
-                    )}
-                    {selected.sede && (
-                        <li>
-                            <span className="material-symbols-outlined">check_small</span>
-                            <div>
-                                <p className='text'>Sede:</p>
-                                <b>{selected.sede}</b>
-                            </div>
-                        </li>
-                    )}
-                </ul>
-            )}
+            <div className="product-page-envios-name">
+                <span className="material-icons">person</span>
+                <p>Nombres</p>
+                <input
+                    type="text"
+                    placeholder="Ingresa tus nombres"
+                    value={selected.nombres}
+                    onChange={(e) => handleInputChange('nombres', e.target.value)}
+                />
+            </div>
 
             {!selected.departamento && (
-                <div className="search-departamento">
-                    <span className="material-icons">location_on</span>
-                    <p>Departamento</p>
-                    <div className="search-input-container" ref={searchInputRef}>
-                        <input type="text" placeholder="Buscar departamento" value={searchTerm}
-                            onChange={(e) => {
-                                const value = e.target.value;
-                                setSearchTerm(value);
-                                setShowSearchResults(true);
-                            }}
-                            onFocus={() => setShowSearchResults(true)}
-                        />
-                        
-                        {showSearchResults && filteredDepartamentos.length > 0 && (
+                <div className="search-tag search-departamento">
+                    <p className='tag-title'>Departamento</p>
+
+                    <div className="search-input-container">
+                        <button 
+                            type='button' 
+                            className='p-pg-btn-select'
+                            onClick={() => setShowDepartamentoResults(!showDepartamentoResults)}
+                        >
+                            <p className='text'>Seleccionar departamento</p>
+                            <span className="material-symbols-outlined">keyboard_arrow_down</span>
+                        </button>
+
+                        {showDepartamentoResults && costosEnvioData?.departamentos && (
                             <div className="search-results" ref={searchResultsRef}>
-                                {filteredDepartamentos.map((departamento, idx) => (
-                                    <div key={idx} className="search-result-item"
-                                        onClick={() => {
-                                            handleInputChange('departamento', departamento.departamento);
-                                            setShowSearchResults(false);
-                                        }}
-                                    >
-                                        {departamento.departamento}
-                                    </div>
+                                {costosEnvioData.departamentos.map((departamento, idx) => (
+                                    <ul key={idx}>
+                                        <li
+                                            className="search-result-item"
+                                            onClick={() => {
+                                                handleInputChange('departamento', departamento.departamento);
+                                                setShowDepartamentoResults(false);
+                                            }}
+                                        >
+                                            <button type='button'>
+                                                <p className='text'>{departamento.departamento}</p>
+                                            </button>
+                                        </li>
+                                    </ul>
                                 ))}
                             </div>
                         )}
@@ -517,49 +743,198 @@ function Envios({ producto, onConfirm }){
             {selected.departamento && !selected.provincia && (
                 <div className="select-group">
                     <label>Provincia</label>
-                    <select value={selected.provincia} onChange={(e) => handleInputChange('provincia', e.target.value)}>
-                        <option value="">-- Selecciona provincia --</option>
-                        {provinciasOptions.map((provincia, idx) => (
-                            <option key={idx} value={provincia}>{provincia}</option>
-                        ))}
-                    </select>
+                    <div className="search-input-container">
+                        <button 
+                            type='button' 
+                            className='p-pg-btn-select'
+                            onClick={() => setShowProvinciaResults(!showProvinciaResults)}
+                        >
+                            <p className='text'>Seleccionar provincia</p>
+                            <span className="material-symbols-outlined">keyboard_arrow_down</span>
+                        </button>
+                        
+                        {showProvinciaResults && provinciasOptions.length > 0 && (
+                            <div className="search-results" ref={searchResultsRef}>
+                                {provinciasOptions.map((provincia, idx) => (
+                                    <ul key={idx}>
+                                        <li
+                                            className="search-result-item"
+                                            onClick={() => {
+                                                handleInputChange('provincia', provincia);
+                                                setShowProvinciaResults(false);
+                                            }}
+                                        >
+                                            <button type='button'>
+                                                <p className='text'>{provincia}</p>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </div>
             )}
 
             {selected.provincia && !selected.distrito && (
                 <div className="select-group">
                     <label>Distrito</label>
-                    <select value={selected.distrito} onChange={(e) => handleInputChange('distrito', e.target.value)}>
-                        <option value="">-- Selecciona distrito --</option>
-                        {distritosOptions.map((distrito, idx) => (
-                            <option key={idx} value={distrito}>{distrito}</option>
-                        ))}
-                    </select>
+                    <div className="search-input-container">
+                        <button 
+                            type='button' 
+                            className='p-pg-btn-select'
+                            onClick={() => setShowDistritoResults(!showDistritoResults)}
+                        >
+                            <p className='text'>Seleccionar distrito</p>
+                            <span className="material-symbols-outlined">keyboard_arrow_down</span>
+                        </button>
+                        
+                        {showDistritoResults && distritosOptions.length > 0 && (
+                            <div className="search-results" ref={searchResultsRef}>
+                                {distritosOptions.map((distrito, idx) => (
+                                    <ul key={idx}>
+                                        <li
+                                            className="search-result-item"
+                                            onClick={() => {
+                                                handleInputChange('distrito', distrito);
+                                                setShowDistritoResults(false);
+                                            }}
+                                        >
+                                            <button type='button'>
+                                                <p className='text'>{distrito}</p>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </div>
             )}
 
             {selected.distrito && !selected.agencia && !provinciaSinAgencia && !noAgencias && (
                 <div className="select-group">
                     <label>Agencia</label>
-                    <select value={selected.agencia} onChange={(e) => handleInputChange('agencia', e.target.value)}>
-                        <option value="">-- Selecciona agencia --</option>
-                        {agenciasOptions.map((agencia, idx) => (
-                            <option key={idx} value={agencia}>{agencia}</option>
-                        ))}
-                    </select>
+                    <div className="search-input-container">
+                        <button 
+                            type='button' 
+                            className='p-pg-btn-select'
+                            onClick={() => setShowAgenciaResults(!showAgenciaResults)}
+                        >
+                            <p className='text'>Seleccionar agencia</p>
+                            <span className="material-symbols-outlined">keyboard_arrow_down</span>
+                        </button>
+                        
+                        {showAgenciaResults && agenciasOptions.length > 0 && (
+                            <div className="search-results" ref={searchResultsRef}>
+                                {agenciasOptions.map((agencia, idx) => (
+                                    <ul key={idx}>
+                                        <li
+                                            className="search-result-item"
+                                            onClick={() => {
+                                                handleInputChange('agencia', agencia);
+                                                setShowAgenciaResults(false);
+                                            }}
+                                        >
+                                            <button type='button'>
+                                                <p className='text'>{agencia}</p>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </div>
             )}
 
             {selected.agencia && !selected.sede && (
                 <div className="select-group">
                     <label>Sede</label>
-                    <select value={selected.sede} onChange={(e) => handleInputChange('sede', e.target.value)}>
-                        <option value="">-- Selecciona sede --</option>
-                        {sedesOptions.map((sede, idx) => (
-                            <option key={idx} value={sede}>{sede}</option>
-                        ))}
-                    </select>
+                    <div className="search-input-container">
+                        <button 
+                            type='button' 
+                            className='p-pg-btn-select'
+                            onClick={() => setShowSedeResults(!showSedeResults)}
+                        >
+                            <p className='text'>Seleccionar sede</p>
+                            <span className="material-symbols-outlined">keyboard_arrow_down</span>
+                        </button>
+                        
+                        {showSedeResults && sedesOptions.length > 0 && (
+                            <div className="search-results" ref={searchResultsRef}>
+                                {sedesOptions.map((sede, idx) => (
+                                    <ul key={idx}>
+                                        <li
+                                            className="search-result-item"
+                                            onClick={() => {
+                                                handleInputChange('sede', sede);
+                                                setShowSedeResults(false);
+                                            }}
+                                        >
+                                            <button type='button'>
+                                                <p className='text'>{sede}</p>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </div>
+            )}
+
+            {(selected.departamento || selected.provincia || selected.distrito) && (
+                <>
+                    <ul className="p-pg-envios-results-local-storage">
+                        {selected.departamento && (
+                            <li>
+                                <span className="material-symbols-outlined">check_small</span>
+                                <b className="text font-bold">Departamento:</b>
+                                <p className="text">{selected.departamento}</p>
+                            </li>
+                        )}
+                        {selected.provincia && (
+                            <li>
+                                <span className="material-symbols-outlined">check_small</span>
+                                <b className="text font-bold">Provincia:</b>
+                                <p className="text">{selected.provincia}</p>
+                            </li>
+                        )}
+                        {selected.distrito && (
+                            <li>
+                                <span className="material-symbols-outlined">check_small</span>
+                                <b className="text font-bold">Distrito:</b>
+                                <p className="text">{selected.distrito}</p>
+                            </li>
+                        )}
+                        {selected.agencia && (
+                            <li>
+                                <span className="material-symbols-outlined">check_small</span>
+                                <b className="text font-bold">Agencia:</b>
+                                <p className="text">{selected.agencia}</p>
+                            </li>
+                        )}
+                        {selected.sede && (
+                            <li>
+                                <span className="material-symbols-outlined">check_small</span>
+                                <b className="text font-bold">Sede:</b>
+                                <p className="text">{selected.sede}</p>
+                            </li>
+                        )}
+                    </ul>
+
+                    <button
+                        type="button"
+                        className="button-link button-link-3 margin-right change-location"
+                        onClick={handleEditLocation}
+                    >
+                        <span className="material-symbols-outlined">edit</span>
+                        <p className="button-link-text">Cambiar ubicación</p>
+                    </button>
+
+                    <div className="shipping-message-container">{getShippingMessage()}</div>
+                </>
             )}
 
             {selected.distrito && noAgencias && !provinciaSinAgencia && (
@@ -568,15 +943,6 @@ function Envios({ producto, onConfirm }){
                     <p>No contamos con agencias recomendadas para el distrito seleccionado.</p>
                     <p>El precio mostrado es referencial.</p>
                 </div>
-            )}
-
-            <div className="shipping-message-container">{getShippingMessage()}</div>
-
-            {(selected.departamento || selected.provincia || selected.distrito) && (
-                <button type="button" className="product-page-change-location" onClick={handleEditLocation}>
-                    <span className="material-icons">edit_location_alt</span>
-                    <p className='text'>Cambiar ubicación</p>
-                </button>
             )}
         </div>
     );

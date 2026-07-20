@@ -1,4 +1,5 @@
 .product-page-direction{
+    grid-column: 1/-1;
     display: flex;
     align-items: center;
     flex-wrap: wrap;

@@ -5,13 +5,13 @@ import './Categorias.css';
 function Categorias(){
     return(
         <div className='d-flex-column gap-10'>
-            <div className='block-container'>
+            {/* <div className='block-container'>
                 <section className='block-content'>
                     <a className='d-flex w-100 border-r-6 overflow-hidden' href='/' title=''>
                         <img src='https://mercury.vtexassets.com/assets/vtex.file-manager-graphql/images/8aef7f68-a5ed-44c2-b0fd-eeca7fcb2069___6de3ea8c0f67c6224172bd6b32180676.webp' alt='' className='d-flex w-100'/>
                     </a>
                 </section>
-            </div>
+            </div> */}
 
             <section className='product-page-categories-container'>
                 <nav className='product-page-categories'>

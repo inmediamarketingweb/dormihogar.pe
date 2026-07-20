@@ -1,38 +1,6 @@
 {
     "productos":[
         {
-            "id": 1,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "Super star negro",
-            "linea": "europeos",
-            "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/europeos/1/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA AEREA CAPITONEADO 1 - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/europeos/americanas/capitoneados-1/1/",
-            "precioRegular": 4199,
-            "precioNormal": 3699,
-            "precioVenta": 2299,
-            "stock": 9,
-            "sku": "D32342193N10",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "europeos",
-                    "tamaño": "king",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star Negro",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ]
-        },
-        {
             "id": 2,
             "categoria": "dormitorios",
             "tamaño": "king",

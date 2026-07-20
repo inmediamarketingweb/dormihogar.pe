@@ -1,0 +1,43 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "valente",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/valente-gris/",
+            "nombre": "COLCHÓN EL CISNE VALENTE GRIS 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/valente-gris/",
+            "precioRegular": 1349,
+            "precioNormal": 1299,
+            "precioVenta": 799,
+            "stock": 14,
+            "sku": "D13159NX10",
+            "regalos":["2 almohadas viscoelásticas", "1 protector de colchón"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón Valente ofrece un descanso de confort suave con su estructura de resortes pocket independientes, que brindan soporte personalizado y reducen la transparencia de movimiento.",
+        "Su tapiz en tejido de punto con tecnología Fire Resistant añade mayor seguridad y protección contra el fuego, mientras que la banda lateral en microfibra aporta elegancia.",
+        "El marco de espuma de poliuretano de alta densidad refuerza la estructura y, junto con los tratamientos antiácaros, antialérgico y antibacterias, asegura un descanso más saludable.",
+        "Diseño One Side de fácil mantenimiento y repaldo de 10 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "modelo-de-colchón": "valente gris",
+            "resortes": "pocket",
+            "línea-de-colchón": "ortopédicos",
+            "nivel-de-confort": "suave",
+            "cantidad-de-resortes": "375",
+            "sistema": "One side",
+            "tela": "tejido de punto Fire Residant",
+            "tratamiento": "anti ácaros y antibacterias",
+            "tipo-de-uso": "un solo lado",
+            "marco": "Espuma con flexible de poliuretano de alta densidad.",
+            "sensación": "suave",
+            "garantía": "10 años"
+        }
+    ]
+}

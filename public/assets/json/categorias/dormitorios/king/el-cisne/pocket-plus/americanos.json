@@ -129,38 +129,6 @@
             ]
         },
         {
-            "id": 5,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Kamas + El Cisne",
-            "modelo": "Pocket plus",
-            "línea": "americanos",
-            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/5/",
-            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA CUADROS 1 - ROSADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/americanas/cuadros-1/2/",
-            "precioRegular": 3699,
-            "precioNormal": 3249,
-            "precioVenta": 2299,
-            "stock": 9,
-            "sku": "D33242113N14",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Pocket plus",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ]
-        },
-        {
             "id": 6,
             "categoria": "dormitorios",
             "tamaño": "king",

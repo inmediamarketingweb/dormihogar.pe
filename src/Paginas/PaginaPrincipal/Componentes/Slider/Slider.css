@@ -1,23 +1,13 @@
 .slider-general-container{
-    background: var(--color-2);
     width: 100%;
     margin: 0 auto;
-    max-width: 2000px;
-}
-
-.slider-general-container > img{
-    margin: 0 auto;
-    width: auto;
-    max-width: var(--content-mx-width);
-    height: auto;
-    max-height: 56px;
 }
 
 .hero-container{
     margin: auto;
     width: 100%;
-    height: calc(100vh - 165px);
-    max-height: 600px;
+    height: calc(100vh - 158px);
+    max-height: 450px;
     position: relative;
     overflow: hidden;
 }
@@ -33,7 +23,6 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background: var(--color-2);
 }
 
 .slider-container::-webkit-scrollbar{
@@ -53,6 +42,12 @@
     display: flex;
 }
 
+.slider li a{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
 .slider li img{
     width: 100%;
     height: 100%;
@@ -69,10 +64,21 @@
     width: 48px;
     height: 48px;
     border-radius: 100%;
+    background: var(--white);
+    transition: var(--t-200ms-linear);
+    box-shadow: 0 0 10px rgba(0 0 0 / 0.25);
+}
+
+.hero-slider-button:hover{
     background: var(--color-1);
 }
 
 .hero-slider-button span{
+    color: var(--color-1);
+    transition: var(--t-200ms-linear);
+}
+
+.hero-slider-button:hover span{
     color: var(--white);
 }
 
@@ -82,6 +88,33 @@
 
 .hero-slider-button-2{
     right: 20px;
+}
+
+.slider-general-dots{
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    translate: -50% 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    z-index: 1;
+}
+
+.slider-general-dots span{
+    width: 20px;
+    height: 10px;
+    display: flex;
+    border-radius: 25px;
+    background: var(--white);
+    transition: var(--t-200ms-linear);
+    cursor: pointer;
+}
+
+.slider-general-dots span.active{
+    width: 50px;
+    background: var(--color-1);
 }
 
 @media screen and (max-width: 600px){
@@ -99,5 +132,17 @@
         width: 600%;
         display: flex;
         transition: var(--t-200ms-linear);
+    }
+
+    .hero-slider-button-1{
+        left: 10px;
+    }
+
+    .hero-slider-button-2{
+        right: 10px;
+    }
+
+    .slider-general-dots{
+        bottom: 5px;
     }
 }

@@ -1664,58 +1664,6 @@
             ]
         },
         {
-            "id": 44,
-            "categoria": "cabeceras",
-            "marca": "kamas",
-            "subcategoria": "pedestales",
-            "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/2-plazas/kamas/pedestales/34/",
-            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - TURQUESA",
-            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/9/",
-            "colores": "si",
-            "precioRegular": 619,
-            "precioNormal": 649,
-            "precioVenta": 509,
-            "stock": 9,
-            "sku": "K52250N18",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "sin brazos",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 45,
             "categoria": "cabeceras",
             "marca": "kamas",

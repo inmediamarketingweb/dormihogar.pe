@@ -62,38 +62,6 @@
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
-        },
-        {
-            "id": 3,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "Royal Elizabeth",
-            "linea": "Europeos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/3/",
-            "nombre": "DORMITORIO KAMAS EUROPEO KING + COLCHÓN PARAISO ROYAL ELIZABETH + CABECERA PEDESTAL EMPERATRIZ - VERDE CERCETA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-elizabeth/europeos/pedestales/emperatriz/1/",
-            "precioRegular": 5109,
-            "precioNormal": 3599,
-            "precioVenta": 2949,
-            "stock": 9,
-            "sku": "D3234293N12",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "Europeos",
-                    "tamaño": "king",
-                    "cajones": "no",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal Elizabeth",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Americano",
-                    "diseño-de-cabecera": "Pedestal",
-                    "brazos-de-cabecera": "Brazos Rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ]
         }
     ]
 }

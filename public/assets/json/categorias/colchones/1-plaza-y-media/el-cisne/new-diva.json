@@ -1,0 +1,44 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "new diva visco",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/new-diva-visco/",
+            "nombre": "COLCHÓN EL CISNE NEW DIVA VISCO 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/new-diva/",
+            "precioRegular": 2199,
+            "precioNormal": 1799,
+            "precioVenta": 1199,
+            "stock": 14,
+            "sku": "D13159NX111",
+            "regalos":["1 almohada viscoelástica", "1 protector de colchón"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón New Diva está diseñado para envolver tu descanso en una experiencia de confort absoluto.",
+        "Su espuma viscoelástica se adapta a cada curva del cuerpo, brindando alivio y una sensación de ingravidez.",
+        "La espuma High Resilience con Gel infusionado equilibra firmeza, soporte y frescura, manteniendo una temperatura ideal toda la noche.",
+        "Tapizado en tela Tencel, una fibra natural obtenida de la pulpa de la madera, reincorpora por su suavidad sedosa, alta tranquilidad y capacidad de absorción de humedad.",
+        "Tencel mantiene el colchón fresco, higiénico y libre de bacterias, cuidando tu piel y favoreciendo un entorno de descanso más saludable y ecológico.",
+        "Respaldo con 10 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "modelo-de-colchón": "new diva visco",
+            "resortes": "espuma",
+            "línea-de-colchón": "semi ortopédicos",
+            "nivel-de-confort": "muy suave",
+            "sistema": "One side",
+            "tela": "tejido punto tencel",
+            "tratamiento": "anti ácaros y antibacterias",
+            "tipo-de-uso": "un solo lado",
+            "marco": "Espuma de D-30kg/m3",
+            "sensación": "muy suave",
+            "garantía": "10 años"
+        }
+    ]
+}

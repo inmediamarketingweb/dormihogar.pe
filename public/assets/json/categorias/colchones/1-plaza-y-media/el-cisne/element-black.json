@@ -1,0 +1,44 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "element black",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/element-black/",
+            "nombre": "COLCHÓN EL CISNE 1 PLAZA Y MEDIA ELEMENT BLACK",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/element-black/",
+            "precioRegular": 1999,
+            "precioNormal": 1599,
+            "precioVenta": 1099,
+            "stock": 14,
+            "sku": "D131510NX10",
+            "regalos":["1 almohada viscoelástica", "1 protector de colchón"],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón Element Pillow Top - Black está diseñado para quienes prefieren un descanso firme y estable.",
+        "Su estructura de resortes pocket independientes brinda un soporte personalizado, reduciendo la transparencia de movimiento.",
+        "El marco de poliuretano de alta densidad refuerza la solidez del colchón, mientras que su tapiz en tejido de punto ofrece suavidad y frescura.",
+        "Con uso de ambas caras para mayor durabilidad y con tratamientos antiácaros, antialérgico y antibacterias, es la opción ideal para un descanso saludable.",
+        "Respaldado con 10 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "modelo-de-colchón": "element black",
+            "tipo-de-resortes": "pocket",
+            "cantidad-de-resortes": "375",
+            "línea-de-colchón": "ortopédicos",
+            "nivel-de-confort": "firme",
+            "tela": "tejido en punto",
+            "marco": "espuma flexible de alta densidad",
+            "tipo-de-uso": "ambos lados",
+            "tratamiento": "anti ácaros y bacterias",
+            "sensación": "firme",
+            "garantía": "10 años"
+        }
+    ]
+}

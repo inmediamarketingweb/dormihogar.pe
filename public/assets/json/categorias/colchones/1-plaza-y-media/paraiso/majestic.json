@@ -9,30 +9,32 @@
             "ruta": "/productos/colchones/1-plaza-y-media/paraiso/majestic/",
             "nombre": "COLCHÓN PARAISO MAJESTIC 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/paraiso/majestic/",
-            "precioRegular": 999,
-            "precioNormal": 499,
-            "precioVenta": 269,
+            "precioNormal": 329,
+            "precioVenta": 299,
             "stock": 14,
             "sku": "D121525N10",
             "tipo-de-envio": "Envío preferente"
         }
     ],
     "mensajes":[
-        "¡Conquista la noche con el colchón Majestic de Paraiso, donde el lujo y el soporte se unen en una experiencia de descanso sublime. Diseñado para quienes no renuncian a nada, este colchón ofrece un nivel de confort intermedio que proporciona el equilibrio perfecto entre la suavidad acogedora y la firmeza necesaria para un descanso profundamente reparador.",
-        "Su corazón late con el clásico y confiable sistema de resortes Bonell, garantizando una estructura sólida, una óptima ventilación y una durabilidad excepcional. Este soporte se potencia con dos capas y un marco reforzado de alta densidad Zebra, creando una base de resistencia que mantiene su forma y prestaciones intactas con el paso del tiempo. La superficie te recibe con la lujosa sensación de la Poliseda, una tela suave como la seda y fresca al tacto que eleva el placer de cada noche. Además, su innovador diseño Double Side te permite rotarlo y utilizar ambas caras, multiplicando su vida útil y ofreciéndote una inversión inteligente a largo plazo. Duerme con la absoluta tranquilidad que brinda una garantía de 3 años."
+        "El colchón Majestic de Paraíso es la elección perfecta para quienes valoran el confort, el soporte adecuado y un diseño sofisticado en su dormitorio. Fabricado con un sistema de resortes Bonell, este colchón ofrece una estructura sólida que proporciona múltiples puntos de apoyo para la columna vertebral, favoreciendo una postura correcta y un descanso reparador.",
+        "Su nivel de firmeza media es ideal para quienes buscan un equilibrio entre suavidad y soporte, adaptándose al contorno del cuerpo sin hundimientos excesivos. La combinación de espuma de alta calidad y esquineros reforzados garantizan durabilidad, estabilidad y resistencia a lo largo del tiempo.",
+        "El tapiz en tela poliseda no solo ofrece una textura agradable y fresca al contacto, sino que también aporta un toque elegante y moderno a cualquier ambiente. Ideal para dormitorios principales o de huéspedes, el colchón Majestic Gris transforma el descanso diario en una experiencia de comodidad superior.",
+        "Incluye garantía de 2 años, asegurando la confianza y calidad de la marca Paraíso."
     ],
     "ficha":[
         {
             "marca": "Paraiso",
             "modelo-de-colchón": "Majestic",
+            "línea-de-colchón": "Semi ortopédicos",
             "nivel-de-confort": "Intermedio",
             "resortes": "Bonell",
             "tela": "Poliseda",
-            "capas": "2 zebra 18",
-            "marco": "zebra 16",
+            "capas": "2 zebra 20",
+            "marco": "zebra 20",
             "sistema": "double side",
             "sensación": "intermedia",
-            "garantía": "3 años"
+            "garantía": "2 años"
         }
     ]
 }

@@ -2,8 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
+            "tamaño": "King",
             "marca": "kamas",
-            "subcategoria": "safynnte",
+            "modelo": "safynnte",
             "ruta": "/productos/colchones/king/kamas/safynnte/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE KING",
             "fotos": "/assets/imagenes/productos/colchones/kamas/safynnte/",
@@ -24,13 +25,13 @@
     "mensajes":[
         "El colchón Kamas Safynnte King ofrece un soporte súper ortopédico gracias a su estructura de resortes bonell con 18 filas de acero templado y espuma de 18 kg/m³. Su tela Drill, refuerzos centrales, marco de espuma y el sistema one size aseguran mayor estabilidad y durabilidad. Con 30 cm de grosor, está diseñado para uso de un solo lado, soporta hasta 85 kg por persona y cuenta con 4 años de garantía."
     ],
-    "filas":[
+    "ficha":[
         {
             "marca": "kamas",
             "modelo-de-colchón": "Safynnte",
             "tamaño": "King",
-            "línea-de-colchón": "Intermedio",
-            "nivel-de-confort": "Súper ortopédico",
+            "línea-de-colchón": "Súper ortopédicos",
+            "nivel-de-confort": "Intermedio",
             "resortes": "Bonell",
             "filas-de-resortes": "18",
             "material-de-resortes": "Acero templado",

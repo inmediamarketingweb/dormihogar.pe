@@ -1,0 +1,41 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "coral",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/coral/",
+            "nombre": "COLCHÓN EL CISNE CORAL 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/coral/",
+            "precioRegular": 1099,
+            "precioNormal": 899,
+            "precioVenta": 329,
+            "stock": 10,
+            "sku": "D13158NX11",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón Coral ofrece confort medio con sistema de resortes Bonell, espumas de poliuretano y acabado en tela Piqué.",
+        "Refuerzo perimetral en espuma sellada, ideal para un descanso reparador y materiales duraderos.",
+        "Disfruta de un descanso confiable con respaldo de 3 años de Garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "resortes": "Bonell",
+            "cantidad-de-resortes": "168",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "Medio",
+            "tela": "Piqué",
+            "sistema": "One side",
+            "marco": "Espuma flexible de alta densidad",
+            "tratamiento": "Anti ácaros y antialergías",
+            "sensación": "Intermedia",
+            "garantía": "3 años"
+        }
+    ]
+}

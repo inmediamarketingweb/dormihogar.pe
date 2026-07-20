@@ -3,60 +3,1003 @@
         {
             "tamaño":[
                 {
+                    "tamaño": "cuna",
+                    "ruta": "/productos/colchones/cuna/",
+                    "marcas":[
+                        {
+                            "marca": "paraiso",
+                            "resortes":[
+                                {
+                                    "resorte": "pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal baby"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "el cisne",
+                            "resortes":[
+                                {
+                                    "resorte": "bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Baby cuna"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "tamaño": "1 plaza",
-                    "ruta": "/productos/colchones/1-plaza/"
+                    "ruta": "/productos/colchones/1-plaza/",
+                    "marcas":[
+                        {
+                            "marca": "paraiso",
+                            "resortes":[
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Edén plus"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Consul plus black"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Cancun"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Majestic"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "tamaño": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/",
+                    "marcas":[
+                        {
+                            "marca": "paraiso",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince flexible"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Muy suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal cloud"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket advance"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal elizabeth"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal dynasty"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal balanzze"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Napy pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince firme"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Cosisoft",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Medallon ergosoft"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Su majestad"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Súper star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Súper star black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Consul plus black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Edén plus"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Espuma",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal abrazzo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "kamas",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Adel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Anátomicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Hoteleros",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "el cisne",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Valente"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente gris"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente marrón"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Reina del Cisne"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Virase"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Real de lujo"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Medio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Braemar"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Braemar black"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Continuo",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Medio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nikita"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "LFK",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Súper Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Súper firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Axion LFK"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Medio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Eros"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Eros black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Coral"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Amets"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Espuma",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Air 30"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Air 40"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "tamaño": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/"
+                    "ruta": "/productos/colchones/2-plazas/",
+                    "marcas":[
+                        {
+                            "marca": "kamas",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Adel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Anátomicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Hoteleros",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "tamaño": "Queen",
-                    "ruta": "/productos/colchones/queen/"
+                    "ruta": "/productos/colchones/queen/",
+                    "marcas":[
+                        {
+                            "marca": "kamas",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Anátomicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Hoteleros",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "tamaño": "King",
-                    "ruta": "/productos/colchones/king/"
+                    "ruta": "/productos/colchones/king/",
+                    "marcas":[
+                        {
+                            "marca": "paraiso",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket italiano"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "kamas",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Anátomicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Hoteleros",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "komfort",
+                            "resortes":[
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Saphir"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                    "tamaño": "4 plazas",
-                    "ruta": "/productos/colchones/4-plazas/"
-                },
-                {
-                    "tamaño": "Ver todos",
+                    "tamaño": "Todos",
                     "ruta": "/productos/colchones/"
-                }
-            ]
-        },
-        {
-            "marca":["El cisne", "Kamas", "Paraiso", "Komfort"]
-        },
-        {
-            "línea":["Semi ortopédico", "Anátomico", "Ortopédico", "Súper ortopédico", "Hotelero", "Extra ortopédico"]
-        },
-        {
-            "nivel-de-confort":["Muy suave", "Confortable", "Intermedio", "Muy confortable", "Firme", "Muy firme"]
-        },
-        {
-            "resortes":["Bonell", "Cosisoft", "Pocket"]
-        },
-        {
-            "modelos":[
-                {
-                    "el-cisne":["Cisne CEC", "Argus", "RC-418", "Presence pillow", "RC-608", "Argus pocket", "Iconio", "Dynamic", "Valente", "Element"]
-                },
-                {
-                    "kamas":["Adel", "Rucay", "Sarki", "Safynnte", "Der prinz", "Thameo pocket", "Ramat", "Nesie", "Norole", "Thaleo pocket", "Konig", "Yurmale"]
-                },
-                {
-                    "paraiso":["Majestic", "Cancun", "Consul plus", "Eden plus", "Tropical ergo", "Medallon ergosoft", "Su majestad de lujo", "Pocket italiano", "Super star", "Super star negro", "Pocket star", "Royal prince", "Royal elizabeth", "Royal dynasty", "Royal cloud", "Abrazzo"]
-                },
-                {
-                    "komfort":["Saphir"]
                 }
             ]
         }

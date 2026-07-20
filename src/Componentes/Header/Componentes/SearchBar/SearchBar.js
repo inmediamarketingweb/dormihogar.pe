@@ -1,146 +1,246 @@
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
+
+// import './SearchBar.css';
+
+// import LazyImage from '../../../Plantillas/LazyImage';
+
+// function SearchBar() {
+//     const [productos, setProductos] = useState([]);
+//     const [searchTerm, setSearchTerm] = useState('');
+//     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+
+//     useEffect(() => {
+//         const handleResize = () => {
+//             setIsSmallScreen(window.innerWidth < 600);
+//         };
+//         window.addEventListener('resize', handleResize);
+//         return () => {
+//             window.removeEventListener('resize', handleResize);
+//         };
+//     }, []);
+
+//     useEffect(() => {
+//         const fetchProductos = async () => {
+//             try{
+//                 const manifestResponse = await fetch('/assets/json/manifest.json');
+//                 if(!manifestResponse.ok){
+//                     console.error(manifestResponse.status);
+//                     return;
+//                 }
+//                 const manifestData = await manifestResponse.json();
+//                 const archivos = manifestData.files || [];
+//                 const productosArrays = await Promise.all(
+//                     archivos.map(async (archivo) => {
+//                         try {
+//                             const res = await fetch(archivo);
+//                             if (!res.ok) {
+//                                 console.warn(`No OK (${res.status}) al cargar ${archivo}`);
+//                                 return [];
+//                             }
+//                             const text = await res.text();
+//                             if (!text) {
+//                                 console.warn(`Respuesta vacía para ${archivo}`);
+//                                 return [];
+//                             }
+//                             const data = JSON.parse(text);
+//                             return data.productos || [];
+//                         } catch (err) {
+//                             console.error(`Error procesando ${archivo}:`, err);
+//                             return [];
+//                         }
+//                     })
+//                 );
+
+//                 setProductos(productosArrays.flat());
+//             } catch (error) {
+//                 console.error('Error al cargar los productos:', error);
+//             }
+//         };
+
+//         if (searchTerm.trim().length >= 3 && productos.length === 0) {
+//             fetchProductos();
+//         }
+//     }, [searchTerm, productos.length]);
+
+//     const handleSearchChange = (e) => {
+//         setSearchTerm(e.target.value);
+//     };
+
+//     const normalizeStr = (str = '') => str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+
+//     let filteredProductos = [];
+
+//     if (searchTerm.trim() !== ''){
+//         const normalizedSearchTerm = normalizeStr(searchTerm);
+//         const searchTermWithoutSpaces = normalizedSearchTerm.replace(/\s/g, '');
+
+//         const exactSkuMatch = productos.find(p => 
+//             normalizeStr(p.sku).replace(/\s/g, '') === searchTermWithoutSpaces
+//         );
+
+//         if (exactSkuMatch) {
+//             filteredProductos = [exactSkuMatch];
+//         }
+//         else {
+//             const tokens = normalizedSearchTerm.split(' ').filter(Boolean);
+//             filteredProductos = productos.filter(producto => {
+//                 const fields = [
+//                     producto.nombre, 
+//                     producto.sku, 
+//                     producto.categoria, 
+//                     producto.subcategoria
+//                 ].map(String).map(normalizeStr);
+
+//                 return tokens.every(token => 
+//                     fields.some(field => field.includes(token))
+//                 );
+//             });
+//         }
+//     }
+
+//     const handleKeyDown = (e) => {
+//         if (e.key === 'Enter') {
+//             e.preventDefault();
+//             if (!searchTerm.trim()) return;
+//             if (filteredProductos.length === 1) {
+//                 window.location.href = filteredProductos[0].ruta;
+//             } else if (filteredProductos.length > 1) {
+//                 window.location.href = `/busqueda?query=${encodeURIComponent(searchTerm)}`;
+//             }
+//         } else if (e.key === 'Escape') {
+//             setSearchTerm('');
+//         }
+//     };
+
+//     return(
+//         <>
+//             <div className={`search-bar-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>
+//                 <div className='search-bar'>
+//                     <input type='text' placeholder='Buscar en dormihogar.pe' value={searchTerm} onChange={handleSearchChange} onKeyDown={handleKeyDown} />
+//                     <span className='material-icons'>search</span>
+//                 </div>
+
+//                 <div className={`search-bar-items-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>
+//                     <ul className='search-bar-items'>
+//                         {filteredProductos.length > 0 ? (
+//                             filteredProductos.map((producto) => (
+//                                 <li key={producto.sku}>
+//                                     <a href={producto.ruta} title={producto.nombre}>
+//                                         <p className='text'>{producto.nombre}</p>
+//                                         <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1`} alt={producto.nombre}/>
+//                                     </a>
+//                                 </li>
+//                             ))
+//                         ) : (
+//                             <li>No se encontraron productos.</li>
+//                         )}
+//                     </ul>
+//                 </div>
+//             </div>
+
+//             <div className={`search-bar-layer ${searchTerm.trim() !== '' ? 'active' : ''}`} onClick={() => setSearchTerm('')}></div>
+//         </>
+//     );
+// }
+
+// export default SearchBar;
 
 import './SearchBar.css';
 
-import LazyImage from '../../../Plantillas/LazyImage';
-
-function SearchBar() {
-    const [productos, setProductos] = useState([]);
-    const [searchTerm, setSearchTerm] = useState('');
-    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
-
-    useEffect(() => {
-        const handleResize = () => {
-            setIsSmallScreen(window.innerWidth < 600);
-        };
-        window.addEventListener('resize', handleResize);
-        return () => {
-            window.removeEventListener('resize', handleResize);
-        };
-    }, []);
-
-    useEffect(() => {
-        const fetchProductos = async () => {
-            try{
-                const manifestResponse = await fetch('/assets/json/manifest.json');
-                if(!manifestResponse.ok){
-                    console.error(manifestResponse.status);
-                    return;
-                }
-                const manifestData = await manifestResponse.json();
-                const archivos = manifestData.files || [];
-                const productosArrays = await Promise.all(
-                    archivos.map(async (archivo) => {
-                        try {
-                            const res = await fetch(archivo);
-                            if (!res.ok) {
-                                console.warn(`No OK (${res.status}) al cargar ${archivo}`);
-                                return [];
-                            }
-                            const text = await res.text();
-                            if (!text) {
-                                console.warn(`Respuesta vacía para ${archivo}`);
-                                return [];
-                            }
-                            const data = JSON.parse(text);
-                            return data.productos || [];
-                        } catch (err) {
-                            console.error(`Error procesando ${archivo}:`, err);
-                            return [];
-                        }
-                    })
-                );
-
-                setProductos(productosArrays.flat());
-            } catch (error) {
-                console.error('Error al cargar los productos:', error);
-            }
-        };
-
-        if (searchTerm.trim().length >= 3 && productos.length === 0) {
-            fetchProductos();
-        }
-    }, [searchTerm, productos.length]);
-
-    const handleSearchChange = (e) => {
-        setSearchTerm(e.target.value);
-    };
-
-    const normalizeStr = (str = '') => str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-
-    let filteredProductos = [];
-
-    if (searchTerm.trim() !== ''){
-        const normalizedSearchTerm = normalizeStr(searchTerm);
-        const searchTermWithoutSpaces = normalizedSearchTerm.replace(/\s/g, '');
-
-        const exactSkuMatch = productos.find(p => 
-            normalizeStr(p.sku).replace(/\s/g, '') === searchTermWithoutSpaces
-        );
-
-        if (exactSkuMatch) {
-            filteredProductos = [exactSkuMatch];
-        }
-        else {
-            const tokens = normalizedSearchTerm.split(' ').filter(Boolean);
-            filteredProductos = productos.filter(producto => {
-                const fields = [
-                    producto.nombre, 
-                    producto.sku, 
-                    producto.categoria, 
-                    producto.subcategoria
-                ].map(String).map(normalizeStr);
-
-                return tokens.every(token => 
-                    fields.some(field => field.includes(token))
-                );
-            });
-        }
-    }
-
-    const handleKeyDown = (e) => {
-        if (e.key === 'Enter') {
-            e.preventDefault();
-            if (!searchTerm.trim()) return;
-            if (filteredProductos.length === 1) {
-                window.location.href = filteredProductos[0].ruta;
-            } else if (filteredProductos.length > 1) {
-                window.location.href = `/busqueda?query=${encodeURIComponent(searchTerm)}`;
-            }
-        } else if (e.key === 'Escape') {
-            setSearchTerm('');
-        }
-    };
-
+function SearchBar(){
     return(
         <>
-            <div className={`search-bar-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>
-                <div className='search-bar'>
-                    <input type='text' placeholder='Buscar en dormihogar.pe' value={searchTerm} onChange={handleSearchChange} onKeyDown={handleKeyDown} />
-                    <span className='material-icons'>search</span>
+            <div className='search-layer'></div>
+
+            <div className='search-bar-container'>
+                <div className="search-bar-input">
+                    <input type="text" placeholder="Buscar en dormihogar.pe"></input>
+                    <span class="material-symbols-outlined">search</span>
                 </div>
 
-                <div className={`search-bar-items-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>
-                    <ul className='search-bar-items'>
-                        {filteredProductos.length > 0 ? (
-                            filteredProductos.map((producto) => (
-                                <li key={producto.sku}>
-                                    <a href={producto.ruta} title={producto.nombre}>
-                                        <p className='text'>{producto.nombre}</p>
-                                        <LazyImage width={isSmallScreen ? 80 : 60} height={isSmallScreen ? 80 : 60} src={`${producto.fotos}/1`} alt={producto.nombre}/>
-                                    </a>
-                                </li>
-                            ))
-                        ) : (
-                            <li>No se encontraron productos.</li>
-                        )}
-                    </ul>
+                <div className='search-bar-results-container'>
+                    <div className='search-bar-results-input'>
+                        <input type="text" placeholder="Buscar en dormihogar.pe"></input>
+                        <span class="material-symbols-outlined">search</span>
+                    </div>
+
+                    <div className='search-bar-categorias'>
+                        <p className='title'>Categorías</p>
+
+                        <ul className='search-bar-categorias-list'>
+                            <li>
+                                <a href='/' title=''>
+                                    <p>Colchones</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href='/' title=''>
+                                    <p>Camas box tarimas</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href='/' title=''>
+                                    <p>Dormitorios</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href='/' title=''>
+                                    <p>Camas funcionales</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href='/' title=''>
+                                    <p>Cabeceras</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href='/' title=''>
+                                    <p>Sofás</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href='/' title=''>
+                                    <p>Complementos</p>
+                                </a>
+                            </li>
+                        </ul>
+
+                        <a className='d-flex w-100' href='/' title=''>
+                            <img src="http://localhost:3000/assets/imagenes/paginas/nosotros/banner-principal.jpg" alt=''/>
+                        </a>
+                    </div>
+
+                    <div className='search-bar-results-content'>
+                        <p className='title'>Resultados</p>
+
+                        <div className='search-bar-results-products'>
+                            <div className='search-bar-results'>
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <a href='/' className='show-all-results button-link button-link-1'>
+                            <p className='button-link-text'>Ver los ## resultados</p>
+                            <span class="material-symbols-outlined">arrow_right_alt</span>
+                        </a>
+                    </div>
                 </div>
             </div>
-
-            <div className={`search-bar-layer ${searchTerm.trim() !== '' ? 'active' : ''}`} onClick={() => setSearchTerm('')}></div>
         </>
-    );
+    )
 }
 
 export default SearchBar;

@@ -8,7 +8,6 @@
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/nesie/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/nesie/",
-            "precioRegular": 999,
             "precioNormal": 849,
             "precioVenta": 499,
             "stock": 99,
@@ -32,7 +31,7 @@
         {
             "marca": "kamas",
             "modelo-de-colchón": "nesie",
-            "línea-de-colchón": "hotelero",
+            "línea-de-colchón": "hoteleros",
             "nivel-de-confort": "intermedio",
             "resortes": "bonell",
             "filas-de-resortes": "11 filas en forma vertical",

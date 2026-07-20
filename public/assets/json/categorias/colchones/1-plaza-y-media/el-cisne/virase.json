@@ -1,0 +1,44 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "virase",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/virase/",
+            "nombre": "COLCHÓN EL CISNE VIRASE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/virase/",
+            "precioRegular": 2149,
+            "precioNormal": 1599,
+            "precioVenta": 1199,
+            "stock": 10,
+            "sku": "D13158NXS100",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Virase ofrece un descanso suave y agradable dentro de la categoría Signature, ideal para quienes buscan confort superior.",
+        "Su estructura de resortes pocket encapsulados e independientes proporciona soporte personalizado y reduce la transferencia de movimiento.",
+        "Las acolchados en espumas de alta densidad y marco de poliuretano refuerzan la estabilidad y durabilidad del colchón.",
+        "El tapiz en tejido de punto Virase aportan frescura y suavidad al contacto.",
+        "Con diseño one side de fácil mantenimiento y tratamientos antiácaro, y antebacterias, garantiza un descanso saludable.",
+        "Respaldado con 12 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "tela": "Tejido de punto con tratamiento antiviral",
+            "línea-de-colchón": "ortopédicos",
+            "nivel-de-confort": "Suave",
+            "resortes": "pocket",
+            "estructura": "espumas perfiladas de alta densidad",
+            "marco": "espuma flexible de Alta Densidad",
+            "sistema": "One side",
+            "Tratamientos": "anti ácaros y antibacterias",
+            "sensación": "Suave",
+            "garantía": "12 años"
+        }
+    ]
+}

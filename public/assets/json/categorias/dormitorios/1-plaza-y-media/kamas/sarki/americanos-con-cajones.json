@@ -280,37 +280,6 @@
             ]
         },
         {
-            "id": 10,
-            "categoria": "dormitorios",
-            "tamaño": "1 plaza y media",
-            "marca": "kamas",
-            "modelo": "sarki",
-            "línea": "americanos con cajones",
-            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/americanos-con-cajones/10/",
-            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA CON 2 CAJONES + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CUADROS 2 - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos-con-cajones/con-marco/cuadros-2/2/",
-            "precioRegular": 1999,
-            "precioNormal": 1499,
-            "precioVenta": 949,
-            "stock": 9,
-            "sku": "D31215134N11",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "americanos con cajones",
-                    "tamaño": "1 plaza y media",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "aérea con patas",
-                    "diseño-de-cabecera": "con marco",
-                    "brazos-de-cabecera": "sin brazos",
-                    "modelo-de-cabecera": "capitoneado 1"
-                }
-            ]
-        },
-        {
             "id": 11,
             "categoria": "dormitorios",
             "tamaño": "1 plaza y media",

@@ -1,0 +1,43 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "Revolution Air40",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/revolution-air40/",
+            "nombre": "COLCHÓN EL CISNE REVOLUTION AIR40 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/revolution-air-40/",
+            "precioRegular": 2599,
+            "precioNormal": 2199,
+            "precioVenta": 1599,
+            "stock": 10,
+            "sku": "D13158N10X10",
+            "regalos":[ "1 almohada viscoelastica", "1 protector de colchón" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Revolution Air40 colchón fabricado con núcleo 100 % de espuma flexible de poliuretano de alta densidad D40 Kg/m3 con particulas de cobre y su innovador diseño con cortes CNC (Control Numérico Computarizado ) de alta presición que permiten una mejor adaptación a la forma natural del cuerpo, favoreciendo la correcta distribución del peso y reduciendo los punto de presión.",
+        "Revestido con tela Virase con tecnologia antiviral y antimicrobiana, que ayuda a mantener una superficia, que ayuda a mantener una superficie más higuienica y fresca.",
+        "Además, su diseño de doble cara prolonga su vida útil y conservar sus propiedades de confort por más tiempo. Incorpora garantía de 14 años, ideal para quienes buscan descanso premium, suavidad y tecnología avanzada en un colchón.",
+        "Partículas de cobre."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "modelo-de-colchón": "revolution air40",
+            "Tapiz": "Virase antiviral y antimicrobiana",
+            "Estructura": "Espumas de D-40 Kg/m3",
+            "Tratamientos": "Anti ácaros y antibacterias",
+            "uso": "Ambas caras",
+            "marco": "Espuma flexible de alta densidad",
+            "sensación": "Muy suave",
+            "línea-de-colchón": "semi ortopédicos",
+            "Nivel de confort": "Suave",
+            "material": "Espumas de poliuretano D-40/m3, reforzado con un marco de espuma de alta densidad y espumas perfiladas que aportan mayor durabilidad. Tapiz Virase antiviral, antimicrobiana y complementado con acolchados en fibra para una suavidad extra.",
+            "garantía": "14 años"
+        }
+    ]
+}

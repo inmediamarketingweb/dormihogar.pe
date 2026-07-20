@@ -61,68 +61,6 @@
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
-        },
-        {
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "abrazzo",
-            "linea": "Europeos",
-            "ruta": "/productos/dormitorios/king/paraiso/abrazzo/europeos/3",
-            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO ROYAL ABRAZZO + CABECERA PEDESTAL EMPERATRIZ - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/europeos/pedestal/emperatriz/1/",
-            "precioRegular": 5399,
-            "precioNormal": 4299,
-            "precioVenta": 3449,
-            "stock": 9,
-            "sku": "D3234123N12",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "Europeos",
-                    "tamaño": "king",
-                    "cajones": "no",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos Rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "abrazzo",
-            "linea": "Europeos",
-            "ruta": "/productos/dormitorios/king/paraiso/abrazzo/europeos/3",
-            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO ROYAL ABRAZZO + CABECERA PEDESTAL EMPERATRIZ - TURQUESA ÓPALO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/europeos/pedestal/emperatriz/2/",
-            "precioRegular": 5399,
-            "precioNormal": 4299,
-            "precioVenta": 3449,
-            "stock": 9,
-            "sku": "D3234123N13",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "Europeos",
-                    "tamaño": "king",
-                    "cajones": "no",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal abrazzo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos Rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ]
         }
     ]
 }

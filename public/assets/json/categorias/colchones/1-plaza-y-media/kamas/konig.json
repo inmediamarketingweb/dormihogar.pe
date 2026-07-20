@@ -9,8 +9,7 @@
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/konig/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/konig/",
-            "precioRegular": 1649,
-            "precioNormal": 1399,
+            "precioNormal": 1459,
             "precioVenta": 899,
             "stock": 99,
             "sku": "D111511N10",
@@ -32,7 +31,7 @@
         {
             "marca": "kamas",
             "modelo-de-colchón": "konig",
-            "línea-de-colchón": "Extra ortopédico",
+            "línea-de-colchón": "Extra ortopédicos",
             "nivel-de-confort": "Muy firme",
             "filas-de-resortes": "12 filas",
             "tela": "Algodón tejido en punto",

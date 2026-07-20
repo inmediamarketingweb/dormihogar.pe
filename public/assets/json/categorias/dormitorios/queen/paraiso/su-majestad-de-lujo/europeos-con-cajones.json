@@ -1,37 +1,6 @@
 {
     "productos":[
         {   
-            "id": 1,
-            "categoria": "dormitorios",
-            "tamaño": "queen",
-            "marca": "Kamas + Paraiso",
-            "modelo": "Su majestad de lujo",
-            "linea": "europeos con cajones",
-            "ruta": "/productos/dormitorios/queen/paraiso/su-majestad-de-lujo/europeos-con-cajones/1/",
-            "nombre": "DORMITORIO EUROPEO KAMAS QUEEN CON 2 CAJONES + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA PEDESTAL EMPERATRIZ - LILA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/europeos-con-cajones/pedestales/emperatriz/1/",
-            "precioRegular": 3999,
-            "precioNormal": 3199,
-            "precioVenta": 2199,
-            "stock": 9,
-            "sku": "D32331173N10",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "europeos con cajones",
-                    "tamaño": "queen",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Su Majestad de lujo",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos Rectos",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ]
-        },
-        {   
             "id": 2,
             "categoria": "dormitorios",
             "tamaño": "queen",

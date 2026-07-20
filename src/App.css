@@ -4,7 +4,7 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'DM Sans', sans-serif;
     font-weight: 500;
 }
@@ -19,9 +19,6 @@
 
     --text: #333333;
     --f-size-small: 14px;
-
-    --container-mx-width: 2000px;
-    --content-mx-width: 1600px;
 
     --t-100ms-linear: all 100ms linear;
     --t-200ms-linear: all 200ms linear;
@@ -47,8 +44,9 @@
     --text: #333333;
     --f-size-small: 14px;
 
+    --content-mx-width-header: 1600px;
     --container-mx-width: 2000px;
-    --content-mx-width: 1600px;
+    --content-mx-width: 1240px;
 
     --t-100ms-linear: all 100ms linear;
     --t-200ms-linear: all 200ms linear;
@@ -84,7 +82,7 @@ body::selection{
 
 main{
     width: 100%;
-    margin-top: 150px;
+    margin-top: 158px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -108,7 +106,9 @@ main{
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
     margin-bottom: 10px;
     grid-column: 1/-1;
 }
@@ -119,6 +119,11 @@ main{
     font-size: 28px;
     color: #333333;
     letter-spacing: -2px;
+}
+
+.block-title-span{
+    text-align: center;
+    font-size: 18px;
 }
 
 .block-title-buttons{
@@ -206,6 +211,10 @@ button{
 
 .border-r-6{
     border-radius: 6px;
+}
+
+.border-r-10{
+    border-radius: 10px;
 }
 
 .text{
@@ -666,6 +675,10 @@ button{
     rotate: 270deg;
 }
 
+.overflow-hidden{
+    overflow: hidden;
+}
+
 @media screen and (max-width: 800px){
     .d-grid-5-3-2fr{
         grid-template-columns: repeat(3, 1fr);
@@ -675,7 +688,7 @@ button{
 @media screen and (max-width: 600px){
     *{
         cursor: none !important;
-        font-size: 19px;
+        /* font-size: 19px; */
     }
 
     body::-webkit-scrollbar{
@@ -691,16 +704,24 @@ button{
     }
 
     main{
-        margin-top: 110px;
+        margin-top: 158px;
     }
 
     .block-container{
         padding: 0 10px;
     }
 
+    .block-title-container.paraiso img{
+        width: 150px;
+    }
+
     .block-title{
         margin-right: auto;
         text-align: left !important;
+    }
+
+    .block-title-span{
+        font-size: 16px;
     }
 
     .d-grid-2-1fr,

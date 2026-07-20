@@ -1,0 +1,43 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "paraiso",
+            "modelo": "cancun",
+            "ruta": "/productos/colchones/1-plaza-y-media/paraiso/cancun/",
+            "nombre": "COLCHÓN PARAISO 1 PLAZA Y MEDIA CANCUN",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/cancun/",
+            "precioNormal": 689,
+            "precioVenta": 319,
+            "stock": 14,
+            "sku": "D12122122N10",
+            "tipo-de-envio": "Envío aplicado"
+        }
+    ],
+    "mensajes":[
+        "El Colchón Cancún de Paraíso es la elección ideal para quienes buscan un equilibrio entre comodidad, soporte y diseño elegante. Confeccionado con tela poliseda de alta resistencia y suavidad, este colchón no solo brinda una sensación fresca y cómoda, sino también una estética sofisticada para cualquier dormitorio.",
+        "Su sistema de resortes Bonell proporciona una base firme pero adaptable, distribuyendo de manera uniforme los puntos de presión y ofreciendo mayor soporte a la columna vertebral, favoreciendo un descanso saludable. Este sistema permite una excelente ventilación interna, ideal para mantener la frescura durante toda la noche.",
+        "El interior del Majestic incluye espuma Zebra D16, que añade una capa de confort adicional para un soporte intermedio, junto a esquineros de espuma que refuerzan la estructura y mejoran la estabilidad del colchón, aumentando su durabilidad.",
+        "Ofrece un nivel de confort intermedio, siendo perfecto tanto para quienes buscan firmeza como para quienes desean algo de suavidad sin hundimiento. Resistente, anatómico y con diseño moderno, el colchón Cancún es un compañero de descanso confiable.",
+        "Cuenta con garantía de 2 años, lo que asegura su calidad y respaldo de fabricación."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Cancun",
+            "línea-de-colchón": "Semi ortopédicos",
+            "nivel-de-confort": "Firme",
+            "resortes": "Bonell",
+            "tela": "Jacquard",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "acabado": "vaporizado",
+            "capas": "2 zebra 18",
+            "marco": "zebra 16",
+            "sistema": "double side",
+            "sensación": "intermedia",
+            "garantía": "3 años"
+        }
+    ]
+}

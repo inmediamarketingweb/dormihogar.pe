@@ -1,0 +1,19 @@
+{
+    "networks":[
+        {
+            "id": 1,
+            "name": "Facebook",
+            "link": "https://www.facebook.com/Dormihogar.pe/"
+        },
+        {
+            "id": 2,
+            "name": "Instagram",
+            "link": "https://www.instagram.com/dormihogar.pe/"
+        },
+        {
+            "id": 3,
+            "name": "Tik Tok",
+            "link": "https://www.tiktok.com/@dormihogar.pe"
+        }
+    ]
+}

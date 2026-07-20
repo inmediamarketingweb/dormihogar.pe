@@ -31,38 +31,6 @@
                     "modelo-de-cabecera": "Emperatriz"
                 }
             ]
-        },
-        {
-            "id": 2,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Kamas + Paraiso",
-            "modelo": "Royal Prince",
-            "linea": "europeos con cajones",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/2/",
-            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL EMPERATIZ + 2 CAJONES AL PIE - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/pedestales/emperatriz/2/",
-            "precioRegular": 4999,
-            "precioNormal": 4199,
-            "precioVenta": 2979,
-            "stock": 9,
-            "sku": "D32341153N11",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Europeos con cajones",
-                    "tamaño": "king",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal Prince",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Pedestal",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ]
         }
     ]
 }

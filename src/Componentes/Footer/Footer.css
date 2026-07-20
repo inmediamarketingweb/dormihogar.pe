@@ -1,29 +1,8 @@
-.whatsapp-button{
-    position: fixed;
-    right: 20px;
-    bottom: 20px;
-    display: flex;
-    width: 60px;
-    height: 60px;
-    background: var(--whatsapp);
-    border-radius: 100%;
-    z-index: 98;
-}
-
-.whatsapp-button img{
-    margin: auto;
-    width: 60%;
-    height: auto;
-    aspect-ratio: 1/1;
-    object-fit: contain;
-}
-
-/**/
-
 footer{
+    margin-top: 10px;
     width: 100%;
     background: var(--header);
-    border-top: 1px solid gray;
+    background: #f0f0f0;
 }
 
 .footer-block-container{
@@ -213,7 +192,7 @@ footer{
 
     .footer-block-container{
         padding: 20px;
-        padding-top: 60px;
+        /* padding-top: 60px; */
     }
 
     .footer .block-title-container::before{

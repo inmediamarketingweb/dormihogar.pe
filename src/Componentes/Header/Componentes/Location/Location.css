@@ -1,0 +1,191 @@
+.location-button{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    transition: var(--t-200ms-linear);
+    position: relative;
+}
+
+.location-button::before{
+    content: '';
+    position: absolute;
+    left: -9px;
+    top: 0;
+    width: 2px;
+    height: 100%;
+    display: flex;
+    background: var(--color-1);
+
+    display: none;
+}
+
+.location-button p{
+    width: auto;
+    max-width: 140px;
+    font-size: 14px;
+    text-align: left;
+}
+
+.location-button span{
+    transition: var(--t-200ms-linear);
+}
+
+.location-button:hover p,
+.location-button:hover span{
+    color: var(--color-1);
+}
+
+.location-layer{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background: rgba(0 0 0 / 0.25);
+    backdrop-filter: blur(5px);
+    z-index: 998;
+}
+
+.modal-location-container{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+    width: calc(100% - 40px);
+    max-width: 550px;
+    padding: 20px;
+    background: var(--body);
+    border-radius: 8px;
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.modal-location-selects{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+}
+
+.modal-location-tag{
+    display: flex;
+    width: 100%;
+    height: 56px;
+    position: relative;
+    border: 2px solid var(--component);
+    border-radius: 6px;
+
+    position: relative;
+}
+
+.modal-location-tag input{
+    width: 100%;
+    height: 100%;
+    border: 0;
+    outline: 0;
+    padding: 0 20px;
+    border-radius: 6px;
+    color: var(--text);
+}
+
+.modal-location-tag input::placeholder{
+    color: var(--component);
+}
+
+.modal-location-tag label{
+    background: var(--body);
+    color: var(--text);
+    padding: 0 10px;
+    position: absolute;
+    left: 10px;
+    top: -10px;
+    width: auto;
+    height: 20px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-location-tag span{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    translate: 0 -50%;
+    color: var(--component);
+}
+
+.modal-location-button-close{
+    cursor: pointer;
+}
+
+.modal-location-tag-results {
+    position: absolute;
+    left: -2px;
+    top: calc(100% + 5px);
+    z-index: 10;
+    overflow-y: scroll;
+    background: var(--body);
+    display: flex;
+    width: calc(100% + 4px);
+    height: 0;
+    transition: all 0.3s ease;
+    border-radius: 6px 3px 3px 6px;
+    border: 2px solid var(--component);
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.modal-location-tag-results.active{
+    opacity: 1;
+    pointer-events: all;
+    user-select: all;
+}
+
+.modal-location-tag-results::-webkit-scrollbar{
+    width: 5px;
+    border-radius: 5px;
+}
+
+.modal-location-tag-results::-webkit-scrollbar-thumb{
+    background: var(--color-1);
+    border-radius: 5px;
+}
+
+.modal-location-tag-results ul{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.modal-location-tag-results ul li{
+    display: flex;
+    width: 100%;
+}
+
+.modal-location-tag-results ul li button{
+    width: 100%;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 0 10px;
+    transition: var(--t-200ms-linear);
+    cursor: pointer;
+}
+
+.modal-location-tag-results ul li button:hover{
+    background: var(--component);
+}
+
+.button-link:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}

@@ -14,6 +14,8 @@
 
     animation: layer 1s ease-in-out;
     opacity: 0;
+
+    display: none !important;
 }
 
 @keyframes layer{

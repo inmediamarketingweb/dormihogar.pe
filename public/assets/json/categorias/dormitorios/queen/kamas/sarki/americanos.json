@@ -528,37 +528,6 @@
             ]
         },
         {
-            "id": 18,
-            "categoria": "dormitorios",
-            "tamaño": "queen",
-            "marca": "kamas",
-            "modelo": "sarki",
-            "línea": "americanos",
-            "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/18/",
-            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PRESTIGE - CUERO ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/prestige/1/",
-            "precioRegular": 3099,
-            "precioNormal": 2299,
-            "precioVenta": 1549,
-            "stock": 9,
-            "sku": "D3123236N19",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "americanos",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Prestige"
-                }
-            ]
-        },
-        {
             "id": 19,
             "categoria": "dormitorios",
             "tamaño": "queen",
@@ -679,37 +648,6 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Yacu"
-                }
-            ]
-        },
-        {
-            "id": 24,
-            "categoria": "dormitorios",
-            "tamaño": "queen",
-            "marca": "kamas",
-            "modelo": "sarki",
-            "línea": "americanos",
-            "ruta": "/productos/dormitorios/queen/kamas/sarki/americanos/24/",
-            "nombre": "DORMITORIO AMERICANO KAMAS QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU - CUERO NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/americanos/aereas-con-patas/bloques/otros-modelos/1/",
-            "precioRegular": 3099,
-            "precioNormal": 2299,
-            "precioVenta": 1549,
-            "stock": 9,
-            "sku": "D3123236N25",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "americanos",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Otros modelos"
                 }
             ]
         },

@@ -8,8 +8,7 @@
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/ramat/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/ramat/",
-            "precioRegular": 999,
-            "precioNormal": 849,
+            "precioNormal": 999,
             "precioVenta": 549,
             "stock": 99,
             "sku": "D11155N10",
@@ -31,7 +30,7 @@
         {
             "marca": "kamas",
             "modelo-de-colchón": "Ramat",
-            "línea-de-colchón": "Súper ortopédico",
+            "línea-de-colchón": "Súper ortopédicos",
             "nivel-de-confort": "Muy confortable",
             "resortes": "Bonell",
             "filas-de-resortes": "11 filas",

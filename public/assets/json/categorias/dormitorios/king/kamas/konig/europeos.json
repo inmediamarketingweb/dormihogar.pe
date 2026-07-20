@@ -65,38 +65,6 @@
             ]
         },
         {
-            "id": 3,
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "subcategoria": "europeos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/europeos/3/",
-            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN KAMAS KONIG + CABECERA AEREA REPTILIAN - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/europeos/bloques/reptilian/3/",
-            "precioRegular": 4399,
-            "precioNormal": 3719,
-            "precioVenta": 2649,
-            "stock": 23,
-            "sku": "D31242116N12",
-            "tipo-de-envio": "Gratis",
-            "regalos": [ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Europeos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "reptilian"
-                }
-            ]
-        },
-        {
             "id": 4,
             "categoria": "dormitorios",
             "marca": "kamas",
@@ -143,38 +111,6 @@
             "precioVenta": 2649,
             "stock": 23,
             "sku": "D31242116N14",
-            "tipo-de-envio": "Gratis",
-            "regalos": [ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Europeos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "reptilian"
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "categoria": "dormitorios",
-            "marca": "kamas",
-            "subcategoria": "europeos",
-            "tamaño": "king",
-            "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/kamas/konig/europeos/6/",
-            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN KAMAS KONIG + CABECERA AEREA REPTILIAN - AZUL ELÉCTRICO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/europeos/bloques/reptilian/6/",
-            "precioRegular": 4399,
-            "precioNormal": 3719,
-            "precioVenta": 2649,
-            "stock": 23,
-            "sku": "D31242116N15",
             "tipo-de-envio": "Gratis",
             "regalos": [ "3 cojines" ],
             "detalles-del-producto":[

@@ -6,13 +6,13 @@
             "marca": "kamas",
             "modelo": "der prinz",
             "ruta": "/productos/colchones/4-plazas/kamas/der-prinz/",
-            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 4 PLAZAS",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO DER PRINZ 4 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/",
-            "precioRegular": 2529,
-            "precioNormal": 1999,
+            "precioRegular": 2799,
+            "precioNormal": 2299,
             "precioVenta": 1599,
             "stock": 99,
-            "sku": "D1143N10",
+            "sku": "D1163N10",
             "regalos":[ "4 almohadas" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "D11153N10" },
@@ -24,29 +24,28 @@
         }
     ],
     "mensajes":[
-        "El colchón KAMAS Sarki King forma parte de la línea Ortopédica de la marca y está diseñado para brindar un descanso confortable, firme y estable. Incorpora un sistema de 21 filas de resortes Bonell de acero templado, que aseguran un soporte uniforme, resistencia estructural y una correcta alineación del cuerpo durante el descanso.",
-        "Su estructura se complementa con espuma de 20 kg/m³, refuerzos centrales y un marco sellado, lo que mejora la durabilidad y evita deformaciones con el uso continuo. La superficie en algodón tejido en punto aporta suavidad, frescura y una sensación agradable al contacto, mientras que su diseño de uso por ambos lados prolonga la vida útil del colchón.",
-        "Con 31 cm de grosor y una capacidad de soporte de hasta 80 kg por persona, el Sarki King es una opción confiable para quienes buscan un colchón ortopédico equilibrado y resistente.",
-        "Además, KAMAS es la única marca en el mercado peruano que ofrece dormitorios de hasta 4 plazas, consolidándose como un referente en soluciones de descanso de gran formato. El modelo cuenta con 3 años de garantía, respaldo de su calidad y fabricación."
+        "El colchón Kamas Der Prinz, de línea súper ortopédica, ofrece un descanso muy confortable gracias a sus resortes bonell de acero templado distribuidos en 19 filas y reforzados al centro.",
+        "Combina espuma de 20 kg/m³, marco de espuma, uso de un solo lado y un sistema One Size para mayor estabilidad. Su tela de algodón tejido en punto, 30 cm de grosor y soporte de 90 kg por persona lo hacen firme, resistente y duradero.",
+        "Ideal para quienes buscan soporte superior y confort profundo."
     ],
     "ficha":[
         {
             "marca": "kamas",
-            "modelo-de-colchón": "Sarki",
-            "tamaño": "King",
-            "línea-de-colchón": "Ortopédico",
-            "nivel-de-confort": "Confortable",
+            "modelo-de-colchón": "Der Prinz",
+            "tamaño": "4 plazas",
+            "línea-de-colchón": "Súper ortopédico",
+            "nivel-de-confort": "Muy confortable",
             "resortes": "Bonell",
-            "filas-de-resortes": " 21 filas",
+            "filas-de-resortes": " 27 filas",
             "material-de-resorte": "Acero templado",
             "tela": "Algodón tejido en punto",
             "densidad-de-espuma": "20kg/m3",
-            "tipo-de-uso": "Ambos lados",
+            "tipo-de-uso": "Un solo lado",
             "refuerzos": "Centrales",
             "marco": "Sellado",
             "grosor": "31cm.",
-            "soporte-de-peso": "80kg. por persona",
-            "garantía": "3 años"
+            "soporte-de-peso": "90kg. por persona",
+            "garantía": "6 años"
         }
     ]
 }

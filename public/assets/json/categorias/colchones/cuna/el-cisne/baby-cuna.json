@@ -1,0 +1,37 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "cuna",
+            "marca": "el cisne",
+            "modelo": "baby cuna",
+            "ruta": "/productos/colchones/cuna/paraiso/baby-cuna/",
+            "nombre": "COLCHÓN PARAISO CUNA BABY ROYAL",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/baby-cuna/",
+            "precioNormal": 599,
+            "precioVenta": 259,
+            "stock": 14,
+            "sku": "D1302N10",
+            "tipo-de-envio": "Envío aplicado"
+        }
+    ],
+    "mensajes":[
+        "Colchón Baby Cuna ofrece confort medio con sistema de resortes Bonell, espumas de poliuretano y acabado en tela Piqué. Refuerzo perimetral en espuma sellada, ideal para un descanso reparador y materiales duraderos."
+    ],
+    "ficha":[
+        {
+            "marca": "El Cisne",
+            "modelo-de-colchón": "Baby cuna",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "Suave",
+            "resortes": "bonell",
+            "tela": "Piqué",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "marco": "Espuma flexible de Alta Densidad",
+            "tipo-de-usos": "Ambos lados",
+            "sensación": "suave",
+            "garantía": "5 años"
+        }
+    ]
+}

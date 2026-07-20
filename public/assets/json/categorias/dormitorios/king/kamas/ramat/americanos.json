@@ -321,37 +321,6 @@
             ]
         },
         {
-            "id": 11,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "kamas",
-            "modelo": "ramat",
-            "línea": "americanos",
-            "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/11/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO 1 - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/americanas/capitoneado-1/3/",
-            "precioRegular": 3329,
-            "precioNormal": 2999,
-            "precioVenta": 2029,
-            "stock": 13,
-            "sku": "D3124273N20",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "americana",
-                    "brazos-de-cabecera": "brazos rectos",
-                    "modelo-de-cabecera": "lineal 1"
-                }
-            ]
-        },
-        {
             "id": 12,
             "categoria": "dormitorios",
             "tamaño": "king",
@@ -709,38 +678,6 @@
             "precioVenta": 2619,
             "stock": 13,
             "sku": "D3124275N16",
-            "tipo-de-envio": "Gratis",
-            "regalos": [ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "corona",
-                    "brazos-de-cabecera": "brazos curvos",
-                    "modelo-de-cabecera": "majestad"
-                }
-            ]
-        },
-        {
-            "id": 24,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "kamas",
-            "modelo": "ramat",
-            "línea": "americanos",
-            "ruta": "/productos/dormitorios/king/kamas/ramat/americanos/24/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAUL - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/ramat/americanos/coronas/majestad/8/",
-            "precioRegular": 4499,
-            "precioNormal": 3899,
-            "precioVenta": 2619,
-            "stock": 13,
-            "sku": "D3124275N17",
             "tipo-de-envio": "Gratis",
             "regalos": [ "3 cojines" ],
             "detalles-del-producto":[

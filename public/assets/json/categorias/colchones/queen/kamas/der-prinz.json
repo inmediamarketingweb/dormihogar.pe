@@ -9,6 +9,7 @@
             "ruta": "/productos/colchones/queen/kamas/der-prinz/",
             "nombre": "COLCHÓN QUEEN KAMAS SUPER ORTOPÉDICO DER PRINZ",
             "fotos": "/assets/imagenes/productos/colchones/kamas/der-prinz/",
+            "tipo-de-envio": "Envío preferente",
             "precioRegular": 1569,
             "precioNormal": 1149,
             "precioVenta": 799,
@@ -31,7 +32,7 @@
         {
             "marca": "kamas",
             "modelo-de-colchón": "Der Prinz",
-            "línea-de-colchón": "Super ortopédico",
+            "línea-de-colchón": "Súper ortopédicos",
             "nivel-de-confort": "Muy confortable",
             "resortes": "bonell",
             "filas-de-resortes": "17",

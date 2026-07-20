@@ -8,8 +8,7 @@
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/thaleo-pocket/",
             "nombre": "COLCHÓN KAMAS THALEO POCKET 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/thaleo-pocket/",
-            "precioRegular": 1349,
-            "precioNormal": 1019,
+            "precioNormal": 1309,
             "precioVenta": 799,
             "stock": 99,
             "sku": "D111510N10",
@@ -31,7 +30,7 @@
         {
             "marca": "kamas",
             "modelo-de-colchón": "Thaleo pocket",
-            "línea-de-colchón": "Extra ortopedico",
+            "línea-de-colchón": "Extra ortopedicos",
             "nivel-de-confort": "Muy firme",
             "resortes": "Pocket",
             "cantidad-resortes": "364 resorte pocket",

@@ -1,0 +1,40 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "eros",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/eros/",
+            "nombre": "COLCHÓN EL CISNE EROS 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/eros/",
+            "precioRegular": 799,
+            "precioNormal": 699,
+            "precioVenta": 249,
+            "stock": 10,
+            "sku": "D13158NX100",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón Eros pertenece a nuestra lína clásica ofrece confort medio gracias a su sistema de resortes Bonell y espumas de poliuretano, tela piqué resistente y elegante.",
+        "Garantiza un descanso confiable con respaldo de 2 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "resortes": "Bonell",
+            "cantidad-de-resortes": "160",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "Medio",
+            "tela": "Piqué",
+            "sistema": "One side",
+            "marco": "Espuma flexible de alta densidad",
+            "tratamiento": "Anti ácaros y antialergías",
+            "sensación": "intermedia",
+            "garantía": "2 años"
+        }
+    ]
+}

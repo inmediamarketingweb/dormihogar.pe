@@ -1,0 +1,41 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "braemar black",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/braemar-black/",
+            "nombre": "COLCHÓN EL CISNE BRAEMAR BLACK 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/braemar-black/",
+            "precioRegular": 999,
+            "precioNormal": 829,
+            "precioVenta": 519,
+            "stock": 10,
+            "sku": "D13158NX15",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón Braemar diseñado con resortes encapsulados individualmente que asegura un soporte personalizado y reducen la transparencia de movimiento.",
+        "Su tapiz en tela Jacuard aporta resistencia, mientras que el marco de espuma de poliuretano de alta densidad refuerza la estructura.",
+        "Con tratamientos antiácaros y antibacterias, diseño one side de fácil mantenimiento y el respaldo de 6 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "resortes": "pocket",
+            "cantidad-de-resortes": "300",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "medio",
+            "tela": "jacuard",
+            "sistema": "One side",
+            "marco": "Espuma flexible de alta densidad",
+            "tratamiento": "Anti ácaros y antialergías",
+            "sensación": "firmeza media",
+            "garantía": "6 años"
+        }
+    ]
+}

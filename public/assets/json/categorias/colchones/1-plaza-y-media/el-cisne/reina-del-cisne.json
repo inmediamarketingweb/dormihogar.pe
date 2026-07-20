@@ -1,0 +1,44 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "reina del cisne",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/reina-del-cisne/",
+            "nombre": "COLCHÓN EL CISNE REINA DEL CISNE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/reina-del-cisne/",
+            "precioRegular": 2299,
+            "precioNormal": 1799,
+            "precioVenta": 1299,
+            "stock": 10,
+            "sku": "D13158NX120",
+            "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Reina del Cisne, esta diseñado para quienes buscan un descanso suave, envolvente y placentero.",
+        "Su estructura de doble panel de Resortes Mini Pocket encapsulados e independientes brinda soporte inteligente que se adapta de manera más precisa al cuerpo, brindando estabilidad con una sensación suave al recostarse.",
+        "El tapiz en tejido de punto, fresca, elástica y delicada al tacto, aporta una experiencia de descanso más cómoda y ventilada.",
+        "Su diseño de ambas caras permite rotarlo para alargar su vida útil y mantener el confort como el primer ´día. Con 12 años de garantía, garantiza calidad, durabilidad y suavidad que acompañarán tu descanso por mucho tiempo."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "resortes": "pocket",
+            "modelo-de-colchón": "Reina del cisne",
+            "cantidad-de-resortes": "750",
+            "filas-resortes": "Doble panel de resortes pocket",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "suave",
+            "tela": "tejido en punto",
+            "tipo-de-uso": "Ambos lados",
+            "marco": "De espuma flexible de Alta Densidad",
+            "tratamiento": "Anti ácaros y antiabacterias",
+            "sensación": "Firmeza media",
+            "garantía": "12 años"
+        }
+    ]
+}

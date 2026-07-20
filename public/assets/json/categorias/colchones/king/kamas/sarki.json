@@ -30,9 +30,9 @@
             "marca": "kamas",
             "modelo-de-colchón": "Sarki",
             "tamaño": "King",
-            "línea-de-colchón": "Ortopédico",
+            "línea-de-colchón": "Ortopédicos",
             "nivel-de-confort": "Confortable",
-            "resortes": "Bonell",
+            "tipo-de-resorte": "Bonell",
             "filas-de-resortes": "18 filas",
             "material-de-resorte": "Acero templado",
             "tela": "Algodón tejido en punto",
@@ -40,7 +40,7 @@
             "tipo-de-uso": "Ambos lados",
             "refuerzos": "Centrales",
             "marco": "Sellado",
-            "grosor": "26cm.",
+            "grosor": "30cm.",
             "soporte-de-peso": "80kg. por persona",
             "garantía": "3 años"
         }

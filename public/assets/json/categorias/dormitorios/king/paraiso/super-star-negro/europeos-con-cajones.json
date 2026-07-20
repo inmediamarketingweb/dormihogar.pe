@@ -97,38 +97,6 @@
             ]
         },
         {
-            "id": 4,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "Super star negro",
-            "linea": "europeos con cajones",
-            "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/4/",
-            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES AL PIE - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/europeos-con-cajones/pedestales/emperatriz/4/",
-            "precioRegular": 3959,
-            "precioNormal": 3099,
-            "precioVenta": 2629,
-            "stock": 9,
-            "sku": "D32341193N13",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "europeos con cajones",
-                    "tamaño": "king",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star Negro",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ]
-        },
-        {
             "id": 5,
             "categoria": "dormitorios",
             "tamaño": "king",

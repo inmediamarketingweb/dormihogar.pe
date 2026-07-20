@@ -1,0 +1,45 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "virase black",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/virase-black/",
+            "nombre": "COLCHÓN EL CISNE VIRASE BLACK 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/virase/black/",
+            "precioRegular": 2399,
+            "precioNormal": 2099,
+            "precioVenta": 1399,
+            "stock": 10,
+            "sku": "D13158NXS101",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Virase ofrece un descanso suave y agradable dentro de la categoría Signature, ideal para quienes buscan confort superior.",
+        "Su estructura de resortes pocket encapsulados e independientes proporciona soporte personalizado y reduce la transferencia de movimiento.",
+        "Las acolchados en espumas de alta densidad y marco de poliuretano refuerzan la estabilidad y durabilidad del colchón.",
+        "El tapiz en tejido de punto Virase aportan frescura y suavidad al contacto.",
+        "Con diseño one side de fácil mantenimiento y tratamientos antiácaro, y antebacterias, garantiza un descanso saludable.",
+        "Respaldado con 14 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "tela": "Tejido de punto con tratamiento antiviral",
+            "línea-de-colchón": "ortopédicos",
+            "nivel-de-confort": "Suave",
+            "resortes": "pocket",
+            "cantidad-de-resortes": "375",
+            "estructura": "espumas perfiladas de alta densidad",
+            "marco": "espuma flexible de Alta Densidad",
+            "sistema": "One side",
+            "Tratamientos": "anti ácaros y antibacterias",
+            "sensación": "Suave",
+            "garantía": "12 años"
+        }
+    ]
+}

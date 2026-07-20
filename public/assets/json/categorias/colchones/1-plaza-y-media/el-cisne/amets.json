@@ -1,0 +1,41 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "amets",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/amets/",
+            "nombre": "COLCHÓN EL CISNE AMETS 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/amets/",
+            "precioRegular": 1049,
+            "precioNormal": 999,
+            "precioVenta": 679,
+            "stock": 10,
+            "sku": "D13158NX18",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón Amets brinda un confont firme gracias a su sistema de resortes Bonell y marco de espuma de alta densidad que refuerza la estructura.",
+        "Su tapiz en tejido de punto con hilos de carbón favorece la frescura y la higiene, complementado con tratamientos antiácaros y antibacterias.",
+        "Diseño one side de fácil mantenimiento y respaldo de 10 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "resortes": "bonell",
+            "cantidad-de-resortes": "206",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "Firme",
+            "tela": "tejido de punto e hilos de Carbón",
+            "sistema": "One side",
+            "marco": "Espuma flexible de alta densidad",
+            "tratamiento": "Anti ácaros y antiabacterias",
+            "sensación": "Firme",
+            "garantía": "10 años"
+        }
+    ]
+}

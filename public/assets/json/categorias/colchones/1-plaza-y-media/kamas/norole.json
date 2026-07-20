@@ -8,8 +8,7 @@
             "ruta": "/productos/colchones/1-plaza-y-media/kamas/norole/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/kamas/norole/",
-            "precioRegular": 1349,
-            "precioNormal": 1199,
+            "precioNormal": 1149,
             "precioVenta": 699,
             "stock": 99,
             "sku": "D11159N10",
@@ -31,7 +30,7 @@
         {
             "marca": "kamas",
             "modelo-de-colchón": "Norole",
-            "línea-de-colchón": "Extra ortopédico",
+            "línea-de-colchón": "Extra ortopédicos",
             "nivel-de-confort": "Muy firme",
             "tipo-de-resorte": "Bonell",
             "resortes": "12 filas",

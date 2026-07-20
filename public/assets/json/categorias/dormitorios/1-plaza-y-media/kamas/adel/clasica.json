@@ -1,0 +1,190 @@
+{
+    "productos":[
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "clásica",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/clasicos/2/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA 1 - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/americanos/clasicas/clasica-1/1/",
+            "precioRegular": 2099,
+            "precioNormal": 1499,
+            "precioVenta": 839,
+            "stock": 9,
+            "sku": "D31215212N10",
+            "tipo-de-envio": "Preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/clasicos/3/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA 1 - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/americanos/clasicas/clasica-1/2/",
+            "precioRegular": 2099,
+            "precioNormal": 1499,
+            "precioVenta": 839,
+            "stock": 9,
+            "sku": "D31215212N11",
+            "tipo-de-envio": "Preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/clasicos/4/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/americanos/clasicas/clasica-1/3/",
+            "precioRegular": 2099,
+            "precioNormal": 1499,
+            "precioVenta": 839,
+            "stock": 9,
+            "sku": "D31215212N12",
+            "tipo-de-envio": "Preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/clasicos/5/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA 1 - VERDE",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/americanos/clasicas/clasica-1/4/",
+            "precioRegular": 2099,
+            "precioNormal": 1499,
+            "precioVenta": 839,
+            "stock": 9,
+            "sku": "D31215212N13",
+            "tipo-de-envio": "Preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/clasicos/6/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/americanos/clasicas/clasica-1/5/",
+            "precioRegular": 2099,
+            "precioNormal": 1499,
+            "precioVenta": 839,
+            "stock": 9,
+            "sku": "D31215212N14",
+            "tipo-de-envio": "Preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/clasicos/7/",
+            "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/americanos/clasicas/clasica-1/6/",
+            "precioRegular": 2099,
+            "precioNormal": 1499,
+            "precioVenta": 839,
+            "stock": 9,
+            "sku": "D31215212N15",
+            "tipo-de-envio": "Preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Adel",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        }
+    ]
+}

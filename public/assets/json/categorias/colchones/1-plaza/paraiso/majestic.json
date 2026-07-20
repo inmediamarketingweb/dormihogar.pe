@@ -1,0 +1,40 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño":"1 plaza y media",
+            "marca": "paraiso",
+            "modelo": "majestic",
+            "ruta": "/productos/colchones/1-plaza/paraiso/majestic/",
+            "nombre": "COLCHÓN PARAISO 1 PLAZA MAJESTIC",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/majestic/",
+            "precioNormal": 359,
+            "precioVenta": 289,
+            "stock": 14,
+            "sku": "D1211125N10",
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Majestic de Paraíso es la elección perfecta para quienes valoran el confort, el soporte adecuado y un diseño sofisticado en su dormitorio. Fabricado con un sistema de resortes Bonell, este colchón ofrece una estructura sólida que proporciona múltiples puntos de apoyo para la columna vertebral, favoreciendo una postura correcta y un descanso reparador.",
+        "Su nivel de firmeza media es ideal para quienes buscan un equilibrio entre suavidad y soporte, adaptándose al contorno del cuerpo sin hundimientos excesivos. La combinación de espuma de alta calidad y esquineros reforzados garantizan durabilidad, estabilidad y resistencia a lo largo del tiempo.",
+        "El tapiz en tela poliseda no solo ofrece una textura agradable y fresca al contacto, sino que también aporta un toque elegante y moderno a cualquier ambiente. Ideal para dormitorios principales o de huéspedes, el colchón Majestic Gris transforma el descanso diario en una experiencia de comodidad superior.",
+        "Incluye garantía de 2 años, asegurando la confianza y calidad de la marca Paraíso."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Majestic",
+            "línea-de-colchón": "Semi ortopédicos",
+            "nivel-de-confort": "Suave",
+            "resortes": "Bonell",
+            "tela": "Poliseda",
+            "capas": "2 zebra 18",
+            "marco": "zebra 16",
+            "sistema": "double side",
+            "sensación": "intermedia",
+            "garantía": "2 años"
+        }
+    ]
+}

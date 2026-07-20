@@ -1,0 +1,40 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "softly air-30",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/softly-air30/",
+            "nombre": "COLCHÓN EL CISNE SOFTLY AIR-30 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/softly-air30/",
+            "precioRegular": 2099,
+            "precioNormal": 1299,
+            "precioVenta": 899,
+            "stock": 10,
+            "sku": "D13158NXS10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Softly Air30 ofrece un confort suave y agradable, ideal para quienes buscan máxima comodidad en su descanso.",
+        "Su estructura, 100% espuma flexible de poliuretano D-30 Kg/m3 de alta calidad diseñado con cortes CNC de alta precisión, se adapta mejor a la forma del cuerpo dando soporte y mejor ergonomía.",
+        "Además, crea canales internos de ventilación que generan flujos de aire que evitan acumulación de humedad y calor permitiendo un descanso perfecto.",
+        "Diseñado para el uso de ambas caras, con tratamientos antiácaros, antialérgico y anti bacterias, asegura un descanso saludable y está respaldado con 10 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "línea-de-colchón": "semi ortopédicos",
+            "nivel-de-confort": "suave",
+            "resortes": "espuma",
+            "tela": "Pique",
+            "marco": "Espuma con densidad 16kg/m3",
+            "capas": "2 láminas de poliuretano de alta densidad y 2 láminas de espuma de poliuretano de 1 1/4'' a 16kg/m3",
+            "sensación": "intermedia",
+            "garantía": "3 años"
+        }
+    ]
+}

@@ -1,6 +1,26 @@
 {
     "files": [
         "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/nueva-edicion.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/eros.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/eros-black.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/coral.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/nikita.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/pocket-peruano.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/braemar.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/braemar-black.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/axiom-lkf.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/amets.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/valente.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/valente-gris.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/valente-marron.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/softly-air30.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/element.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/element-black.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/new-diva.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/virase.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/reina-del-cisne.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/virase-black.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/el-cisne/revolution-air40.json",
 
         "/assets/json/categorias/colchones/2-plazas/el-cisne/argus.json",
         "/assets/json/categorias/colchones/2-plazas/el-cisne/presence.json",
@@ -69,7 +89,16 @@
         "/assets/json/categorias/colchones/4-plazas/kamas/sarki.json",
         "/assets/json/categorias/colchones/4-plazas/kamas/der-prinz.json",
 
+        "/assets/json/categorias/colchones/cuna/paraiso/royal-baby.json",
+
+        "/assets/json/categorias/colchones/1-plaza/paraiso/eden-plus.json",
+        "/assets/json/categorias/colchones/1-plaza/paraiso/consul-plus-black.json",
+        "/assets/json/categorias/colchones/1-plaza/paraiso/cancun.json",
+        "/assets/json/categorias/colchones/1-plaza/paraiso/majestic.json",
+
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/eden-plus.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/consul-plus-black.json",
+        "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/cancun.json",
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/majestic.json",
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/medallon-ergosoft.json",
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/pocket-italiano.json",
@@ -85,6 +114,8 @@
         "/assets/json/categorias/colchones/1-plaza-y-media/paraiso/tropical-ergosoft.json",
 
         "/assets/json/categorias/colchones/2-plazas/paraiso/eden-plus.json",
+        "/assets/json/categorias/colchones/2-plazas/paraiso/consul-plus-black.json",
+        "/assets/json/categorias/colchones/2-plazas/paraiso/cancun.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/majestic.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/medallon-ergosoft.json",
         "/assets/json/categorias/colchones/2-plazas/paraiso/pocket-italiano.json",
@@ -131,7 +162,6 @@
         "/assets/json/categorias/colchones/king/komfort/saphir.json",
 
 
-
         "/assets/json/categorias/camas-box-tarimas/1-plaza-y-media/kamas/americanas.json",
         "/assets/json/categorias/camas-box-tarimas/1-plaza-y-media/kamas/americanas-con-cajones.json",
 
@@ -149,7 +179,7 @@
         "/assets/json/categorias/camas-box-tarimas/king/kamas/americanas-con-cajones.json",
         "/assets/json/categorias/camas-box-tarimas/king/kamas/europeas-con-cajones.json",
 
-
+        "/assets/json/categorias/colchones/cuna/el-cisne/baby-cuna.json",
 
         "/assets/json/categorias/dormitorios/1-plaza-y-media/el-cisne/argus/americanos.json",
         "/assets/json/categorias/dormitorios/1-plaza-y-media/el-cisne/argus/americanos-con-cajones.json",
@@ -163,6 +193,7 @@
         "/assets/json/categorias/dormitorios/1-plaza-y-media/el-cisne/presence/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/1-plaza-y-media/el-cisne/presence/europeos.json",
 
+        "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/adel/clasica.json",
         "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/adel/americanos.json",
         "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/adel/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/1-plaza-y-media/kamas/adel/europeos.json",

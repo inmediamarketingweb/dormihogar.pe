@@ -37,37 +37,6 @@
             "marca": "Paraiso",
             "modelo": "Royal dynasty",
             "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/americanos/2/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA AEREA CUADROS 1 - TURQUESA ÓPALO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/americanos/americanas/cuadros-1/1/",
-            "precioRegular": 5109,
-            "precioNormal": 3599,
-            "precioVenta": 2749,
-            "stock": 9,
-            "sku": "D3224273N11",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal Dynasty",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "Royal dynasty",
-            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/americanos/3/",
             "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA AEREA CUADROS 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/americanos/americanas/cuadros-1/2/",
@@ -369,37 +338,6 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal Horizontal"
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Paraiso",
-            "modelo": "Royal dynasty",
-            "linea": "americanos",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-dynasty/americanos/13/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL DYNASTY + CABECERA AEREA PISSAC - GRIS",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-dynasty/americanos/bloques/pissac/1/",
-            "precioRegular": 5109,
-            "precioNormal": 3599,
-            "precioVenta": 2749,
-            "stock": 9,
-            "sku": "D3224276N11",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal Dynasty",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Pissac"
                 }
             ]
         },

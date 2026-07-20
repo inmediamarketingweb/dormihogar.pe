@@ -1,0 +1,39 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "2 plazas",
+            "marca": "paraiso",
+            "modelo": "consul plus",
+            "ruta": "/productos/colchones/2-plazas/paraiso/consul-plus/",
+            "nombre": "COLCHÓN PARAISO 2 PLAZAS CONSUL PLUS BLACK",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/consul-plus/",
+            "precioNormal": 789,
+            "precioVenta": 389,
+            "stock": 14,
+            "sku": "D1212238N10",
+            "tipo-de-envio": "Envío aplicado"
+        }
+    ],
+    "mensajes":[
+        "Sofisticación y bienestar con Cónsul Black. El Colchón destaca por su diseño moderno en color negro, perfecto para quienes buscan soporte firme y durabilidad en sus horas de sueño. La combinación de resortes Bonell y exclusivas capas de Zebra D16 de Paraíso ofrece comodidad y un apoyo ideal. Su superficie de tela Poliseda asegura resistencia y un estilo sofisticado."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Consul plus black",
+            "línea-de-colchón": "Semi ortopédicos",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Bonell",
+            "tela": "Jacquard",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "acabado": "vaporizado",
+            "capas": "2 zebra 18",
+            "marco": "zebra 16",
+            "sistema": "double side",
+            "sensación": "intermedia",
+            "garantía": "3 años"
+        }
+    ]
+}

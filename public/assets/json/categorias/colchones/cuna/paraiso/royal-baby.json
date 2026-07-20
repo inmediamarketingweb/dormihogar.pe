@@ -1,0 +1,39 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "cuna",
+            "marca": "paraiso",
+            "modelo": "royal baby",
+            "ruta": "/productos/colchones/cuna/paraiso/royal-baby/",
+            "nombre": "COLCHÓN PARAISO CUNA BABY ROYAL",
+            "fotos": "/assets/imagenes/productos/colchones/paraiso/royal-baby/",
+            "precioNormal": 589,
+            "precioVenta": 299,
+            "stock": 14,
+            "sku": "D1202N10",
+            "tipo-de-envio": "Envío aplicado"
+        }
+    ],
+    "mensajes":[
+        "Colchón de cuna que ofrece un descanso ultraconfortable, seguro para tu bebé gracias al uso de resortes Mini Pocket y acolchado en tela con hilos viscosa, ideal para su delicada piel."
+    ],
+    "ficha":[
+        {
+            "marca": "Paraiso",
+            "modelo-de-colchón": "Royal baby",
+            "Acolchado": "Espuma D20",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Pocket",
+            "tela": "Tejido en punto",
+            "tratamiento": "Antihongos, antibacterias y antiácaros",
+            "capas": "2 zebra 18",
+            "marco": "Doble capa zebra 30HD para mayor firmeza y estabilidad",
+            "sistema": "one side",
+            "sensación": "intermedia",
+            "garantía": "5 años"
+        }
+    ]
+}

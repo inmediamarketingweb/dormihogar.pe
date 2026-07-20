@@ -371,37 +371,6 @@
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
-        },
-        {
-            "id": 12,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "kamas",
-            "modelo": "konig",
-            "línea": "americanos",
-            "ruta": "/productos/dormitorios/king/kamas/konig/americanos/12/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/konig/americanos/americanas/capitoneado-1/13/",
-            "precioRegular": 4399,
-            "precioNormal": 3779,
-            "precioVenta": 2929,
-            "stock": 13,
-            "sku": "D31242113N21",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "americana",
-                    "brazos-de-cabecera": "brazos rectos",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ]
         }
     ]
 }

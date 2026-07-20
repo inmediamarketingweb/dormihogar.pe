@@ -3,17 +3,17 @@
         {
             "id": 1,
             "name": "Facebook",
-            "link": ""
+            "link": "https://www.facebook.com/Dormihogar.pe/"
         },
         {
             "id": 2,
             "name": "Instagram",
-            "link": ""
+            "link": "https://www.instagram.com/dormihogar.pe/"
         },
         {
             "id": 3,
             "name": "Tik Tok",
-            "link": ""
+            "link": "https://www.tiktok.com/@dormihogar.pe"
         }
     ]
 }

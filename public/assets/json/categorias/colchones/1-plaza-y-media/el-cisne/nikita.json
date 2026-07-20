@@ -1,0 +1,41 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "el cisne",
+            "modelo": "nikita",
+            "ruta": "/productos/colchones/1-plaza-y-media/el-cisne/nikita/",
+            "nombre": "COLCHÓN EL CISNE NIKITA 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/el-cisne/nikita/",
+            "precioRegular": 999,
+            "precioNormal": 799,
+            "precioVenta": 419,
+            "stock": 10,
+            "sku": "D13158NX12",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "Colchón Nikita ofrece un confort firme medio con sistema de resortes continuos y marco de espuma de poliuretano de alta densidad que refuerza su estructura.",
+        "Su tapiz en tela Jacuard brinda elegancia y durabilidad, mientras que los tratamientos antiácaros y antibacterias aseguran un descanso más higiénico y saludable.",
+        "Respaldado con 4 años de garantía."
+    ],
+    "ficha":[
+        {
+            "marca": "el cisne",
+            "resortes": "Continuo",
+            "cantidad-de-resortes": "304",
+            "línea-de-colchón": "Ortopédicos",
+            "nivel-de-confort": "Medio",
+            "tela": "Jacquard",
+            "tipo-de-uso": "Ambos lados",
+            "marco": "De espuma flexible de Alta Densidad",
+            "tratamiento": "Anti ácaros y antiabacterias",
+            "sensación": "Firmeza media",
+            "garantía": "4 años"
+        }
+    ]
+}

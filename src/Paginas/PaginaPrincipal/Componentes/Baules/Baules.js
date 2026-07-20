@@ -12,7 +12,8 @@ function Baules(){
         "D323236N1000",
         "D324234N1000",
         "D324236N1006",
-        "D324236N1010"
+        "D324236N1010",
+        "D324236N1024"
     ];
 
     useEffect(() => {
@@ -104,7 +105,7 @@ function Baules(){
             <section className='block-content'>
                 <div className='block-title-container'>
                     <h2 className='block-title'><b>Promo</b> del mes</h2>
-                    <p className='block-title-span'>Baúl 2 plazas en combos king</p>
+                    <p className='block-title-span'>Baúl 2 palzas a solo s/200 por la compra de cualquier combo king</p>
                 </div>
 
                 <div className='baules-container d-flex-column gap-10'>

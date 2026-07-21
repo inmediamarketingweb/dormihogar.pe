@@ -1,0 +1,41 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "tamaño": "1 plaza y media",
+            "marca": "komfort",
+            "modelo": "spahir",
+            "ruta": "/productos/colchones/1-plaza-y-media/komfort/saphir/",
+            "nombre": "COLCHÓN KOMFORT POCKET SAPHIR 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/komfort/pocket-saphir/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 549,
+            "stock": 14,
+            "sku": "D14151N10",
+            "regalos":[ "2 almohadas", "1 protector de colchón" ],
+            "tamaños-disponibles": [
+                { "nombre": "2 plazas", "sku": "D1421N10" },
+                { "nombre": "queen", "sku": "D1431N10" },
+                { "nombre": "king", "sku": "D1441N10" }
+            ],
+            "tipo-de-envio": "Envío preferente"
+        }
+    ],
+    "mensajes":[
+        "El colchón Komfort Saphir ofrece un confort intermedio gracias a su sistema de 494 resortes pocket, que brindan soporte individual y reducen la transferencia de movimiento. Incluye marco de espuma de poliuretano, espuma de 23 kg/m³ y está acabado con tela de tejido en punto, fresca y resistente. Ideal para quienes buscan firmeza equilibrada con buen soporte ortopédico."
+    ],
+    "ficha":[
+        {
+            "marca": "Komfort",
+            "modelo-de-colchón": "Saphir",
+            "línea-de-colchón": "ortopédicos",
+            "nivel-de-confort": "Intermedio",
+            "resortes": "Pocket",
+            "cantidad-de-resortes": "494 resortes pocket",
+            "marco": "de espuma de poliuretano",
+            "soporte": "23kg/m3",
+            "tela": "tejido en punto"
+        }
+    ]
+}

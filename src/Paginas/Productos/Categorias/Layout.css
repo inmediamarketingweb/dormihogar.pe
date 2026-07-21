@@ -64,8 +64,12 @@
     flex-direction: column;
 }
 
-.prds-filter-tag.active .prds-filter-tag-results-container ul{
+/* .prds-filter-tag.active .prds-filter-tag-results-container ul{
     height: 0;
+} */
+
+.prds-filter-tag.active .prds-filter-tag-results-container ul{
+    height: auto;
 }
 
 .prds-filter-tag-results-container ul li{

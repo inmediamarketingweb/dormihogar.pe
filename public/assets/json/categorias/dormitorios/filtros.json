@@ -328,95 +328,131 @@
                             "marca": "Komfort",
                             "líneas":[
                                 {
-                                    "línea": "clásica",
+                                    "línea": "americanos",
                                     "cajones":[
                                         {
-                                            "cajón": "No",
+                                            "cajón": "si",
                                             "resortes":[
                                                 {
-                                                    "resorte": "Bonell",
-                                                    "líneas-de-colchones":[
-                                                        {
-                                                            "línea-de-colchón": "Semi ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Adel"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Anátomicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Rucay"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
+                                                    "resorte": "pocket",
+                                                    "líneas-de-colchón":[
                                                         {
                                                             "línea-de-colchón": "Ortopédicos",
-                                                            "niveles-de-confort":[
+                                                            "tipos-de-cabecera":[
                                                                 {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
+                                                                    "tipo-de-cabecera": "aérea",
+                                                                    "diseños-de-cabecera":[
                                                                         {
-                                                                            "modelo-de-colchón": "Sarki"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Súper ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Intermedio",
-                                                                    "modelos-de-colchones":[
+                                                                            "diseño-de-cabecera": "Americana"
+                                                                        },
                                                                         {
-                                                                            "modelo-de-colchón": "Safynnte"
+                                                                            "diseño-de-cabecera": "Bloques"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Con marco"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Coronas"
                                                                         }
                                                                     ]
                                                                 },
                                                                 {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
+                                                                    "tipo-de-cabecera": "aérea con patas",
+                                                                    "diseños-de-cabecera":[
                                                                         {
-                                                                            "modelo-de-colchón": "Der Prinz"
+                                                                            "diseño-de-cabecera": "Americana"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Bloques"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Con marco"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Coronas"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "tipo-de-cabecera": "pedestal",
+                                                                    "diseños-de-cabecera":[
+                                                                        {
+                                                                            "diseño-de-cabecera": "Americana"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Bloques"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Con marco"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Coronas"
                                                                         }
                                                                     ]
                                                                 }
                                                             ]
-                                                        },
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "cajón": "no",
+                                            "resortes":[
+                                                {
+                                                    "resorte": "pocket",
+                                                    "líneas-de-colchones":[
                                                         {
-                                                            "línea-de-colchón": "Extra ortopédicos",
-                                                            "niveles-de-confort":[
+                                                            "línea-de-colchón": "Ortopédicos",
+                                                            "tipos-de-cabecera":[
                                                                 {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
+                                                                    "tipo-de-cabecera": "aérea",
+                                                                    "diseños-de-cabecera":[
                                                                         {
-                                                                            "modelo-de-colchón": "Ramat"
+                                                                            "diseño-de-cabecera": "Americana"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Bloques"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Con marco"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Coronas"
                                                                         }
                                                                     ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Hoteleros",
-                                                            "niveles-de-confort":[
+                                                                },
                                                                 {
-                                                                    "nivel-de-confort": "Firme",
-                                                                    "modelos-de-colchones":[
+                                                                    "tipo-de-cabecera": "aérea con patas",
+                                                                    "diseños-de-cabecera":[
                                                                         {
-                                                                            "modelo-de-colchón": "Nesie"
+                                                                            "diseño-de-cabecera": "Americana"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Bloques"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Con marco"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Coronas"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "tipo-de-cabecera": "pedestal",
+                                                                    "diseños-de-cabecera":[
+                                                                        {
+                                                                            "diseño-de-cabecera": "Americana"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Bloques"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Con marco"
+                                                                        },
+                                                                        {
+                                                                            "diseño-de-cabecera": "Coronas"
                                                                         }
                                                                     ]
                                                                 }

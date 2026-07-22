@@ -7,7 +7,7 @@
     height: auto;
     display: flex;
     border-radius: 6px;
-    border: 1px solid rgba(0 0 0 / 0.15) !important;
+    border: 1px solid var(--component) !important;
     transition: var(--t-200ms-linear) !important;
     overflow: hidden;
 }

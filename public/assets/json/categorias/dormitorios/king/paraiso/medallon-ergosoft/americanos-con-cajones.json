@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "Kamas + Paraiso",
             "modelo": "medallon ergosoft",
-            "linea": "americanos con cajones",
+            "linea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/medallon/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING CON 2 CAJONES + COLCHÓN PARAISO MEDALLON ERGOSOFT + CABECERA AEREA CAPITONEADO 2 - LILA FANDANGO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/medallon/americanos-con-cajones/americanas/capitoneados-2/1/",
@@ -20,9 +20,10 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
-                    "línea": "Americanos con cajones",
+                    "línea": "Americanos",
                     "tamaño": "king",
-                    "cajones": "No",
+                    "línea-de-colchón": "ortopédicos",
+                    "cajones": "si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Medallon ergosoft",
                     "resortes": "Cosisoft",

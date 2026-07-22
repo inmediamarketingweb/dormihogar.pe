@@ -48,25 +48,7 @@ function FiltrosTop({
 
     return(
         <div className='filtros-top-container'>
-            <div className='fitros-top-brands-container'>
-                <div className='filtros-top-brands'>
-                    {marcas.map((marca, index) => {
-                        const queryParams = new URLSearchParams(location.search);
-                        const activo = queryParams.get("marca") === normalizarTexto(marca);
-
-                        return(
-                            <button 
-                                key={index} 
-                                type='button' 
-                                className={activo ? 'active' : ''} 
-                                onClick={() => manejarFiltroMarca(marca)}
-                            >
-                                <p>{marca}</p>
-                            </button>
-                        );
-                    })}
-                </div>
-            </div>
+            <p className='text'>leosoplapuco</p>
 
             <div className='pagination-container'>
                 <button 

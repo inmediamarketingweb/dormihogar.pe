@@ -31,38 +31,6 @@
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
-        },
-        {
-            "id": 3,
-            "categoria": "dormitorios",
-            "tamaño": "king",
-            "marca": "Kamas + Paraiso",
-            "modelo": "Pocket Star",
-            "linea": "Europeos",
-            "ruta": "/productos/dormitorios/king/paraiso/pocket-star/europeos/3/",
-            "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO POCKET STAR + CABECERA AEREA CAPITONEADO 1 - CAMEL",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-star/europeos/americanas/capitoneados-1/3/",
-            "precioRegular": 5599,
-            "precioNormal": 3599,
-            "precioVenta": 2299,
-            "stock": 9,
-            "sku": "D32342143N12",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Kamas - Paraiso",
-                    "línea": "Europeos",
-                    "tamaño": "king",
-                    "cajones": "no",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Pocket star",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin Brazos",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ]
         }
     ]
 }

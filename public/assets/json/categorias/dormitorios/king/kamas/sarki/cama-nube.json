@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "cama nube",
+            "línea": "nube",
             "ruta": "/productos/dormitorios/king/kamas/sarki/cama-nube/1/",
             "nombre": "DORMITORIO NUBE KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL NUBE - TEJIDO GRIS",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/cama-nube/1/",
@@ -20,13 +20,17 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "cama nube",
+                    "línea": "nube",
                     "tamaño": "King",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
+                    "baúl": "no",
+                    "piecera": "no",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "corona",
+                    "diseño-de-cabecera": "coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "nube"
                 }
@@ -38,7 +42,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "cama nube",
+            "línea": "nube",
             "ruta": "/productos/dormitorios/king/kamas/sarki/cama-nube/2/",
             "nombre": "DORMITORIO NUBE KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL NUBE - TEJIDO AZUL DENIN",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/cama-nube/2/",
@@ -51,13 +55,17 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "cama nube",
+                    "línea": "nube",
                     "tamaño": "King",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
+                    "baúl": "no",
+                    "piecera": "no",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "corona",
+                    "diseño-de-cabecera": "coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "nube"
                 }
@@ -69,7 +77,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "cama nube",
+            "línea": "nube",
             "ruta": "/productos/dormitorios/king/kamas/sarki/cama-nube/3/",
             "nombre": "DORMITORIO NUBE KAMAS KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL NUBE - TEJIDO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/cama-nube/3/",
@@ -83,13 +91,17 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "cama nube",
+                    "línea": "nube",
                     "tamaño": "King",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
+                    "baúl": "no",
+                    "piecera": "no",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "corona",
+                    "diseño-de-cabecera": "coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "nube"
                 }

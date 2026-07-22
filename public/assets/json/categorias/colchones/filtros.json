@@ -820,32 +820,142 @@
                             "marca": "paraiso",
                             "resortes":[
                                 {
-                                    "resorte": "Pocket",
+                                    "resorte": "Cosisoft",
                                     "líneas-de-colchones":[
                                         {
                                             "línea-de-colchón": "Ortopédicos",
                                             "niveles-de-confort":[
                                                 {
-                                                    "nivel-de-confort": "Confortable",
+                                                    "nivel-de-confort": "Intermedio",
                                                     "modelos-de-colchones":[
                                                         {
-                                                            "modelo-de-colchón": "Pocket italiano"
+                                                            "modelo-de-colchón": "Premium su majestad"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Premium super star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Super star negro"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Premium su majestad"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Pocket slim",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal cloud"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince flexible"
                                                         }
                                                     ]
                                                 }
                                             ]
                                         },
                                         {
-                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "línea-de-colchón": "Ortopédicos",
                                             "niveles-de-confort":[
                                                 {
-                                                    "nivel-de-confort": "Muy firme",
+                                                    "nivel-de-confort": "Intermedio",
                                                     "modelos-de-colchones":[
                                                         {
-                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                            "modelo-de-colchón": "Royal crown"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Intermedio",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket italiano"
                                                         },
                                                         {
-                                                            "modelo-de-colchón": "Yurmale"
+                                                            "modelo-de-colchón": "Pocket max black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket advance"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal elizabeth"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal dynasty"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal balanzze"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince firme"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nappy Pocket 20 Firme"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Espuma",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy suave",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal abrazzo"
                                                         }
                                                     ]
                                                 }

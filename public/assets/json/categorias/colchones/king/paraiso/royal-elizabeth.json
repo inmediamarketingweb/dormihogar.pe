@@ -15,6 +15,7 @@
             "stock": 14,
             "sku": "D1249N10",
             "regalos":[ "2 almohadas viscoelásticas", "1 protector de colchón" ],
+            "tipo-de-envio": "Envío preferente",
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "sku": "D12159N10" },
                 { "nombre": "2 plazas", "sku": "D1229N10" },

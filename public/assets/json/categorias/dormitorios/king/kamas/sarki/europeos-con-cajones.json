@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "europeos con cajones",
+            "línea": "europeos",
             "ruta": "/productos/dormitorios/king/kamas/sarki/europeos-con-cajones/1/",
             "nombre": "DORMITORIO KAMAS KING EUROPEO 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/europeos-con-cajones/pedestales/americanas/capitoneado-1/1/",
@@ -20,13 +20,17 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "europeos con cajones",
+                    "línea": "europeos",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
+                    "incluye-baúl": "no",
+                    "piecera": "no",
                     "tamaño": "King",
                     "cajones": "si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -38,7 +42,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "europeos con cajones",
+            "línea": "europeos",
             "ruta": "/productos/dormitorios/king/kamas/sarki/europeos-con-cajones/2/",
             "nombre": "DORMITORIO KAMAS KING EUROPEO 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/sarki/europeos-con-cajones/pedestales/americanas/capitoneado-1/2/",
@@ -52,13 +56,17 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "europeos con cajones",
+                    "línea": "europeos",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
+                    "incluye-baúl": "no",
+                    "piecera": "no",
                     "tamaño": "King",
                     "cajones": "si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }

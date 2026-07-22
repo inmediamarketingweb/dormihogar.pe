@@ -7,102 +7,18 @@
                     "ruta": "/productos/dormitorios/1-plaza-y-media/",
                     "marcas":[
                         {
-                            "marca": "Kamas",
-                            "líneas":[
+                            "marca": "Komfort",
+                            "colchón":[
                                 {
-                                    "línea": "clásica",
-                                    "cajones":[
+                                    "resortes":[
                                         {
-                                            "cajón": "No",
-                                            "resortes":[
+                                            "resorte": "pocket",
+                                            "líneas-de-colchón":[
                                                 {
-                                                    "resorte": "Bonell",
-                                                    "líneas-de-colchones":[
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
                                                         {
-                                                            "línea-de-colchón": "Semi ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Adel"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Anátomicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Rucay"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Sarki"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Súper ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Intermedio",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Safynnte"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Der Prinz"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Extra ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Ramat"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Hoteleros",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Firme",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Nesie"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Saphir"
                                                         }
                                                     ]
                                                 }
@@ -111,104 +27,117 @@
                                     ]
                                 }
                             ]
-                        },
+                        }
+                    ]
+                },
+                {
+                    "tamaño": "king",
+                    "ruta": "/productos/dormitorios/king/",
+                    "marcas":[
                         {
                             "marca": "Paraiso",
-                            "líneas":[
+                            "colchón":[
                                 {
-                                    "línea": "clásica",
-                                    "cajones":[
+                                    "resortes":[
                                         {
-                                            "cajón": "No",
-                                            "resortes":[
+                                            "resorte": "cosisoft",
+                                            "líneas-de-colchones":[
                                                 {
-                                                    "resorte": "Bonell",
-                                                    "líneas-de-colchones":[
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
                                                         {
-                                                            "línea-de-colchón": "Semi ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Adel"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Premium su majestad"
                                                         },
                                                         {
-                                                            "línea-de-colchón": "Anátomicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Rucay"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Medallon ergosoft"
                                                         },
                                                         {
-                                                            "línea-de-colchón": "Ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Sarki"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Premium super star"
                                                         },
                                                         {
-                                                            "línea-de-colchón": "Súper ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Intermedio",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Safynnte"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Der Prinz"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Super star negro"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "pocket slim",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince flexible"
                                                         },
                                                         {
-                                                            "línea-de-colchón": "Extra ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Ramat"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Royal cloud"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal crown"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket italiano"
                                                         },
                                                         {
-                                                            "línea-de-colchón": "Hoteleros",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Firme",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Nesie"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Pocket max black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket advance"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince firme"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal elizabeth"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal dynasty"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal balanzze"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nappy pocket 20 firme"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal abrazzo"
                                                         }
                                                     ]
                                                 }
@@ -219,102 +148,77 @@
                             ]
                         },
                         {
-                            "marca": "El Cisne",
-                            "líneas":[
+                            "marca": "kamas",
+                            "colchón":[
                                 {
-                                    "línea": "clásica",
-                                    "cajones":[
+                                    "resortes":[
                                         {
-                                            "cajón": "No",
-                                            "resortes":[
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
                                                 {
-                                                    "resorte": "Bonell",
-                                                    "líneas-de-colchones":[
+                                                    "línea-de-colchón": "Anátomicos",
+                                                    "modelos-de-colchones":[
                                                         {
-                                                            "línea-de-colchón": "Semi ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Adel"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Sarki"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
                                                         },
                                                         {
-                                                            "línea-de-colchón": "Anátomicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Rucay"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Hoteleros",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
                                                         },
                                                         {
-                                                            "línea-de-colchón": "Ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Sarki"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Súper ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Intermedio",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Safynnte"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Der Prinz"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Extra ortopédicos",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Muy confortable",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Ramat"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
-                                                            "línea-de-colchón": "Hoteleros",
-                                                            "niveles-de-confort":[
-                                                                {
-                                                                    "nivel-de-confort": "Firme",
-                                                                    "modelos-de-colchones":[
-                                                                        {
-                                                                            "modelo-de-colchón": "Nesie"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Yurmale"
                                                         }
                                                     ]
                                                 }
@@ -326,137 +230,17 @@
                         },
                         {
                             "marca": "Komfort",
-                            "líneas":[
+                            "colchón":[
                                 {
-                                    "línea": "americanos",
-                                    "cajones":[
+                                    "resortes":[
                                         {
-                                            "cajón": "si",
-                                            "resortes":[
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
                                                 {
-                                                    "resorte": "pocket",
-                                                    "líneas-de-colchón":[
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
                                                         {
-                                                            "línea-de-colchón": "Ortopédicos",
-                                                            "tipos-de-cabecera":[
-                                                                {
-                                                                    "tipo-de-cabecera": "aérea",
-                                                                    "diseños-de-cabecera":[
-                                                                        {
-                                                                            "diseño-de-cabecera": "Americana"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Bloques"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Con marco"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Coronas"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "tipo-de-cabecera": "aérea con patas",
-                                                                    "diseños-de-cabecera":[
-                                                                        {
-                                                                            "diseño-de-cabecera": "Americana"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Bloques"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Con marco"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Coronas"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "tipo-de-cabecera": "pedestal",
-                                                                    "diseños-de-cabecera":[
-                                                                        {
-                                                                            "diseño-de-cabecera": "Americana"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Bloques"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Con marco"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Coronas"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "cajón": "no",
-                                            "resortes":[
-                                                {
-                                                    "resorte": "pocket",
-                                                    "líneas-de-colchones":[
-                                                        {
-                                                            "línea-de-colchón": "Ortopédicos",
-                                                            "tipos-de-cabecera":[
-                                                                {
-                                                                    "tipo-de-cabecera": "aérea",
-                                                                    "diseños-de-cabecera":[
-                                                                        {
-                                                                            "diseño-de-cabecera": "Americana"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Bloques"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Con marco"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Coronas"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "tipo-de-cabecera": "aérea con patas",
-                                                                    "diseños-de-cabecera":[
-                                                                        {
-                                                                            "diseño-de-cabecera": "Americana"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Bloques"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Con marco"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Coronas"
-                                                                        }
-                                                                    ]
-                                                                },
-                                                                {
-                                                                    "tipo-de-cabecera": "pedestal",
-                                                                    "diseños-de-cabecera":[
-                                                                        {
-                                                                            "diseño-de-cabecera": "Americana"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Bloques"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Con marco"
-                                                                        },
-                                                                        {
-                                                                            "diseño-de-cabecera": "Coronas"
-                                                                        }
-                                                                    ]
-                                                                }
-                                                            ]
+                                                            "modelo-de-colchón": "Saphir"
                                                         }
                                                     ]
                                                 }
@@ -471,6 +255,91 @@
                 {
                     "tamaño": "Ver todos",
                     "ruta": "/productos/dormitorios/"
+                }
+            ]
+        },
+        {
+            "líneas-de-dormitorios":[
+                {
+                    "línea-de-dormitorio": "americanos"
+                },
+                {
+                    "línea-de-dormitorio": "europeos"
+                },
+                {
+                    "línea-de-dormitorio": "nube"
+                },
+                {
+                    "línea-de-dormitorio": "circulares"
+                },
+                {
+                    "línea-de-dormitorio": "clásicos"
+                }
+            ]
+        },
+        {
+            "tipos-de-cabecera":[
+                {
+                    "tipo-de-cabecera": "aérea"
+                },
+                {
+                    "tipo-de-cabecera": "aérea con patas"
+                },
+                {
+                    "tipo-de-cabecera": "pedestal"
+                }
+            ]
+        },
+        {
+            "diseños-de-cabecera":[
+                {
+                    "diseño-de-cabecera": "Clásicas"
+                },
+                {
+                    "diseño-de-cabecera": "Americanas"
+                },
+                {
+                    "diseño-de-cabecera": "Con marco"
+                },
+                {
+                    "diseño-de-cabecera": "Bloques"
+                },
+                {
+                    "diseño-de-cabecera": "Coronas"
+                },
+                {
+                    "diseño-de-cabecera": "Infantiles"
+                }
+            ]
+        },
+        {
+            "cajones":[
+                {
+                    "cajón": "si",
+                    "cantidad-de-cajones":["1", "2", "3", "4", "5", "6"]
+                },
+                {
+                    "cajón": "no"
+                }
+            ]
+        },
+        {
+            "baúles":[
+                {
+                    "baúl": "si"
+                },
+                {
+                    "baúl": "no"
+                }
+            ]
+        },
+        {
+            "pieceras":[
+                {
+                    "piecera": "si"
+                },
+                {
+                    "piecera": "no"
                 }
             ]
         }

@@ -221,7 +221,6 @@
 
 .product-card-tipo-de-envio.envio-gratis span{
     color: var(--white);
-    /* font-weight: bold; */
 }
 
 .product-card-tipo-de-envio.envio-preferente{
@@ -253,7 +252,6 @@
     border-radius: 3px;
     z-index: 15;
     gap: 5px;
-    /* background: #2f74f5; */
     background: #0E57A4;
 }
 
@@ -319,10 +317,6 @@
     transition: var(--t-200ms-linear);
     color: #555;
 }
-
-/* .product-card:hover .product-card-content .product-card-name{
-    color: var(--black);
-} */
 
 @media screen and (max-width: 800px){
     .product-card{

@@ -6,7 +6,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "adel",
-            "línea": "clásica",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/adel/clasicos/2/",
             "nombre": "DORMITORIO AMERICANO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA 1 - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/adel/americanos/clasicas/clasica-1/1/",
@@ -19,13 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásica",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Clásica",
+                    "diseño-de-cabecera": "Clásicas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Clásica 1"
                 }
@@ -50,13 +52,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásica",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Clásica",
+                    "diseño-de-cabecera": "Clásicas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Clásica 1"
                 }
@@ -81,13 +85,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásica",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Clásica",
+                    "diseño-de-cabecera": "Clásicas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Clásica 1"
                 }
@@ -112,13 +118,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásica",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Clásica",
+                    "diseño-de-cabecera": "Clásicas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Clásica 1"
                 }
@@ -143,13 +151,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásica",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Clásica",
+                    "diseño-de-cabecera": "Clásicas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Clásica 1"
                 }
@@ -174,13 +184,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásica",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Clásica",
+                    "diseño-de-cabecera": "Clásicas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Clásica 1"
                 }

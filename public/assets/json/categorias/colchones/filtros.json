@@ -259,40 +259,6 @@
                             "marca": "kamas",
                             "resortes":[
                                 {
-                                    "resorte": "Pocket",
-                                    "líneas-de-colchones":[
-                                        {
-                                            "línea-de-colchón": "Súper ortopédicos",
-                                            "niveles-de-confort":[
-                                                {
-                                                    "nivel-de-confort": "Muy confortable",
-                                                    "modelos-de-colchones":[
-                                                        {
-                                                            "modelo-de-colchón": "Thameo pocket"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "línea-de-colchón": "Extra ortopédicos",
-                                            "niveles-de-confort":[
-                                                {
-                                                    "nivel-de-confort": "Muy firme",
-                                                    "modelos-de-colchones":[
-                                                        {
-                                                            "modelo-de-colchón": "Thaleo pocket"
-                                                        },
-                                                        {
-                                                            "modelo-de-colchón": "Yurmale"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
                                     "resorte": "Bonell",
                                     "líneas-de-colchones":[
                                         {
@@ -376,6 +342,40 @@
                                                     "modelos-de-colchones":[
                                                         {
                                                             "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resorte": "Pocket",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Súper ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea-de-colchón": "Extra ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Muy firme",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
                                                         }
                                                     ]
                                                 }
@@ -558,7 +558,30 @@
                     "ruta": "/productos/colchones/2-plazas/",
                     "marcas":[
                         {
-                            "marca": "kamas",
+                            "marca": "Paraiso",
+                            "resortes":[
+                                {
+                                    "resorte": "Bonell",
+                                    "líneas-de-colchones":[
+                                        {
+                                            "línea-de-colchón": "Semi ortopédicos",
+                                            "niveles-de-confort":[
+                                                {
+                                                    "nivel-de-confort": "Confortable",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Adel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "Kamas",
                             "resortes":[
                                 {
                                     "resorte": "Pocket",

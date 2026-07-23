@@ -6,7 +6,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "clásicos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/clasicos/1/",
             "nombre": "DORMITORIO CLÁSICO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos/clasicas/clasica-1/1/",
@@ -19,13 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásicos",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "clásica",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Clásico 1"
                 }
@@ -37,7 +39,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "clásicos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/clasicos/2/",
             "nombre": "DORMITORIO CLÁSICO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos/clasicas/clasica-1/2/",
@@ -50,13 +52,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásicos",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "clásica",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Clásico 1"
                 }
@@ -68,7 +72,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "clásicos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/clasicos/4/",
             "nombre": "DORMITORIO CLÁSICO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos/clasicas/clasica-1/3/",
@@ -81,13 +85,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásicos",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "clásica",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Clásico 1"
                 }
@@ -99,7 +105,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "clásicos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/clasicos/5/",
             "nombre": "DORMITORIO CLÁSICO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PALO ROSA",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos/clasicas/clasica-1/4/",
@@ -112,13 +118,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásicos",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "clásica",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Clásico 1"
                 }
@@ -130,7 +138,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "clásicos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/clasicos/5/",
             "nombre": "DORMITORIO CLÁSICO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos/clasicas/clasica-1/5/",
@@ -143,13 +151,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásicos",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "clásica",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Clásica 1"
                 }
@@ -161,7 +171,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "clásicos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/clasicos/6/",
             "nombre": "DORMITORIO CLÁSICO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos/clasicas/clasica-1/6/",
@@ -174,13 +184,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásicos",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "clásica",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Clásico 1"
                 }
@@ -192,7 +204,7 @@
             "tamaño": "1 plaza y media",
             "marca": "kamas",
             "modelo": "sarki",
-            "línea": "clásicos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/1-plaza-y-media/kamas/sarki/clasicos/7/",
             "nombre": "DORMITORIO CLÁSICO KAMAS 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 2 - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/kamas/sarki/americanos/clasicas/clasica-2/1/",
@@ -205,13 +217,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "clásicos",
+                    "línea": "americanos",
                     "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "aérea con patas",
-                    "diseño-de-cabecera": "clásica",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "Clásica 2"
                 }

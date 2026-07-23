@@ -20,12 +20,14 @@
                 {
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "majestic",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Clásica",
+                    "diseño-de-cabecera": "Clásicas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Clásica 1"
                 }
@@ -51,6 +53,8 @@
                 {
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "bonell",
                     "tamaño": "1 plaza y media",
                     "cajones": "No",
                     "base-encajonada": "No",

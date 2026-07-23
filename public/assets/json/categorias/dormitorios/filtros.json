@@ -7,6 +7,362 @@
                     "ruta": "/productos/dormitorios/1-plaza-y-media/",
                     "marcas":[
                         {
+                            "marca": "Paraiso",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Cancun"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Eden plus"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Consul black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Cosisoft",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Medallon ergosoft"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Su majestad"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Súper star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Súper star black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince flexible"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal cloud"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Napy pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince firme"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket advance"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal elizabeth"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal dynasty"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal balanzze"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal abrazzo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "Kamas",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "bonell",
+                                            "líneas-de-colchón":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Adel"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Anátomicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Sarki"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Hoteleros",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Norole"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Konig"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "pocket",
+                                            "líneas-de-colchón":[
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bicónicos",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "CEC"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Argus"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Eros"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Eros black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Coral"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Amets"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Continuo",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nikita"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "LFK",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Súper Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Axion LFK"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Braemar"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Braemar black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente gris"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente marrón"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Reina del Cisne"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Virase"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Real de lujo"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Air 30"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Air 40"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "marca": "Komfort",
                             "colchón":[
                                 {
@@ -14,6 +370,742 @@
                                         {
                                             "resorte": "pocket",
                                             "líneas-de-colchón":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Saphir"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tamaño": "2 plazas",
+                    "ruta": "/productos/dormitorios/2-plazas/",
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Cancun"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Eden plus"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Consul black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Cosisoft",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Medallon ergosoft"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Su majestad"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Súper star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Súper star black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince flexible"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal cloud"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Napy pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince firme"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket advance"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal elizabeth"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal dynasty"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal balanzze"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal abrazzo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "Kamas",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "bonell",
+                                            "líneas-de-colchón":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Adel"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Anátomicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Sarki"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Hoteleros",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Norole"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Konig"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "pocket",
+                                            "líneas-de-colchón":[
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bicónicos",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "CEC"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Argus"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Eros"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Eros black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Coral"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Amets"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Continuo",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nikita"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "LFK",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Súper Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Axion LFK"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Braemar"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Braemar black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente gris"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente marrón"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Reina del Cisne"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Virase"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Real de lujo"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element black"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Air 30"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Air 40"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "Komfort",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "pocket",
+                                            "líneas-de-colchón":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Saphir"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tamaño": "queen",
+                    "ruta": "/productos/dormitorios/queen/",
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "cosisoft",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Premium su majestad"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Medallon ergosoft"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Premium super star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Super star negro"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "pocket slim",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince flexible"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal cloud"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal crown"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Pocket italiano"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket max"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket advance"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket star"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal prince firme"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal elizabeth"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal dynasty"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Royal balanzze"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nappy pocket 20 firme"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Royal abrazzo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "Kamas",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Anátomicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Rucay"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Sarki"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Safynnte"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Ramat"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Hoteleros",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nesie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thameo pocket"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Extra ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Thaleo pocket"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Yurmale"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Amets"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Continuos",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nikita"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "LFK",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Axiom LFK"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "RC 608"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket plus"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Iconio"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket braemar black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket braemar"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente gris"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente marrón"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket virase"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Reina del cisne"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket virase"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Real de lujo"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Dynamic"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Softly Air 30"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Revolution air 40"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "marca": "Komfort",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
                                                 {
                                                     "línea-de-colchón": "Ortopédicos",
                                                     "modelos-de-colchones":[
@@ -148,7 +1240,7 @@
                             ]
                         },
                         {
-                            "marca": "kamas",
+                            "marca": "Kamas",
                             "colchón":[
                                 {
                                     "resortes":[
@@ -229,7 +1321,134 @@
                             ]
                         },
                         {
-                            "marca": "El Cisne"
+                            "marca": "El Cisne",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Amets"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Continuos",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Nikita"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "LFK",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Axiom LFK"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Pocket",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "RC 608"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket peruano"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket plus"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Iconio"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket braemar black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket braemar"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente gris"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Valente marrón"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket element black"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket virase"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Reina del cisne"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Pocket virase"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Real de lujo"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Dynamic"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "resorte": "Espuma",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Semi ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Softly Air 30"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "New diva"
+                                                        },
+                                                        {
+                                                            "modelo-de-colchón": "Revolution air 40"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "marca": "Komfort",
@@ -244,6 +1463,42 @@
                                                     "modelos-de-colchones":[
                                                         {
                                                             "modelo-de-colchón": "Saphir"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tamaño": "4 plazas",
+                    "ruta": "/productos/dormitorios/4-plazas/",
+                    "marcas":[
+                        {
+                            "marca": "Kamas",
+                            "colchón":[
+                                {
+                                    "resortes":[
+                                        {
+                                            "resorte": "Bonell",
+                                            "líneas-de-colchones":[
+                                                {
+                                                    "línea-de-colchón": "Ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Sarki"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "línea-de-colchón": "Súper ortopédicos",
+                                                    "modelos-de-colchones":[
+                                                        {
+                                                            "modelo-de-colchón": "Der Prinz"
                                                         }
                                                     ]
                                                 }
@@ -312,6 +1567,9 @@
                 },
                 {
                     "diseño-de-cabecera": "Infantiles"
+                },
+                {
+                    "diseño-de-cabecera": "Otros modelos"
                 }
             ]
         },

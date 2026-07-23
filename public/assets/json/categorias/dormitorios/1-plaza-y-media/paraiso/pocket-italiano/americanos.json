@@ -16,13 +16,19 @@
             "stock": 9,
             "sku": "D322152266N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
+            "detalles-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "1 plaza y media",
-                    "modelo-colchón": "Pocket italiano",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Pocket Italiano",
                     "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Grid"
                 }
             ]
@@ -48,11 +54,13 @@
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket Italiano",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
                 }
@@ -79,11 +87,13 @@
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket Italiano",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
                 }
@@ -110,11 +120,13 @@
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket Italiano",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Sidney"
                 }
@@ -141,11 +153,13 @@
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket Italiano",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Tortun"
                 }
@@ -172,11 +186,13 @@
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket Italiano",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Brazos Curvos",
                     "modelo-de-cabecera": "Roblo"
                 }
@@ -203,11 +219,13 @@
                     "marca": "Kamas - Paraiso",
                     "línea": "Americanos",
                     "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Pocket Italiano",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 1"
                 }

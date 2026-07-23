@@ -62,3 +62,15 @@
 .filtros-top-helpers button:hover::before{
     opacity: 1;
 }
+
+.filtros-top-helpers button.active{
+    background: var(--color-1);
+}
+
+.filtros-top-helpers button.active span{
+    color: var(--white);
+}
+
+.filtros-top-helpers button.active:hover span{
+    color: var(--white);
+}

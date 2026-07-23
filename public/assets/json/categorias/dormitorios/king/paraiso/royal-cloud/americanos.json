@@ -1,38 +1,6 @@
 {
     "productos":[
         {
-            "id": 1,
-            "categoria": "dormitorios",
-            "marca": "Paraiso",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "Royal Cloud",
-            "ruta": "/productos/dormitorios/king/paraiso/royal-cloud/americanos/1/",
-            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO ROYAL CLOUD + CABECERA AEREA CAPITONEADO 1 - GRIS",
-            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-cloud/americanos/americanas/capitoneado-1/1/",
-            "precioRegular": 5099,
-            "precioNormal": 3699,
-            "precioVenta": 2849,
-            "stock": 9,
-            "sku": "D32242223N10",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "línea": "americanos",
-                    "tamaño": "king",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal Cloud",
-                    "resortes": "Pocket slim",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneado 1"
-                }
-            ]
-        },
-        {
             "id": 2,
             "categoria": "dormitorios",
             "marca": "Paraiso",

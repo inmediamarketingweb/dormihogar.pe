@@ -5,7 +5,7 @@
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Kamas + El Cisne",
-            "modelo": "Dynamic",
+            "modelo": "dynamic",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/el-cisne/dynamic/americanos/1/",
             "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN DYNAMIC + CABECERA AÉREA CAPITONEADO 1 - ROSADO",
@@ -19,14 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Dynamic",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "dynamyic",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "capitoneado 1"
                 }
             ]
@@ -36,7 +37,7 @@
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Kamas + El Cisne",
-            "modelo": "Dynamic",
+            "modelo": "dynamic",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/el-cisne/dynamic/americanos/2/",
             "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN DYNAMIC + CABECERA AÉREA CAPITONEADO 1 - NEGRO",
@@ -50,14 +51,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Dynamic",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "dynamyic",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "capitoneado 1"
                 }
             ]
@@ -67,7 +69,7 @@
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Kamas + El Cisne",
-            "modelo": "Dynamic",
+            "modelo": "dynamic",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/el-cisne/dynamic/americanos/3/",
             "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN DYNAMIC + CABECERA AÉREA CUADROS 1 - COBALTO",
@@ -81,14 +83,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Dynamic",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "dynamyic",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
                 }
             ]
@@ -98,7 +101,7 @@
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Kamas + El Cisne",
-            "modelo": "Dynamic",
+            "modelo": "dynamic",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/el-cisne/dynamic/americanos/4/",
             "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN DYNAMIC + CABECERA AÉREA CUADROS 1 - CHOCOLATE",
@@ -112,14 +115,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Dynamic",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "dynamyic",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
                 }
             ]
@@ -129,7 +133,7 @@
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Kamas + El Cisne",
-            "modelo": "Dynamic",
+            "modelo": "dynamic",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/el-cisne/dynamic/americanos/5/",
             "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN DYNAMIC + CABECERA AÉREA CUADROS 1 - PLATA",
@@ -143,14 +147,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Dynamic",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "dynamyic",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
                 }
             ]
@@ -160,7 +165,7 @@
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Kamas + El Cisne",
-            "modelo": "Dynamic",
+            "modelo": "dynamic",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/el-cisne/dynamic/americanos/6/",
             "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN DYNAMIC + CABECERA AÉREA CUADROS 2 - NEGRO",
@@ -174,14 +179,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Dynamic",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "dynamyic",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
             ]
@@ -191,7 +197,7 @@
             "categoria": "dormitorios",
             "tamaño": "king",
             "marca": "Kamas + El Cisne",
-            "modelo": "Dynamic",
+            "modelo": "dynamic",
             "línea": "americanos",
             "ruta": "/productos/dormitorios/king/el-cisne/dynamic/americanos/7/",
             "nombre": "DORMITORIO AMERICANO KING KAMAS - EL CISNE + COLCHÓN DYNAMIC + CABECERA AÉREA LINEAL 1 - NEGRO",
@@ -205,14 +211,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Dynamic",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "dynamyic",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "Lineal 1"
                 }
             ]

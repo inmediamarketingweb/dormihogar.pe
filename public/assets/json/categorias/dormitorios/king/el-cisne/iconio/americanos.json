@@ -19,13 +19,14 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Iconio",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "modelo-de-colchón": "iconio",
+                    "línea-de-colchón": "ortopédicos",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "capitoneado 1"
                 }
@@ -50,13 +51,14 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Iconio",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "modelo-de-colchón": "iconio",
+                    "línea-de-colchón": "ortopédicos",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "capitoneado 1"
                 }
@@ -81,13 +83,14 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Iconio",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "modelo-de-colchón": "iconio",
+                    "línea-de-colchón": "ortopédicos",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "cuadros 1"
                 }
@@ -112,13 +115,14 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Iconio",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "modelo-de-colchón": "iconio",
+                    "línea-de-colchón": "ortopédicos",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "cuadros 2"
                 }
@@ -143,13 +147,14 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Iconio",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "modelo-de-colchón": "iconio",
+                    "línea-de-colchón": "ortopédicos",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 1"
                 }

@@ -6,7 +6,7 @@
             "tamaño": "2 plazas",
             "marca": "Kamas + El cisne",
             "modelo": "RC-418",
-            "línea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA EMPERATRIZ CAPITONEADO 1 - CENIZO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/americanas/capitoneado-1/1/",
@@ -20,15 +20,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El cisne",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "rc-418",
                     "línea-de-colchón": "ortopédicos",
                     "resortes": "pocket",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Emperatriz",
+                    "cajones": "si",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos Rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -40,7 +40,7 @@
             "tamaño": "2 plazas",
             "marca": "Kamas + El cisne",
             "modelo": "RC-418",
-            "línea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/2/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / CISNE + COLCHÓN RC-418 + CABECERA AEREA CLASICA 1 - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/rc-418/americanos-con-cajones/clasicas/clasica-1/1/",
@@ -54,15 +54,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El cisne",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "rc-418",
                     "línea-de-colchón": "ortopédicos",
                     "resortes": "pocket",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aerea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "cajones": "si",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin Brazos",
                     "modelo-de-cabecera": "Clasica 1"
                 }

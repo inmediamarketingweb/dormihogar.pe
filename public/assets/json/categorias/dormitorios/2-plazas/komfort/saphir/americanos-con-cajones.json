@@ -26,8 +26,8 @@
                     "resortes": "pocket",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -39,7 +39,7 @@
             "tamaño": "2 plazas",
             "marca": "Kamas + Komfort",
             "modelo": "saphir",
-            "línea": "Americanos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/komfort/saphir/americanos-con-cajones/2/",
             "nombre": "DORMITORIO 2 PLAZAS KAMAS / KOMFORT + COLCHÓN KOMFORT SAPHIR + CABECERA AEREA XTRATO - IVORY",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/komfort/saphir/americanos-con-cajones/bloques/xtrato/1/",
@@ -52,16 +52,16 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - Komfort",
-                    "línea": "Americanos",
+                    "línea": "americanos",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "saphir",
                     "línea-de-colchón": "ortopédicos",
                     "resortes": "pocket",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aerea con patas",
+                    "cajones": "si",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "aérea con patas",
                     "diseño-de-cabecera": "bloques",
-                    "brazos-de-cabecera": "Sin brazos",
+                    "brazos-de-cabecera": "sin brazos",
                     "modelo-de-cabecera": "Xtrato"
                 }
             ]

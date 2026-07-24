@@ -6,7 +6,7 @@
             "tamaño": "2 plazas",
             "marca": "Kamas + El Cisne",
             "modelo": "argus",
-            "línea": "Americanos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/el-cisne/argus/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE CON 2 CAJONES AL PIE + COLCHÓN ARGUS + CABECERA AÉREA CLÁSICA 2 - ARENA CLARO",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/argus/americanos-con-cajones/aereas-con-patas/clasicas/clasica-2/1/",
@@ -20,15 +20,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos",
+                    "línea": "americanos",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "argus",
                     "línea-de-colchón": "semi ortopédicos",
                     "resortes": "bonell",
-                    "cajones": "Si",
+                    "cajones": "si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Clásica",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "clásicas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Clásica 1"
                 }

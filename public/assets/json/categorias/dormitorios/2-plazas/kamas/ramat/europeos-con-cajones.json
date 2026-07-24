@@ -19,13 +19,13 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Europeos",
+                    "línea": "europeos",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
                     "línea-de-colchón": "súper ortopédicos",
                     "resortes": "bonell",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
+                    "cajones": "si",
+                    "base-encajonada": "no",
                     "tipo-de-cabecera": "aérea con patas",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",

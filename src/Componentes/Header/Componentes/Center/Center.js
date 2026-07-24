@@ -119,7 +119,7 @@ function Center({
 
                         <ul>
                             <li>
-                                <a href='/' title='' className='menu-cat-link'>
+                                <a href='/productos/colchones/' title='Colchones | Dormihogar' className='menu-cat-link'>
                                     <div className='d-flex-center-center gap-5'>
                                         <p className='text'>Colchones</p>
                                     </div>
@@ -128,7 +128,7 @@ function Center({
                                 </a>
                             </li>
                             <li>
-                                <a href='/' title='' className='menu-cat-link'>
+                                <a href='/productos/camas-box-tarimas/' title='Camas box tarimas | Dormihogar' className='menu-cat-link'>
                                     <div className='d-flex-center-center gap-5'>
                                         <p className='text'>Camas box tarimas</p>
                                     </div>
@@ -137,7 +137,7 @@ function Center({
                                 </a>
                             </li>
                             <li>
-                                <a href='/' title='' className='menu-cat-link'>
+                                <a href='/productos/dormitorios/' title='Dormitorios | Dormihogar' className='menu-cat-link'>
                                     <div className='d-flex-center-center gap-5'>
                                         <p className='text'>Dormitorios</p>
                                     </div>
@@ -146,7 +146,7 @@ function Center({
                                 </a>
                             </li>
                             <li>
-                                <a href='/' title='' className='menu-cat-link'>
+                                <a href='/productos/camas-funcionales/' title='Camas funcionales | Dormihogar' className='menu-cat-link'>
                                     <div className='d-flex-center-center gap-5'>
                                         <p className='text'>Camas funcionales</p>
                                     </div>
@@ -155,7 +155,7 @@ function Center({
                                 </a>
                             </li>
                             <li>
-                                <a href='/' title='' className='menu-cat-link'>
+                                <a href='/productos/cabeceras/' title='Cabeceras | Dormihogar' className='menu-cat-link'>
                                     <div className='d-flex-center-center gap-5'>
                                         <p className='text'>Cabeceras</p>
                                     </div>
@@ -164,7 +164,7 @@ function Center({
                                 </a>
                             </li>
                             <li>
-                                <a href='/' title='' className='menu-cat-link'>
+                                <a href='/productos/sofas/' title='Sofás | Dormihogar' className='menu-cat-link'>
                                     <div className='d-flex-center-center gap-5'>
                                         <p className='text'>Sofás</p>
                                     </div>
@@ -173,7 +173,7 @@ function Center({
                                 </a>
                             </li>
                             <li>
-                                <a href='/' title='' className='menu-cat-link'>
+                                <a href='/productos/complementos/' title='Complementos | Dormihogar' className='menu-cat-link'>
                                     <div className='d-flex-center-center gap-5'>
                                         <p className='text'>Complementos</p>
                                     </div>

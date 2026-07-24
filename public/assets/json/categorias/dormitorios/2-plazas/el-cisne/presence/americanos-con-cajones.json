@@ -6,7 +6,7 @@
             "tamaño": "2 plazas",
             "marca": "Kamas + El Cisne",
             "modelo": "presence",
-            "línea": "Americanos",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/el-cisne/presence/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS KAMAS / EL CISNE CON 2 CAJONES + COLCHÓN EL CISNE PRESENCE + CABECERA AÉREA CLASICA 1 - ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/el-cisne/presence/americanos-con-cajones/clasicas/clasica-1/1/",
@@ -19,15 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - El Cisne",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "presence",
                     "línea-de-colchón": "semi ortopédicos",
                     "resortes": "bicónicos",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americanas",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Clasica 1"
                 }

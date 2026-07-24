@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "Kamas + Paraiso",
             "modelo": "Pocket Star",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/pocket-star/americanos-con-cajones/1/",
             "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO POCKET STAR + CABECERA PEDESTAL CAPITONEADO 1 + 4 CAJONES - CAMEL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/pocket-star/americanos-con-cajones/pedestales/emperatriz/1/",
@@ -19,14 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Pocket star",
+                    "línea-de-colchón": "ortopédicos",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Pocket star",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }

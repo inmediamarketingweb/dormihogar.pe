@@ -27,10 +27,10 @@
                     "cantidad-de-cajones": "2",
                     "base-encajonada": "No",
                     "piecera": "No",
-                    "baúl": "No",
+                    "baul": "no",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americanas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 2"
                 }
@@ -63,10 +63,10 @@
                     "cantidad-de-cajones": "2",
                     "base-encajonada": "No",
                     "piecera": "No",
-                    "baúl": "No",
+                    "baul": "no",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americanas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -99,7 +99,7 @@
                     "cantidad-de-cajones": "4",
                     "base-encajonada": "No",
                     "piecera": "No",
-                    "baúl": "No",
+                    "baul": "no",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Bloques",

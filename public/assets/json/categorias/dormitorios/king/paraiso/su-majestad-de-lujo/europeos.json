@@ -18,15 +18,16 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "paraiso",
                     "línea": "europeos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "su majestad de lujo",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "no",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Su Majestad de lujo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aerea con Patas",
-                    "diseño-de-cabecera": "Americana",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin Brazos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
@@ -51,15 +52,16 @@
             "regalos": [ "3 cojines" ],
             "detalles-del-producto":[
                 {
-                    "marca": "Paraiso",
+                    "marca": "paraiso",
                     "línea": "europeos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "su majestad de lujo",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "no",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Su Majestad de lujo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aerea con Patas",
-                    "diseño-de-cabecera": "Americana",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin Brazos",
                     "modelo-de-cabecera": "Capitoneado"
                 }

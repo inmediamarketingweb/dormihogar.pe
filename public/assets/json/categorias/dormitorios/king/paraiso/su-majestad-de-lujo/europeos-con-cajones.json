@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Su majestad de lujo",
-            "linea": "europeos con cajones",
+            "línea": "europeos",
             "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/europeos-con-cajones/2/",
             "nombre": "DORMITORIO EUROPEO KAMAS KING CON 2 CAJONES + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA PEDESTAL EMPERATRIZ - IVORY",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/europeos-con-cajones/pedestales/emperatriz/2/",
@@ -19,14 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "europeos con cajones",
+                    "línea": "europeos",
                     "tamaño": "king",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Su Majestad de lujo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "modelo-de-colchón": "su Majestad de lujo",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
+                    "cajones": "si",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos Rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -38,7 +39,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Su majestad de lujo",
-            "linea": "europeos con cajones",
+            "línea": "europeos",
             "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/europeos-con-cajones/3/",
             "nombre": "DORMITORIO EUROPEO KAMAS KING CON 2 CAJONES + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/europeos-con-cajones/pedestales/emperatriz/3/",
@@ -51,14 +52,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "europeos con cajones",
+                    "línea": "europeos",
                     "tamaño": "king",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Su Majestad de lujo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "modelo-de-colchón": "su Majestad de lujo",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
+                    "cajones": "si",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos Rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }

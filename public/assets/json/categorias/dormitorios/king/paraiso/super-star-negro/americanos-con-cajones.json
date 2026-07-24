@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Super star negro",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones/2/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL MAJESTAD + 2 CAJONES - HUESO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones/coronas/otros-modelos/1/",
@@ -19,14 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Super star Negro",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star Negro",
-                    "resortes": "Cosisoft",
                     "tipo-de-cabecera": "Pedestales",
-                    "diseño-de-cabecera": "Corona",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
@@ -38,7 +39,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Super star negro",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones/3/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR NEGRO + CABECERA PEDESTAL CAPITONEADO + 4 CAJONES - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star-negro/americanos-con-cajones/pedestales/emperatriz/1/",
@@ -51,14 +52,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Super star Negro",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star Negro",
-                    "resortes": "Cosisoft",
                     "tipo-de-cabecera": "Pedestales",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }

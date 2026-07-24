@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "der prinz",
-            "línea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING 6 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA 1 - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/aereas-con-patas/americanas/capitoneado-1/1/",
@@ -19,13 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -37,7 +39,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "der prinz",
-            "línea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/2/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING 6 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA 1 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/aereas-con-patas/americanas/capitoneado-1/2/",
@@ -50,13 +52,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -68,7 +72,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "der prinz",
-            "línea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/3/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING 6 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA 1 - CENIZO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/aereas-con-patas/americanas/capitoneado-1/3/",
@@ -81,13 +85,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -99,7 +105,7 @@
             "tamaño": "king",
             "marca": "kamas",
             "modelo": "der prinz",
-            "línea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/4/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA 1 - GRIS",
             "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos-con-cajones/aereas-con-patas/americanas/capitoneado-1/4/",
@@ -112,13 +118,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
                     "cajones": "si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }

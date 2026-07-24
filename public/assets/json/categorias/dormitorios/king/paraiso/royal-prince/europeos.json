@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "kamas + Paraiso",
             "modelo": "Royal Prince",
-            "linea": "europeos",
+            "línea": "europeos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos/1/",
             "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO ROYAL PRINCE + CABECERA AEREA CAPITONEADO 1 - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/europeos/americanas/capitoneados-1/1/",
@@ -24,9 +24,10 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal Prince",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }

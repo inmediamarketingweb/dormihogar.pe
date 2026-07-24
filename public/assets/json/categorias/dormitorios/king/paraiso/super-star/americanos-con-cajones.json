@@ -5,7 +5,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Super star",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA PEDESTAL CAPITONEADO 1 + 4 CAJONES - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos-con-cajones/pedestales/emperatriz/1/",
@@ -18,13 +18,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Super star",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
@@ -35,7 +37,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Super star",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos-con-cajones/2/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA MOKI + 3 CAJONES - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos-con-cajones/bloques/moki/1/",
@@ -48,13 +50,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Super star",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin Brazos",
                     "modelo-de-cabecera": "Moki"
                 }
@@ -65,7 +69,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Super star",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/super-star/americanos-con-cajones/4/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA PEDESTAL CAPITONEADO 1 + 4 CAJONES - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/americanos-con-cajones/americanas/capitoneado-1/3/",
@@ -78,13 +82,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Super star",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado"
                 }

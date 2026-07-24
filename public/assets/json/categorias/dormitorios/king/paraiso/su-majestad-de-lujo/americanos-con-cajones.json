@@ -4,9 +4,9 @@
             "id": 1,
             "categoria": "dormitorios",
             "tamaño": "king",
-            "marca": "Paraiso",
+            "marca": "paraiso",
             "modelo": "Su majestad de lujo",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos-con-cajones/1/",
             "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA PEDESTAL EMPERATRIZ + 4 CAJONES - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos-con-cajones/pedestal/emperatriz/1/",
@@ -19,14 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
                     "modelo-de-colchón": "Su Majestad de lujo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Emperatriz",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos Rectos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
@@ -38,7 +39,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Su majestad de lujo",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos-con-cajones/2/",
             "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA PEDESTAL EMPERATRIZ + 6 CAJONES - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos-con-cajones/pedestal/emperatriz/2/",
@@ -51,16 +52,49 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "americanos con cajones",
+                    "línea": "americanos",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Su Majestad de lujo",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos Rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Paraiso",
+            "modelo": "Su majestad de lujo",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/40/",
+            "nombre": "DORMITORIO KAMAS AMERICANO KING + COLCHÓN PARAISO SU MAJESTAD DE LUJO + CABECERA AERA MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/su-majestad-de-lujo/americanos/bloques/moki/1/",
+            "precioRegular": 3999,
+            "precioNormal": 2899,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "D32242173N30",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Paraiso",
+                    "línea": "americanos",
                     "tamaño": "king",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Su Majestad de lujo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Emperatriz",
-                    "brazos-de-cabecera": "Brazos Rectos",
-                    "modelo-de-cabecera": "Capitoneado"
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
                 }
             ]
         }

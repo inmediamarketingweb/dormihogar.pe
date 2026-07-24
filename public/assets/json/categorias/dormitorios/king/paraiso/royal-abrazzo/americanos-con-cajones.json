@@ -5,7 +5,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "royal abrazzo",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ABRAZZO + CABECERA AEREA CAPITONEADO 1 + 2 CAJONES AL PIE + 1 PUFF - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/americanas/capitoneados-1/1/",
@@ -18,14 +18,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
-                    "cajones": "Si",
+                    "cajones": "si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal abrazzo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "espuma",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -36,7 +37,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "royal abrazzo",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/2/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ABRAZZO + CABECERA AEREA CAPITONEADO 1 + 6 CAJONES - AZUL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/americanas/capitoneados-1/2/",
@@ -49,14 +50,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
-                    "cajones": "Si",
+                    "cajones": "si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal abrazzo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "espuma",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -67,7 +69,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "royal abrazzo",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/3/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ABRAZZO + CABECERA PEDESTAL CORONA CAPITONEADO 1 + 2 CAJONES LATERALES - CAMEL",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/coronas/capitoneados-1/1/",
@@ -80,14 +82,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
-                    "cajones": "Si",
+                    "cajones": "si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal abrazzo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "espuma",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Brazos Curvos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -98,7 +101,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "royal abrazzo",
-            "linea": "americanos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/4/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO ROYAL ABRAZZO + CABECERA PEDESTAL EMPERATRIZ + 6 CAJONES - CENIZO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/abrazzo/americanos-con-cajones/pedestales/emperatriz/1/",
@@ -111,14 +114,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "Americanos con cajones",
+                    "línea": "americanos",
                     "tamaño": "king",
-                    "cajones": "Si",
+                    "cajones": "si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Royal abrazzo",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "línea-de-colchón": "semi ortopédicos",
+                    "resortes": "espuma",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos Rectos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }

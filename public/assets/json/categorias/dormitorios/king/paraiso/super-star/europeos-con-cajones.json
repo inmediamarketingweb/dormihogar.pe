@@ -5,7 +5,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Super star",
-            "linea": "europeos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/1/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA PEDESTAL CAPITONEADO 1 + 2 CAJONES - BEIGE CLARO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/americanas/capitoneado-1/1/",
@@ -18,13 +18,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "europeos con cajones",
+                    "línea": "europeos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Super star",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado"
                 }
@@ -35,7 +37,7 @@
             "tamaño": "king",
             "marca": "Paraiso",
             "modelo": "Super star",
-            "linea": "europeos con cajones",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/2/",
             "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN PARAISO SUPER STAR + CABECERA AEREA PEDESTAL CAPITONEADO 1 + 2 CAJONES - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/super-star/europeos-con-cajones/americanas/capitoneado-1/2/",
@@ -48,13 +50,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Paraiso",
-                    "línea": "europeos con cajones",
+                    "línea": "europeos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Super star",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "cosisoft",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Super star",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneado"
                 }

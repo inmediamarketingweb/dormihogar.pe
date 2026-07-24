@@ -6,7 +6,7 @@
             "tamaño": "king",
             "marca": "Kamas + Paraiso",
             "modelo": "Royal Prince",
-            "linea": "europeos con cajones",
+            "línea": "europeos",
             "ruta": "/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/1/",
             "nombre": "DORMITORIO EUROPEO KAMAS KING + COLCHÓN PARAISO ROYAL PRINCE + CABECERA PEDESTAL EMPERATIZ + 2 CAJONES LATERALES - PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/king/paraiso/royal-prince/europeos-con-cajones/pedestales/emperatriz/1/",
@@ -19,15 +19,15 @@
             "detalles-del-producto":[
                 {
                     "marca": "Kamas - Paraiso",
-                    "línea": "Europeos con cajones",
+                    "línea": "europeos",
                     "tamaño": "king",
+                    "modelo-de-colchón": "Royal Prince",
+                    "resortes": "pocket",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Royal Prince",
-                    "resortes": "Pocket",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Pedestal",
-                    "brazos-de-cabecera": "Brazos rectos",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
             ]

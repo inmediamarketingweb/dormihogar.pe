@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "camas funcionales",
+            "subcategoría": "cama divan",
+            "tamaño": "2 plazas",
+            "marca": "paraiso",
+            "ruta": "/productos/camas-funcionales/cama-divan/2-plazas/paraiso/americanos/1/",
+            "nombre": "CAMA DIVAN PARAISO 2 PLAZAS + 1 PLAZA Y MEDIA - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/paraiso/divanes/1/",
+            "precioRegular": 1199,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "D42DVSTA135",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas funcionales",
+                    "subcategoría": "cama divan",
+                    "marca": "paraiso",
+                    "tamaño": "2 plazas",
+                    "tamaño-divan": "1 plaza y media",
+                    "línea": "americanos",
+                    "incluye-colchón-divan": "si",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "no incluye"
+                }
+            ]
+        }
+    ]
+}

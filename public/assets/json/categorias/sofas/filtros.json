@@ -1,58 +1,40 @@
 {
     "filtros":[
         {
-            "sofas":[
+            "subcategorías":[
                 {
-                    "sofas": "Juegos de sala",
+                    "subcategoría": "Juegos de sala",
                     "ruta": "/productos/sofas/juegos-de-sala/"
                 },
                 {
-                    "sofas": "Seccionales",
+                    "subcategoría": "Seccionales",
                     "ruta": "/productos/sofas/seccionales/"
                 },
                 {
-                    "sofas": "Sofa cama",
+                    "subcategoría": "Sofa cama",
                     "ruta": "/productos/sofas/sofa-cama/"
                 },
                 {
-                    "sofas": "Reclinables",
+                    "subcategoría": "Reclinables",
                     "ruta": "/productos/sofas/reclinables/"
                 },
                 {
-                    "sofas": "Sofas y sillones",
+                    "subcategoría": "Sofas y sillones",
                     "ruta": "/productos/sofas/sofas-y-sillones/"
                 },
                 {
-                    "sofas": "Mecedoras",
+                    "subcategoría": "Mecedoras",
                     "ruta": "/productos/sofas/mecedoras/"
                 },
                 {
-                    "sofas": "Butacas",
+                    "subcategoría": "Butacas",
                     "ruta": "/productos/sofas/butacas/"
                 },
                 {
-                    "sofas": "Ver todos",
+                    "subcategoría": "Ver todos",
                     "ruta": "/productos/sofas/"
                 }
             ]
-        },
-        {
-            "marca":["El cisne", "Kamas", "Paraiso", "Komfort"]
-        },
-        {
-            "línea":["clásica", "americana", "americana con cajones", "europea", "europea con cajones"]
-        },
-        {
-            "base-encajonada":["si", "no"]
-        },
-        {
-            "tipo-de-cabecera":["aérea", "aérea con patas", "pedestal"]
-        },
-        {
-            "diseño-de-cabecera":["infantil", "clásico", "americano", "con marco", "corona", "bloques"]
-        },
-        {
-            "brazos-de-cabecera":["sin brazos", "brazos rectos", "brazos curvos", "brazos p", "brazos seahorse"]
         }
     ]
 }

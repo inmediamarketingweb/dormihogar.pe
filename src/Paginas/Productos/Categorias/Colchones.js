@@ -30,6 +30,12 @@ function Colchones() {
     const filtersPanelRef = useRef(null);
     const itemsPerPage = 20;
 
+    // Estado para el modo de vista (grid o list)
+    const [viewMode, setViewMode] = useState(() => {
+        const savedMode = localStorage.getItem('viewMode');
+        return savedMode || 'grid';
+    });
+
     const [activeFilters, setActiveFilters] = useState({
         tamaño: null,
         marca: null,
@@ -81,6 +87,7 @@ function Colchones() {
 
         if (hasChanges) {
             setActiveFilters(newActiveFilters);
+            scrollToTop();
         }
     }, [location.search]);
 
@@ -334,7 +341,6 @@ function Colchones() {
         const newPath = location.pathname + (newSearch ? `?${newSearch}` : '');
         navigate(newPath, { replace: true });
         
-        // Scroll al inicio después de actualizar la URL
         scrollToTop();
     };
 
@@ -365,7 +371,6 @@ function Colchones() {
                 const newPath = location.pathname + (newSearch ? `?${newSearch}` : '');
                 navigate(newPath, { replace: true });
                 
-                // Scroll al inicio
                 scrollToTop();
                 
                 return newFilters;
@@ -414,6 +419,7 @@ function Colchones() {
             
             return newFilters;
         });
+        scrollToTop();
     };
 
     const handleFiltroSkus = (skus) => {
@@ -532,7 +538,6 @@ function Colchones() {
 
     useEffect(() => {
         resetPage();
-        // Scroll al inicio cuando cambian los filtros
         scrollToTop();
     }, [activeFilters, envioGratisActivo, filtroSkus, orden]);
 
@@ -554,7 +559,6 @@ function Colchones() {
         navigate(location.pathname);
         setResetFiltersTrigger(true);
         
-        // Scroll al inicio después de limpiar filtros
         scrollToTop();
         
         setTimeout(() => {
@@ -969,6 +973,8 @@ function Colchones() {
                             onPreviousPage={handlePreviousPage}
                             onNextPage={handleNextPage}
                             getVisiblePages={getVisiblePages}
+                            viewMode={viewMode}
+                            setViewMode={setViewMode}
                         />
 
                         <div className='products-page-products-container'>
@@ -979,7 +985,7 @@ function Colchones() {
                                 </div>
                             ) : (
                                 <>
-                                    <ul className="products-page-products">
+                                    <ul className={`products-page-products ${viewMode}`}>
                                         {productosPagina.length === 0 ? (
                                             <div className='d-grid-1-1'>
                                                 <div className="d-flex-column gap-10">

@@ -1,53 +1,123 @@
 {
     "filtros":[
         {
-            "camas-funcionales":[
+            "categorías":[
                 {
-                    "cama-funcional": "Box espacio",
+                    "categoría": "box espacio",
                     "ruta": "/productos/camas-funcionales/box-espacio/"
                 },
                 {
-                    "cama-funcional": "Box con baúl",
-                    "ruta": "/productos/camas-funcionales/box-con-baúl/"
-                },
-                {
-                    "cama-funcional": "Cama divan",
+                    "categoría": "cama divan",
                     "ruta": "/productos/camas-funcionales/cama-divan/"
                 },
                 {
-                    "cama-funcional": "Camarotes",
+                    "categoría": "camarotes",
                     "ruta": "/productos/camas-funcionales/camarotes/"
                 },
                 {
-                    "cama-funcional": "Cunas",
+                    "categoría": "cunas",
                     "ruta": "/productos/camas-funcionales/cunas/"
                 },
                 {
-                    "cama-funcional": "Ver todos",
+                    "categoría": "camas infantiles",
+                    "ruta": "/productos/camas-funcionales/camas-infantiles/"
+                },
+                {
+                    "categoría": "ver todos",
                     "ruta": "/productos/camas-funcionales/"
                 }
             ]
         },
         {
-            "tamaño":["1 plaza", "1 plaza y media", "2 plazas", "Queen", "King"]
+            "marcas":[
+                {
+                    "marca": "paraiso"
+                },
+                {
+                    "marca": "kamas"
+                },
+                {
+                    "marca": "el cisne"
+                },
+                {
+                    "marca": "komfort"
+                }
+            ]
         },
         {
-            "marca":["El cisne", "Kamas", "Paraiso", "Komfort"]
+            "tamaños":[
+                {
+                    "tamaño": "1 plaza"
+                },
+                {
+                    "tamaño": "1 plaza y media"
+                },
+                {
+                    "tamaño": "2 plazas"
+                },
+                {
+                    "tamaño": "mixto"
+                },
+                {
+                    "tamaño": "queen"
+                },
+                {
+                    "tamaño": "king"
+                }
+            ]
         },
         {
-            "línea":["clásica", "americana", "americana con cajones", "europea", "europea con cajones"]
+            "líneas":[
+                {
+                    "línea": "americanos"
+                },
+                {
+                    "línea": "europeos"
+                }
+            ]
         },
         {
-            "base-encajonada":["si", "no"]
+            "aperturas-box":[
+                {
+                    "apertura-box": "lateral"
+                },
+                {
+                    "apertura-box": "frontal"
+                }
+            ]
         },
         {
-            "tipo-de-cabecera":["aérea", "aérea con patas", "pedestal"]
+            "tipos-de-baúl":[
+                {
+                    "tipo-de-baúl": "clásico"
+                },
+                {
+                    "tipo-de-baúl": "baúl sófa"
+                }
+            ]
         },
         {
-            "diseño-de-cabecera":["infantil", "clásico", "americano", "con marco", "corona", "bloques"]
+            "incluye-colchones":[
+                {
+                    "incluye-colchón": "si"
+                },
+                {
+                    "incluye-colchón": "no"
+                }
+            ]
         },
         {
-            "brazos-de-cabecera":["sin brazos", "brazos rectos", "brazos curvos", "brazos p", "brazos seahorse"]
+            "tipos-de-cabecera":[
+                {
+                    "tipo-de-cabecera": "aéra"
+                },
+                {
+                    "tipo-de-cabecera": "aérea con patas"
+                },
+                {
+                    "tipo-de-cabecera": "pedestal"
+                }
+            ]
         }
     ]
 }

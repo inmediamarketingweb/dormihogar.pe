@@ -1,0 +1,26 @@
+{
+    "productos":[
+        {
+            "categoría": "camas funcionales",
+            "subcategoría": "cunas",
+            "tamaño": "1 plaza",
+            "ruta": "/productos/camas-funcionales/cunas/1-plaza/madera/",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - NOGAL OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/kamas/cunas/",
+            "precioRegular": 1899,
+            "precioNormal": 1499,
+            "precioVenta": 1145,
+            "stock": 9,
+            "sku": "K442N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "cunas",
+                    "tamaño": "1 plaza",
+                    "cajones": "no",
+                    "base-encajonada": "no"
+                }
+            ]
+        }
+    ]
+}

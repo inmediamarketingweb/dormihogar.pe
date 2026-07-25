@@ -3,10 +3,6 @@
         {
             "tamaño":[
                 {
-                    "tamaño": "1 plaza",
-                    "ruta": "/productos/cabeceras/1-plaza/"
-                },
-                {
                     "tamaño": "1 plaza y media",
                     "ruta": "/productos/cabeceras/1-plaza-y-media/"
                 },
@@ -29,16 +25,77 @@
             ]
         },
         {
-            "marca":["El cisne", "Kamas", "Paraiso", "Komfort"]
+            "marcas":[
+                {
+                    "marca": "kamas"
+                },
+                {
+                    "marca": "paraiso"
+                },
+                {
+                    "marca": "el cisne"
+                },
+                {
+                    "marca": "komfort"
+                }
+            ]
         },
         {
-            "tipo-de-cabecera":["Aérea", "Aérea con patas", "Pedestal"]
+            "tipos-de-cabecera":[
+                {
+                    "tipo-de-cabecera": "aérea"
+                },
+                {
+                    "tipo-de-cabecera": "aérea con patas"
+                },
+                {
+                    "tipo-de-cabecera": "pedestal"
+                }
+            ]
         },
         {
-            "diseño-de-cabecera":["Infantil", "Clásico", "Americano", "Con marco", "Corona", "Bloques"]
+            "diseños-de-cabecera":[
+                {
+                    "diseño-de-cabecera": "infantil"
+                },
+                {
+                    "diseño-de-cabecera": "clásicas"
+                },
+                {
+                    "diseño-de-cabecera": "americanos"
+                },
+                {
+                    "diseño-de-cabecera": "con marco"
+                },
+                {
+                    "diseño-de-cabecera": "coronas"
+                },
+                {
+                    "diseño-de-cabecera": "bloques"
+                },
+                {
+                    "diseño-de-cabecera": "otro modelos"
+                }
+            ]
         },
         {
-            "brazos-de-cabecera":["Sin brazos", "Brazos rectos", "Brazos curvos", "Brazos p", "Brazos seahorse"]
+            "brazos-de-cabecera":[
+                {
+                    "brazo-de-cabecera": "sin brazos"
+                },
+                {
+                    "brazo-de-cabecera": "brazos rectos"
+                },
+                {
+                    "brazo-de-cabecera": "brazos curvos"
+                },
+                {
+                    "brazo-de-cabecera": "brazos p"
+                },
+                {
+                    "brazo-de-cabecera": "brazos seahorse"
+                }
+            ]
         }
     ]
 }

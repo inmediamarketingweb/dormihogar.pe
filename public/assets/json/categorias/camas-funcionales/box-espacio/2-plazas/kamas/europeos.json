@@ -1,9 +1,9 @@
 {
     "productos":[
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/1/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - TURQUESA OPÁLO",
@@ -28,9 +28,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/2/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
@@ -55,9 +55,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/3/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - ROSADO BEBÉ",
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/4/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - AZUL ELÉCTRICO",
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/5/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - AZUL NOCHE",
@@ -119,7 +119,7 @@
             "precioRegular": 1549,
             "precioNormal": 1559,
             "precioVenta": 1269,
-            "stock": 0,
+            "stock": 10,
             "sku": "K41432N11",
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/6/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - ARENA OSCURO",
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/7/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/8/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/9/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - VERDE CERCETA",
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/10/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
@@ -272,9 +272,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/11/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - GRIS PLATA",
@@ -299,9 +299,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/12/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - ROJO",
@@ -326,9 +326,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/13/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - VINO",
@@ -353,9 +353,9 @@
             ]
         },
         {
-            "categoria": "camas funcionales",
-            "subcategoria": "box espacios",
-            "linea": "europeo",
+            "categoría": "camas funcionales",
+            "subcategoría": "box espacio",
+            "línea": "europeos",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/europeos/14/",
             "nombre": "BOX ESPACIO EUROPEO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ - ROSADO",

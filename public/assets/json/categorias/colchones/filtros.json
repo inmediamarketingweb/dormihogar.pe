@@ -558,7 +558,7 @@
                     "ruta": "/productos/colchones/2-plazas/",
                     "marcas":[
                         {
-                            "marca": "Paraiso",
+                            "marca": "paraiso",
                             "resortes":[
                                 {
                                     "resorte": "Bonell",
@@ -581,7 +581,7 @@
                             ]
                         },
                         {
-                            "marca": "Kamas",
+                            "marca": "kamas",
                             "resortes":[
                                 {
                                     "resorte": "Pocket",

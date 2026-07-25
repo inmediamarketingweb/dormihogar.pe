@@ -15,14 +15,6 @@
             "stock": 14,
             "sku": "D121523N10",
             "regalos":[ "1 almohada viscoelástica", "1 protector de colchón" ],
-            "resumen-del-producto":[
-                {
-                    "marca": "Paraiso",
-                    "modelo-de-colchón": "Royal prince",
-                    "tamaño": "1 plaza y media",
-                    "nivel-de-confort": "Firme"
-                }
-            ],
             "tamaños-disponibles":[
                 { "nombre": "2 plazas", "sku": "D12223N10" },
                 { "nombre": "Queen", "sku": "D12323N10" },

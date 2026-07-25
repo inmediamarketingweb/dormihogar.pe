@@ -12,6 +12,33 @@
                     ]
                 },
                 {
+                    "tamaño": "2 plazas",
+                    "ruta": "/productos/camas-box-tarimas/2-plazas/",
+                    "marcas":[
+                        {
+                            "marca": "Kamas"
+                        }
+                    ]
+                },
+                {
+                    "tamaño": "queen",
+                    "ruta": "/productos/camas-box-tarimas/queen/",
+                    "marcas":[
+                        {
+                            "marca": "Kamas"
+                        }
+                    ]
+                },
+                {
+                    "tamaño": "king",
+                    "ruta": "/productos/camas-box-tarimas/king/",
+                    "marcas":[
+                        {
+                            "marca": "Kamas"
+                        }
+                    ]
+                },
+                {
                     "tamaño": "Ver todos",
                     "ruta": "/productos/camas-box-tarimas/"
                 }

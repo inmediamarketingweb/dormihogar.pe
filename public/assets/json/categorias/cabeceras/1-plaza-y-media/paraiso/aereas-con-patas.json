@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "cabeceras",
+            "marca": "paraiso",
+            "tipo-de-cabecera": "aérea con patas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/cabeceras/1-plaza-y-media/paraiso/aerea-con-patas/1/",
+            "nombre": "CABECERA AERA CON PATAS PARAISO 1 PLAZA Y MEDIA LOFT - GRIS",
+            "fotos": "/assets/imagenes/productos/cabeceras/1-plaza-y-media/paraiso/aereas-con-patas/1/",
+            "precioRegular": 319,
+            "precioNormal": 279,
+            "precioVenta": 199,
+            "stock": 9,
+            "sku": "D525211N10",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "paraiso",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "loft"
+                }
+            ]
+        }
+    ]
+}

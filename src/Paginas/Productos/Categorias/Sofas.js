@@ -10,11 +10,20 @@ import FiltrosTop from '../Componentes/FiltrosTop/FiltrosTop';
 import { Producto } from '../../../Componentes/Plantillas/Producto/Producto';
 import { usePagination } from '../../../Hooks/usePagination';
 
+// Para comparaciones internas (mantener espacios)
 const normalizarTexto = (texto) => {
     if (!texto || typeof texto !== 'string') {
         return '';
     }
     return texto.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+};
+
+// Para comparar valores exactos (sin reemplazar espacios)
+const normalizarTextoExacto = (texto) => {
+    if (!texto || typeof texto !== 'string') {
+        return '';
+    }
+    return texto.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 };
 
 function Sofas() {
@@ -112,9 +121,11 @@ function Sofas() {
             // Si hay sub1, buscar la subcategoría correspondiente
             const subcategoriasFilter = filtrosData.filtros.find(f => f.subcategorías);
             if (subcategoriasFilter) {
-                const subcategoriaEncontrada = subcategoriasFilter.subcategorías.find(item => 
-                    item.ruta.includes(sub1)
-                );
+                const subcategoriaEncontrada = subcategoriasFilter.subcategorías.find(item => {
+                    const rutaNormalizada = item.ruta.replace(/^\/|\/$/g, '').split('/');
+                    const subcategoriaUrl = rutaNormalizada[rutaNormalizada.length - 1];
+                    return subcategoriaUrl === sub1;
+                });
                 if (subcategoriaEncontrada) {
                     newActiveFilters.subcategoria = subcategoriaEncontrada.subcategoría;
                     hasChanges = true;
@@ -166,33 +177,93 @@ function Sofas() {
                     url.startsWith('/assets/json/categorias/sofas/')
                 );
 
-                // Si NO hay sub1 (Ver todos), cargar TODOS los productos de sofás
-                if (!sub1) {
-                    // No filtramos por subcategoría, cargamos todos
+                console.log('=== CARGA DE PRODUCTOS ===');
+                console.log('sub1:', sub1);
+                console.log('location.pathname:', location.pathname);
+                console.log('Total archivos en sofas:', archivosProductos.length);
+
+                // Obtener la subcategoría actual de la URL
+                let subcategoriaActual = sub1;
+                
+                // Si no hay sub1, intentar extraer de la ruta
+                if (!subcategoriaActual) {
+                    const pathParts = location.pathname.split('/');
+                    // Buscar el segmento después de /productos/sofas/
+                    const sofasIndex = pathParts.indexOf('sofas');
+                    if (sofasIndex !== -1 && pathParts.length > sofasIndex + 1) {
+                        subcategoriaActual = pathParts[sofasIndex + 1];
+                        // Verificar que no sea un parámetro o segmento vacío
+                        if (subcategoriaActual && subcategoriaActual !== '' && !subcategoriaActual.includes('?')) {
+                            console.log('Subcategoría extraída de la ruta:', subcategoriaActual);
+                        } else {
+                            subcategoriaActual = null;
+                        }
+                    }
+                }
+
+                console.log('Subcategoría actual:', subcategoriaActual);
+
+                // Si NO hay subcategoría (Ver todos), cargar TODOS los productos
+                if (!subcategoriaActual) {
+                    console.log('Modo: Ver todos - cargando todos los productos');
                 } else {
-                    // Si hay sub1, filtrar por esa subcategoría
+                    console.log('Modo: Filtrando por subcategoría:', subcategoriaActual);
+                    
+                    // Filtrar archivos que contienen la subcategoría
                     archivosProductos = archivosProductos.filter(
-                        url => url.includes(`/sofas/${sub1}/`)
+                        url => url.includes(`/sofas/${subcategoriaActual}/`)
                     );
+                    
+                    console.log('Archivos después de filtrar por sub1 exacto:', archivosProductos.length);
+
+                    // Si no encuentra archivos, intentar con el nombre normalizado
+                    if (archivosProductos.length === 0) {
+                        console.log('No se encontraron archivos exactos, intentando búsqueda flexible...');
+                        
+                        // Volver a obtener todos los archivos
+                        archivosProductos = archivos.filter(url =>
+                            url.startsWith('/assets/json/categorias/sofas/')
+                        );
+                        
+                        // Buscar por el nombre de la subcategoría en la ruta
+                        archivosProductos = archivosProductos.filter(url => {
+                            const match = url.match(/\/sofas\/([^\/]+)\//);
+                            if (match && match[1]) {
+                                const subcategoriaArchivo = match[1];
+                                // Comparar normalizado (reemplazando espacios con guiones)
+                                return normalizarTexto(subcategoriaArchivo) === normalizarTexto(subcategoriaActual);
+                            }
+                            return false;
+                        });
+                        
+                        console.log('Archivos después de búsqueda flexible:', archivosProductos.length);
+                    }
 
                     if (sub2) {
                         archivosProductos = archivosProductos.filter(
-                            url => url.includes(`/sofas/${sub1}/${sub2}/`)
+                            url => url.includes(`/sofas/${subcategoriaActual}/${sub2}/`)
                         );
+                        console.log('Archivos después de filtrar por sub2:', archivosProductos.length);
                     }
 
-                    // Si hay sub3, filtrar por ese nivel
                     if (sub3) {
                         archivosProductos = archivosProductos.filter(
-                            url => url.includes(`/sofas/${sub1}/${sub2}/${sub3}/`)
+                            url => url.includes(`/sofas/${subcategoriaActual}/${sub2}/${sub3}/`)
                         );
+                        console.log('Archivos después de filtrar por sub3:', archivosProductos.length);
                     }
 
-                    // Si hay sub4, no filtramos por archivo, solo lo usamos para filtrar productos después
-                    // (sub4 generalmente es el ID del producto)
+                    // Si aún no hay archivos, significa que no hay productos para esta subcategoría
+                    if (archivosProductos.length === 0) {
+                        console.log(`No se encontraron archivos para la subcategoría: ${subcategoriaActual}`);
+                        setProductos([]);
+                        setLoading(false);
+                        return;
+                    }
                 }
 
                 const productosPromesas = archivosProductos.map(async (url) => {
+                    console.log('Cargando archivo:', url);
                     const response = await fetch(url);
                     const data = await response.json();
 
@@ -207,6 +278,8 @@ function Sofas() {
                 const productosPorArchivo = await Promise.all(productosPromesas);
                 let todosProductos = productosPorArchivo.flat();
 
+                console.log('Total productos cargados:', todosProductos.length);
+
                 // Si hay sub4, filtrar por el ID del producto
                 if (sub4) {
                     const productId = parseInt(sub4);
@@ -214,19 +287,32 @@ function Sofas() {
                         todosProductos = todosProductos.filter(producto => 
                             producto.id === productId
                         );
+                        console.log('Productos después de filtrar por ID:', todosProductos.length);
                     }
+                }
+
+                // Verificar los primeros productos para depuración
+                if (todosProductos.length > 0) {
+                    console.log('Primer producto:', {
+                        nombre: todosProductos[0].nombre,
+                        subcategoria: todosProductos[0].subcategoría || todosProductos[0].subcategoria,
+                        marca: todosProductos[0].marca
+                    });
+                } else {
+                    console.log('No se encontraron productos para esta subcategoría');
                 }
 
                 setProductos(todosProductos);
                 setLoading(false);
             } catch (error) {
                 console.error("Error cargando productos de sofás:", error);
+                setProductos([]);
                 setLoading(false);
             }
         };
 
         cargarProductosSofas();
-    }, [sub1, sub2, sub3, sub4]);
+    }, [sub1, sub2, sub3, sub4, location.pathname]);
 
     useEffect(() => {
         const cargarFiltros = async () => {
@@ -234,6 +320,7 @@ function Sofas() {
                 const response = await fetch('/assets/json/categorias/sofas/filtros.json');
                 const data = await response.json();
                 setFiltrosData(data);
+                console.log('Filtros cargados:', data);
             } catch (error) {
                 console.error("Error cargando filtros:", error);
             }
@@ -486,8 +573,9 @@ function Sofas() {
                         break;
                     }
                     
-                    const valorNormalizado = normalizarTexto(valorProducto);
-                    const filtroNormalizado = normalizarTexto(filtrosAplicar[filterKey]);
+                    // Usar normalización exacta (sin reemplazar espacios con guiones)
+                    const valorNormalizado = normalizarTextoExacto(valorProducto);
+                    const filtroNormalizado = normalizarTextoExacto(filtrosAplicar[filterKey]);
                     
                     if (valorNormalizado !== filtroNormalizado) {
                         cumpleTodos = false;
@@ -531,8 +619,9 @@ function Sofas() {
                         break;
                     }
                     
-                    const valorNormalizado = normalizarTexto(valorProducto);
-                    const filtroNormalizado = normalizarTexto(activeFilters[filterKey]);
+                    // Usar normalización exacta (sin reemplazar espacios con guiones)
+                    const valorNormalizado = normalizarTextoExacto(valorProducto);
+                    const filtroNormalizado = normalizarTextoExacto(activeFilters[filterKey]);
                     
                     if (valorNormalizado !== filtroNormalizado) {
                         cumpleTodosLosFiltros = false;
@@ -547,7 +636,8 @@ function Sofas() {
 
     // Productos filtrados completos (con todos los filtros)
     const productosFiltrados = useMemo(() => {
-        return filtrarProductosPorFiltros(productosBaseFiltrados, activeFilters);
+        const resultado = filtrarProductosPorFiltros(productosBaseFiltrados, activeFilters);
+        return resultado;
     }, [productosBaseFiltrados, activeFilters]);
 
     // Función para obtener productos filtrados hasta un filtro específico (excluyendo ese filtro y los siguientes)
@@ -603,7 +693,7 @@ function Sofas() {
             productosConFiltro = productosFiltradosHasta.filter(producto => {
                 const valor = getProductValue(producto, campo);
                 if (!valor) return false;
-                return normalizarTexto(valor) === normalizarTexto(activeFilters[campo]);
+                return normalizarTextoExacto(valor) === normalizarTextoExacto(activeFilters[campo]);
             });
         }
 
@@ -732,7 +822,7 @@ function Sofas() {
         const marcasConProductos = marcas.filter(marca => {
             const productosConMarca = productosBaseFiltrados.filter(producto => {
                 const valor = getProductValue(producto, 'marca');
-                return valor && normalizarTexto(valor) === normalizarTexto(marca);
+                return valor && normalizarTextoExacto(valor) === normalizarTextoExacto(marca);
             });
             return productosConMarca.length > 0;
         });
@@ -787,7 +877,7 @@ function Sofas() {
         // Obtener la subcategoría actual de la URL o de los filtros activos
         const subcategoriaActual = sub1 || activeFilters.subcategoria || null;
         
-        // Si no hay subcategoría seleccionada (Ver todos), mostrar solo marcas
+        // Si no hay subcategoría seleccionada (Ver todos), solo mostrar marcas
         if (!subcategoriaActual) {
             return elementos.length > 0 ? elementos : null;
         }
@@ -979,7 +1069,12 @@ function Sofas() {
                                         {productosPagina.length === 0 ? (
                                             <div className='d-grid-1-1'>
                                                 <div className="d-flex-column gap-10">
-                                                    <p className='text'>No se encontraron productos con los filtros seleccionados.</p>
+                                                    <p className='text'>
+                                                        {sub1 || location.pathname.includes('/sofas/') ? 
+                                                            `No se encontraron productos en esta categoría.` :
+                                                            'No se encontraron productos con los filtros seleccionados.'
+                                                        }
+                                                    </p>
 
                                                     {hayFiltrosActivos() && (
                                                         <button type="button" className="margin-right button-link button-link-2" onClick={limpiarFiltros}>

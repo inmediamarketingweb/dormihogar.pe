@@ -2,8 +2,9 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
-            "subcategoria": "seccionales",
+            "categoría": "sofas",
+            "subcategoría": "seccionales",
+            "marca": "kamas",
             "ruta": "/productos/sofas/seccionales/1/",
             "nombre": "MECEDORA CAPITONEADA - BEIGE",
             "fotos": "/assets/imagenes/productos/sofas/seccionales/1/",

@@ -2,8 +2,8 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "complementos",
-            "subcategoria": "baules",
+            "categoría": "complementos",
+            "subcategoría": "baules",
             "marca": "Kamas",
             "modelo": "baules",
             "ruta": "/productos/complementos/baules/clasicas/1/",
@@ -14,35 +14,12 @@
             "precioVenta": 229,
             "stock": 14,
             "sku": "D722N10",
-            "tipo-de-envio": "Envío aplicado",
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "modelo": "clasicas"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Baules",
-                    "descripcion":[
-                        {
-                           "profundidad": "50",
-                           "Peso": "1.146 kg",
-                           "numero de piezas": "2",
-                           "ancho": "70",
-                           "alto": "8",
-                           "material": "Hollow Poliéster 3D",
-                           "tipo de tela": "Tela Algodón con Poliéster",
-                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
-                        }
-                    ]
-                }
-            ]
+            "tipo-de-envio": "Envío aplicado"
         },
         {
             "id": 2,
-            "categoria": "complementos",
-            "subcategoria": "baules",
+            "categoría": "complementos",
+            "subcategoría": "baules",
             "marca": "Kamas",
             "modelo": "baules",
             "ruta": "/productos/complementos/baules/clasicas/2/",
@@ -53,30 +30,7 @@
             "precioVenta": 229,
             "stock": 14,
             "sku": "D722N11",
-            "tipo-de-envio": "Envío aplicado",
-            "resumen-del-producto":[
-                {
-                    "marca": "Kamas",
-                    "modelo": "clasicas"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Baules",
-                    "descripcion":[
-                        {
-                           "profundidad": "50",
-                           "Peso": "1.146 kg",
-                           "numero de piezas": "2",
-                           "ancho": "70",
-                           "alto": "8",
-                           "material": "Hollow Poliéster 3D",
-                           "tipo de tela": "Tela Algodón con Poliéster",
-                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
-                        }
-                    ]
-                }
-            ]
+            "tipo-de-envio": "Envío aplicado"
         }
     ]
 }

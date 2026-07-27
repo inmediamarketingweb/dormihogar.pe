@@ -1,9 +1,9 @@
 {
     "productos":[
         {
-            "categoria": "sofas",
+            "categoría": "sofas",
+            "subcategoría": "butacas",
             "marca": "kamas",
-            "categoría": "butacas",
             "ruta": "/productos/sofas/butacas/kamas/1/",
             "nombre": "2 BUTACAS CLASIC -  NEGRO Y PLATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/1/",
@@ -15,17 +15,18 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "categoría": "sofas",
+                    "subcategoría": "butacas",
                     "marca": "kamas",
-                    "categoría": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
                 }
             ]
         },
         {
-            "categoria": "sofas",
-            "marca": "kamas",
+            "categoría": "sofas",
             "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/kamas/2/",
             "nombre": "BUTACA CLASIC - PLATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/2/",
@@ -37,8 +38,9 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "categoría": "sofas",
+                    "subcategoría": "butacas",
                     "marca": "kamas",
-                    "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
                 }
@@ -46,9 +48,9 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
-            "marca": "kamas",
+            "categoría": "sofas",
             "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/kamas/3/",
             "nombre": "BUTACA CLASIC - MORO",
             "fotos": "/assets/imagenes/productos/sofas/butacas/3/",
@@ -60,8 +62,9 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "categoría": "sofas",
+                    "subcategoría": "butacas",
                     "marca": "kamas",
-                    "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
                 }
@@ -69,9 +72,9 @@
         },
         {
             "id": 4,
-            "categoria": "sofas",
-            "marca": "kamas",
+            "categoría": "sofas",
             "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/kamas/4/",
             "nombre": "BUTACA CLASIC - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/4/",
@@ -83,8 +86,9 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "categoría": "sofas",
+                    "subcategoría": "butacas",
                     "marca": "kamas",
-                    "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
                 }
@@ -92,9 +96,9 @@
         },
         {
             "id": 5,
-            "categoria": "sofas",
-            "marca": "kamas",
+            "categoría": "sofas",
             "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/kamas/5/",
             "nombre": "BUTACA CLASIC - PALO ROSA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/5/",
@@ -106,8 +110,9 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "categoría": "sofas",
+                    "subcategoría": "butacas",
                     "marca": "kamas",
-                    "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
                 }
@@ -115,9 +120,9 @@
         },
         {
             "id": 6,
-            "categoria": "sofas",
-            "marca": "kamas",
+            "categoría": "sofas",
             "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/kamas/6/",
             "nombre": "BUTACA CLASIC - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/6/",
@@ -129,8 +134,9 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
+                    "categoría": "sofas",
+                    "subcategoría": "butacas",
                     "marca": "kamas",
-                    "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
                 }

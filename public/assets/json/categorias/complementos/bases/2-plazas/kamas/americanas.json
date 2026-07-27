@@ -2,8 +2,8 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "complementos",
-            "subcategoria": "bases",
+            "categoría": "complementos",
+            "subcategoría": "bases",
             "marca": "kamas",
             "linea": "americanas",
             "tamaño": "2 plazas",

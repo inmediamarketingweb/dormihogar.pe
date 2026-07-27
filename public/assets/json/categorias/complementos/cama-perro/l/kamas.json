@@ -2,8 +2,8 @@
     "productos":[
         {
             "id": 3,
-            "categoria": "complementos",
-            "subcategoria": "cama perro",
+            "categoría": "complementos",
+            "subcategoría": "cama perro",
             "marca": "kamas",
             "tamaño": "l",
             "ruta": "/productos/complementos/cama-perro/kamas/l/1/",

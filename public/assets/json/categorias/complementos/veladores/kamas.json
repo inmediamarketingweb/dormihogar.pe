@@ -2,8 +2,8 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "modelo": "shelter",
             "ruta": "/productos/complementos/veladores/kamas/1/",
@@ -15,37 +15,18 @@
             "stock": 14,
             "sku": "K712N10",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Shelter",
-                    "cajones": 6
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 2,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "modelo": "shelter",
             "ruta": "/productos/complementos/veladores/kamas/2/",
@@ -57,37 +38,18 @@
             "stock": 14,
             "sku": "K712N11",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Shelter",
-                    "cajones": 6
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 3,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/3/",
             "nombre": "VELADOR CLÁSICO 3 - CAMELL",
@@ -98,37 +60,18 @@
             "stock": 14,
             "sku": "K7133N10",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Clásico 3",
-                    "cajones": 3
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 4,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/4/",
             "nombre": "VELADOR MODELO 2 EN 1 - PLOMO PLATA",
@@ -139,37 +82,18 @@
             "stock": 14,
             "sku": "K714N10",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "2 en 1",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 5,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/5/",
             "nombre": "VELADOR GHOST - CAFÉ",
@@ -180,37 +104,18 @@
             "stock": 14,
             "sku": "K714N11",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Ghost",
-                    "cajones": 1
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 6,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/6/",
             "nombre": "VELADOR YANIRA - HUESO",
@@ -221,37 +126,18 @@
             "stock": 14,
             "sku": "K714N12",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Yanira",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 7,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/7/",
             "nombre": "VELADOR CLÁSICO 3 - BEIGE",
@@ -262,37 +148,18 @@
             "stock": 14,
             "sku": "K7133N11",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Clásico 3",
-                    "cajones": 3
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 8,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/8/",
             "nombre": "VELADOR CLÁSICO 3 - BLANCO",
@@ -303,37 +170,18 @@
             "stock": 14,
             "sku": "K7133N12",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Clásico 3",
-                    "cajones": 3
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 9,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/9/",
             "nombre": "VELADOR CLÁSICO 3 - FUCSIA",
@@ -344,37 +192,18 @@
             "stock": 14,
             "sku": "K7133N13",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Clásico 3",
-                    "cajones": 3
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 10,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/10/",
             "nombre": "VELADOR CLÁSICO 3 - CHOCOLATE",
@@ -385,37 +214,18 @@
             "stock": 14,
             "sku": "K7133N14",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Clásico 3",
-                    "cajones": 3
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 11,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/11/",
             "nombre": "VELADOR VINTAGE 2 NEW - CHOCOLATE",
@@ -426,37 +236,18 @@
             "stock": 14,
             "sku": "K7112N10",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Vintage 2 new",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 12,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/12/",
             "nombre": "VELADOR VINTAGE 2 MODERNO - BEIGE",
@@ -467,37 +258,18 @@
             "stock": 14,
             "sku": "K7112N11",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Vintage 2 moderno",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 13,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/13/",
             "nombre": "VELADOR VINTAGE 2 MODERNO - ARENA",
@@ -508,37 +280,18 @@
             "stock": 14,
             "sku": "K7112N12",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Vintage 2 moderno",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 14,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/14/",
             "nombre": "VELADOR CUBE - CHOCOLATE",
@@ -549,37 +302,18 @@
             "stock": 14,
             "sku": "K714N13",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Cube",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 15,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/15/",
             "nombre": "VELADOR VINTAGE 2 - BEIGE",
@@ -590,37 +324,18 @@
             "stock": 14,
             "sku": "K7112N13",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Vintage 2",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 16,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/16/",
             "nombre": "VELADOR ATLANTA - BEIGE",
@@ -631,37 +346,18 @@
             "stock": 14,
             "sku": "K7132N10",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Atlanta",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 17,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/17/",
             "nombre": "VELADOR CLÁSICO 3 - BLANCO",
@@ -672,37 +368,18 @@
             "stock": 14,
             "sku": "K7133N15",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Clásico 3",
-                    "cajones": 3
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },        
         {
             "id": 18,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/18/",
             "nombre": "VELADOR ROB - CHOCOLATE",
@@ -713,37 +390,18 @@
             "stock": 14,
             "sku": "K714N14",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Rob",
-                    "cajones": 2
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         },
         {
             "id": 19,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
+            "categoría": "complementos",
+            "subcategoría": "veladores",
             "marca": "kamas",
             "ruta": "/productos/complementos/veladores/kamas/19/",
             "nombre": "VELADOR GHOST - BLANCO",
@@ -754,30 +412,11 @@
             "stock": 14,
             "sku": "K714N15",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "modelo": "Ghost",
-                    "cajones": 1
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marcas": "kamas",
-                    "sub-categoría": "Veladores",
-                    "cajones": "Si"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
+                    "subcategoría": "veladores",
+                    "cajones": "si"
                 }
             ]
         }

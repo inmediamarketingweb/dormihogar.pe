@@ -4,6 +4,7 @@
             "id": 1,
             "categoria": "sofas",
             "subcategoría": "mecedoras",
+            "marca": "kamas",
             "ruta": "/productos/sofas/mecedoras/kamas/1/",
             "nombre": "MECEDORA CAPITONEADA - BEIGE",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/1/",
@@ -15,7 +16,8 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo": "Mecedoras",
+                    "subcategorías": "mecedoras",
+                    "marca": "kamas",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
                 }
@@ -25,6 +27,7 @@
             "id": 2,
             "categoria": "sofas",
             "subcategoría": "mecedoras",
+            "marca": "kamas",
             "ruta": "/productos/sofas/mecedoras/kamas/2/",
             "nombre": "MECEDORA CAPITONEADA - CELESTE",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/2/",
@@ -36,7 +39,8 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo": "Mecedoras",
+                    "subcategorías": "mecedoras",
+                    "marca": "kamas",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
                 }
@@ -46,6 +50,7 @@
             "id": 3,
             "categoria": "sofas",
             "subcategoría": "mecedoras",
+            "marca": "kamas",
             "ruta": "/productos/sofas/mecedoras/kamas/3/",
             "nombre": "MECEDORA CAPITONEADA - VERDE LORO",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/3/",
@@ -57,7 +62,8 @@
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "modelo": "Mecedoras",
+                    "subcategorías": "mecedoras",
+                    "marca": "kamas",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
                 }

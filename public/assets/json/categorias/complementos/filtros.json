@@ -1,38 +1,34 @@
 {
     "filtros":[
         {
-            "complementos":[
+            "subcategorías":[
                 {
-                    "complementos": "Veladores",
+                    "subcategoría": "veladores",
                     "ruta": "/productos/complementos/veladores/"
                 },
                 {
-                    "complementos": "Baúles",
+                    "subcategoría": "baúles",
                     "ruta": "/productos/complementos/baules/"
                 },
                 {
-                    "complementos": "Bases",
+                    "subcategoría": "bases",
                     "ruta": "/productos/complementos/bases/"
                 },
                 {
-                    "complementos": "Puffs",
+                    "subcategoría": "puffs",
                     "ruta": "/productos/complementos/puffs/"
                 },
                 {
-                    "complementos": "Almohadas",
+                    "subcategoría": "almohadas",
                     "ruta": "/productos/complementos/almohadas/"
                 },
                 {
-                    "complementos": "Sábanas y cobertores",
+                    "subcategoría": "sábanas y cobertores",
                     "ruta": "/productos/complementos/sabanas-y-cobertores/"
                 },
                 {
-                    "complementos": "Cama perro",
+                    "subcategoría": "cama perro",
                     "ruta": "/productos/complementos/cama-perro/"
-                },
-                {
-                    "complementos": "Ver todos",
-                    "ruta": "/productos/complementos/"
                 }
             ]
         }

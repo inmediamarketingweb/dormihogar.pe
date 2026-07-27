@@ -2,9 +2,9 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/1/",
             "nombre": "SOFÁ CAMA 2 PLAZAS ELUA - VINO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/1/",
@@ -16,6 +16,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Elua"
@@ -24,9 +26,9 @@
         },
         {
             "id": 2,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/2/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO CUERO - MORADO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/2/",
@@ -38,6 +40,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Capitoneado"
@@ -46,9 +50,9 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/3/",
             "nombre": "SOFÁ CAMA 2 PLAZAS VERNET - MORADO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/3/",
@@ -60,6 +64,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Vernet"
@@ -68,9 +74,9 @@
         },
         {
             "id": 4,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/4/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - LILA",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/4/",
@@ -82,6 +88,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -90,9 +98,9 @@
         },
         {
             "id": 5,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/5/",
             "nombre": "SOFÁ CAMA 2 PLAZAS ROMA CURVE CUERO - VINO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/5/",
@@ -104,6 +112,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Roma curve"
@@ -112,9 +122,9 @@
         },
         {
             "id": 6,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/6/",
             "nombre": "SOFÁ CAMA 2 PLAZAS OXFORD BLUE - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/6/",
@@ -126,6 +136,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Oxford blue"
@@ -134,9 +146,9 @@
         },
         {
             "id": 7,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/7/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/7/",
@@ -148,6 +160,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -156,9 +170,9 @@
         },
         {
             "id": 8,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/8/",
             "nombre": "SOFÁ CAMA 2 PLAZAS LINEAL - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/8/",
@@ -170,6 +184,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Lineal"
@@ -178,9 +194,9 @@
         },
         {
             "id": 9,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/9/",
             "nombre": "SOFÁ CAMA 2 PLAZAS DIOR ROYAL - AZUL MARINO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/9/",
@@ -192,6 +208,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Dior royal"
@@ -200,9 +218,9 @@
         },
         {
             "id": 10,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/10/",
             "nombre": "SOFÁ CAMA 2 PLAZAS VENECCIA CAPITONEADO - NEGRO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/10/",
@@ -214,6 +232,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Veneccia capitoneado"
@@ -222,9 +242,9 @@
         },
         {
             "id": 11,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/11/",
             "nombre": "SOFÁ CAMA 2 PLAZAS BARI - GRIS",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/11/",
@@ -236,6 +256,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Bari"
@@ -244,9 +266,9 @@
         },
         {
             "id": 12,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/12/",
             "nombre": "SOFÁ CAMA 2 PLAZAS ROMA CURVE - PLOMO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/12/",
@@ -258,6 +280,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Roma curve"
@@ -266,9 +290,9 @@
         },
         {
             "id": 13,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/13/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CUADROS - PLOMO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/13/",
@@ -280,6 +304,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Cuadros"
@@ -288,9 +314,9 @@
         },
         {
             "id": 14,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/14/",
             "nombre": "SOFÁ CAMA 2 PLAZAS DURQUE - GRIS",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/14/",
@@ -302,6 +328,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Durque"
@@ -310,9 +338,9 @@
         },
         {
             "id": 15,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/15/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC DUAR - CUERO CAFE",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/15/",
@@ -324,6 +352,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Clasic duar"
@@ -332,9 +362,9 @@
         },
         {
             "id": 16,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/16/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC CUERO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/16/",
@@ -346,6 +376,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Clasic"
@@ -354,9 +386,9 @@
         },
         {
             "id": 17,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/17/",
             "nombre": "SOFÁ CAMA 2 PLAZAS SENSE 3 - CUERO CAFE",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/17/",
@@ -368,6 +400,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Sense 3"
@@ -376,9 +410,9 @@
         },
         {
             "id": 18,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/18/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - CAMELL",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/18/",
@@ -390,6 +424,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -398,9 +434,9 @@
         },
         {
             "id": 19,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/19/",
             "nombre": "SOFÁ CAMA 2 PLAZAS MODERN BLACK - CUERO NEGRO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/19/",
@@ -412,6 +448,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Modern black"
@@ -420,9 +458,9 @@
         },
         {
             "id": 20,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/20/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - HUESO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/20/",
@@ -434,6 +472,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -442,9 +482,9 @@
         },
         {
             "id": 21,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/21/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC SIMPL - VERDE LIMON",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/21/",
@@ -456,6 +496,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Clasic simpl"
@@ -464,9 +506,9 @@
         },
         {
             "id": 22,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/22/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - AZUL MARINO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/22/",
@@ -478,6 +520,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -486,9 +530,9 @@
         },
         {
             "id": 23,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/23/",
             "nombre": "SOFÁ CAMA 2 PLAZAS LINEAL - BEIGE",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/23/",
@@ -500,6 +544,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Lineal"
@@ -508,9 +554,9 @@
         },
         {
             "id": 24,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/24/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - AMARILLO PASTEL",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/24/",
@@ -522,6 +568,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -530,9 +578,9 @@
         },
         {
             "id": 25,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/25/",
             "nombre": "SOFÁ CAMA 2 PLAZAS LINEAL - BEIGE",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/25/",
@@ -544,6 +592,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Lineal"
@@ -552,9 +602,9 @@
         },
         {
             "id": 26,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/26/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - AMARILLO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/26/",
@@ -566,6 +616,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -574,9 +626,9 @@
         },
         {
             "id": 27,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/27/",
             "nombre": "SOFÁ CAMA 2 PLAZAS SIRIBI - LILA",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/27/",
@@ -588,6 +640,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Siribi"
@@ -596,9 +650,9 @@
         },
         {
             "id": 28,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/28/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - HUESO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/28/",
@@ -610,6 +664,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -618,9 +674,9 @@
         },
         {
             "id": 29,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/29/",
             "nombre": "SOFÁ CAMA 2 PLAZAS  MINIMAL VERDE - VERDE ESMERALDA",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/29/",
@@ -640,9 +696,9 @@
         },
         {
             "id": 30,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/30/",
             "nombre": "SOFÁ CAMA 2 PLAZAS  MODERN - GRIS PLATA",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/30/",
@@ -654,6 +710,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Modern"
@@ -662,9 +720,9 @@
         },
         {
             "id": 31,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/31/",
             "nombre": "SOFÁ CAMA 2 PLAZAS  CAPITONEADO - VERDE JADE",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/31/",
@@ -676,6 +734,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Capitoneado"
@@ -684,9 +744,9 @@
         },
         {
             "id": 32,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/32/",
             "nombre": "SOFÁ CAMA 2 PLAZAS MODERN 2 - GRIS",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/32/",
@@ -698,6 +758,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Modern 2"
@@ -706,9 +768,9 @@
         },
         {
             "id": 33,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/33/",
             "nombre": "SOFÁ CAMA 2 PLAZAS MODERN 6 - PLATA",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/33/",
@@ -720,6 +782,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Modern 6"
@@ -728,9 +792,9 @@
         },
         {
             "id": 34,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/34/",
             "nombre": "SOFÁ CAMA 2 PLAZAS SWIFT SLEEP - NEGRO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/34/",
@@ -750,9 +814,9 @@
         },
         {
             "id": 35,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/35/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - CUERO NEGRO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/35/",
@@ -764,6 +828,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "2 cuerpos",
                     "tela": "Cuero",
                     "modelo": "Capitoneado"
@@ -772,9 +838,9 @@
         },
         {
             "id": 36,
-            "categoria": "sofas",
+            "categoría": "sofas",
             "marca": "kamas",
-            "subcategoria": "juegos de sala",
+            "subcategoría": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3-2-1/kamas/36/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC - PLOMO",
             "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/36/",
@@ -786,6 +852,8 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
+                    "subcategoría": "juegos de sala",
+                    "marca": "kamas",
                     "tamaño": "3 cuerpos",
                     "tela": "Piel de potro",
                     "modelo": "Clasic"

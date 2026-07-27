@@ -3,36 +3,32 @@
         {
             "subcategorías":[
                 {
-                    "subcategoría": "Juegos de sala",
+                    "subcategoría": "juegos de sala",
                     "ruta": "/productos/sofas/juegos-de-sala/"
                 },
                 {
-                    "subcategoría": "Seccionales",
+                    "subcategoría": "seccionales",
                     "ruta": "/productos/sofas/seccionales/"
                 },
                 {
-                    "subcategoría": "Sofa cama",
+                    "subcategoría": "sofa cama",
                     "ruta": "/productos/sofas/sofa-cama/"
                 },
                 {
-                    "subcategoría": "Reclinables",
+                    "subcategoría": "reclinables",
                     "ruta": "/productos/sofas/reclinables/"
                 },
                 {
-                    "subcategoría": "Sofas y sillones",
+                    "subcategoría": "sofas y sillones",
                     "ruta": "/productos/sofas/sofas-y-sillones/"
                 },
                 {
-                    "subcategoría": "Mecedoras",
+                    "subcategoría": "mecedoras",
                     "ruta": "/productos/sofas/mecedoras/"
                 },
                 {
-                    "subcategoría": "Butacas",
+                    "subcategoría": "butacas",
                     "ruta": "/productos/sofas/butacas/"
-                },
-                {
-                    "subcategoría": "Ver todos",
-                    "ruta": "/productos/sofas/"
                 }
             ]
         }

@@ -29,7 +29,7 @@
         "/assets/json/categorias/colchones/queen/el-cisne/rc-608.json",
 
         "/assets/json/categorias/colchones/king/el-cisne/pocket-peruano.json",
-        "/assets/json/categorias/colchones/king/el-cisne/dynamic.json",
+        "/assets/json/categorias/colchones/king/el-cisne/dinamic.json",
         "/assets/json/categorias/colchones/king/el-cisne/element.json",
         "/assets/json/categorias/colchones/king/el-cisne/iconio.json",
         "/assets/json/categorias/colchones/king/el-cisne/pocket-plus.json",
@@ -155,10 +155,9 @@
         "/assets/json/categorias/colchones/king/paraiso/royal-balanzze.json",
         "/assets/json/categorias/colchones/king/paraiso/royal-abrazzo.json",
 
+        "/assets/json/categorias/colchones/1-plaza-y-media/komfort/saphir.json",
         "/assets/json/categorias/colchones/2-plazas/komfort/saphir.json",
-
         "/assets/json/categorias/colchones/queen/komfort/saphir.json",
-
         "/assets/json/categorias/colchones/king/komfort/saphir.json",
 
 
@@ -470,6 +469,8 @@
 
         "/assets/json/categorias/sofas/sofa-cama/1-plaza/kamas.json",
         "/assets/json/categorias/sofas/sofa-cama/2-plazas/kamas.json",
+
+        "/assets/json/categorias/complementos/baules/clasicos.json",
 
         "/assets/json/categorias/complementos/bases/2-plazas/kamas/americanas.json",
         "/assets/json/categorias/complementos/bases/2-plazas/kamas/europeas.json",

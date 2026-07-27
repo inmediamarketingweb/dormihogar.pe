@@ -2,7 +2,7 @@
     "productos":[
         {
             "categoria": "colchones",
-            "tamaño": "King",
+            "tamaño": "king",
             "marca": "el cisne",
             "modelo": "rc-608",
             "ruta": "/productos/colchones/king/el-cisne/rc-608/",

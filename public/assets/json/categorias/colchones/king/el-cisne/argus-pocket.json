@@ -2,7 +2,7 @@
     "productos":[
         {
             "categoria": "colchones",
-            "tamaño": "King",
+            "tamaño": "king",
             "marca": "el cisne",
             "modelo": "dynamic",
             "ruta": "/productos/colchones/king/el-cisne/dynamic/",

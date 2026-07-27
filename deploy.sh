@@ -21,6 +21,3 @@ sudo chown -R www-data:www-data /var/www/dormihogar.pe
 sudo chmod -R 777 /var/www/dormihogar.pe
 
 echo "✅ ¡Despliegue completado!"
-
-
-!/bin/bash

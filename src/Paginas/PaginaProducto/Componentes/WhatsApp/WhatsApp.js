@@ -159,7 +159,7 @@ function WhatsApp({ producto, quantity = 1, shippingInfo }) {
     return (
         <a href={getWhatsAppLink()} className="w-100 product-page-whatsapp active" target="_blank" rel="noopener noreferrer">
             <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" alt="WhatsApp | Homesleep" />
-            <p>Continuar</p>
+            <p className='button-link-text'>Comprar por WhatsApp</p>
         </a>
     );
 }

@@ -4,7 +4,7 @@
             "categoria": "colchones",
             "tamaño": "king",
             "marca": "komfort",
-            "modelo": "spahir",
+            "modelo": "saphir",
             "ruta": "/productos/colchones/king/komfort/saphir/",
             "nombre": "COLCHÓN KOMFORT KING POCKET SAPHIR",
             "fotos": "/assets/imagenes/productos/colchones/komfort/pocket-saphir/",
@@ -29,9 +29,9 @@
     "ficha":[
         {
             "marca": "Komfort",
-            "modelo-de-colchón": "Saphir",
-            "nivel-de-confort": "Intermedio",
-            "línea-de-colchón": "ortopédico",
+            "modelo-de-colchón": "saphir",
+            "nivel-de-confort": "confortable",
+            "línea-de-colchón": "ortopédicos",
             "resortes": "Pocket",
             "cantidad-de-resortes": "810 resortes pocket",
             "marco": "de espuma de poliuretano",

@@ -730,8 +730,8 @@ function PaginaProducto(){
 
                                 <Regalos producto={producto} descripcionColchon={descripcionColchon}/>
 
-                                {producto.categoria.toLowerCase() !== "colchones" && (
-                                    <Colores colorName={producto.nombre.split('-').pop().trim() || "Seleccionar color"}/>
+                                {producto.categoria?.toLowerCase() !== "colchones" && (
+                                    <Colores colorName={producto.nombre?.split('-').pop()?.trim() || "Seleccionar color"}/>
                                 )}
                             </div>
 

@@ -2,9 +2,9 @@
     "productos":[
         {
             "categoria": "colchones",
-            "tamaño": "King",
+            "tamaño": "king",
             "marca": "el cisne",
-            "modelo": "dynamic",
+            "modelo": "dinamic",
             "ruta": "/productos/colchones/king/el-cisne/dynamic/",
             "nombre": "COLCHÓN EL CISNE DYNAMIC KING",
             "fotos": "/assets/imagenes/productos/colchones/el-cisne/dynamic/",
@@ -26,7 +26,7 @@
     "ficha":[
         {
             "marca": "el cisne",
-            "modelo-de-colchón": "Dynamic",
+            "modelo-de-colchón": "dinamic",
             "resortes": "780 pocket",
             "tela": "Pique",
             "tratamiento": "Antihongos, antibacterias y antiácaros",

@@ -74,3 +74,61 @@
 .filtros-top-helpers button.active:hover span{
     color: var(--white);
 }
+
+.order-filter-container{
+    display: flex;
+    width: auto;
+    height: 40px;
+    position: relative;
+}
+
+.order-filter-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 1px solid var(--component);
+    border-radius: 3px;
+    padding: 0 5px;
+}
+
+.order-filter-button > div span{
+    font-size: 18px;
+    rotate: 90deg;
+}
+
+.order-filter-button > span{
+    font-size: 20px;
+}
+
+.order-filter-options{
+    position: absolute;
+    right: 0;
+    top: calc(100% + 5px);
+    z-index: 49;
+
+    width: 200px;
+    background: var(--white);
+    border: 1px solid var(--component);
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.order-filter-options li{
+    display: flex;
+    width: 100%;
+}
+
+.order-filter-option-button{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    transition: var(--t-200ms-linear);
+    padding: 0 10px;
+}
+
+.order-filter-options li button:hover{
+    background: var(--component);
+}

@@ -248,7 +248,7 @@ import Dormitorios from "./Paginas/Productos/Categorias/Dormitorios";
 import CamasFuncionales from './Paginas/Productos/Categorias/CamasFuncionales';
 import Cabeceras from './Paginas/Productos/Categorias/Cabeceras';
 import Sofas from './Paginas/Productos/Categorias/Sofas';
-import Complementos from './Paginas/Productos/Categorias/Complementos';
+// import Complementos from './Paginas/Productos/Categorias/Complementos';
 
 import PaginaProducto from './Paginas/PaginaProducto/PaginaProducto';
 
@@ -389,15 +389,9 @@ function App(){
                         <Route path="/productos/complementos/puff/:estilo/:marca/:id" element={<PaginaProducto />} />
                         <Route path="/productos/complementos/veladores/:marca/:id" element={<PaginaProducto />} />
 
-                        {/* 2. RUTA GENÉRICA PARA PRODUCTOS (cualquier otra URL con 5+ segmentos) */}
                         <Route path="/productos/complementos/:sub1/:sub2/:sub3/:sub4/:sub5" element={<PaginaProducto />} />
 
-                        {/* 3. RUTAS PARA LISTADOS DE CATEGORÍAS (usando el wrapper) */}
                         <Route path="/productos/complementos/*" element={<ComplementosWrapper />} />
-
-                        {/* ============================================ */}
-                        {/* FIN RUTAS DE COMPLEMENTOS */}
-                        {/* ============================================ */}
 
                         <Route path="/ofertas/" element={<Ofertas/>} />
 

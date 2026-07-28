@@ -14,6 +14,7 @@
             "precioVenta": 1399,
             "stock": 99,
             "sku": "D11311N10",
+            "tipo-de-envio": "Gratis",
             "regalos":[ "2 almohadas" ],
             "tamaños-disponibles":[
                 { "nombre": "1 plaza y media", "ruta": "H111511N10" },

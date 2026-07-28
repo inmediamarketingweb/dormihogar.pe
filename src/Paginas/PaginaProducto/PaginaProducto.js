@@ -771,11 +771,13 @@ function PaginaProducto(){
                     </div>
                 </div> */}
 
-                <Suspense fallback={
-                    <div className="loading-mas-productos">Cargando productos relacionados...</div>
-                }>
-                    <MasProductos categoriaActual={producto.categoria}/>
-                </Suspense>
+                {producto.categoria?.toLowerCase() !== "complementos" && (
+                    <Suspense fallback={
+                        <div className="loading-mas-productos">Cargando productos relacionados...</div>
+                    }>
+                        <MasProductos categoriaActual={producto.categoria}/>
+                    </Suspense>
+                )}
             </main>
         </>
     );

@@ -9,6 +9,7 @@ import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
 import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
 import Baules from './Componentes/Baules/Baules';
 import Why from './Componentes/Why/Why';
+import Marcas from '../../Componentes/Marcas/Marcas';
 
 import './PaginaPrincipal.css';
 
@@ -63,6 +64,8 @@ function PaginaPrincipal(){
                 <SobreNosotros/>
 
                 <Why/>
+
+                <Marcas/>
             </main>
         </>
     );

@@ -470,11 +470,12 @@
         "/assets/json/categorias/sofas/sofa-cama/1-plaza/kamas.json",
         "/assets/json/categorias/sofas/sofa-cama/2-plazas/kamas.json",
 
-        "/assets/json/categorias/complementos/baules/clasicos.json",
+        "/assets/json/categorias/complementos/almohadas/clasicas.json",
+        "/assets/json/categorias/complementos/almohadas/viscoelasticas.json",
 
         "/assets/json/categorias/complementos/bases/2-plazas/kamas/americanas.json",
-        "/assets/json/categorias/complementos/bases/2-plazas/kamas/europeas.json",
         "/assets/json/categorias/complementos/bases/2-plazas/kamas/europeas-con-cajones.json",
+        "/assets/json/categorias/complementos/bases/2-plazas/kamas/europeas.json",
 
         "/assets/json/categorias/complementos/bases/queen/kamas/americanas.json",
         "/assets/json/categorias/complementos/bases/queen/kamas/europeas-con-cajones.json",
@@ -483,6 +484,8 @@
         "/assets/json/categorias/complementos/bases/king/kamas/americanas-con-cajones.json",
         "/assets/json/categorias/complementos/bases/king/kamas/europeas.json",
 
+        "/assets/json/categorias/complementos/baules/clasicos.json",
+
         "/assets/json/categorias/complementos/cama-perro/s/kamas.json",
         "/assets/json/categorias/complementos/cama-perro/m/kamas.json",
         "/assets/json/categorias/complementos/cama-perro/l/kamas.json",
@@ -490,9 +493,6 @@
         "/assets/json/categorias/complementos/cama-perro/xxl/kamas.json",
 
         "/assets/json/categorias/complementos/puffs/clasicos/kamas.json",
-
-        "/assets/json/categorias/complementos/almohadas/clasicas.json",
-        "/assets/json/categorias/complementos/almohadas/viscoelasticas.json",
 
         "/assets/json/categorias/complementos/sabanas-y-cobertores/clasicas.json",
 

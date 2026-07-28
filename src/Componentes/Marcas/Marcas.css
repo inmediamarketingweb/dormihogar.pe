@@ -1,0 +1,49 @@
+.customers-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.customers-track {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+    width: max-content;
+
+    animation: customers-scroll 10ms linear infinite;
+}
+
+.customers-track li {
+    list-style: none;
+    flex-shrink: 0;
+}
+
+.customers-track a {
+    transition: var(--t-200ms-linear);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.customers-track a img {
+    width: clamp(90px, 15vw, 180px);
+    transition: var(--t-200ms-linear);
+    height: auto;
+    max-height: 50px;
+    object-fit: contain;
+}
+
+.customers-track img:hover {
+    transform: scale(1.05);
+}
+
+@keyframes customers-scroll {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}

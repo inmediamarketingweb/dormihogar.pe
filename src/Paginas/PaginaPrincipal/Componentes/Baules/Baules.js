@@ -127,6 +127,11 @@ function Baules(){
                             />
                         ))}
                     </ul>
+
+                    <a href='https://dormihogar.pe/productos/dormitorios/king/?marca=Kamas&linea-dormitorio=americanos&resorte=bonell&linea-colchon=ortop%C3%A9dicos&modelo=sarki&baul=si' title='Promoción baúles | Dormihogar' className='button-link button-link-1 margin-left'>
+                        <p className='button-link-text'>Ver promoción</p>
+                        <span class="material-symbols-outlined">arrow_outward</span>
+                    </a>
                 </div>
             </section>
         </div>

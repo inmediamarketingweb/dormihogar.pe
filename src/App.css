@@ -768,6 +768,68 @@ button{
     right: 12px;
 }
 
+.pagination-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pagination-arrow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10px; */
+}
+
+.pagination-arrow span{
+    color: var(--color-1);
+    /* font-size: 20px; */
+}
+
+.pagination-arrow p{
+    color: var(--text);
+    font-size: 13px;
+}
+
+.pagination-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+}
+
+.pagination-page{
+    width: auto;
+    height: 24px;
+    padding: 0 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--component);
+    transition: var(--t-200ms-linear);
+    border-radius: 3px;
+}
+
+.pagination-page:hover{
+    border: 1px solid var(--color-1);
+    /* color: var(--color-1); */
+}
+
+.pagination-page.active{
+    border: 1px solid var(--color-1);
+    background: var(--color-1);
+}
+
+.pagination-page p{
+    font-size: 12px;
+    transition: var(--t-200ms-linear);
+}
+
+.pagination-page.active p{
+    color: var(--white);
+}
+
 @media screen and (max-width: 800px){
     .d-grid-5-3-2fr{
         grid-template-columns: repeat(3, 1fr);

@@ -33,7 +33,7 @@ function CamasFuncionales() {
     const queryParams = useMemo(() => new URLSearchParams(location.search), [location.search]);
     const [isFiltersOpen, setIsFiltersOpen] = useState(false);
     const filtersPanelRef = useRef(null);
-    const itemsPerPage = 20;
+    const itemsPerPage = 28;
 
     const [activeFilters, setActiveFilters] = useState({
         tipo: null,

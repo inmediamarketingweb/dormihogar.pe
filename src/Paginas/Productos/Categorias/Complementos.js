@@ -26,7 +26,7 @@ function Complementos() {
     const [orden, setOrden] = useState("ultimo");
     const [isFiltersOpen, setIsFiltersOpen] = useState(false);
     const filtersPanelRef = useRef(null);
-    const itemsPerPage = 20;
+    const itemsPerPage = 28;
 
     const [viewMode, setViewMode] = useState(() => {
         const savedMode = localStorage.getItem('viewModeComplementos');

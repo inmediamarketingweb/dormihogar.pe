@@ -28,7 +28,7 @@ function Colchones() {
     const queryParams = useMemo(() => new URLSearchParams(location.search), [location.search]);
     const [isFiltersOpen, setIsFiltersOpen] = useState(false);
     const filtersPanelRef = useRef(null);
-    const itemsPerPage = 20;
+    const itemsPerPage = 28;
 
     // Estado para el modo de vista (grid o list)
     const [viewMode, setViewMode] = useState(() => {

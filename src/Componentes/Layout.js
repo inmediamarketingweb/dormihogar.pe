@@ -2,6 +2,7 @@ import { Outlet } from 'react-router-dom';
 
 import Layer from './Layer/Layer';
 import Header from './Header/Header';
+import WspBtn from './WspBtn/WspBtn';
 import Footer from './Footer/Footer';
 
 function Layout(){
@@ -12,6 +13,8 @@ function Layout(){
             <Header/>
 
             <Outlet/>
+
+            <WspBtn/>
 
             <Footer/>
         </>

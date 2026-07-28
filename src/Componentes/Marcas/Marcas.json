@@ -1,0 +1,40 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "customerName": "Kamas",
+            "customerLink": "https://www.kamas.pe",
+            "customerImage": "/assets/imagenes/componentes/distribuidores/kamas.png"
+        },
+        {
+            "id": 2,
+            "customerName": "Paraiso",
+            "customerLink": "https://www.paraiso-peru.com/",
+            "customerImage": "/assets/imagenes/componentes/distribuidores/zebra.png"
+        },
+        {
+            "id": 3,
+            "customerName": "El cisne",
+            "customerLink": "https://www.elcisne.com.pe/",
+            "customerImage": "/assets/imagenes/componentes/distribuidores/el-cisne.png"
+        },
+        {
+            "id": 4,
+            "customerName": "Bett",
+            "customerLink": "https://www.dormihogar.pe/",
+            "customerImage": "/assets/imagenes/componentes/distribuidores/bett.png"
+        },
+        {
+            "id": 5,
+            "customerName": "Komfort",
+            "customerLink": "https://www.dormihogar.pe/",
+            "customerImage": "/assets/imagenes/componentes/distribuidores/komfort.png"
+        },
+        {
+            "id": 6,
+            "customerName": "Zebra",
+            "customerLink": "https://www.paraiso-peru.com/",
+            "customerImage": "/assets/imagenes/componentes/distribuidores/zebra.png"
+        }
+    ]
+}

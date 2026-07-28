@@ -131,6 +131,11 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
+                                        <a href='https://www.instagram.com/dormihogar.pe/' target='_blank' rel="noopener noreferrer" title='Instagram | Dormihogar'>
+                                            <img src="/assets/imagenes/iconos/instagram-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en Instagram"/>
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href='https://www.tiktok.com/@dormihogar.pe' target='_blank' rel="noopener noreferrer" title='Tik Tok | Dormihogar'>
                                             <img src="/assets/imagenes/iconos/tiktok-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en TikTok"/>
                                         </a>

@@ -7,7 +7,7 @@
 .customers-track {
     display: flex;
     align-items: center;
-    gap: 40px;
+    gap: 100px;
 
     width: max-content;
 
@@ -27,15 +27,16 @@
 }
 
 .customers-track a img {
-    width: clamp(90px, 15vw, 180px);
+    width: 120px;
     transition: var(--t-200ms-linear);
     height: auto;
-    max-height: 50px;
-    object-fit: contain;
+    max-height: 60px;
+    filter: grayscale(1);
 }
 
-.customers-track img:hover {
-    transform: scale(1.05);
+.customers-track a:hover img{
+    scale: 1.05;
+    filter: grayscale(0);
 }
 
 @keyframes customers-scroll {

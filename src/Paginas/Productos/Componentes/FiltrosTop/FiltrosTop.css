@@ -11,7 +11,7 @@
     gap: 5px;
 }
 
-.filtros-top-helpers button{
+.filtros-top-helpers .toggle-btn{
     width: 40px;
     height: auto;
     aspect-ratio: 1/1;
@@ -32,16 +32,16 @@
     content: 'Lista';
 }
 
-.filtros-top-helpers button span{
+.filtros-top-helpers .toggle-btn span{
     color: var(--text);
     transition: var(--t-200ms-linear);
 }
 
-.filtros-top-helpers button:hover span{
+.filtros-top-helpers .toggle-btn:hover span{
     color: var(--color-1);
 }
 
-.filtros-top-helpers button::before{
+.filtros-top-helpers .toggle-btn::before{
     position: absolute;
     left: 0;
     top: calc(100% + 5px);
@@ -59,19 +59,19 @@
     user-select: none;
 }
 
-.filtros-top-helpers button:hover::before{
+.filtros-top-helpers .toggle-btn:hover::before{
     opacity: 1;
 }
 
-.filtros-top-helpers button.active{
+.filtros-top-helpers .toggle-btn.active{
     background: var(--color-1);
 }
 
-.filtros-top-helpers button.active span{
+.filtros-top-helpers .toggle-btn.active span{
     color: var(--white);
 }
 
-.filtros-top-helpers button.active:hover span{
+.filtros-top-helpers .toggle-btn.active:hover span{
     color: var(--white);
 }
 

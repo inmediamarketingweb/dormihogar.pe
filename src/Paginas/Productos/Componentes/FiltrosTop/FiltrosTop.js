@@ -86,6 +86,11 @@ function FiltrosTop({
     return(
         <div className='filtros-top-container'>
             <div className='filtros-top-helpers'>
+                <button type="button" className='filters-button' onClick={() => setIsFiltersOpen(true)}>
+                    <span class="material-symbols-outlined">filter_alt</span>
+                    <p className='text'>Filtros</p>
+                </button>
+
                 <button 
                     type='button' 
                     className={`toggle-btn toggle-btn-left ${currentViewMode === 'grid' ? 'active' : ''}`} 

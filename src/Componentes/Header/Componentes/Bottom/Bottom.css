@@ -28,15 +28,17 @@
     justify-content: center;
     width: 100%;
     height: 100%;
+
+    position: relative;
 }
 
-.header-bottom-categories-list li{
+.header-bottom-categories-list > li{
     display: flex;
     width: auto;
     height: 100%;
 }
 
-.header-bottom-categories-list li a{
+.header-bottom-categories-list > li > a{
     width: auto;
     height: 100%;
     padding: 0 20px;
@@ -45,11 +47,11 @@
     justify-content: center;
 }
 
-.header-bottom-categories-list li a:hover{
+.header-bottom-categories-list > li > a:hover{
     background: rgba(255 255 255/ 0.075);
 }
 
-.header-bottom-categories-list li a p{
+.header-bottom-categories-list > li > a p{
     color: var(--white);
 }
 
@@ -105,6 +107,95 @@
 
 .header-bottom-tags{
     display: none;
+}
+
+.submenu-container{
+    position: fixed;
+    left: 0;
+    top: 158px;
+
+    background: var(--header);
+    box-shadow: 0 3px 5px rgba(0 0 0 / 0.25);
+    /* border-bottom: 2px solid var(--component); */
+    transition: var(--t-200ms-linear);
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.header-bottom-categories-list li:hover .submenu-container,
+.submenu-container.active{
+    opacity: 1;
+    pointer-events: unset;
+    user-select: unset;
+}
+
+.submenu{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.submenu-tag{
+    width: 100%;
+}
+
+.submenu-tag-1 img{
+    width: 100%;
+    height: 100%;
+    max-height: 280px;
+    object-fit: cover;
+    display: flex;
+}
+
+.submenu-tag-2{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+
+.submenu-targets{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.submenu-list-container > p{
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 3px;
+}
+
+.submenu-list-container > ul{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.submenu-list-container > ul li{
+    padding-left: 7px;
+    display: flex;
+}
+
+.submenu-list-container > p::before{
+    content: '';
+    display: flex;
+    width: 3px;
+    height: 20px;
+    background: var(--color-1);
+}
+
+.submenu-list-container > ul li a p{
+    color: var(--text);
+    transition: var(--t-200ms-linear);
+}
+
+.submenu-list-container > ul li a:hover p{
+    color: var(--color-1);
 }
 
 @media screen and (max-width: 600px){

@@ -1,0 +1,489 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "Colchones",
+            "link": "/productos/colchones/",
+            "img": "/assets/imagenes/productos/colchones/cat-banner.png",
+            "img-alt": "Colchones | Dormihogar",
+            "sub-categorías":[
+                {
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "link": "/productos/colchones/?marca=paraiso",
+                            "link-title": "Colchones Paraiso | Dormihogar"
+                        },
+                        {
+                            "marca": "Kamas",
+                            "link": "/productos/colchones/?marca=kamas",
+                            "link-title": "Colchones Kamas | Dormihogar"
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "link": "/productos/colchones/?marca=el+cisne",
+                            "link-title": "Colchones El Cisne | Dormihogar"
+                        },
+                        {
+                            "marca": "Komfort",
+                            "link": "/productos/colchones/?marca=komfort",
+                            "link-title": "Colchones Komfort | Dormihogar"
+                        },
+                        {
+                            "marca": "Ver todos",
+                            "link": "/productos/colchones/",
+                            "link-title": "Colchones | Dormihogar"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "medida": "Cuna",
+                            "link": "/productos/colchones/cuna/",
+                            "link-title": "Colchones Cuna | Dormihogar"
+                        },
+                        {
+                            "medida": "1 plaza",
+                            "link": "/productos/colchones/1-plaza/",
+                            "link-title": "Colchones 1 plaza | Dormihogar"
+                        },
+                        {
+                            "medida": "1 plaza y media",
+                            "link": "/productos/colchones/1-plaza-y-media/",
+                            "link-title": "Colchones 1 plaza y media | Dormihogar"
+                        },
+                        {
+                            "medida": "2 plazas",
+                            "link": "/productos/colchones/2-plazas/",
+                            "link-title": "Colchones 2 plazas | Dormihogar"
+                        },
+                        {
+                            "medida": "Queen",
+                            "link": "/productos/colchones/queen/",
+                            "link-title": "Colchones Queen | Dormihogar"
+                        },
+                        {
+                            "medida": "King",
+                            "link": "/productos/colchones/king/",
+                            "link-title": "Colchones King | Dormihogar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "Camas box tarimas",
+            "link": "/productos/camas-box-tarimas/",
+            "img": "/assets/imagenes/productos/camas-box-tarimas/cat-banner.png",
+            "img-alt": "Camas box tarimas | Dormihogar",
+            "sub-categorías":[
+                {
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "link": "/productos/camas-box-tarimas/?marca=paraiso",
+                            "link-title": "Camas box tarimas Paraiso | Dormihogar"
+                        },
+                        {
+                            "marca": "Kamas",
+                            "link": "/productos/camas-box-tarimas/?marca=kamas",
+                            "link-title": "Camas box tarimas Kamas | Dormihogar"
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "link": "/productos/camas-box-tarimas/?marca=el+cisne",
+                            "link-title": "Camas box tarimas El Cisne | Dormihogar"
+                        },
+                        {
+                            "marca": "Komfort",
+                            "link": "/productos/camas-box-tarimas/?marca=komfort",
+                            "link-title": "Camas box tarimas Komfort | Dormihogar"
+                        },
+                        {
+                            "marca": "Ver todos",
+                            "link": "/productos/camas-box-tarimas/",
+                            "link-title": "Camas box tarimas | Dormihogar"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "medida": "1 plaza y media",
+                            "link": "/productos/camas-box-tarimas/1-plaza-y-media/",
+                            "link-title": "Camas box tarimas 1 plaza y media | Dormihogar"
+                        },
+                        {
+                            "medida": "2 plazas",
+                            "link": "/productos/camas-box-tarimas/2-plazas/",
+                            "link-title": "Camas box tarimas 2 plazas | Dormihogar"
+                        },
+                        {
+                            "medida": "Queen",
+                            "link": "/productos/camas-box-tarimas/queen/",
+                            "link-title": "Camas box tarimas Queen | Dormihogar"
+                        },
+                        {
+                            "medida": "King",
+                            "link": "/productos/camas-box-tarimas/king/",
+                            "link-title": "Camas box tarimas King | Dormihogar"
+                        },
+                        {
+                            "medida": "Ver todos",
+                            "link": "/productos/camas-box-tarimas/",
+                            "link-title": "Camas box tarimas | Dormihogar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "Dormitorios",
+            "link": "/productos/dormitorios/",
+            "img": "/assets/imagenes/productos/dormitorios/cat-banner.png",
+            "img-alt": "Dormitorios | Dormihogar",
+            "sub-categorías":[
+                {
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "link": "/productos/dormitorios/?marca=paraiso",
+                            "link-title": "Dormitorios Paraiso | Dormihogar"
+                        },
+                        {
+                            "marca": "Kamas",
+                            "link": "/productos/dormitorios/?marca=kamas",
+                            "link-title": "Dormitorios Kamas | Dormihogar"
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "link": "/productos/dormitorios/?marca=el+cisne",
+                            "link-title": "Dormitorios El Cisne | Dormihogar"
+                        },
+                        {
+                            "marca": "Komfort",
+                            "link": "/productos/dormitorios/?marca=komfort",
+                            "link-title": "Dormitorios Komfort | Dormihogar"
+                        },
+                        {
+                            "marca": "Ver todos",
+                            "link": "/productos/dormitorios/",
+                            "link-title": "Dormitorios | Dormihogar"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "medida": "1 plaza y media",
+                            "link": "/productos/dormitorios/1-plaza-y-media/",
+                            "link-title": "Dormitorios 1 plaza y media | Dormihogar"
+                        },
+                        {
+                            "medida": "2 plazas",
+                            "link": "/productos/dormitorios/2-plazas/",
+                            "link-title": "Dormitorios 2 plazas | Dormihogar"
+                        },
+                        {
+                            "medida": "Queen",
+                            "link": "/productos/dormitorios/queen/",
+                            "link-title": "Dormitorios Queen | Dormihogar"
+                        },
+                        {
+                            "medida": "King",
+                            "link": "/productos/dormitorios/king/",
+                            "link-title": "Dormitorios King | Dormihogar"
+                        },
+                        {
+                            "medida": "4 plazas",
+                            "link": "/productos/dormitorios/4-plazas/",
+                            "link-title": "Dormitorios 4 plazas | Dormihogar"
+                        },
+                        {
+                            "medida": "Ver todos",
+                            "link": "/productos/dormitorios/",
+                            "link-title": "Dormitorios | Dormihogar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "Camas funcionales",
+            "link": "/productos/camas-funcionales/",
+            "img": "/assets/imagenes/productos/camas-funcionales/cat-banner.png",
+            "img-alt": "Camas funcionales | Dormihogar",
+            "sub-categorías":[
+                {
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "link": "/productos/camas-funcionales/?marca=paraiso",
+                            "link-title": "Camas funcionales Paraiso | Dormihogar"
+                        },
+                        {
+                            "marca": "Kamas",
+                            "link": "/productos/camas-funcionales/?marca=kamas",
+                            "link-title": "Camas funcionales Kamas | Dormihogar"
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "link": "/productos/camas-funcionales/?marca=el+cisne",
+                            "link-title": "Camas funcionales El Cisne | Dormihogar"
+                        },
+                        {
+                            "marca": "Komfort",
+                            "link": "/productos/camas-funcionales/?marca=komfort",
+                            "link-title": "Camas funcionales Komfort | Dormihogar"
+                        },
+                        {
+                            "marca": "Ver todos",
+                            "link": "/productos/camas-funcionales/",
+                            "link-title": "Camas funcionales | Dormihogar"
+                        }
+                    ]
+                },
+                {
+                    "Modelos":[
+                        {
+                            "medida": "Box espacios",
+                            "link": "/productos/camas-funcionales/box-espacio/",
+                            "link-title": "Box espacios | Dormihogar"
+                        },
+                        {
+                            "medida": "Cama divan",
+                            "link": "/productos/camas-funcionales/cama-divan/",
+                            "link-title": "Box espacios | Dormihogar"
+                        },
+                        {
+                            "medida": "Camarotes",
+                            "link": "/productos/camas-funcionales/camarotes/",
+                            "link-title": "Camarotes | Dormihogar"
+                        },
+                        {
+                            "medida": "Cunas",
+                            "link": "/productos/camas-funcionales/cunas/",
+                            "link-title": "Cunas | Dormihogar"
+                        },
+                        {
+                            "medida": "Camas infantiles",
+                            "link": "/productos/camas-funcionales/camas-infantiles/",
+                            "link-title": "Camas infantiles | Dormihogar"
+                        },
+                        {
+                            "medida": "Ver todos",
+                            "link": "/productos/camas-funcionales/",
+                            "link-title": "Camas funcionales | Dormihogar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "Cabeceras",
+            "link": "/productos/cabeceras/",
+            "img": "/assets/imagenes/productos/cabeceras/cat-banner.png",
+            "img-alt": "Cabeceras | Dormihogar",
+            "sub-categorías":[
+                {
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "link": "/productos/cabeceras/?marca=paraiso",
+                            "link-title": "Cabeceras Paraiso | Dormihogar"
+                        },
+                        {
+                            "marca": "Kamas",
+                            "link": "/productos/cabeceras/?marca=kamas",
+                            "link-title": "Cabeceras Kamas | Dormihogar"
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "link": "/productos/cabeceras/?marca=el+cisne",
+                            "link-title": "Cabeceras El Cisne | Dormihogar"
+                        },
+                        {
+                            "marca": "Komfort",
+                            "link": "/productos/cabeceras/?marca=komfort",
+                            "link-title": "Cabeceras Komfort | Dormihogar"
+                        },
+                        {
+                            "marca": "Ver todos",
+                            "link": "/productos/cabeceras/",
+                            "link-title": "Cabeceras | Dormihogar"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "medida": "1 plaza y media",
+                            "link": "/productos/cabeceras/1-plaza-y-media/",
+                            "link-title": "Cabeceras 1 plaza y media | Dormihogar"
+                        },
+                        {
+                            "medida": "2 plazas",
+                            "link": "/productos/cabeceras/2-plazas/",
+                            "link-title": "Cabeceras 2 plazas | Dormihogar"
+                        },
+                        {
+                            "medida": "Queen",
+                            "link": "/productos/cabeceras/queen/",
+                            "link-title": "Cabeceras Queen | Dormihogar"
+                        },
+                        {
+                            "medida": "King",
+                            "link": "/productos/cabeceras/king/",
+                            "link-title": "Cabeceras King | Dormihogar"
+                        },
+                        {
+                            "medida": "Ver todos",
+                            "link": "/productos/cabeceras/",
+                            "link-title": "Cabeceras | Dormihogar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "Sofás",
+            "link": "/productos/sofas/",
+            "img": "/assets/imagenes/productos/sofas/cat-banner.png",
+            "img-alt": "Sofás | Dormihogar",
+            "sub-categorías":[
+                {
+                    "marcas":[
+                        {
+                            "marca": "Paraiso",
+                            "link": "/productos/sofas/?marca=paraiso",
+                            "link-title": "Camas funcionales Paraiso | Dormihogar"
+                        },
+                        {
+                            "marca": "Kamas",
+                            "link": "/productos/sofas/?marca=kamas",
+                            "link-title": "Camas funcionales Kamas | Dormihogar"
+                        },
+                        {
+                            "marca": "El Cisne",
+                            "link": "/productos/sofas/?marca=el+cisne",
+                            "link-title": "Camas funcionales El Cisne | Dormihogar"
+                        },
+                        {
+                            "marca": "Komfort",
+                            "link": "/productos/sofas/?marca=komfort",
+                            "link-title": "Camas funcionales Komfort | Dormihogar"
+                        },
+                        {
+                            "marca": "Ver todos",
+                            "link": "/productos/sofas/",
+                            "link-title": "Sofás | Dormihogar"
+                        }
+                    ]
+                },
+                {
+                    "Modelos":[
+                        {
+                            "medida": "Juegos de sala",
+                            "link": "/productos/sofas/juegos-de-sala/",
+                            "link-title": "Juegos de sala | Dormihogar"
+                        },
+                        {
+                            "medida": "Seccionales",
+                            "link": "/productos/sofas/seccionales/",
+                            "link-title": "Seccionales | Dormihogar"
+                        },
+                        {
+                            "medida": "Sofá cama",
+                            "link": "/productos/sofas/sofa-cama/",
+                            "link-title": "Sofá cama | Dormihogar"
+                        },
+                        {
+                            "medida": "Reclinables",
+                            "link": "/productos/sofas/reclinables/",
+                            "link-title": "Reclinables | Dormihogar"
+                        },
+                        {
+                            "medida": "Sofás y sillones",
+                            "link": "/productos/sofas/sofas-y-sillones/",
+                            "link-title": "Sofás y sillones | Dormihogar"
+                        },
+                        {
+                            "medida": "Mecedoras",
+                            "link": "/productos/sofas/mecedoras/",
+                            "link-title": "Mecedoras | Dormihogar"
+                        },
+                        {
+                            "medida": "Butacas",
+                            "link": "/productos/sofas/butacas/",
+                            "link-title": "Butacas | Dormihogar"
+                        },
+                        {
+                            "medida": "Ver todos",
+                            "link": "/productos/sofas/",
+                            "link-title": "Sofás | Dormihogar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "Complementos",
+            "link": "/productos/complementos/",
+            "img": "/assets/imagenes/productos/complementos/cat-banner.png",
+            "img-alt": "Complementos | Dormihogar",
+            "sub-categorías":[
+                {
+                    "Modelos":[
+                        {
+                            "medida": "Veladores",
+                            "link": "/productos/complementos/veladores/",
+                            "link-title": "Veladores | Dormihogar"
+                        },
+                        {
+                            "medida": "Baúles",
+                            "link": "/productos/complementos/baules/",
+                            "link-title": "Baúles | Dormihogar"
+                        },
+                        {
+                            "medida": "Bases",
+                            "link": "/productos/complementos/bases/",
+                            "link-title": "Bases | Dormihogar"
+                        },
+                        {
+                            "medida": "Puffs",
+                            "link": "/productos/complementos/puffs/",
+                            "link-title": "Puffs | Dormihogar"
+                        },
+                        {
+                            "medida": "Almohadas",
+                            "link": "/productos/complementos/almohadas/",
+                            "link-title": "Almohadas | Dormihogar"
+                        },
+                        {
+                            "medida": "Sábanas y cobertores",
+                            "link": "/productos/complementos/sabanas-y-cobertores/",
+                            "link-title": "Sábanas y cobertores | Dormihogar"
+                        },
+                        {
+                            "medida": "Cama perro",
+                            "link": "/productos/complementos/cama-perro/",
+                            "link-title": "Cama perro | Dormihogar"
+                        },
+                        {
+                            "medida": "Ver todos",
+                            "link": "/productos/complementos/",
+                            "link-title": "Complementos | Dormihogar"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

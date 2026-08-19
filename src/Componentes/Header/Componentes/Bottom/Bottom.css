@@ -113,6 +113,7 @@
     position: fixed;
     left: 0;
     top: 158px;
+    width: 100vw;
 
     background: var(--header);
     box-shadow: 0 3px 5px rgba(0 0 0 / 0.25);
@@ -132,6 +133,9 @@
 }
 
 .submenu{
+    margin: auto;
+    width: 100%;
+    max-width: var(--content-mx-width-header);
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }

@@ -35,11 +35,11 @@ function Footer(){
                                         <p>Agencias recomendadas</p>
                                     </a>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <a href='/envios/envios-a-lima-y-callao/' title='Envios a Lima y Callao | Dormihogar'>
                                         <p>Envios a Lima y Callao</p>
                                     </a>
-                                </li>
+                                </li> */}
                                 <li>
                                     <a href='/envios/envios-a-provincia/' title='Envios a provincia | Dormihogar'>
                                         <p>Envios a provincia</p>

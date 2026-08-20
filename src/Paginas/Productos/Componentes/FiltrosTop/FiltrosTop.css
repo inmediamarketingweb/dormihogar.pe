@@ -107,7 +107,7 @@
     top: calc(100% + 5px);
     z-index: 49;
 
-    width: 200px;
+    width: 250px;
     background: var(--white);
     border: 1px solid var(--component);
     overflow: hidden;
@@ -127,6 +127,7 @@
     justify-content: left;
     transition: var(--t-200ms-linear);
     padding: 0 10px;
+    gap: 10px;
 }
 
 .order-filter-options li button:hover{

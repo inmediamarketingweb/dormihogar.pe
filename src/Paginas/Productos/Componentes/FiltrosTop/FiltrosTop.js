@@ -4,19 +4,19 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import './FiltrosTop.css';
 
 function FiltrosTop({ 
-    setOrden, 
-    orden, 
-    toggleFiltro, 
-    isFiltroActivo, 
-    setIsFiltersOpen, 
-    isFiltersOpen, 
-    productosCount, 
-    totalProductos, 
-    currentPage, 
-    totalPages, 
-    onPageChange, 
-    onPreviousPage, 
-    onNextPage, 
+    setOrden,
+    orden,
+    toggleFiltro,
+    isFiltroActivo,
+    setIsFiltersOpen,
+    isFiltersOpen,
+    productosCount,
+    totalProductos,
+    currentPage,
+    totalPages,
+    onPageChange,
+    onPreviousPage,
+    onNextPage,
     getVisiblePages,
     viewMode,
     setViewMode
@@ -30,11 +30,8 @@ function FiltrosTop({
     });
 
     const [isOrderDropdownOpen, setIsOrderDropdownOpen] = useState(false);
-
-    // Usar props si existen, si no usar estado interno
     const currentViewMode = viewMode !== undefined ? viewMode : internalViewMode;
     
-    // Obtener el orden de la URL al cargar
     useEffect(() => {
         const ordenParam = searchParams.get('orden');
         if (ordenParam && setOrden) {
@@ -48,7 +45,6 @@ function FiltrosTop({
         localStorage.setItem('viewMode', mode);
     };
 
-    // Función para actualizar la URL
     const updateURL = (nuevoOrden) => {
         const params = new URLSearchParams(searchParams);
         
@@ -62,7 +58,6 @@ function FiltrosTop({
         navigate(newURL, { replace: true });
     };
 
-    // Manejador para el cambio de orden
     const handleOrdenChange = (nuevoOrden) => {
         if (setOrden) {
             setOrden(nuevoOrden);
@@ -71,7 +66,6 @@ function FiltrosTop({
         }
     };
 
-    // Obtener el texto del orden actual
     const getOrdenTexto = () => {
         switch(orden) {
             case 'menor-mayor':
@@ -91,61 +85,42 @@ function FiltrosTop({
                     <p className='text'>Filtros</p>
                 </button>
 
-                <button 
-                    type='button' 
-                    className={`toggle-btn toggle-btn-left ${currentViewMode === 'grid' ? 'active' : ''}`} 
-                    onClick={() => handleViewChange('grid')}
-                    aria-label="Vista en cuadrícula"
-                >
+                <button type='button' className={`toggle-btn toggle-btn-left ${currentViewMode === 'grid' ? 'active' : ''}`}  onClick={() => handleViewChange('grid')} aria-label="Vista en cuadrícula">
                     <span className="material-symbols-outlined">grid_view</span>
                 </button>
 
-                <button 
-                    type='button' 
-                    className={`toggle-btn toggle-btn-right ${currentViewMode === 'list' ? 'active' : ''}`} 
-                    onClick={() => handleViewChange('list')} 
-                    aria-label="Vista en lista"
-                >
+                <button type='button' className={`toggle-btn toggle-btn-right ${currentViewMode === 'list' ? 'active' : ''}`} onClick={() => handleViewChange('list')} aria-label="Vista en lista">
                     <span className="material-symbols-outlined">list</span>
                 </button>
             </div>
 
             <div className="order-filter-container">
-                <button 
-                    type='button' 
-                    className={`order-filter-button ${orden && orden !== 'ultimo' ? 'has-selection' : ''}`}
-                    onClick={() => setIsOrderDropdownOpen(!isOrderDropdownOpen)}
-                >
+                <button type='button' className={`order-filter-button ${orden && orden !== 'ultimo' ? 'has-selection' : ''}`} onClick={() => setIsOrderDropdownOpen(!isOrderDropdownOpen)}>
                     <div className='d-flex-center-center gap-5'>
                         <span className="material-symbols-outlined">sync_alt</span>
                         <p className='text'>{getOrdenTexto()}</p>
                     </div>
 
-                    <span className={`material-symbols-outlined ${isOrderDropdownOpen ? 'rotated' : ''}`}>
-                        keyboard_arrow_down
-                    </span>
+                    <span className={`material-symbols-outlined ${isOrderDropdownOpen ? 'rotated' : ''}`}>keyboard_arrow_down</span>
                 </button>
 
                 {isOrderDropdownOpen && (
                     <ul className='order-filter-options'>
                         <li>
-                            <button 
-                                className={`order-filter-option-button ${orden === 'ultimo' || !orden ? 'active' : ''}`}
-                                onClick={() => handleOrdenChange('ultimo')}
-                            >
+                            <button className={`order-filter-option-button ${orden === 'ultimo' || !orden ? 'active' : ''}`} onClick={() => handleOrdenChange('ultimo')}>
+                                <span class="material-symbols-outlined">history_2</span>
                                 <p className='text'>Más recientes</p>
                             </button>
                         </li>
                         <li>
-                            <button 
-                                className={`order-filter-option-button ${orden === 'menor-mayor' ? 'active' : ''}`}
-                                onClick={() => handleOrdenChange('menor-mayor')}
-                            >
+                            <button className={`order-filter-option-button ${orden === 'menor-mayor' ? 'active' : ''}`} onClick={() => handleOrdenChange('menor-mayor')}>
+                                <span class="material-symbols-outlined">trending_up</span>
                                 <p className='text'>Menor a mayor precio</p>
                             </button>
                         </li>
                         <li>
                             <button className={`order-filter-option-button ${orden === 'mayor-menor' ? 'active' : ''}`} onClick={() => handleOrdenChange('mayor-menor')}>
+                                <span class="material-symbols-outlined">trending_down</span>
                                 <p className='text'>Mayor a menor precio</p>
                             </button>
                         </li>

@@ -9,6 +9,7 @@ import BtnGeneral from './Componentes/BtnGeneral/BtnGeneral';
 import FiltrosTop from '../Componentes/FiltrosTop/FiltrosTop';
 import { Producto } from '../../../Componentes/Plantillas/Producto/Producto';
 import { usePagination } from '../../../Hooks/usePagination';
+import RangoPrecios from './Componentes/RangoPrecios/RangoPrecios';
 
 const normalizarTexto = (texto) => {
     if (!texto || typeof texto !== 'string') {
@@ -30,7 +31,6 @@ function Colchones() {
     const filtersPanelRef = useRef(null);
     const itemsPerPage = 28;
 
-    // Estado para el modo de vista (grid o list)
     const [viewMode, setViewMode] = useState(() => {
         const savedMode = localStorage.getItem('viewMode');
         return savedMode || 'grid';
@@ -49,12 +49,7 @@ function Colchones() {
     const [filtroSkus, setFiltroSkus] = useState(null);
     const [resetFiltersTrigger, setResetFiltersTrigger] = useState(false);
 
-    const scrollToTop = () => {
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-        });
-    };
+    // scrollToTop eliminado - ya no se usa
 
     const closeFilters = () => {
         setIsFiltersOpen(false);
@@ -87,7 +82,7 @@ function Colchones() {
 
         if (hasChanges) {
             setActiveFilters(newActiveFilters);
-            scrollToTop();
+            // scrollToTop() eliminado
         }
     }, [location.search]);
 
@@ -341,7 +336,7 @@ function Colchones() {
         const newPath = location.pathname + (newSearch ? `?${newSearch}` : '');
         navigate(newPath, { replace: true });
         
-        scrollToTop();
+        // scrollToTop() eliminado
     };
 
     const handleFilterChange = (filterType, value) => {
@@ -371,7 +366,7 @@ function Colchones() {
                 const newPath = location.pathname + (newSearch ? `?${newSearch}` : '');
                 navigate(newPath, { replace: true });
                 
-                scrollToTop();
+                // scrollToTop() eliminado
                 
                 return newFilters;
             }
@@ -419,17 +414,17 @@ function Colchones() {
             
             return newFilters;
         });
-        scrollToTop();
+        // scrollToTop() eliminado
     };
 
     const handleFiltroSkus = (skus) => {
         setFiltroSkus(skus);
-        scrollToTop();
+        // scrollToTop() eliminado
     };
 
     const handleEnvioGratis = (activo) => {
         setEnvioGratisActivo(activo);
-        scrollToTop();
+        // scrollToTop() eliminado
     };
 
     const isFiltroActivo = (nombreFiltro, valor) => {
@@ -443,10 +438,11 @@ function Colchones() {
         handleFilterChange(stateKey, isActive ? null : valor);
     };
 
-    const productosFiltrados = useMemo(() => {
+    // Primero aplicar todos los filtros excepto precio
+    const productosFiltradosBase = useMemo(() => {
         if (productos.length === 0) return [];
 
-        const filtrados = productos.filter(producto => {
+        return productos.filter(producto => {
             let cumpleTodosLosFiltros = true;
 
             if (envioGratisActivo) {
@@ -508,9 +504,30 @@ function Colchones() {
 
             return cumpleTodosLosFiltros;
         });
-
-        return filtrados;
     }, [productos, activeFilters, envioGratisActivo, filtroSkus]);
+
+    // Luego aplicar el filtro de precio
+    const productosFiltrados = useMemo(() => {
+        const params = new URLSearchParams(location.search);
+        const precioMin = params.get('min'); // Cambiado de 'precio-min' a 'min'
+        const precioMax = params.get('max'); // Cambiado de 'precio-max' a 'max'
+        
+        if (precioMin === null || precioMax === null) {
+            return productosFiltradosBase;
+        }
+
+        const min = parseInt(precioMin);
+        const max = parseInt(precioMax);
+
+        if (isNaN(min) || isNaN(max)) {
+            return productosFiltradosBase;
+        }
+
+        return productosFiltradosBase.filter(producto => {
+            const precio = producto.precioVenta;
+            return precio >= min && precio <= max;
+        });
+    }, [productosFiltradosBase, location.search]);
 
     const productosOrdenados = useMemo(() => {
         return [...productosFiltrados].sort((a, b) => {
@@ -538,8 +555,8 @@ function Colchones() {
 
     useEffect(() => {
         resetPage();
-        scrollToTop();
-    }, [activeFilters, envioGratisActivo, filtroSkus, orden]);
+        // scrollToTop() eliminado
+    }, [activeFilters, envioGratisActivo, filtroSkus, orden, location.search]);
 
     const productosPagina = productosOrdenados.slice(startIndex, endIndex);
 
@@ -556,10 +573,16 @@ function Colchones() {
         setFiltroSkus(null);
         setEnvioGratisActivo(false);
         resetPage();
-        navigate(location.pathname);
-        setResetFiltersTrigger(true);
         
-        scrollToTop();
+        // Limpiar también los filtros de precio de la URL
+        const params = new URLSearchParams(location.search);
+        params.delete('min'); // Cambiado de 'precio-min' a 'min'
+        params.delete('max'); // Cambiado de 'precio-max' a 'max'
+        const newSearch = params.toString();
+        const newPath = location.pathname + (newSearch ? `?${newSearch}` : '');
+        navigate(newPath, { replace: true });
+        
+        setResetFiltersTrigger(true);
         
         setTimeout(() => {
             setResetFiltersTrigger(false);
@@ -674,7 +697,7 @@ function Colchones() {
                                         to={finalUrl}
                                         className={isActive ? 'active' : ''}
                                         title={`Ver productos tamaño ${item.tamaño}`}
-                                        onClick={scrollToTop}
+                                        // onClick={scrollToTop} eliminado
                                     >
                                         <span></span>
                                         <p>{item.tamaño}</p>
@@ -929,19 +952,15 @@ function Colchones() {
                                     <div className='d-flex-center-left gap-5'>
                                         <span className="material-symbols-outlined">filter_alt</span>
                                         <p className='text title'>Filtros</p>
+
                                         {(activeFilters.tamaño || activeFilters.marca || activeFilters.resorte || 
                                           activeFilters.lineaColchon || activeFilters.nivelConfort || activeFilters.modelo ||
                                           filtroSkus || envioGratisActivo) && (
-                                            <button 
-                                                type="button" 
-                                                className="limpiar-filtros-btn" 
-                                                onClick={limpiarFiltros}
-                                                style={{ marginLeft: '10px', fontSize: '12px', color: 'var(--color-1)' }}
-                                            >
-                                                Limpiar filtros
-                                            </button>
+                                            <button type="button" className="limpiar-filtros-btn" onClick={limpiarFiltros} style={{ marginLeft: '10px', fontSize: '12px', color: 'var(--color-1)' }}>Limpiar filtros</button>
                                         )}
                                     </div>
+
+                                    <RangoPrecios productos={productosFiltrados} loading={loading}/>
 
                                     <div className='prds-filters-container'>
                                         {renderTamañosFilters()}
@@ -950,9 +969,14 @@ function Colchones() {
                                     </div>
                                 </div>
 
-                                <a href='/' title='Promo del mes | Dormihogar' className='d-flex w-100 border-r-6 overflow-hidden'>
+                                {/* <button type='button' className='button-link button-link-2'>
+                                    <span class="material-symbols-outlined">delete</span>
+                                    <p className='button-link-text'>Limpiar filtros</p>
+                                </button> */}
+
+                                {/* <a href='/' title='Promo del mes | Dormihogar' className='d-flex w-100 border-r-6 overflow-hidden'>
                                     <img className='d-flex w-100' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__S5c-OF91SI1JrkskfFo5_DXbueZkXzbz4OTtzUN_nMO5DCp2F-11GMj&s=10' alt=''/>
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                     </div>
@@ -1017,11 +1041,7 @@ function Colchones() {
                                                 {getVisiblePages().map((page, index) => 
                                                     typeof page === 'number' ? (
                                                         <li key={index}>
-                                                            <button 
-                                                                type='button'
-                                                                className={`pagination-page ${currentPage === page ? 'active' : ''}`}
-                                                                onClick={() => handlePageChange(page)}
-                                                            >
+                                                            <button type='button' className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>
                                                                 <p>{page}</p>
                                                             </button>
                                                         </li>

@@ -60,7 +60,22 @@ function Bottom({ isMenuOpen, favoritesCount, onOpenLocationModal }) {
     }
 
     if (!menuData || !networks) {
-        return <div className="loading">Cargando...</div>;
+        return <div className="menu-cat-loading">
+            <div className='d-flex-center-left gap-5'>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <div className='d-flex-center-center gap-5'>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>;
     }
 
     const socialIcons = {

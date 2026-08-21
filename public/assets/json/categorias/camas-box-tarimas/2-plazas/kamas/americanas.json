@@ -3,6 +3,168 @@
         {
             "categoria": "camas box tarimas",
             "marca": "kamas",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/40/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADA + BAÚL + 2 PUFF - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/2-plazas/aereas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 1099,
+            "precioNormal": 1529,
+            "precioVenta": 1119,
+            "stock": 12,
+            "sku": "D222213N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/41/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL  - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/2-plazas/aereas-con-patas/americanas/brazos-rectos/capitoneado/2/",
+            "precioRegular": 1099,
+            "precioNormal": 1089,
+            "precioVenta": 859,
+            "stock": 12,
+            "sku": "D2222113N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/42/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/2-plazas/aereas-con-patas/americanas/sin-brazos/capitoneado/9/",
+            "precioRegular": 1099,
+            "precioNormal": 1149,
+            "precioVenta": 879,
+            "stock": 12,
+            "sku": "D2222113N21",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/43/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/2-plazas/aereas-con-patas/americanas/sin-brazos/capitoneado/10/",
+            "precioRegular": 1099,
+            "precioNormal": 1279,
+            "precioVenta": 969,
+            "stock": 12,
+            "sku": "D2222113N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/44/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ + BAÚL + 2 PUFF - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/15/",
+            "precioRegular": 1099,
+            "precioNormal": 1449,
+            "precioVenta": 1119,
+            "stock": 12,
+            "sku": "D222223N24",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/kamas/americanas/2-plazas/45/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ + BAÚL + 2 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/16/",
+            "precioRegular": 1099,
+            "precioNormal": 1449,
+            "precioVenta": 1119,
+            "stock": 12,
+            "sku": "D222223N25",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/kamas/americanas/1/",

@@ -598,34 +598,6 @@
             "subcategoría": "box espacio",
             "línea": "americanos",
             "tamaño": "2 plazas",
-            "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/americanos/20/",
-            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - TURQUESA",
-            "fotos": "/assets/imagenes/productos/camas-funcionales/kamas/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/9/",
-            "precioRegular": 1549,
-            "precioNormal": 1359,
-            "precioVenta": 1129,
-            "stock": 14,
-            "sku": "K41212N18",
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanos",
-                    "tamaño": "2 plazas",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ]
-        },
-        {
-            "categoría": "camas funcionales",
-            "subcategoría": "box espacio",
-            "línea": "americanos",
-            "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/americanos/21/",
             "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CORONA - MORO",
             "fotos": "/assets/imagenes/productos/camas-funcionales/kamas/box-espacios/americanos/2-plazas/pedestales/coronas/sin-brazos/corona/1/",

@@ -117,90 +117,6 @@
             "marca": "kamas",
             "línea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/9/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CAPITONEADA - COBALTO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
-            "precioRegular": 2299,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
-            "stock": 15,
-            "sku": "D2242113N11",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/10/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CAPITONEADA - PLOMO OSCURO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
-            "precioRegular": 2299,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
-            "stock": 15,
-            "sku": "D2242113N12",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/11/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
-            "precioRegular": 2299,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
-            "stock": 15,
-            "sku": "D2242113N13",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/12/",
             "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
@@ -481,34 +397,6 @@
             "marca": "kamas",
             "línea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/36/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 - GRIS OSCURO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/7/",
-            "precioRegular": 2299,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
-            "stock": 15,
-            "sku": "D231113N16",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/39/",
             "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 1 - CENIZO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/11/",
@@ -517,34 +405,6 @@
             "precioVenta": 1099,
             "stock": 15,
             "sku": "D231113N19",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/40/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER BEIGE - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/12/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 15,
-            "sku": "D231113N20",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -593,62 +453,6 @@
             "marca": "kamas",
             "línea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/42/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER - COBALTO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/14/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 15,
-            "sku": "D231113N22",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/43/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER - AZUL NOCHE",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/15/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 15,
-            "sku": "D231113N23",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/44/",
             "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER - BEIGE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/16/",
@@ -657,90 +461,6 @@
             "precioVenta": 1449,
             "stock": 15,
             "sku": "D231113N24",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/45/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/17/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 15,
-            "sku": "D231113N25",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/50/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER - GRIS",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/21/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 15,
-            "sku": "D231113N29",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/50/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER - ROSADO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/22/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 15,
-            "sku": "D231113N30",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -797,34 +517,6 @@
             "precioVenta": 1449,
             "stock": 15,
             "sku": "D231113N32",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/54/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR SHELTER - BEIGE",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/26/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 15,
-            "sku": "D231113N34",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -957,34 +649,6 @@
             "marca": "kamas",
             "línea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/61/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR MADERA - COBALTO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/33/",
-            "precioRegular": 2999,
-            "precioNormal": 2619,
-            "precioVenta": 1849,
-            "stock": 15,
-            "sku": "D231113N41",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/62/",
             "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR MADERA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/34/",
@@ -1005,62 +669,6 @@
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/63/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 1 - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
-            "precioRegular": 2299,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
-            "stock": 15,
-            "sku": "D231113N43",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/64/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 1 - AZUL NOCHE",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/2/",
-            "precioRegular": 2299,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
-            "stock": 15,
-            "sku": "D231113N44",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 1"
                 }
             ]
         },
@@ -1133,34 +741,6 @@
             "precioVenta": 1099,
             "stock": 15,
             "sku": "D231113N49",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas/70/",
-            "nombre": "CAMA BOX TARIMA KING KAMAS AMERICANA KING + CABECERA AÉREA CUADROS 1 - CUERO CAMELL",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/8/",
-            "precioRegular": 2299,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
-            "stock": 15,
-            "sku": "D231113N50",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {

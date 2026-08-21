@@ -10,7 +10,31 @@
             "garantía": "2 años"
         }
     ],
+    "americana":[
+        {
+            "madera": "Pino americano seco al horno.",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "tapizado": "En tela de algodón",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
     "americano-con-cajones":[
+        {
+            "madera": "Pino americano seco al horno.",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "cajones": "melamina 18mm",
+            "rieles": "telescópicos pesados",
+            "tapizado": "En tela de algodón",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
+    "americana-con-cajones":[
         {
             "madera": "Pino americano seco al horno.",
             "refuerzos": "Centrales y laterales.",
@@ -35,7 +59,33 @@
             "garantía": "2 años"
         }
     ],
+    "europea":[
+        {
+            "madera": "Pino americano seco al horno",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "tapizado": "En tela de algodón",
+            "bordes": "En espuma zebra de alta densidad",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
     "europeo-con-cajones":[
+        {
+            "madera": "Pino americano seco al horno",
+            "refuerzos": "Centrales y laterales.",
+            "láminas": "MDF de 3mm.",
+            "cajones": "melamina 18mm",
+            "rieles": "telescópicos pesados",
+            "tapizado": "En tela de algodón",
+            "bordes": "En espuma zebra de alta densidad",
+            "tratamiento": "Hipoalergénico",
+            "patas": "Cromadas o de madera",
+            "garantía": "2 años"
+        }
+    ],
+    "europea-con-cajones":[
         {
             "madera": "Pino americano seco al horno",
             "refuerzos": "Centrales y laterales.",

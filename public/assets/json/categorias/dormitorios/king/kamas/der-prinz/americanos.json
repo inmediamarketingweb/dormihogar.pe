@@ -363,6 +363,171 @@
                     "modelo-de-cabecera": "Lineal 6"
                 }
             ]
+        },
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA EGYPT 4 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/egypt-4/1/",
+            "precioRegular": 3449,
+            "precioNormal": 2799,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "D3124256N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt 4"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA GIRASOL - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/girasol/1/",
+            "precioRegular": 3449,
+            "precioNormal": 2799,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "D3124256N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "girasol"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA REPTILIAN - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/reptilian/1/",
+            "precioRegular": 3449,
+            "precioNormal": 2799,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "D3124256N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA REPTILIAN - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/tortun/1/",
+            "precioRegular": 3449,
+            "precioNormal": 2799,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "D3124256N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/der-prinz/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA VITORIA - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/der-prinz/americanos/bloques/vitoria/1/",
+            "precioRegular": 3449,
+            "precioNormal": 2799,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "D3124256N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
         }
     ]
 }

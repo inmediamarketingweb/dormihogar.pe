@@ -1,0 +1,169 @@
+{
+    "productos":[
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/rucay/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA EGYPT 4 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/rucay/americanos/bloques/egypt-4/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324226N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt 4"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/rucay/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA GIRASOL - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/rucay/americanos/bloques/girasol/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324226N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "girasol"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/rucay/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA REPTILIAN - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/rucay/americanos/bloques/reptilian/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324226N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/rucay/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA REPTILIAN - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/rucay/americanos/bloques/tortun/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324226N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/rucay/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA VITORIA - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/rucay/americanos/bloques/vitoria/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "D3324226N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "resortes": "bonell",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        }
+    ]
+}

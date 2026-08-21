@@ -263,6 +263,303 @@
                     "modelo-de-cabecera": "Rectangular 1"
                 }
             ]
+        },
+        {
+            "id": 10,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/10/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA EGYPT - PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/egypt/1/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/11/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA EGYPT - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/egypt/2/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA EGYPT - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/egypt/3/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA EGYPT - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/egypt/4/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA EGYPT - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/egypt/5/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA REPTILIAN - AZUL ELÉCTRICO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/reptilian/1/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA REPTILIAN - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/reptilian/2/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/17/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA REPTILIAN - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/reptilian/3/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "Kamas + El Cisne",
+            "modelo": "Pocket plus",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/el-cisne/pocket-plus/americanos/18/",
+            "nombre": "DORMITORIO AMERICANO KAMAS - EL CISNE KING + COLCHÓN EL CISNE POCKET PLUS + CABECERA AÉREA REPTILIAN - NARANJA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/el-cisne/pocket-plus/americanos/bloques/reptilian/4/",
+            "precioRegular": 3699,
+            "precioNormal": 3249,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "D33242116N18",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas - El Cisne",
+                    "línea": "Americanos",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "pocket plus",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "pocket",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
         }
     ]
 }

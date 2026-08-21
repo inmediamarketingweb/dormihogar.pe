@@ -66,6 +66,171 @@
                     "modelo-de-cabecera": "capitoneado 3"
                 }
             ]
+        },
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "yurmale",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/yurmale-pocket/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS YURMALE POCKET + CABECERA AÉREA EGYPT 4 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/yurmale/americanos/bloques/egypt-4/1/",
+            "precioRegular": 4299,
+            "precioNormal": 3699,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "D31242126N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "yurmale",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt 4"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "yurmale",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/yurmale-pocket/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS YURMALE POCKET + CABECERA AÉREA GIRASOL - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/yurmale/americanos/bloques/girasol/1/",
+            "precioRegular": 4299,
+            "precioNormal": 3699,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "D31242126N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "yurmale",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "girasol"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "yurmale",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/yurmale-pocket/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS YURMALE POCKET + CABECERA AÉREA REPTILIAN - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/yurmale/americanos/bloques/reptilian/1/",
+            "precioRegular": 4299,
+            "precioNormal": 3699,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "D31242126N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "yurmale",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "yurmale",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/yurmale-pocket/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS YURMALE POCKET + CABECERA AÉREA REPTILIAN - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/yurmale/americanos/bloques/tortun/1/",
+            "precioRegular": 4299,
+            "precioNormal": 3699,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "D31242126N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "yurmale",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "yurmale",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/yurmale-pocket/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS YURMALE POCKET + CABECERA AÉREA VITORIA - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/yurmale/americanos/bloques/vitoria/1/",
+            "precioRegular": 4299,
+            "precioNormal": 3699,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "D31242126N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "yurmale",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
         }
     ]
 }

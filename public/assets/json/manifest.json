@@ -339,6 +339,7 @@
 
         "/assets/json/categorias/dormitorios/king/el-cisne/valente/americanos.json",
 
+        "/assets/json/categorias/dormitorios/king/kamas/rucay/americanos.json",
 
         "/assets/json/categorias/dormitorios/king/kamas/sarki/cama-nube.json",
         "/assets/json/categorias/dormitorios/king/kamas/sarki/americanos.json",
@@ -358,6 +359,10 @@
         "/assets/json/categorias/dormitorios/king/kamas/der-prinz/americanos.json",
         "/assets/json/categorias/dormitorios/king/kamas/der-prinz/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/king/kamas/der-prinz/europeos-con-cajones.json",
+
+        "/assets/json/categorias/dormitorios/king/kamas/thaleo-pocket/americanos.json",
+
+        "/assets/json/categorias/dormitorios/king/kamas/thameo-pocket/americanos.json",
 
         "/assets/json/categorias/dormitorios/king/kamas/konig/americanos.json",
         "/assets/json/categorias/dormitorios/king/kamas/konig/europeos.json",

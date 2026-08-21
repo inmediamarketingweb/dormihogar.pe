@@ -1,0 +1,169 @@
+{
+    "productos":[
+        {
+            "id": 12,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/thaleo-pocket/americanos/12/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA EGYPT 4 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/thaleo-pocket/americanos/bloques/egypt-4/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3499,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "D31242106N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt 4"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/thaleo-pocket/americanos/13/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA GIRASOL - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/thaleo-pocket/americanos/bloques/girasol/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3499,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "D31242106N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "girasol"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/thaleo-pocket/americanos/14/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA REPTILIAN - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/thaleo-pocket/americanos/bloques/reptilian/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3499,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "D31242106N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/thaleo-pocket/americanos/15/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA REPTILIAN - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/thaleo-pocket/americanos/bloques/tortun/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3499,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "D31242106N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "dormitorios",
+            "tamaño": "king",
+            "marca": "kamas",
+            "modelo": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/kamas/thaleo-pocket/americanos/16/",
+            "nombre": "DORMITORIO AMERICANO KAMAS KING + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA VITORIA - TORTUN",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/kamas/thaleo-pocket/americanos/bloques/vitoria/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3499,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "D31242106N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "línea": "americanos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "resortes": "pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        }
+    ]
+}

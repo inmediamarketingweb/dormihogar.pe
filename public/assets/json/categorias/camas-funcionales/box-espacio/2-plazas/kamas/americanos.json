@@ -62,35 +62,6 @@
             "subcategoría": "box espacio",
             "línea": "americanos",
             "tamaño": "2 plazas",
-            "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/americanos/3/",
-            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA AÉREA PRINCESA - CAMELL",
-            "fotos": "/assets/imagenes/productos/camas-funcionales/kamas/box-espacios/americanos/2-plazas/aereas-con-patas/coronas/sin-brazos/princesa/3/",
-            "precioRegular": 1549,
-            "precioNormal": 1259,
-            "precioVenta": 1099,
-            "stock": 14,
-            "sku": "K412111N12",
-            "oferta": "si",
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanos",
-                    "tamaño": "2 plazas",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "sin brazos",
-                    "modelo-de-cabecera": "Princesa"
-                }
-            ]
-        },
-        {
-            "categoría": "camas funcionales",
-            "subcategoría": "box espacio",
-            "línea": "americanos",
-            "tamaño": "2 plazas",
             "ruta": "/productos/camas-funcionales/box-espacio/2-plazas/kamas/americanos/4/",
             "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA AÉREA PRINCESA - BEIGE",
             "fotos": "/assets/imagenes/productos/camas-funcionales/kamas/box-espacios/americanos/2-plazas/aereas-con-patas/coronas/sin-brazos/princesa/4/",

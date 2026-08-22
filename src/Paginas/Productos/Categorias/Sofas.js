@@ -2094,10 +2094,6 @@ function Sofas() {
                                         {renderFiltrosJerarquicos()}
                                     </div>
                                 </div>
-
-                                <a href='/' title='Promo del mes | Dormihogar' className='d-flex w-100 border-r-6 overflow-hidden'>
-                                    <img className='d-flex w-100' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__S5c-OF91SI1JrkskfFo5_DXbueZkXzbz4OTtzUN_nMO5DCp2F-11GMj&s=10' alt=''/>
-                                </a>
                             </div>
                         </div>
                     </div>

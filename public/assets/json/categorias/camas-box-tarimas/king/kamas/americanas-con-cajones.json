@@ -89,34 +89,6 @@
             "marca": "kamas",
             "línea": "americanas",
             "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/kamas/americanas-con-cajones/4/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CUADROS 1 + 2 CAJONES AL PIE - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas-con-cajones/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
-            "precioRegular": 2499,
-            "precioNormal": 1899,
-            "precioVenta": 1199,
-            "stock": 15,
-            "sku": "D2241113N10",
-            "tipo-de-envio": "Gratis",
-            "detalles-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "americanas",
-                    "tamaño": "King",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ]
-        },
-        {
-            "categoría": "camas box tarimas",
-            "marca": "kamas",
-            "línea": "americanas",
-            "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/king/kamas/americanas-con-cajones/5/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CUADROS 2 + 2 CAJONES AL PIE - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas-con-cajones/king/aereas-con-patas/bloques/sin-brazos/cuadros-2/2/",

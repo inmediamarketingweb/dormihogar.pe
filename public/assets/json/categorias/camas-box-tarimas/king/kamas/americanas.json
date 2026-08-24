@@ -26,34 +26,6 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Pisac"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
@@ -81,34 +53,6 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Pisac"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2154,35 +2098,6 @@
                     "diseño-de-cabecera": "Con marco",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Pvc",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },

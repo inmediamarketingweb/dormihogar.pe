@@ -43,7 +43,7 @@ function EnviosALimaYCallao(){
             <main>
                 <div className="block-container">
                     <section className="block-content d-flex-column gap-20">
-                        <img className="page-banner-img" src="/assets/imagenes/paginas/envios/envios-lima-y-callao.jpg" alt="Envíos para Lima y Callao | Kamas"/>
+                        <img className="page-banner-img" src="/assets/imagenes/paginas/envios/envios-lima-y-callao.jpg" alt="Envíos para Lima y Callao | Dormihogar"/>
 
                         <div className="envios-page">
                             <div className="d-flex-column gap-10">

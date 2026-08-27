@@ -187,17 +187,17 @@ function Agencias(){
     return(
         <>
             <Helmet>
-                <title>Agencias recomendadas | Kamas</title>
+                <title>Agencias recomendadas | Dormihogar</title>
                 <meta name="description" content="Te ayudamos a encontrar la mejor alternativa para llevar tu dormitorio a tu distrito."/>
 
                 <link rel="preload" as="image" href="https://inmedia.pe/Proyectos/JSON/agencias.json" />
 
-                <meta property="og:title" content="Agencias recomendadas | Kamas"/>
-                <meta property="og:site_name" content="Agencias recomendadas | Kamas"/>
+                <meta property="og:title" content="Agencias recomendadas | Dormihogar"/>
+                <meta property="og:site_name" content="Agencias recomendadas | Dormihogar"/>
                 <meta property="og:description" content="Te ayudamos a encontrar la mejor alternativa para llevar tu dormitorio a tu distrito."/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content="https://kamas.pe/agencias-recomendadas/"/>
-                <link rel="canonical" href="https://kamas.pe/agencias-recomendadas/"/>
+                <meta property="og:url" content="https://dormihogar.pe/agencias-recomendadas/"/>
+                <link rel="canonical" href="https://dormihogar.pe/agencias-recomendadas/"/>
             </Helmet>
 
             <main>

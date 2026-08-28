@@ -1,0 +1,284 @@
+{
+    "productos":[
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "clasicas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/1/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/2/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/3/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/3/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/4/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/4/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/5/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/5/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/6/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - MARRÓN",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/6/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/7/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/7/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/8/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/8/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/10/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/10/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/clasicas/11/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CLÁSICA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/clasicas/2-plazas/sin-cajones/pedestales/11/",
+            "precioRegular": 1489,
+            "precioNormal": 1049,
+            "precioVenta": 729,
+            "stock": 14,
+            "sku": "D2115222N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Clásica",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        }
+    ]
+}

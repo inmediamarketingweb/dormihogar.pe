@@ -3,6 +3,15 @@
         {
             "tamaño":[
                 {
+                    "tamaño": "1 plaza",
+                    "ruta": "/productos/camas-box-tarimas/1-plaza/",
+                    "marcas":[
+                        {
+                            "marca": "Kamas"
+                        }
+                    ]
+                },
+                {
                     "tamaño": "1 plaza y media",
                     "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/",
                     "marcas":[

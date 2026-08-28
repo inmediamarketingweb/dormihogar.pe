@@ -3,27 +3,17 @@
         {
             "categoria": "camas box tarimas",
             "marca": "kamas",
-            "subcategoria": "europeas",
+            "línea": "europeas",
             "tamaño": "2 plazas",
-            "ruta": "/productos/camas-box-tarimas/2-plazas/europeas/1/",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/kamas/europeas/1/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/pedestales/coronas/brazos-curvos/majestad/1/",
-            "colores": "si",
-            "precioRegular": 1800,
-            "precioNormal": 1409,
-            "precioVenta": 1089,
+            "precioRegular": 2399,
+            "precioNormal": 1999,
+            "precioVenta": 1329,
             "stock": 12,
             "sku": "D232225N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "kamas",
@@ -36,62 +26,22 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "camas box tarimas",
             "marca": "kamas",
-            "subcategoria": "europeas",
+            "línea": "europeas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/kamas/europeas/2/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/pedestales/coronas/brazos-rectos/corona/1/",
-            "colores": "si",
-            "precioRegular": 1800,
-            "precioNormal": 1259,
-            "precioVenta":979,
+            "precioRegular": 2399,
+            "precioNormal": 1999,
+            "precioVenta": 1329,
             "stock": 12,
             "sku": "K234224N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Corona"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "kamas",
@@ -104,62 +54,22 @@
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Corona"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "categoria": "camas box tarimas",
             "marca": "kamas",
-            "subcategoria": "europeas",
+            "línea": "europeas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/kamas/europeas/3/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
-            "precioRegular": 1800,
-            "precioNormal": 1259,
-            "precioVenta":979,
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1179,
             "stock": 12,
             "sku": "K2322113N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "kamas",
@@ -171,63 +81,23 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
             "categoria": "camas box tarimas",
             "marca": "kamas",
-            "subcategoria": "europeas",
+            "línea": "europeas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/kamas/europeas/4/",
             "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL + 2 PUFF - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/aereas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
-            "precioRegular": 1800,
-            "precioNormal": 1459,
-            "precioVenta": 1139,
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 1029,
             "stock": 12,
             "sku": "K232213N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "marca": "kamas",
-                    "línea": "Europea",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Aérea",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "marca": "kamas",
@@ -239,36 +109,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }

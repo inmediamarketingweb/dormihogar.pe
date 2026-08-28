@@ -1,0 +1,116 @@
+{
+    "productos":[
+        {
+            "categoría": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "europeas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/europeas/1/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 12,
+            "sku": "D2315225N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Europea",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "europeas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/europeas/2/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/pedestales/coronas/brazos-rectos/corona/1/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 12,
+            "sku": "K234224N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Europea",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoría": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "europeas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/europeas/3/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 1 PLAZA Y MEDIA + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1179,
+            "stock": 12,
+            "sku": "K2322113N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Europea",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "europeas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/europeas/4/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 1 PLAZA Y MEDIA + CABECERA AÉREA CAPITONEADA + BAÚL + 2 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/europeas/2-plazas/aereas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 1029,
+            "stock": 12,
+            "sku": "K232213N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "Europea",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

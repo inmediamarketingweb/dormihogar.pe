@@ -1,0 +1,32 @@
+{
+    "productos":[
+        {
+            "categoría": "camas box tarimas",
+            "marca": "kamas",
+            "línea": "americanas",
+            "tamaño": "1 plaza",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/kamas/americanas-con-cajones/21/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA AÉREA CAPITONEADA + 2 CAJONES LATERALES + BAÚL - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/kamas/americanas-con-cajones/2-plazas/aereas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1549,
+            "precioVenta": 999,
+            "stock": 15,
+            "sku": "D221113N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "línea": "americanas",
+                    "tamaño": "1 plaza",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

@@ -40,11 +40,11 @@ function PaginaPrincipal(){
                     <section className='block-content'>
                         <div className='w-100 d-grid-2-1fr gap-10'>
                             <a className='d-flex w-100 border-r-10 overflow-hidden' href='/' title=''>
-                                <img className='w-100 d-flex' src="https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/slider/slider-1.webp" alt=''/>
+                                <img className='w-100 d-flex' src="/assets/imagenes/paginas/pagina-principal/slider/linea-premium.jpg" alt=''/>
                             </a>
 
                             <a className='d-flex w-100 border-r-10 overflow-hidden' href='/' title=''>
-                                <img className='w-100 d-flex' src="https://www.kamas.pe/assets/imagenes/paginas/pagina-principal/slider/slider-2.webp" alt=''/>
+                                <img className='w-100 d-flex' src="/assets/imagenes/paginas/pagina-principal/slider/cama-cedro.jpg" alt=''/>
                             </a>
                         </div>
                     </section>

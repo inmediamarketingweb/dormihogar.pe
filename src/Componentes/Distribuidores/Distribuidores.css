@@ -26,8 +26,12 @@
     transition: var(--t-200ms-linear);
 }
 
-.distribuidores-container li a:hover img{
-    scale: 1.075;
+.distribuidores-container:hover li a img{
+    filter: grayscale(1);
+}
+
+.distribuidores-container:hover li a:hover img{
+    filter: grayscale(0);
 }
 
 @media screen and (max-width: 600px){

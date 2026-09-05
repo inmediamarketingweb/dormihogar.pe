@@ -3,7 +3,7 @@ import { useState, useRef, useEffect } from 'react';
 import './Slider.css';
 
 function Slider() {
-    const totalSlides = 6;
+    const totalSlides = 5;
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     const sliderRef = useRef(null);
@@ -55,7 +55,7 @@ function Slider() {
                                                 width={isSmallScreen ? 400 : 2000} 
                                                 height={isSmallScreen ? 180 : 600} 
                                                 {...(index !== 0 ? { loading: "lazy" } : {})} 
-                                                src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.webp`} 
+                                                src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.jpg`} 
                                                 alt="Dormitorios paraiso, kamas y el cisne | Dormihogar" 
                                             />
                                         </a>

@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas box tarimas",
+            "tamaño": "2 plazas",
+            "marca": "kamas",
+            "línea": "premium",
+            "madera": "cedro",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/kamas/premium/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS CEDRO + CABECERA AÉREA + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/cedro/1/",
+            "precioRegular": 4999,
+            "precioNormal": 4299,
+            "precioVenta": 2799,
+            "stock": 15,
+            "sku": "D222100NX10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "marca": "kamas",
+                    "línea": "premium",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

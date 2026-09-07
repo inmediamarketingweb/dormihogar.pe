@@ -56,6 +56,12 @@
         {
             "líneas":[
                 {
+                    "línea": "premium"
+                },
+                {
+                    "línea": "infantil"
+                },
+                {
                     "línea": "americanas"
                 },
                 {

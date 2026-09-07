@@ -1,0 +1,260 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/1/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "con osito"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/64/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/2/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX13",
+            "tipo-de-envio": "Gratis",
+               "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "con perrito"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/65/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON T-REX + ESCALERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/3/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX15",
+            "tipo-de-envio": "Gratis",
+               "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "con T-Rex"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/66/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON DINO + ESCALERA - CHAMPAGNE ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/4/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX16",
+            "tipo-de-envio": "Gratis",
+               "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "con T-Rex"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/67/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL RATON - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/5/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX17",
+            "tipo-de-envio": "Gratis",
+               "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "ratón"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/68/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ARCOIRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/6/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX19",
+            "tipo-de-envio": "Gratis",
+               "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/69/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ARCOIRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/7/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX20",
+            "tipo-de-envio": "Gratis",
+               "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "marca": "kamas",
+            "línea": "infantil",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/kamas/infantiles/70/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ARCOIRIS + ENCOFRADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/kamas/infantiles/8/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "D2211567NX22",
+            "tipo-de-envio": "Gratis",
+               "detalles-del-producto":[
+                {
+                    "categoría": "camas box tarimas",
+                    "tamaño": "1 plaza y media",
+                    "marca": "kamas",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        }
+    ]
+}

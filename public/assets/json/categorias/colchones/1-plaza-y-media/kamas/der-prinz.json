@@ -13,11 +13,6 @@
             "stock": 24,
             "sku": "D11157N10",
             "incluye":["1 almohada"],
-            "tamaños-disponibles":[
-                { "nombre": "2 plazas", "sku": "/productos/colchones/2-plazas/kamas/der-prinz/" },
-                { "nombre": "Queen", "sku": "/productos/colchones/queen/kamas/der-prinz/" },
-                { "nombre": "King", "sku": "/productos/colchones/king/kamas/der-prinz/" }
-            ],
             "tipo-de-envio": "Envío preferente"
         }
     ],
@@ -27,13 +22,13 @@
         "El marco sellado reforzado mejora la durabilidad del colchón y evita deformaciones, garantizando un soporte seguro de hasta 70 kg por persona.",
         "Respaldado por 6 años de garantía, el Der Prinz es una opción confiable para quienes buscan un colchón resistente, estable y duradero."
     ],
-    "descripcion":[
+    "ficha":[
         {
             "marca" :"kamas",
             "modelo-de-colchón": "der prinz",
-            "resortes": "bonell",
-            "línea-de-colchón": "Súper ortopédicos",
-            "nivel-de-confort": "Muy confortable",
+            "resortes": "Bonell",
+            "línea-de-colchón": "súper ortopédicos",
+            "nivel-de-confort": "muy confortable",
             "filas-de-resortes": "11 filas",
             "tela": "Algodón tejido en punto",
             "densidad-de-la-espuma": "20kg/m3",

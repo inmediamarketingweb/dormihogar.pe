@@ -314,6 +314,7 @@
 }
 
 .product-card-name{
+    text-transform: uppercase !important;
     font-size: 14px;
     font-weight: bold;
     transition: var(--t-200ms-linear);

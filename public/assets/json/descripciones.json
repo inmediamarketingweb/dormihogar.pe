@@ -108,5 +108,11 @@
             "tratamiento": "Hipoalergénico",
             "garantía": "2 años"
         }
+    ],
+    "cedro":[
+        {
+            "madera": "Cedro puro",
+            "acabados": "Finos, suaves, lizos y brillantes"
+        }
     ]
 }

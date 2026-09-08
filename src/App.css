@@ -224,6 +224,10 @@ button{
     background: var(--component);
 }
 
+.border-r-5{
+    border-radius: 5px;
+}
+
 .border-r-6{
     border-radius: 6px;
 }

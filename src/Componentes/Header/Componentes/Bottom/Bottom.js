@@ -162,7 +162,7 @@ function Bottom({ isMenuOpen, favoritesCount, onOpenLocationModal }) {
                 <ul className='header-social-networks'>
                     {networks.networks.map((network) => (
                         <li key={network.id}>
-                            <a href={network.link || '/'} title={`${network.name} | Dormihogar`}>
+                            <a href={network.link || '/'} title={`${network.name} | Dormihogar`} target='_blank' rel='noreferrer'>
                                 <i className={socialIcons[network.name] || 'fa-brands fa-link'}></i>
                                 <p>{network.name}</p>
                             </a>

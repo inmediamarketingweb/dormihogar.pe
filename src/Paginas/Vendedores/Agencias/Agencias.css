@@ -1,291 +1,324 @@
-.agencias-search-bar-container{
-    display: flex;
-    width: 100%;
-    height: 52px;
-    position: relative;
-    border-bottom: 2px solid var(--color-1);
+.page-agencias.main{
+    margin-top: 168px;
+    min-height: calc(100vh - 168px);
+    background: url('http://localhost:3000/assets/imagenes/paginas/mapa-del-peru.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-.agencias-search-bar-container input{
+.page-agencias.main .block-container{
+    margin: auto;
+}
+
+.page-agencias.main .block-content{
+    width: auto;
+    padding: 20px;
+    /* background: purple; */
+}
+
+.agencias-search-container{
+    margin: auto;
+    width: 100%;
+    height: 48px;
+    max-width: 420px;
+    position: relative;
+    margin-bottom: 20px;
+    background: var(--body);
+}
+
+.agencias-search-content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    border: 1px solid var(--component);
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+}
+
+.agencias-search-content input{
     width: 100%;
     height: 100%;
     border: 0;
     outline: 0;
-    padding: 0 10px;
-    background: var(--body);
-    color: var(--text);
+    z-index: 0;
+    padding-left: 52px;
+    background: transparent;
 }
 
-.agencias-search-bar-container input::placeholder{
-    color: var(--text);
-}
-
-.agencias-search-bar-container button{
+.agencias-search-content > span{
     position: absolute;
-    right: 0;
+    left: 0;
     top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-1);
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1/1;
+    z-index: 1;
+}
+
+.agencias-search-content button{
+    background: var(--color-1);
     display: flex;
     align-items: center;
     justify-content: center;
     width: auto;
     height: 100%;
     aspect-ratio: 1/1;
-    background: var(--color-1);
-    border-radius: 4px 4px 0 0;
+    border: none;
+    cursor: pointer;
 }
 
-.agencias-search-bar-container button span{
+.agencias-search-content button span{
     color: var(--white);
+    font-size: 26px;
 }
 
-.agencias-resultados{
-    position: absolute;
-    left: 0;
-    top: 62px;
+.agencias-results{
     width: 100%;
-    height: auto;
-    max-height: calc(48px * 4);
+    max-height: 200px;
+    overflow-y: scroll;
+    margin-top: 10px;
+    background: var(--body);
+    border: 1px solid var(--component);
+    border-radius: 5px;
+    /* overflow: hidden */
+}
+
+.agencias-results ul{
+    /* border: 1px solid var(--component); */
     display: flex;
     flex-direction: column;
-    background: var(--white);
-    border: 1px solid rgba(0 0 0 / 0.2);
-    overflow-y: auto;
-    border-radius: 4px 0 0 4px;
-    z-index: 1;
-}
-
-.agencias-resultados::-webkit-scrollbar{
-    width: 4px;
-    background: rgba(0 0 0 / 0.075);
-}
-
-.agencias-resultados::-webkit-scrollbar-thumb{
-    background: var(--color-1);
-}
-
-.agencias-resultados ul{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
     height: auto;
 }
 
-.agencias-resultados ul li{
-    display: flex;
-    width: 100%;
-    height: auto;
-}
-
-.agencias-resultados ul li button{
+.agencias-results ul li{
+    padding: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 100%;
-    padding: 10px 20px;
     transition: var(--t-200ms-linear);
+    width: 100%;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.agencias-resultados ul li button:hover{
-    background: rgba(0 0 0 / 0.025);
+.agencias-results ul li:last-child{
+    border-bottom: none;
 }
 
-.agencias-resultados ul li button p{
+.agencias-results ul li:hover{
+    background: rgba(0, 0, 0, 0.025);
+}
+
+.agencias-results ul li > div div p{
+    color: #999;
+    font-style: italic;
+    font-size: 13px;
+    margin: 0;
+}
+
+.agencias-results ul li > div > p{
     color: var(--black);
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
 }
 
-.agencias-resultados ul li button span{
+.agencias-results ul li span{
     color: #999;
 }
 
-.agencias-options-container{
+.agencias-selected-container{
+    /* margin-top: 20px; */
+    width: 100%;
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.selected-distrito-header{
     display: flex;
-    width: 100%;
+    align-items: center;
     gap: 10px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
 }
 
-.agencias-options-container select{
-    width: 100%;
+.selected-distrito-title{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
 }
 
-.agencias-resultados-2 ul{
+.selected-distrito-location{
+    color: #999;
+    font-size: 14px;
+    margin: 0;
+    font-style: italic;
+}
+
+.agencias-list{
     display: flex;
     flex-direction: column;
-}
-
-.agencias-resultados-2 ul li{
-    display: flex;
-}
-
-.agencias-resultados-2 ul li button{
+    gap: 10px;
     width: 100%;
+}
+
+.agencias-list-title{
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.agencia-card{
+    border: 1px solid var(--component);
+    border-radius: 5px;
+    overflow: hidden;
+    background: var(--body);
+}
+
+.agencia-card-header{
+    padding: 12px 15px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 5px;
-    border: 1px solid rgba(0 0 0 / 0.2);
-    transition: var(--t-200ms-linear);
-    border-radius: 4px;
-    padding: 10px 0;
+    width: 100%;
+    border: none;
+    background: transparent;
 }
 
-.agencias-resultados-2 ul li button:hover{
-    border: 1px solid crimson;
-    background: rgba(255 0 0 / 0.025);
-}
-
-.agencias-resultados-2 ul li button span{
+.agencia-info{
     display: flex;
     align-items: center;
-    justify-content: center;
-    width: 40px;
-    height: auto;
-    color: var(--color-1);
-    font-size: 28px;
+    gap: 10px;
+
+    cursor: unset !important;
 }
 
-.agencias-resultados-2 ul li button div{
+.agencia-info span{
+    color: var(--color-1);
+}
+
+.agencia-name{
+    font-weight: 600;
+    margin: 0;
+    text-align: left;
+}
+
+.agencia-sede{
+    color: #999;
+    font-size: 13px;
+    margin: 2px 0 0 0;
+    text-align: left;
+    font-style: italic;
+}
+
+.message{
     display: flex;
     align-items: flex-start;
+    gap: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
 }
 
-.agencias-resultados-2 ul li button div p:nth-child(1){
+.message-warning{
+    background: #fff3e0;
+    border: 1px solid #ff9800;
+}
+
+.message-warning span{
+    color: #ff9800;
+}
+
+.message p{
+    margin: 0;
+    flex: 1;
+}
+
+.d-flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.gap-5{
+    gap: 5px;
+}
+
+.gap-10{
+    gap: 10px;
+}
+
+.text-muted{
+    color: #999;
+    font-style: italic;
+    font-size: 13px;
+    margin: 0;
+}
+
+.distrito-name{
     color: var(--black);
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
 }
 
-.agencias-resultados-2 ul li button div p:nth-child(2),
-.agencias-resultados-2 ul li button div p:nth-child(3){
-    color: var(--text);
+.highlight{
+    background-color: #ffeb3b;
+    padding: 0 2px;
+    border-radius: 2px;
+    font-weight: 600;
 }
 
-.agencias-resultados-2 ul li button div p:nth-child(3){
-    font-size: 14px !important;
+.no-results{
+    justify-content: center !important;
+    flex-direction: column;
+    align-items: center !important;
+    gap: 10px;
+    padding: 30px 20px !important;
 }
 
-.agencias-options-container{
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+.no-results span{
+    font-size: 48px !important;
+    color: #ccc !important;
+}
+
+.no-results p{
+    color: #999 !important;
+    font-style: italic !important;
+}
+
+.message-success{
+    background: #e8f5e9;
+    border: 1px solid #4caf50;
+    border-radius: 5px;
+    padding: 15px;
+    display: flex;
+    align-items: flex-start;
     gap: 10px;
 }
 
-.select-container{
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    position: relative;
+.message-success span{
+    color: #4caf50;
 }
 
-.select-option-selected-button{
-    width: 100%;
-    height: 48px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 10px;
-    gap: 20px;
-    border: 1px solid rgba(0 0 0 / 0.2);
-    transition: var(--t-200ms-linear);
-    border-radius: 4px;
+.message-success p{
+    margin: 0;
+    flex: 1;
 }
 
-.select-container.active .select-option-selected .select-option-selected-button,
-.select-option-selected-button:hover{
-    border: 1px solid var(--color-1);
-}
-
-.select-option-selected-button span{
-    rotate: 90deg;
-}
-
-.select-container ul{
-    position: absolute;
-    left: 0;
-    top: 58px;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    overflow-y: auto;
-    background: var(--body);
-    border-radius: 4px;
-    border: 1px solid rgba(0 0 0 / 0.2);
-    z-index: 1;
-}
-
-.select-container ul li{
-    width: 100%;
-    display: flex;
-}
-
-.select-container ul li button{
-    width: 100%;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: left;
-    padding: 0 10px;
-}
-
-.select-container ul li button:hover{
-    background: rgba(0 0 0 / 0.025);
-}
-
-.direction-link{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    width: 52px;
-    height: 60px;
-    aspect-ratio: 1/1;
-    background: var(--color-1);
-    border-radius: 4px;
-    position: relative;
-}
-
-.direction-link::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0 0 0 / 0.1);
-    transition: var(--t-200ms-linear);
-    opacity: 0;
-}
-
-.direction-link:hover::before{
-    opacity: 1;
-}
-
-.direction-link span,
-.direction-link p{
-    color: var(--white);
-    z-index: 1;
-}
-
-.agencia-mobile-details{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: left;
-    min-height: 56px;
-    padding: 10px;
-    /* border: 1px solid rgba(0 0 0 / 0.075); */
-    background: rgba(0 0 0 / 0.05);
-    border-radius: 6px;
-    /* padding-left: 40px; */
-}
-
-.agencia-mobile-details > div{
-    display: flex;
-    width: 100%;
-}
-
-.agencia-mobile-details > div > div > div{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.message-success p strong{
+    color: #2e7d32;
 }

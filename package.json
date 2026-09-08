@@ -52,6 +52,5 @@
     },
     "devDependencies": {
         "vite-plugin-html": "^3.2.2"
-    },
-    "proxy": "https://inmedia.pe"
+    }
 }

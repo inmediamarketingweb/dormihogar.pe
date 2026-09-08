@@ -3,10 +3,32 @@ import { useState, useRef, useEffect } from 'react';
 import './Slider.css';
 
 function Slider() {
-    const totalSlides = 5;
+    const [slides, setSlides] = useState([]);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
     const sliderRef = useRef(null);
+
+    useEffect(() => {
+        const fetchSlides = async () => {
+            try {
+                const response = await fetch('/assets/json/componentes/slider.json');
+                if (!response.ok) {
+                    throw new Error('Error al cargar los slides');
+                }
+                const data = await response.json();
+                setSlides(data.slider || []);
+                setLoading(false);
+            } catch (err) {
+                setError(err.message);
+                setLoading(false);
+                console.error('Error fetching slides:', err);
+            }
+        };
+
+        fetchSlides();
+    }, []);
 
     useEffect(() => {
         const handleResize = () => {
@@ -17,29 +39,57 @@ function Slider() {
     }, []);
 
     useEffect(() => {
+        if (slides.length === 0) return;
+
         const interval = setInterval(() => {
-            setCurrentIndex((prevIndex) => (prevIndex + 1) % totalSlides);
+            setCurrentIndex((prevIndex) => (prevIndex + 1) % slides.length);
         }, 10000);
         return () => clearInterval(interval);
-    }, [totalSlides]);
+    }, [slides]);
 
     const goToNextSlide = () => {
-        setCurrentIndex((prevIndex) => (prevIndex + 1) % totalSlides);
+        if (slides.length === 0) return;
+        setCurrentIndex((prevIndex) => (prevIndex + 1) % slides.length);
     };
 
     const goToPrevSlide = () => {
-        setCurrentIndex((prevIndex) => (prevIndex - 1 + totalSlides) % totalSlides);
+        if (slides.length === 0) return;
+        setCurrentIndex((prevIndex) => (prevIndex - 1 + slides.length) % slides.length);
     };
 
     const goToSlide = (index) => {
         setCurrentIndex(index);
     };
 
-    const visibleIndexes = [
-        (currentIndex - 1 + totalSlides) % totalSlides, 
-        currentIndex, 
-        (currentIndex + 1) % totalSlides
-    ];
+    if (loading) {
+        return (
+            <div className="slider-general-container d-flex-column">
+                <div className="hero-container">
+                    <div className="loading-spinner">Cargando slider...</div>
+                </div>
+            </div>
+        );
+    }
+
+    if (error) {
+        return (
+            <div className="slider-general-container d-flex-column">
+                <div className="hero-container">
+                    <div className="error-message">Error al cargar el slider: {error}</div>
+                </div>
+            </div>
+        );
+    }
+
+    if (slides.length === 0) {
+        return (
+            <div className="slider-general-container d-flex-column">
+                <div className="hero-container">
+                    <div className="no-slides-message">No hay slides disponibles</div>
+                </div>
+            </div>
+        );
+    }
 
     return (
         <div className="slider-general-container d-flex-column">
@@ -47,19 +97,12 @@ function Slider() {
                 <section className="hero">
                     <div className="slider-container">
                         <ul className="slider" ref={sliderRef} style={{ marginLeft: `-${currentIndex * 100}%` }}>
-                            {Array.from({ length: totalSlides }).map((_, index) => (
-                                <li key={index}>
-                                    {visibleIndexes.includes(index) && (
-                                        <a href='/' title=''>
-                                            <img 
-                                                width={isSmallScreen ? 400 : 2000} 
-                                                height={isSmallScreen ? 180 : 600} 
-                                                {...(index !== 0 ? { loading: "lazy" } : {})} 
-                                                src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.jpg`} 
-                                                alt="Dormitorios paraiso, kamas y el cisne | Dormihogar" 
-                                            />
-                                        </a>
-                                    )}
+                            {slides.map((slide, index) => (
+                                <li key={slide.id || index}>
+                                    <a href={slide.href} title={slide.title}>
+                                        <img src={slide.src} alt={slide.alt} 
+                                        />
+                                    </a>
                                 </li>
                             ))}
                         </ul>
@@ -75,7 +118,7 @@ function Slider() {
                 </button>
 
                 <div className='slider-general-dots'>
-                    {Array.from({ length: totalSlides }).map((_, index) => (
+                    {slides.map((_, index) => (
                         <span 
                             key={index}
                             className={currentIndex === index ? 'active' : ''}

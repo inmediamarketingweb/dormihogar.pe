@@ -34,27 +34,51 @@ function Agencias(){
     const searchRef = useRef(null);
     const isMobile = useMobile();
 
+    // useEffect(() => {
+    //     const cargarDatos = async () => {
+    //         try{
+    //             setLoading(true);
+    //             const response = await fetch('https://inmedia.pe/Proyectos/JSON/agencias.json');
+
+    //             if (!response.ok) {
+    //                 throw new Error('No se pudo cargar el archivo JSON');
+    //             }
+    //             const data = await response.json();
+    //             setDatos(data);
+    //             setError(null);
+    //         } catch (err) {
+    //             console.error('Error al cargar los datos:', err);
+    //             setError('Error al cargar los datos. Intente recargar la página.');
+    //         } finally {
+    //             setLoading(false);
+    //         }
+    //     };
+    //     cargarDatos();
+    // }, []);
+
     useEffect(() => {
         const cargarDatos = async () => {
             try{
                 setLoading(true);
-                const response = await fetch('/assets/json/costos-de-envio.json');
+
+                const response = await fetch('/Proyectos/JSON/agencias.json');
 
                 if (!response.ok) {
-                    throw new Error('No se pudo cargar el archivo JSON');
+                    throw new Error('No se pudo cargar el archivo JSON desde el servidor central');
                 }
                 const data = await response.json();
                 setDatos(data);
                 setError(null);
             } catch (err) {
                 console.error('Error al cargar los datos:', err);
-                setError('Error al cargar los datos. Intente recargar la página.');
+                setError('Error al cargar los datos de envío. Intente recargar la página.');
             } finally {
                 setLoading(false);
             }
         };
         cargarDatos();
     }, []);
+
 
     const buscarDistritos = (term) => {
         if (!datos) return [];
@@ -198,6 +222,8 @@ function Agencias(){
                 <meta property="og:type" content="website"/>
                 <meta property="og:url" content="https://dormihogar.pe/agencias-recomendadas/"/>
                 <link rel="canonical" href="https://dormihogar.pe/agencias-recomendadas/"/>
+
+                <link rel="preload" href="https://inmedia.pe/Proyectos/JSON/agencias.json" as="fetch" crossOrigin="anonymous" />
             </Helmet>
 
             <main>

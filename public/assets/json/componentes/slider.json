@@ -1,0 +1,32 @@
+{
+    "slider":[
+        {
+            "id": 1,
+            "href": "http://localhost:3000/productos/dormitorios/king/?marca=Paraiso&linea-dormitorio=americanos&resorte=pocket&linea-colchon=ortop%C3%A9dicos&modelo=Pocket+italiano",
+            "title": "DORMITORIOS CON COLCHONES PARAISO | Dormihogar",
+            "src": "/assets/imagenes/paginas/pagina-principal/slider/slider-1.jpg",
+            "alt": ""
+        },
+        {
+            "id": 2,
+            "href": "/envios/envios-a-provincia/",
+            "title": "Envíos a provincia | Dormihogar",
+            "src": "/assets/imagenes/paginas/pagina-principal/slider/slider-2.jpg",
+            "alt": ""
+        },
+        {
+            "id": 3,
+            "href": "/servicio-al-cliente/medios-de-pago/",
+            "title": "Medios de pago | Dormihogar",
+            "src": "/assets/imagenes/paginas/pagina-principal/slider/slider-3.jpg",
+            "alt": ""
+        },
+        {
+            "id": 4,
+            "href": "/productos/dormitorios/king/?marca=Kamas&linea-dormitorio=nube",
+            "title": "Dormitorios nube | Dormihogar",
+            "src": "/assets/imagenes/paginas/pagina-principal/slider/slider-5.jpg",
+            "alt": ""
+        }
+    ]
+}

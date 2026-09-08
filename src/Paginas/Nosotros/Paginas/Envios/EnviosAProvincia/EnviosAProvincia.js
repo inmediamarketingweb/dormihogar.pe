@@ -212,7 +212,7 @@ function EnviosAProvincia(){
                                 <input placeholder='Busca tu provincia o distrito' value={searchTerm} onChange={handleSearchChange} className='province-search-input'/>
                             </div>
 
-                            <div className='d-flex-center-center gap-10'>
+                            {/* <div className='d-flex-center-center gap-10'>
                                 <div className='year-filters'>
                                     {availableYears.map(year => (
                                         <button key={year} type='button' className={`year-filter-btn ${selectedYear === year.toString() ? 'active' : ''}`} onClick={() => handleYearFilter(year.toString())}>
@@ -227,7 +227,7 @@ function EnviosAProvincia(){
                                         <p className='text'>Limpiar filtros</p>
                                     </button>
                                 )}
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className='province-content'>
@@ -256,11 +256,11 @@ function EnviosAProvincia(){
                                                     <span className="material-symbols-outlined">location_on</span>
                                                     <div className='text'>{envio.destino}</div>
                                                 </div>
-                                                <div className='text'>{envio.año}</div>
+                                                {/* <div className='text'>{envio.año}</div> */}
                                             </div>
 
-                                            <img src={photos.imgOne} alt={`Envío a ${envio.destino} - Imagen 1`} className='image-1' onClick={() => openPopup(envio)} style={{ cursor: 'pointer' }}/>
-                                            <img src={photos.imgTwo} alt={`Envío a ${envio.destino} - Imagen 2`} className='image-2' onClick={() => openPopup(envio)} style={{ cursor: 'pointer' }}/>
+                                            <img src={photos.imgOne} alt={`Envío a ${envio.destino}`} className='image-1' onClick={() => openPopup(envio)} style={{ cursor: 'pointer' }}/>
+                                            <img src={photos.imgTwo} alt={`Envío a ${envio.destino}`} className='image-2' onClick={() => openPopup(envio)} style={{ cursor: 'pointer' }}/>
                                         </div>
                                     );
                                 })
@@ -296,12 +296,12 @@ function EnviosAProvincia(){
                                     <div className='envios-pop-up-imagenes'>
                                         <ul>
                                             <li className={imageOrder[0] === 0 ? 'img-1' : 'img-2'}>
-                                                <a href={firstImage} title={`${selectedEnvio.destino}`} target='_blank'>
+                                                <a href={firstImage} rel="noreferrer" title={`${selectedEnvio.destino}`} target='_blank'>
                                                     <img src={firstImage} alt={`Envío a ${selectedEnvio.destino} - ${imageOrder[0] === 0 ? 'Imagen 1' : 'Imagen 2'}`}  className={imageOrder[0] === 0 ? 'image-1' : 'image-2'}/>
                                                 </a>
                                             </li>
                                             <li className={imageOrder[1] === 1 ? 'img-2' : 'img-1'}>
-                                                <a href={secondImage} title={`${selectedEnvio.destino}`} target='_blank'>
+                                                <a href={secondImage} rel="noreferrer" title={`${selectedEnvio.destino}`} target='_blank'>
                                                     <img src={secondImage} alt={`Envío a ${selectedEnvio.destino} - ${imageOrder[1] === 1 ? 'Imagen 2' : 'Imagen 1'}`} className={imageOrder[1] === 1 ? 'image-2' : 'image-1'}/>
                                                 </a>
                                             </li>
@@ -332,13 +332,13 @@ function EnviosAProvincia(){
                                             <p className='info-value'>{selectedEnvio.agencia}</p>
                                         </div>
                                     </div>
-                                    <div className='info-item'>
+                                    {/* <div className='info-item'>
                                         <span className="material-symbols-outlined">calendar_month</span>
                                         <div>
                                             <p className='info-label'>Año</p>
                                             <p className='info-value'>{selectedEnvio.año}</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </>

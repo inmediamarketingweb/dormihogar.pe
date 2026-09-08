@@ -25,7 +25,6 @@ function Center({
         const fetchData = async () => {
             try {
                 setLoading(true);
-                // Ajusta la ruta según donde tengas tu JSON
                 const response = await fetch('/assets/json/componentes/header.json');
                 if (!response.ok) {
                     throw new Error('Error al cargar los datos');
@@ -50,7 +49,7 @@ function Center({
 
     const closeMenu = () => {
         setIsMenuOpenLocal(false);
-        setActiveCategory(null); // Reset active category when closing menu
+        setActiveCategory(null);
     };
 
     const toggleCategory = (categoryId) => {
@@ -237,19 +236,19 @@ function Center({
 
                         <ul>
                             <li>
-                                <a href='https://www.facebook.com/Dormihogar.pe/' title='Facebook | Dormihogar' className='menu-network'>
+                                <a href='https://www.facebook.com/Dormihogar.pe/' title='Facebook | Dormihogar' className='menu-network' target='_blank' rel='noreferrer'>
                                     <i className="fa-brands fa-facebook"></i>
                                     <p>Facebook</p>
                                 </a>
                             </li>
                             <li>
-                                <a href='https://www.instagram.com/dormihogar.pe/' title='Instagram | Dormihogar' className='menu-network'>
+                                <a href='https://www.instagram.com/dormihogar.pe/' title='Instagram | Dormihogar' className='menu-network' target='_blank' rel='noreferrer'>
                                     <i className="fa-brands fa-instagram"></i>
                                     <p>Instagram</p>
                                 </a>
                             </li>
                             <li>
-                                <a href='https://www.tiktok.com/@dormihogar.pe' title='TikTok | Dormihogar' className='menu-network'>
+                                <a href='https://www.tiktok.com/@dormihogar.pe' title='TikTok | Dormihogar' className='menu-network' target='_blank' rel='noreferrer'>
                                     <i className="fa-brands fa-tiktok"></i>
                                     <p>TikTok</p>
                                 </a>

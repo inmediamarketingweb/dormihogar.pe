@@ -11,7 +11,7 @@ function RangoPrecios({ productos = [], loading = false }) {
         { id: 'menos-500', label: 'Menos de s/500', min: 0, max: 499 },
         { id: '500-1000', label: 's/500 a s/1000', min: 500, max: 1000 },
         { id: '1000-2000', label: 's/1000 a s/2000', min: 1000, max: 2000 },
-        { id: '2000-2499', label: 's/2000 a s/2499', min: 2000, max: 2499 }
+        { id: '2000-3499', label: 's/2000 a s/3499', min: 2000, max: 3499 }
     ];
 
     const [minPrice, setMinPrice] = useState('');

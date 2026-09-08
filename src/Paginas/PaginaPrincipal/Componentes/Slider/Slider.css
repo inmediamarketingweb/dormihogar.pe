@@ -97,16 +97,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 5px;
+    gap: 4px;
     z-index: 1;
 }
 
 .slider-general-dots span{
-    width: 20px;
-    height: 10px;
+    width: 14px;
+    height: 14px;
     display: flex;
     border-radius: 25px;
     background: var(--white);
+    /* border: 1px solid rgba(0 0 0 / 0.15); */
+    box-shadow: 0 0 5px rgba(0 0 0 / 0.25);
     transition: var(--t-200ms-linear);
     cursor: pointer;
 }

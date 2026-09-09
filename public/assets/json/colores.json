@@ -5,7 +5,7 @@
                 "short" : "Sin variación de precio.",
                 "telas":[
                     {
-                        "tela": "Piel de potro ecuestre irlandés",
+                        "tela": "Piel de potro",
                         "descripcion": "Textura peinada y direccional, inspirada en el pelaje natural del potro. Brillo sutil, elegancia rústica y carácter visual que no pasa desapercibido. Perfecta para ambientes con personalidad fuerte y presencia decorativa.",
                         "colores":[
                             {
@@ -131,7 +131,7 @@
                         ]
                     },
                     {
-                        "tela": "Iker textura vasca de montaña",
+                        "tela": "Iker",
                         "descripcion": "Tejido con cuerpo firme y trama fina, inspirado en los paisajes sobrios del norte español. Estilo contemporáneo, equilibrio visual y resistencia superior. Ideal para tapizados que buscan sobriedad con distinción.",
                         "colores":[
                             {
@@ -177,7 +177,7 @@
                         ]
                     },
                     {
-                        "tela": "Cuero sintético escandinavo urbano",
+                        "tela": "Cuero sintético",
                         "descripcion": "Vinil flexible, de acabado mate y textura limpia. Minimalismo nórdico con presencia duradera. Fácil de mantener, ideal para espacios modernos y funcionales.",
                         "colores":[
                             {
@@ -221,7 +221,7 @@
                 ],
                 "telas":[
                     {
-                        "tela": "Piel de durazno suizo de alto gramaje",
+                        "tela": "Piel de durazno",
                         "descripcion": "Tacto aterciopelado y sedoso, con caída elegante y textura envolvente. Inspirada en el diseño suizo: discreta, suave y refinada. Pensada para espacios que desean confort sin renunciar al estilo.",
                         "colores":[
                             {
@@ -352,7 +352,7 @@
                         ]
                     },
                     {
-                        "tela": "Cuero microtexturizado alemán de precisión",
+                        "tela": "Cuero microtexturizado",
                         "descripcion": "Grabado fino que imita el cuero real con detalle milimétrico. Presencia visual fuerte, textura firme y elegante. Perfecto para tapizados de alta exigencia estética.",
                         "colores":[
                             {
@@ -406,7 +406,7 @@
                 ],
                 "telas":[
                     {
-                        "tela": "Marmoleado toscano con estilo",
+                        "tela": "Antifluido",
                         "descripcion": "Diseño visual inspirado en piedra italiana, con acabado decorativo funcional. Fácil de mantener, estéticamente audaz. Pensada para hogares en movimiento con gusto sofisticado.",
                         "colores":[
                             {
@@ -437,7 +437,7 @@
                         ]
                     },
                     {
-                        "tela": "Tejido flamenco de bélgica",
+                        "tela": "Tejido",
                         "descripcion": "Tela con trama entrelazada, cuerpo estructurado y fondo artesanal. Estética con herencia, sensación textil auténtica. Ideal para composiciones clásicas, con alma cálida y europea.",
                         "colores":[
                             {
@@ -598,7 +598,7 @@
                         ]
                     },
                     {
-                        "tela": "Cuero genuino toscano curtido a mano",
+                        "tela": "Cuero genuino",
                         "descripcion": "Piel auténtica trabajada con técnicas tradicionales de curtiembre italiana. Aroma natural, textura viva y durabilidad excepcional. Para quienes entienden lo que significa verdadero lujo.",
                         "colores":[
                             {

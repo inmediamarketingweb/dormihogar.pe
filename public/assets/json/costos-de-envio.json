@@ -937,6 +937,44 @@
                                     "tipo-de-envio": "Envío directo",
                                     "precio": 500
                                 }
+                            ],
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Señor de Luren",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Vilma express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
                             ]
                         },
                         {
@@ -1069,6 +1107,29 @@
                 {
                     "provincia": "Cañete",
                     "distritos":[
+                        {
+                            "distrito": "Quilmaná",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Huapaya express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "distrito": "Cañete",
                             "agencias-recomendadas":[
@@ -1366,9 +1427,6 @@
                                     "precio": 330
                                 }
                             ]
-                        },
-                        {
-                            "distrito": "Quilmaná"
                         },
                         {
                             "distrito": "San Antonio",
@@ -1808,6 +1866,29 @@
                 {
                     "provincia": "Huaura",
                     "distritos":[
+                        {
+                            "distrito": "Sayan",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Crucero express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "distrito": "Huaura",
                             "agencias-recomendadas":[
@@ -3612,6 +3693,29 @@
                     "provincia": "Bongara",
                     "distritos":[
                         {
+                            "distrito": "Pedro Ruiz",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Tafur Tafur",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "distrito": "Chisquilla"
                         },
                         {
@@ -4224,27 +4328,7 @@
                     "provincia": "Rodriguez de mendoza",
                     "distritos":[
                         {
-                            "distrito": "Chorimoto",
-                            "agencias-recomendadas":[
-                                {
-                                    "agencia": "Nombre agencia",
-                                    "sedes":[
-                                        {
-                                            "sede" :"Sede de la agencia",
-                                            "tipos-de-envio":[
-                                                {
-                                                    "tipo-de-envio": "Envío preferente",
-                                                    "precio": 0
-                                                },
-                                                {
-                                                    "tipo-de-envio": "Envío aplicado",
-                                                    "precio": 0
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "distrito": "Chorimoto"
                         },
                         {
                             "distrito": "Cochamal",
@@ -5734,7 +5818,27 @@
                             "distrito": "Yanama"
                         },
                         {
-                            "distrito": "Yungay"
+                            "distrito": "Yungay",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Julio César",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
@@ -6082,6 +6186,47 @@
                             "distrito": "Anccohuayllo"
                         },
                         {
+                            "distrito": "Uripa",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Gutsa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Trans. Guizado",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "distrito": "Chincheros",
                             "agencias-recomendadas":[
                                 {
@@ -6230,7 +6375,27 @@
                             "distrito": "Mara"
                         },
                         {
-                            "distrito": "Tambobamba"
+                            "distrito": "Tambobamba",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Quechua express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -6751,7 +6916,45 @@
                             "distrito": "Mejía"
                         },
                         {
-                            "distrito": "Mollendo"
+                            "distrito": "Mollendo",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Grael",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Jatsa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Punta de Bombón"
@@ -7161,7 +7364,27 @@
                             "distrito": "Otoca"
                         },
                         {
-                            "distrito": "Puquio"
+                            "distrito": "Puquio",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Guizado",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Saisa"
@@ -8357,7 +8580,27 @@
                     "provincia": "Chumbivilcas",
                     "distritos":[
                         {
-                            "distrito": "Santo Tomás"
+                            "distrito": "Santo Tomás",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Quechua express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Capacmarca"
@@ -8395,10 +8638,50 @@
                             ]
                         },
                         {
-                            "distrito": "Quiñota"
+                            "distrito": "Quiñota",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Quechua express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "distrito": "Velille"
+                            "distrito": "Velille",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Quechua express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -8434,6 +8717,29 @@
                 {
                     "provincia": "La Convención",
                     "distritos":[
+                        {
+                            "distrito": "Quillabamba",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Tranquilla",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "distrito": "Echarati"
                         },
@@ -8515,7 +8821,7 @@
                                     ]
                                 },
                                 {
-                                    "agencia": "Libertadores",
+                                    "agencia": "Trans. Libertadores",
                                     "sedes":[
                                         {
                                             "sede": "La Victoria",
@@ -9253,6 +9559,9 @@
                         },
                         {
                             "distrito": "Yarumayo"
+                        },
+                        {
+                            "distrito": "Leoncio Prado"
                         }
                     ]
                 },
@@ -9279,6 +9588,101 @@
                 {
                     "provincia": "Leoncio Prado",
                     "distritos":[
+                        {
+                            "distrito": "Tingo María",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Carhuamayo Perú",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Expresso Nacional",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Zurita Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Leonardo Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Grupo Hugamor",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "distrito": "Castillo Grande"
                         },
@@ -9800,7 +10204,27 @@
                             "distrito": "Independencia"
                         },
                         {
-                            "distrito": "Paracas"
+                            "distrito": "Paracas",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Señor de Luren",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Pisco",
@@ -11337,6 +11761,24 @@
                                             ]
                                         }
                                     ]
+                                },
+                                {
+                                    "agencia": "Trans. Julio César",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -11953,6 +12395,47 @@
                             ]
                         },
                         {
+                            "distrito": "Puerto maldonado",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "K8 Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Chankas",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "distrito": "Inambari"
                         },
                         {
@@ -12330,7 +12813,27 @@
                             "distrito": "vilcabamba"
                         },
                         {
-                            "distrito": "Yanahuanca"
+                            "distrito": "Yanahuanca",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Expreso nacional",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -12410,6 +12913,29 @@
                     "provincia": "Talara",
                     "distritos":[
                         {
+                            "distrito": "Talara",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "distrito": "El Alto"
                         },
                         {
@@ -12466,6 +12992,29 @@
                         },
                         {
                             "distrito": "Pariñas"
+                        },
+                        {
+                            "distrito": "Vichayito",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -12494,7 +13043,45 @@
                             "distrito": "Salitral"
                         },
                         {
-                            "distrito": "Sullana"
+                            "distrito": "Sullana",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Gigal Cargo",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Sullana Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -12629,7 +13216,63 @@
                             "distrito": "Las Lomas"
                         },
                         {
-                            "distrito": "Piura"
+                            "distrito": "Piura",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Cargo Express Americano",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Gigal Cargo",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Emtrafesa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Tambogrande"
@@ -12655,7 +13298,45 @@
                             "distrito": "La Huaca"
                         },
                         {
-                            "distrito": "Paita"
+                            "distrito": "Paita",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Cavassa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Grael",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Tamarindo"
@@ -12681,7 +13362,27 @@
                             "distrito": "Rinconada - Llicuar"
                         },
                         {
-                            "distrito": "Sechura"
+                            "distrito": "Sechura",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Cavassa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Vice"
@@ -13026,7 +13727,45 @@
                             "distrito": "Platería"
                         },
                         {
-                            "distrito": "Puno"
+                            "distrito": "Puno",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Jatsa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Expreso El Altiplano",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "San Antonio"
@@ -13245,7 +13984,45 @@
                             "distrito": "Posic"
                         },
                         {
-                            "distrito": "Rioja"
+                            "distrito": "Rioja",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "GPP",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Leonardo Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "San Fernando"
@@ -13364,7 +14141,63 @@
                             "distrito": "Shapaja"
                         },
                         {
-                            "distrito": "Tarapoto"
+                            "distrito": "Tarapoto",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Guillermo",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Leonardo Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Shammha Cargo",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -13528,7 +14361,45 @@
                             "distrito": "Sama"
                         },
                         {
-                            "distrito": "Tacna"
+                            "distrito": "Tacna",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Jatsa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Grael",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -13660,7 +14531,63 @@
                             "distrito": "San Juan de la Virgen"
                         },
                         {
-                            "distrito": "Tumbes"
+                            "distrito": "Tumbes",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Flores",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Trans. Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Emtrafesa",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -13668,13 +14595,53 @@
                     "provincia": "Contralmirante Villar",
                     "distritos":[
                         {
-                            "distrito": "Canoas de Punta Sal"
+                            "distrito": "Canoas de Punta Sal",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Casitas"
                         },
                         {
-                            "distrito": "Zorritos"
+                            "distrito": "Zorritos",
+                            "agencias-recomendadas":[
+                                {
+                                    "agencia": "Trans. Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -13837,6 +14804,47 @@
                             "distrito": "Irázola"
                         },
                         {
+                            "distrito": "San Alejandro",
+                           "agencias-recomendadas":[
+                                {
+                                    "agencia": "Zurita Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Leonardo Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "distrito": "Neshuya",
                            "agencias-recomendadas":[
                                 {
@@ -13864,6 +14872,24 @@
                             "agencias-recomendadas":[
                                 {
                                     "agencia": "Cargo Alcimar",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Grupo Barza",
                                     "sedes":[
                                         {
                                             "sede": "La Victoria",

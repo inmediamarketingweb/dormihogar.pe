@@ -32,6 +32,7 @@ import ProyectosYAlianzas from "./Paginas/ProyectosYAlianzas/ProyectosYAlianzas"
 import PropiedadIntelectual from "./Paginas/Nosotros/Paginas/PropiedadIntelectual";
 import RazonesParaComprar from "./Paginas/Nosotros/Paginas/RazonesParaComprar";
 import MediosDePago from './Paginas/ServicioAlCliente/MediosDePago';
+import Manual from './Paginas/ServicioAlCliente/Manual/Manual'
 import GarantiaDeProductos from "./Paginas/ServicioAlCliente/GarantiaDeProductos/GarantiaDeProductos";
 import GarantiaColchones from "./Paginas/ServicioAlCliente/GarantiaDeProductos/Paginas/Colchones";
 import GarantiaTarimas from "./Paginas/ServicioAlCliente/GarantiaDeProductos/Paginas/Tarimas";
@@ -182,6 +183,7 @@ function App(){
                         <Route path="/servicio-al-cliente/garantia-de-productos/box-tarimas/" element={<GarantiaTarimas/>}/>
                         <Route path="/servicio-al-cliente/garantia-de-productos/cabeceras/" element={<GarantiaCabeceras/>}/>
 
+                        <Route path="/servicio-al-cliente/manual-de-instalacion/" element={<Manual/>}/>
                         
                         <Route path="/servicio-al-cliente/recomendaciones-de-uso/" element={<RecomendacionesDeUso/>}/>
                         <Route path="/servicio-al-cliente/recomendaciones-de-uso/colchones/" element={<RecomendacionesColchones/>}/>

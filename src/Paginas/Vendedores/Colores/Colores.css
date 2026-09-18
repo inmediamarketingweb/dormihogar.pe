@@ -1,419 +1,158 @@
-.page-colors{
-    width: 100%;
-    height: calc(100vh - 158px);
+.pg-colors-header{
+    background: var(--white) !important;
+    box-shadow: none !important;
+}
+
+.pg-colors-header .header-center{
+    justify-content: center !important;
+}
+
+.colors-page{
+    margin-top: 70px !important;
+}
+
+.colors-telas{
     display: grid;
-    grid-template-columns: 260px 1fr 320px;
-    grid-template-rows: 1fr auto;
+    grid-template-columns: 370px 1fr;
     gap: 10px;
-    margin-bottom: -40px !important;
-    padding: 10px;
 }
 
-.colors-cat ul{
+.colors-telas > div > ul{
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 100%;
+    gap: 5px;
 }
 
-.colors-cat ul li{
-    display: flex;
-    width: 100%;
-    height: 100%;
-}
-
-.colors-cat ul li button{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 0 10px;
-    width: 100%;
-    height: 100%;
-    transition: var(--t-200ms-linear);
-}
-
-.colors-cat ul li button:hover{
-    background: var(--component);
-}
-
-.colors-cat ul li button p,
-.colors-cat ul li button span{
-    color: var(--text);
-}
-
-.colors-image{
-    overflow: hidden;
-    grid-column: 2/3;
-    grid-row: 1/2;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    border-radius: 8px;
-
-    position: relative;
-}
-
-.colors-image img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.colors-image-info{
-    position: absolute;
-    left: 50%;
-    bottom: 20px;
-    translate: -50% 0;
-
-    background: var(--component);
-    padding: 10px;
-    border-radius: 4px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-
-    z-index: 1;
-}
-
-.colors-image-color{
-    display: inline-block;
-}
-
-.colors-image-color::first-letter{
-    text-transform: uppercase;
-}
-
-.colors-products-container{
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-}
-
-.colors-products{
-    width: 100%;
-}
-
-.colors-products ul{
-    display: flex;
-    flex-direction: column;
-    background: var(--component);
-    padding: 1px;
-    gap: 1px;
-    border-radius: 3px;
-    overflow: hidden;
-}
-
-.refresh-products-btn{
-    background: none;
-    border: none;
-    cursor: pointer;
-    padding: 8px;
-    border-radius: 50%;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.refresh-products-btn:hover{
-    background: var(--component);
-    transform: rotate(180deg);
-}
-
-.refresh-products-btn .material-symbols-outlined{
-    font-size: 24px;
-    color: var(--text);
-}
-
-.colors-products ul li{
+.colors-telas > div > ul > li{
     display: flex;
     width: 100%;
 }
 
-.colors-products ul li a{
-    width: 100%;
+.colors-telas > div > ul > li button{
     display: flex;
     align-items: center;
     justify-content: left;
+    width: 100%;
+    height: 44px;
     transition: var(--t-200ms-linear);
-    background: var(--body);
-    /* border-radius: 8px; */
-    overflow: hidden;
-}
-
-.colors-products ul li a:hover{
     background: var(--component);
-}
-
-.colors-products ul li a img{
-    object-fit: cover;
-    width: 80px;
-    height: auto;
-    aspect-ratio: 1/1;
-}
-
-.colors-products ul li a .product-name{
-    /* padding: 8px 10px; */
-    font-size: 13px;
-    /* font-weight: 500; */
-    color: var(--text);
-    /* text-align: center; */
-    /* margin: 0; */
-    /* line-height: 1.4; */
-}
-
-.colors-products ul li a:hover .product-name{
-    color: var(--color-1);
-}
-
-.no-products{
-    text-align: center;
-    color: var(--text);
-    padding: 20px;
-    font-size: 14px;
-}
-
-.colors-items{
-    width: 100%;
-    grid-column: 1/-1;
-    grid-row: 2/3;
-    display: grid;
-    grid-template-columns: auto 1fr auto;
-    align-items: center;
-    /* gap: 5px; */
-    /* padding: 5px 0; */
-}
-
-.color-items-results-container{
-    width: 100%;
-    overflow: hidden;
+    border-radius: 3px;
     position: relative;
 }
 
-.color-items-results{
-    display: flex;
-    gap: 10px;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    /* padding: 10px 5px; */
-    list-style: none;
-    margin: 0;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
+.colors-telas > div > ul > li button.active,
+.colors-telas > div > ul > li button:hover{
+    padding: 0 9px;
 }
 
-.color-items-results::-webkit-scrollbar{
-    display: none;
-}
-
-.color-items-results li{
-    flex: 0 0 auto;
-    width: 190px;
-    height: 90px;
-    display: flex;
-    overflow: hidden;
-    border-radius: 8px;
-    cursor: pointer;
-}
-
-.color-items-results li button{
-    width: 100%;
-    height: 100%;
-    padding: 0;
-    /* border: 2px solid transparent; */
-    border-radius: 8px;
-    background: transparent;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    display: flex;
-    overflow: hidden;
-}
-
-.color-items-results li button img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 6px;
-    display: block;
-}
-
-.colors-items-button{
-    /* background: var(--component); */
-    border: none;
-    /* border-radius: 50%; */
-    width: 40px;
+.colors-telas > div > ul > li button::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 3px;
     height: 100%;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    flex-shrink: 0;
+    background: var(--color-1);
+
+    opacity: 0;
 }
 
-.colors-items-button .material-symbols-outlined{
-    font-size: 24px;
+.colors-telas > div > ul > li button.active::before{
+    opacity: 1;
+}
+
+.colors-telas > div > ul > li button span{
+    font-size: 20px;
+    color: var(--color-1);
+}
+
+.colors-telas > div > ul > li button p{
     color: var(--text);
+    display: inline-block;
 }
 
-@media (max-width: 1024px){
-    .page-colors{
-        grid-template-columns: 200px 1fr 200px;
-        height: auto;
-        min-height: calc(100vh - 158px);
-    }
-    
-    .colors-products ul{
-        grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
-    }
-    
-    .colors-products ul li a img{
-        height: 120px;
-    }
-    
-    .color-items-results li{
-        width: 80px;
-        height: 72px;
-    }
+.colors-telas > div > ul > li button p::first-letter{
+    text-transform: uppercase;
 }
 
-@media (max-width: 768px){
-    .page-colors{
-        grid-template-columns: 1fr;
-        grid-template-rows: auto auto 1fr auto;
-        height: auto;
-        min-height: calc(100vh - 158px);
-        margin-bottom: 0 !important;
-    }
-    
-    .colors-cat{
-        grid-row: 1/2;
-        grid-column: 1/2;
-        max-height: 200px;
-        overflow-y: auto;
-    }
-    
-    .colors-cat ul{
-        flex-direction: row;
-        flex-wrap: wrap;
-        height: auto;
-        padding: 10px;
-        gap: 5px;
-    }
-    
-    .colors-cat ul li{
-        height: auto;
-        width: auto;
-    }
-    
-    .colors-cat ul li button{
-        padding: 8px 15px;
-        border-radius: 20px;
-        background: var(--component);
-        white-space: nowrap;
-        height: auto;
-    }
-    
-    .colors-cat ul li button span{
-        display: none;
-    }
-    
-    .colors-image{
-        grid-row: 2/3;
-        grid-column: 1/2;
-        height: 200px;
-    }
-    
-    .colors-products-container{
-        grid-row: 3/4;
-        grid-column: 1/2;
-    }
-    
-    .colors-products ul{
-        grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
-        padding: 5px;
-    }
-    
-    .colors-products ul li a img{
-        height: 100px;
-    }
-    
-    .colors-products ul li a .product-name{
-        font-size: 11px;
-        padding: 5px 8px;
-    }
-    
-    .colors-items{
-        grid-row: 4/5;
-        grid-column: 1/2;
-        padding: 5px 0;
-    }
-    
-    .color-items-results li{
-        width: 70px;
-        height: 63px;
-    }
-    
-    .colors-items-button{
-        width: 32px;
-        height: 32px;
-    }
-    
-    .colors-items-button .material-symbols-outlined{
-        font-size: 20px;
-    }
-}
-
-@media (max-width: 480px){
-    .colors-products ul{
-        grid-template-columns: repeat(3, 1fr);
-        gap: 5px;
-    }
-    
-    .colors-products ul li a img{
-        height: 80px;
-    }
-    
-    .colors-products ul li a .product-name{
-        font-size: 10px;
-        padding: 4px 5px;
-    }
-    
-    .color-items-results li{
-        width: 60px;
-        height: 54px;
-    }
-    
-    .color-items-results{
-        gap: 6px;
-        padding: 5px 3px;
-    }
-    
-    .colors-items-button{
-        width: 28px;
-        height: 28px;
-    }
-    
-    .colors-items-button .material-symbols-outlined{
-        font-size: 18px;
-    }
-}
-
-.color-items-results {
+.colors-results{
     display: flex;
+    flex-direction: column;
     gap: 10px;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    padding: 10px 5px;
-    list-style: none;
-    margin: 0;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    cursor: grab;
-    touch-action: none;
+}
+
+.colors-banner{
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+
+.colors-banner img{
+    width: 100%;
+    max-height: 360px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.colors-results > .colors-banner > div{
+    position: absolute;
+    left: 50%;
+    translate: -50% 0;
+    bottom: 10px;
+    background: #FFFFFF;
+    border: 1px solid var(--component);
+    box-shadow: 0 0 3px rgba(0 0 0 / 0.15);
+    padding: 6px 10px;
+    border-radius: 3px;
+    z-index: 1;
+}
+
+.colors-results > .colors-banner > div p{
+    display: inline-block;
+}
+
+.colors-results > .colors-banner > div p::first-letter{
+    text-transform: uppercase;
+}
+
+.colors-colors{
+    width: 100%;
+}
+
+.colors-colors ul{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
+.colors-colors ul li{
+    width: auto;
+    overflow: hidden;
+    border-radius: 4px;
+    position: relative;
+    display: flex;
+}
+
+.colors-colors ul li img{
+    width: 100%;
+    display: flex;
+    cursor: pointer !important;
+}
+
+.colors-colors ul li p{
+    position: absolute;
+    left: 6px;
+    bottom: 6px;
+    background: var(--color-1);
+    color: var(--white);
+    border-radius: 4px;
+    font-size: 13px;
+    padding: 3px 6px;
+    display: inline-block;
+}
+
+.colors-colors ul li p::first-letter{
+    text-transform: uppercase;
 }

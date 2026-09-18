@@ -78,6 +78,8 @@ function App(){
         <HelmetProvider>
             <Router>
                 <Routes>
+                    <Route path="/paleta-de-colores/" element={<Colores/>}/>
+
                     <Route element={<Layout/>}>
                         <Route path="/" element={<PaginaPrincipal/>} />
 
@@ -141,12 +143,6 @@ function App(){
                         <Route path="/productos/sofas/:sub1/:sub2/" element={<Sofas />} />
                         <Route path="/productos/sofas/:sub1/" element={<Sofas />} />
 
-                        {/* ============================================ */}
-                        {/* RUTAS DE COMPLEMENTOS - REORDENADAS Y CORREGIDAS */}
-                        {/* ============================================ */}
-
-                        {/* 1. RUTAS ESPECÍFICAS PARA PRODUCTOS (Página de producto individual) */}
-                        {/* Estas rutas deben coincidir con URLs específicas de productos */}
                         <Route path="/productos/complementos/baules/clasicas/:id/" element={<PaginaProducto />} />
                         <Route path="/productos/complementos/baules/:tipo/:id/" element={<PaginaProducto />} />
                         
@@ -175,7 +171,6 @@ function App(){
                         <Route path="/envios/envios-a-lima-y-callao/" element={<EnviosALimaYCallao/>}/>
                         <Route path="/envios/envios-a-provincia/" element={<EnviosAProvincia/>}/>
 
-                        <Route path="/paleta-de-colores/" element={<Colores/>}/>
                         <Route path="/servicio-al-cliente/medios-de-pago/" element={<MediosDePago/>}/>
                         <Route path="/servicio-al-cliente/costos-de-envio-por-zona/" element={<CostosDeEnvioPorZonas/>}/>
                         <Route path="/servicio-al-cliente/garantia-de-productos/" element={<GarantiaDeProductos/>}/>

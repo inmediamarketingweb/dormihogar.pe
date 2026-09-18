@@ -3,8 +3,7 @@
         {
             "id": 1,
             "categoria": "sofas",
-            "subcategoría": "mecedoras",
-            "marca": "kamas",
+            "subcategoria": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/kamas/1/",
             "nombre": "MECEDORA CAPITONEADA - BEIGE",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/1/",
@@ -12,12 +11,11 @@
             "precioNormal": 799,
             "precioVenta": 599,
             "stock": 9,
-            "sku": "K6621N10",
+            "sku": "H6621N10",
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "subcategorías": "mecedoras",
-                    "marca": "kamas",
+                    "modelo": "Mecedoras",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
                 }
@@ -26,8 +24,7 @@
         {
             "id": 2,
             "categoria": "sofas",
-            "subcategoría": "mecedoras",
-            "marca": "kamas",
+            "subcategoria": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/kamas/2/",
             "nombre": "MECEDORA CAPITONEADA - CELESTE",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/2/",
@@ -35,12 +32,11 @@
             "precioNormal": 799,
             "precioVenta": 599,
             "stock": 9,
-            "sku": "K6621N11",
+            "sku": "H6621N11",
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "subcategorías": "mecedoras",
-                    "marca": "kamas",
+                    "modelo": "Mecedoras",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
                 }
@@ -49,8 +45,7 @@
         {
             "id": 3,
             "categoria": "sofas",
-            "subcategoría": "mecedoras",
-            "marca": "kamas",
+            "subcategoria": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/kamas/3/",
             "nombre": "MECEDORA CAPITONEADA - VERDE LORO",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/3/",
@@ -58,14 +53,93 @@
             "precioNormal": 799,
             "precioVenta": 599,
             "stock": 9,
-            "sku": "K6621N12",
+            "sku": "H6621N12",
             "tipo-de-envio": "Envío preferente",
             "detalles-del-producto":[
                 {
-                    "subcategorías": "mecedoras",
-                    "marca": "kamas",
+                    "modelo": "Mecedoras",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "sofas",
+            "subcategoria": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/kamas/4/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/4/",
+            "precioRegular": 1299,
+            "precioNormal": 899,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "H6621N13",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "sofas",
+            "subcategoria": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/kamas/5/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/5/",
+            "precioRegular": 1499,
+            "precioNormal": 999,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "H6621N14",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "sofas",
+            "subcategoria": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/kamas/6/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/6/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H6621N15",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "sofas",
+            "subcategoria": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/kamas/7/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/7/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H6621N16",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
                 }
             ]
         }
